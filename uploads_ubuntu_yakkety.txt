@@ -1,0 +1,1 @@
+lxqt-session 0.10.0-4ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/0.10.0-4ubuntu1
