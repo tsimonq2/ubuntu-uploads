@@ -1,0 +1,1 @@
+light-locker-settings 1.5.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/light-locker-settings/1.5.0-0ubuntu1.1
