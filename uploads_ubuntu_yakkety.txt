@@ -1,2 +1,3 @@
 lxqt-session 0.10.0-4ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/0.10.0-4ubuntu1
 hardinfo 0.5.1-1.4ubuntu2 https://launchpad.net/ubuntu/+source/hardinfo/0.5.1-1.4ubuntu2
+ark 4:16.04.3a-0ubuntu2.1 https://launchpad.net/ubuntu/+source/ark/4:16.04.3a-0ubuntu2.1
