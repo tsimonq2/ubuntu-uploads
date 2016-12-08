@@ -1,3 +1,4 @@
 ark 4:16.04.3a-0ubuntu3 https://launchpad.net/ubuntu/+source/ark/4:16.04.3a-0ubuntu3
 healpix-cxx 3.30.0-4ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.30.0-4ubuntu1
 msrtool 1:20141027-1.1ubuntu1 https://launchpad.net/ubuntu/+source/msrtool/1:20141027-1.1ubuntu1
+freehdl 0.0.8-2.2ubuntu1 https://launchpad.net/ubuntu/+source/freehdl/0.0.8-2.2ubuntu1
