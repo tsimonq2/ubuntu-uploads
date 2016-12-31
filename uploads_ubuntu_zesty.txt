@@ -4,3 +4,4 @@ msrtool 1:20141027-1.1ubuntu1 https://launchpad.net/ubuntu/+source/msrtool/1:201
 freehdl 0.0.8-2.2ubuntu1 https://launchpad.net/ubuntu/+source/freehdl/0.0.8-2.2ubuntu1
 freehdl 0.0.8-2.2ubuntu2 https://launchpad.net/ubuntu/+source/freehdl/0.0.8-2.2ubuntu2
 repo 1.12.37-1ubuntu1 https://launchpad.net/ubuntu/+source/repo/1.12.37-1ubuntu1
+plasma-integration 5.8.5-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-integration/5.8.5-0ubuntu2
