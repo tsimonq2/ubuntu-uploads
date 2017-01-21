@@ -5,3 +5,4 @@ freehdl 0.0.8-2.2ubuntu1 https://launchpad.net/ubuntu/+source/freehdl/0.0.8-2.2u
 freehdl 0.0.8-2.2ubuntu2 https://launchpad.net/ubuntu/+source/freehdl/0.0.8-2.2ubuntu2
 repo 1.12.37-1ubuntu1 https://launchpad.net/ubuntu/+source/repo/1.12.37-1ubuntu1
 plasma-integration 5.8.5-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-integration/5.8.5-0ubuntu2
+lxpanel 0.9.3-1ubuntu1 https://launchpad.net/ubuntu/+source/lxpanel/0.9.3-1ubuntu1
