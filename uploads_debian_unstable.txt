@@ -1,0 +1,1 @@
+qtcharts-opensource-src 5.7.1-1 https://launchpad.net/debian/+source/qtcharts-opensource-src/5.7.1-1
