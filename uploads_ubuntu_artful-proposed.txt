@@ -1,1 +1,2 @@
 vlc 2.2.5-3 https://launchpad.net/ubuntu/+source/vlc/2.2.5-3
+vlc 2.2.5-1 https://launchpad.net/ubuntu/+source/vlc/2.2.5-1
