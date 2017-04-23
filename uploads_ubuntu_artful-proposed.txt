@@ -1,3 +1,4 @@
 vlc 2.2.5-3 https://launchpad.net/ubuntu/+source/vlc/2.2.5-3
 vlc 2.2.5-1 https://launchpad.net/ubuntu/+source/vlc/2.2.5-1
 breathe 4.6.0-1 https://launchpad.net/ubuntu/+source/breathe/4.6.0-1
+python-qtawesome 0.4.4+ds1-1 https://launchpad.net/ubuntu/+source/python-qtawesome/0.4.4+ds1-1
