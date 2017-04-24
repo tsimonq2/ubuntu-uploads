@@ -1,0 +1,1 @@
+healpix-cxx 3.30.0-6ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.30.0-6ubuntu1
