@@ -2,3 +2,4 @@ qtwebsockets-opensource-src 5.7.0-1 https://launchpad.net/debian/+source/qtwebso
 qtspeech-opensource-src 5.8.0~alpha-1 https://launchpad.net/debian/+source/qtspeech-opensource-src/5.8.0~alpha-1
 qtxmlpatterns-opensource-src 5.9.0~beta-1 https://launchpad.net/debian/+source/qtxmlpatterns-opensource-src/5.9.0~beta-1
 qtmultimedia-opensource-src 5.9.0~rc-1 https://launchpad.net/debian/+source/qtmultimedia-opensource-src/5.9.0~rc-1
+qtbase-opensource-src 5.9.0+dfsg-1 https://launchpad.net/debian/+source/qtbase-opensource-src/5.9.0+dfsg-1
