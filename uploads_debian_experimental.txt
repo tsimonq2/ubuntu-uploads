@@ -5,3 +5,4 @@ qtmultimedia-opensource-src 5.9.0~rc-1 https://launchpad.net/debian/+source/qtmu
 qtbase-opensource-src 5.9.0+dfsg-1 https://launchpad.net/debian/+source/qtbase-opensource-src/5.9.0+dfsg-1
 qtwebkit-opensource-src 5.9.0+dfsg-1 https://launchpad.net/debian/+source/qtwebkit-opensource-src/5.9.0+dfsg-1
 qtcharts-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtcharts-opensource-src/5.9.0-1
+qttools-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qttools-opensource-src/5.9.0-1
