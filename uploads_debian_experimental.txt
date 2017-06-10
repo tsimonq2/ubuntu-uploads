@@ -9,3 +9,4 @@ qttools-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qttools-open
 qtxmlpatterns-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtxmlpatterns-opensource-src/5.9.0-1
 qtwebsockets-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtwebsockets-opensource-src/5.9.0-1
 qtconnectivity-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtconnectivity-opensource-src/5.9.0-1
+qtsensors-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtsensors-opensource-src/5.9.0-1
