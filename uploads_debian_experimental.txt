@@ -11,3 +11,4 @@ qtwebsockets-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtwebso
 qtconnectivity-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtconnectivity-opensource-src/5.9.0-1
 qtsensors-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtsensors-opensource-src/5.9.0-1
 qtspeech-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtspeech-opensource-src/5.9.0-1
+qtwebchannel-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtwebchannel-opensource-src/5.9.0-1
