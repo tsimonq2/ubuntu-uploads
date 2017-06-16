@@ -18,3 +18,4 @@ qtmultimedia-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtmulti
 qtimageformats-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtimageformats-opensource-src/5.9.0-1
 qtlocation-opensource-src 5.9.0+dfsg-1 https://launchpad.net/debian/+source/qtlocation-opensource-src/5.9.0+dfsg-1
 qtquickcontrols2-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtquickcontrols2-opensource-src/5.9.0-1
+qtx11extras-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtx11extras-opensource-src/5.9.0-1
