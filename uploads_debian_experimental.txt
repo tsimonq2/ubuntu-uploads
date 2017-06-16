@@ -15,3 +15,4 @@ qtwebchannel-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtwebch
 qttranslations-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qttranslations-opensource-src/5.9.0-1
 qtwebkit-examples-opensource-src 5.9.0+dfsg-1 https://launchpad.net/debian/+source/qtwebkit-examples-opensource-src/5.9.0+dfsg-1
 qtmultimedia-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtmultimedia-opensource-src/5.9.0-1
+qtimageformats-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtimageformats-opensource-src/5.9.0-1
