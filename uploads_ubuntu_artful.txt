@@ -2,3 +2,4 @@ healpix-cxx 3.30.0-6ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.3
 sddm 0.14.0-4ubuntu1 https://launchpad.net/ubuntu/+source/sddm/0.14.0-4ubuntu1
 lxqt-l10n 0.11.2-1ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.11.2-1ubuntu1
 libre 0.5.3-2ubuntu1 https://launchpad.net/ubuntu/+source/libre/0.5.3-2ubuntu1
+ubuntu-core-upgrader 0.7.14 https://launchpad.net/ubuntu/+source/ubuntu-core-upgrader/0.7.14
