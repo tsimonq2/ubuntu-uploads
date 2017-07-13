@@ -7,3 +7,4 @@ afterstep 2.2.12-10ubuntu1 https://launchpad.net/ubuntu/+source/afterstep/2.2.12
 vlc 2.2.6-2ubuntu1 https://launchpad.net/ubuntu/+source/vlc/2.2.6-2ubuntu1
 civicrm 4.7.20+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/4.7.20+dfsg-1ubuntu1
 eccodes 2.4.0-2ubuntu1 https://launchpad.net/ubuntu/+source/eccodes/2.4.0-2ubuntu1
+icon 9.4.3-6ubuntu1 https://launchpad.net/ubuntu/+source/icon/9.4.3-6ubuntu1
