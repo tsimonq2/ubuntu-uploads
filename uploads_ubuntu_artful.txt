@@ -6,3 +6,4 @@ ubuntu-core-upgrader 0.7.14 https://launchpad.net/ubuntu/+source/ubuntu-core-upg
 afterstep 2.2.12-10ubuntu1 https://launchpad.net/ubuntu/+source/afterstep/2.2.12-10ubuntu1
 vlc 2.2.6-2ubuntu1 https://launchpad.net/ubuntu/+source/vlc/2.2.6-2ubuntu1
 civicrm 4.7.20+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/4.7.20+dfsg-1ubuntu1
+eccodes 2.4.0-2ubuntu1 https://launchpad.net/ubuntu/+source/eccodes/2.4.0-2ubuntu1
