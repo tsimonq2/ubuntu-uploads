@@ -10,3 +10,4 @@ eccodes 2.4.0-2ubuntu1 https://launchpad.net/ubuntu/+source/eccodes/2.4.0-2ubunt
 icon 9.4.3-6ubuntu1 https://launchpad.net/ubuntu/+source/icon/9.4.3-6ubuntu1
 lasi 1.1.0-2ubuntu1 https://launchpad.net/ubuntu/+source/lasi/1.1.0-2ubuntu1
 openmama 2.2.2.1-11.1ubuntu1 https://launchpad.net/ubuntu/+source/openmama/2.2.2.1-11.1ubuntu1
+cg3 1.0.0~r12254-1ubuntu1 https://launchpad.net/ubuntu/+source/cg3/1.0.0~r12254-1ubuntu1
