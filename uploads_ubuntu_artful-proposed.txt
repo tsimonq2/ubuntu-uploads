@@ -13,3 +13,4 @@ dfwinreg 20170706-1 https://launchpad.net/ubuntu/+source/dfwinreg/20170706-1
 vlc 2.2.6-3 https://launchpad.net/ubuntu/+source/vlc/2.2.6-3
 relatorio 0.6.4-2 https://launchpad.net/ubuntu/+source/relatorio/0.6.4-2
 grib-api 1.19.0-2 https://launchpad.net/ubuntu/+source/grib-api/1.19.0-2
+billiard 3.5.0.2-1 https://launchpad.net/ubuntu/+source/billiard/3.5.0.2-1
