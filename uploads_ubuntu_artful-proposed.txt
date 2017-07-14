@@ -12,3 +12,4 @@ mypy 0.511-2 https://launchpad.net/ubuntu/+source/mypy/0.511-2
 dfwinreg 20170706-1 https://launchpad.net/ubuntu/+source/dfwinreg/20170706-1
 vlc 2.2.6-3 https://launchpad.net/ubuntu/+source/vlc/2.2.6-3
 relatorio 0.6.4-2 https://launchpad.net/ubuntu/+source/relatorio/0.6.4-2
+grib-api 1.19.0-2 https://launchpad.net/ubuntu/+source/grib-api/1.19.0-2
