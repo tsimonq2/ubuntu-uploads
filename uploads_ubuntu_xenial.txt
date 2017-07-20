@@ -1,1 +1,2 @@
 light-locker-settings 1.5.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/light-locker-settings/1.5.0-0ubuntu1.1
+gtk+2.0 2.24.30-1ubuntu1.16.04.2 https://launchpad.net/ubuntu/+source/gtk+2.0/2.24.30-1ubuntu1.16.04.2
