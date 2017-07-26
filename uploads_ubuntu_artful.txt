@@ -22,3 +22,4 @@ hime 0.9.10+git20170427+dfsg1-1build1 https://launchpad.net/ubuntu/+source/hime/
 skrooge 2.8.1-1build2 https://launchpad.net/ubuntu/+source/skrooge/2.8.1-1build2
 smplayer 17.7.0~ds0-1build1 https://launchpad.net/ubuntu/+source/smplayer/17.7.0~ds0-1build1
 uim 1:1.8.6+gh20161003.0.d63dadd-2.1ubuntu1 https://launchpad.net/ubuntu/+source/uim/1:1.8.6+gh20161003.0.d63dadd-2.1ubuntu1
+pkg-kde-tools 0.15.24ubuntu3 https://launchpad.net/ubuntu/+source/pkg-kde-tools/0.15.24ubuntu3
