@@ -17,3 +17,4 @@ gtk+2.0 2.24.31-1ubuntu2 https://launchpad.net/ubuntu/+source/gtk+2.0/2.24.31-1u
 nodejs 4.8.4~dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/nodejs/4.8.4~dfsg-1ubuntu1
 civicrm 4.7.22+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/4.7.22+dfsg-1ubuntu1
 calibre 3.4.0+dfsg-1build1 https://launchpad.net/ubuntu/+source/calibre/3.4.0+dfsg-1build1
+gcin 2.8.5+dfsg1-3build1 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-3build1
