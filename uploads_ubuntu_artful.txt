@@ -19,3 +19,4 @@ civicrm 4.7.22+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/4.7.22
 calibre 3.4.0+dfsg-1build1 https://launchpad.net/ubuntu/+source/calibre/3.4.0+dfsg-1build1
 gcin 2.8.5+dfsg1-3build1 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-3build1
 hime 0.9.10+git20170427+dfsg1-1build1 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-1build1
+skrooge 2.8.1-1build2 https://launchpad.net/ubuntu/+source/skrooge/2.8.1-1build2
