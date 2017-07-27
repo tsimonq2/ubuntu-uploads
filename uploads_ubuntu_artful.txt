@@ -26,3 +26,4 @@ pkg-kde-tools 0.15.24ubuntu3 https://launchpad.net/ubuntu/+source/pkg-kde-tools/
 msttcorefonts 3.6ubuntu1 https://launchpad.net/ubuntu/+source/msttcorefonts/3.6ubuntu1
 lxqt-l10n 0.11.2-2ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.11.2-2ubuntu1
 lubuntu-meta 0.80 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.80
+gcompris 15.10-1ubuntu1 https://launchpad.net/ubuntu/+source/gcompris/15.10-1ubuntu1
