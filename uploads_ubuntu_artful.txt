@@ -25,3 +25,4 @@ uim 1:1.8.6+gh20161003.0.d63dadd-2.1ubuntu1 https://launchpad.net/ubuntu/+source
 pkg-kde-tools 0.15.24ubuntu3 https://launchpad.net/ubuntu/+source/pkg-kde-tools/0.15.24ubuntu3
 msttcorefonts 3.6ubuntu1 https://launchpad.net/ubuntu/+source/msttcorefonts/3.6ubuntu1
 lxqt-l10n 0.11.2-2ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.11.2-2ubuntu1
+lubuntu-meta 0.80 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.80
