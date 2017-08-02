@@ -22,3 +22,4 @@ qtx11extras-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtx11ext
 qtgraphicaleffects-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtgraphicaleffects-opensource-src/5.9.0-1
 qtscript-opensource-src 5.9.0+dfsg-1 https://launchpad.net/debian/+source/qtscript-opensource-src/5.9.0+dfsg-1
 qtdeclarative-opensource-src 5.9.0-1 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.9.0-1
+qtdeclarative-opensource-src 5.9.1-4 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.9.1-4
