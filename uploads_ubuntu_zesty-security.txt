@@ -1,1 +1,2 @@
 vlc 2.2.4-14ubuntu2.1 https://launchpad.net/ubuntu/+source/vlc/2.2.4-14ubuntu2.1
+pcmanfm 1.2.5-2ubuntu0.1 https://launchpad.net/ubuntu/+source/pcmanfm/1.2.5-2ubuntu0.1
