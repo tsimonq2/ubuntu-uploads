@@ -33,3 +33,4 @@ ruby-httpclient 2.7.1-1.1ubuntu1 https://launchpad.net/ubuntu/+source/ruby-httpc
 qtvirtualkeyboard-opensource-src 5.9.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.1+dfsg-1ubuntu1
 telegram-desktop 1.1.19-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.1.19-1build1
 gammaray 2.7.0-1ubuntu1 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu1
+sidplay-libs 2.1.1-15ubuntu1 https://launchpad.net/ubuntu/+source/sidplay-libs/2.1.1-15ubuntu1
