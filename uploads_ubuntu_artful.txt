@@ -32,3 +32,4 @@ isdnutils 1:3.25+dfsg1-8ubuntu1 https://launchpad.net/ubuntu/+source/isdnutils/1
 ruby-httpclient 2.7.1-1.1ubuntu1 https://launchpad.net/ubuntu/+source/ruby-httpclient/2.7.1-1.1ubuntu1
 qtvirtualkeyboard-opensource-src 5.9.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.1+dfsg-1ubuntu1
 telegram-desktop 1.1.19-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.1.19-1build1
+gammaray 2.7.0-1ubuntu1 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu1
