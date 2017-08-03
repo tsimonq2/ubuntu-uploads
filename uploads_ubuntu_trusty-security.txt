@@ -1,1 +1,2 @@
 vlc 2.1.6-0ubuntu14.04.3 https://launchpad.net/ubuntu/+source/vlc/2.1.6-0ubuntu14.04.3
+pcmanfm 1.2.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/pcmanfm/1.2.0-1ubuntu0.1
