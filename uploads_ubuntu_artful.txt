@@ -34,3 +34,4 @@ qtvirtualkeyboard-opensource-src 5.9.1+dfsg-1ubuntu1 https://launchpad.net/ubunt
 telegram-desktop 1.1.19-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.1.19-1build1
 gammaray 2.7.0-1ubuntu1 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu1
 sidplay-libs 2.1.1-15ubuntu1 https://launchpad.net/ubuntu/+source/sidplay-libs/2.1.1-15ubuntu1
+indicator-sound-gtk2 12.10.0.1-0ubuntu6 https://launchpad.net/ubuntu/+source/indicator-sound-gtk2/12.10.0.1-0ubuntu6
