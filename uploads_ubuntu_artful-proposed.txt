@@ -21,3 +21,4 @@ gwc 0.22-2 https://launchpad.net/ubuntu/+source/gwc/0.22-2
 dctrl2xml 0.19 https://launchpad.net/ubuntu/+source/dctrl2xml/0.19
 git-cola 2.11-2 https://launchpad.net/ubuntu/+source/git-cola/2.11-2
 ruby-httpclient 2.7.1-1.1 https://launchpad.net/ubuntu/+source/ruby-httpclient/2.7.1-1.1
+debconf-kde 1.0.2-1 https://launchpad.net/ubuntu/+source/debconf-kde/1.0.2-1
