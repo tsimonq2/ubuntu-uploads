@@ -37,3 +37,4 @@ sidplay-libs 2.1.1-15ubuntu1 https://launchpad.net/ubuntu/+source/sidplay-libs/2
 indicator-sound-gtk2 12.10.0.1-0ubuntu6 https://launchpad.net/ubuntu/+source/indicator-sound-gtk2/12.10.0.1-0ubuntu6
 ben 0.7.7ubuntu1 https://launchpad.net/ubuntu/+source/ben/0.7.7ubuntu1
 ruby-httpclient 2.8.3-1ubuntu1 https://launchpad.net/ubuntu/+source/ruby-httpclient/2.8.3-1ubuntu1
+qtcurve 1.8.18+git20160320-3d8622c-5build1 https://launchpad.net/ubuntu/+source/qtcurve/1.8.18+git20160320-3d8622c-5build1
