@@ -39,3 +39,4 @@ ben 0.7.7ubuntu1 https://launchpad.net/ubuntu/+source/ben/0.7.7ubuntu1
 ruby-httpclient 2.8.3-1ubuntu1 https://launchpad.net/ubuntu/+source/ruby-httpclient/2.8.3-1ubuntu1
 qtcurve 1.8.18+git20160320-3d8622c-5build1 https://launchpad.net/ubuntu/+source/qtcurve/1.8.18+git20160320-3d8622c-5build1
 qtdeclarative-opensource-src 5.9.1-4ubuntu1 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.9.1-4ubuntu1
+musescore 2.1.0+dfsg1-0.1build1 https://launchpad.net/ubuntu/+source/musescore/2.1.0+dfsg1-0.1build1
