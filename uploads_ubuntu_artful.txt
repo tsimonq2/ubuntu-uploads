@@ -45,3 +45,4 @@ gthumb 3:3.5.1-3ubuntu1 https://launchpad.net/ubuntu/+source/gthumb/3:3.5.1-3ubu
 videocut 0.2.0-17ubuntu1 https://launchpad.net/ubuntu/+source/videocut/0.2.0-17ubuntu1
 debhelper 10.7.2ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/10.7.2ubuntu1
 debhelper 10.7.2ubuntu2 https://launchpad.net/ubuntu/+source/debhelper/10.7.2ubuntu2
+libindi 1.2.0-2~ubuntu6 https://launchpad.net/ubuntu/+source/libindi/1.2.0-2~ubuntu6
