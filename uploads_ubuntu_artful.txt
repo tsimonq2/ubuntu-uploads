@@ -42,3 +42,4 @@ qtdeclarative-opensource-src 5.9.1-4ubuntu1 https://launchpad.net/ubuntu/+source
 musescore 2.1.0+dfsg1-0.1build1 https://launchpad.net/ubuntu/+source/musescore/2.1.0+dfsg1-0.1build1
 qtbase-opensource-src 5.9.1+dfsg-5ubuntu2 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.1+dfsg-5ubuntu2
 gthumb 3:3.5.1-3ubuntu1 https://launchpad.net/ubuntu/+source/gthumb/3:3.5.1-3ubuntu1
+videocut 0.2.0-17ubuntu1 https://launchpad.net/ubuntu/+source/videocut/0.2.0-17ubuntu1
