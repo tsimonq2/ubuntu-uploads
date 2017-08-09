@@ -45,3 +45,4 @@ qtwebengine-opensource-src 5.9.1+dfsg-2 https://launchpad.net/ubuntu/+source/qtw
 qtwebkit-examples-opensource-src 5.9.0+dfsg-1 https://launchpad.net/ubuntu/+source/qtwebkit-examples-opensource-src/5.9.0+dfsg-1
 qtwebkit-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.9.1+dfsg-1
 qtwebsockets-opensource-src 5.9.1-2 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.1-2
+qtx11extras-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.9.1-1
