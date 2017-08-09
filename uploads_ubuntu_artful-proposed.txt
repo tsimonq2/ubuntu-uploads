@@ -34,3 +34,4 @@ qtlocation-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtlo
 qtquickcontrols-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.1-1
 qtquickcontrols2-opensource-src 5.9.1-2 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.1-2
 qtscript-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.1+dfsg-1
+qtsensors-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.1-1
