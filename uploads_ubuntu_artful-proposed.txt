@@ -46,3 +46,4 @@ qtwebkit-examples-opensource-src 5.9.0+dfsg-1 https://launchpad.net/ubuntu/+sour
 qtwebkit-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.9.1+dfsg-1
 qtwebsockets-opensource-src 5.9.1-2 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.1-2
 qtx11extras-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.9.1-1
+qtxmlpatterns-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.1-1
