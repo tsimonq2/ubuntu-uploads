@@ -48,3 +48,4 @@ debhelper 10.7.2ubuntu2 https://launchpad.net/ubuntu/+source/debhelper/10.7.2ubu
 libindi 1.2.0-2~ubuntu6 https://launchpad.net/ubuntu/+source/libindi/1.2.0-2~ubuntu6
 akonadi 4:16.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/akonadi/4:16.12.3-0ubuntu2
 maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu15 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu15
+pyqt5 5.7+dfsg-5ubuntu1 https://launchpad.net/ubuntu/+source/pyqt5/5.7+dfsg-5ubuntu1
