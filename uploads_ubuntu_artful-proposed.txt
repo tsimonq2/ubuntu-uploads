@@ -36,3 +36,4 @@ qtquickcontrols2-opensource-src 5.9.1-2 https://launchpad.net/ubuntu/+source/qtq
 qtscript-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.1+dfsg-1
 qtsensors-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.1-1
 qtserialport-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.1-1
+qtspeech-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.9.1-1
