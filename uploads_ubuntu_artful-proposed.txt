@@ -25,3 +25,4 @@ debconf-kde 1.0.2-1 https://launchpad.net/ubuntu/+source/debconf-kde/1.0.2-1
 pxp 1.2.9-1 https://launchpad.net/ubuntu/+source/pxp/1.2.9-1
 behave 1.2.5-2 https://launchpad.net/ubuntu/+source/behave/1.2.5-2
 lxqt-session 0.11.1-5 https://launchpad.net/ubuntu/+source/lxqt-session/0.11.1-5
+qt3d-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.1+dfsg-1
