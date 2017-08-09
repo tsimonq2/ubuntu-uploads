@@ -31,3 +31,4 @@ qtconnectivity-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtcon
 qtdoc-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtdoc-opensource-src/5.9.1-1
 qtgraphicaleffects-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.9.1-1
 qtlocation-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.1+dfsg-1
+qtquickcontrols-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.1-1
