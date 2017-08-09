@@ -38,3 +38,4 @@ qtsensors-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtsensors-
 qtserialport-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.1-1
 qtspeech-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.9.1-1
 qtsvg-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.9.1-1
+qttools-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.1-1
