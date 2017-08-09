@@ -33,3 +33,4 @@ qtgraphicaleffects-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/q
 qtlocation-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.1+dfsg-1
 qtquickcontrols-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.1-1
 qtquickcontrols2-opensource-src 5.9.1-2 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.1-2
+qtscript-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.1+dfsg-1
