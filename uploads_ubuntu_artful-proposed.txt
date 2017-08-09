@@ -28,3 +28,4 @@ lxqt-session 0.11.1-5 https://launchpad.net/ubuntu/+source/lxqt-session/0.11.1-5
 qt3d-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.1+dfsg-1
 qtcharts-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtcharts-opensource-src/5.9.1-1
 qtconnectivity-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.9.1-1
+qtdoc-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtdoc-opensource-src/5.9.1-1
