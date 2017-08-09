@@ -46,3 +46,4 @@ videocut 0.2.0-17ubuntu1 https://launchpad.net/ubuntu/+source/videocut/0.2.0-17u
 debhelper 10.7.2ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/10.7.2ubuntu1
 debhelper 10.7.2ubuntu2 https://launchpad.net/ubuntu/+source/debhelper/10.7.2ubuntu2
 libindi 1.2.0-2~ubuntu6 https://launchpad.net/ubuntu/+source/libindi/1.2.0-2~ubuntu6
+akonadi 4:16.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/akonadi/4:16.12.3-0ubuntu2
