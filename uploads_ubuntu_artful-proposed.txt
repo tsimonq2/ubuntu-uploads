@@ -43,3 +43,4 @@ qttranslations-opensource-src 5.9.0-1 https://launchpad.net/ubuntu/+source/qttra
 qtwayland-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.1-1
 qtwebengine-opensource-src 5.9.1+dfsg-2 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.1+dfsg-2
 qtwebkit-examples-opensource-src 5.9.0+dfsg-1 https://launchpad.net/ubuntu/+source/qtwebkit-examples-opensource-src/5.9.0+dfsg-1
+qtwebkit-opensource-src 5.9.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.9.1+dfsg-1
