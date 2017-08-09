@@ -41,3 +41,4 @@ qtsvg-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtsvg-opensour
 qttools-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.1-1
 qttranslations-opensource-src 5.9.0-1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.0-1
 qtwayland-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.1-1
+qtwebengine-opensource-src 5.9.1+dfsg-2 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.1+dfsg-2
