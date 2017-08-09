@@ -40,3 +40,4 @@ qtspeech-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtspeech-op
 qtsvg-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.9.1-1
 qttools-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.1-1
 qttranslations-opensource-src 5.9.0-1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.0-1
+qtwayland-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.1-1
