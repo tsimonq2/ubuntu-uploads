@@ -48,3 +48,4 @@ qtwebsockets-opensource-src 5.9.1-2 https://launchpad.net/ubuntu/+source/qtwebso
 qtx11extras-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.9.1-1
 qtxmlpatterns-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.1-1
 qtimageformats-opensource-src 5.9.0-1 https://launchpad.net/ubuntu/+source/qtimageformats-opensource-src/5.9.0-1
+openbox 3.6.1-4.1 https://launchpad.net/ubuntu/+source/openbox/3.6.1-4.1
