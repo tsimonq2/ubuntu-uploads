@@ -51,3 +51,4 @@ maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu15 https://launchpad.net/ubun
 pyqt5 5.7+dfsg-5ubuntu1 https://launchpad.net/ubuntu/+source/pyqt5/5.7+dfsg-5ubuntu1
 qtmultimedia-opensource-src 5.9.1-1ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.1-1ubuntu1
 qtwebengine-opensource-src 5.9.1+dfsg-2ubuntu1 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.1+dfsg-2ubuntu1
+yelp-tools 3.18.0-3ubuntu1 https://launchpad.net/ubuntu/+source/yelp-tools/3.18.0-3ubuntu1
