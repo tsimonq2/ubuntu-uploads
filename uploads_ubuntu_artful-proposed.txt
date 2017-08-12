@@ -49,3 +49,4 @@ qtx11extras-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtx11ext
 qtxmlpatterns-opensource-src 5.9.1-1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.1-1
 qtimageformats-opensource-src 5.9.0-1 https://launchpad.net/ubuntu/+source/qtimageformats-opensource-src/5.9.0-1
 openbox 3.6.1-4.1 https://launchpad.net/ubuntu/+source/openbox/3.6.1-4.1
+libncursesada 6.0.20170708-2 https://launchpad.net/ubuntu/+source/libncursesada/6.0.20170708-2
