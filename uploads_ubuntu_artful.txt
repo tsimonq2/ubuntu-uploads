@@ -58,3 +58,4 @@ xcb-util-cursor 0.1.1-4ubuntu1 https://launchpad.net/ubuntu/+source/xcb-util-cur
 fbi 2.10-2ubuntu1 https://launchpad.net/ubuntu/+source/fbi/2.10-2ubuntu1
 kf5-messagelib 4:16.12.3-0ubuntu3 https://launchpad.net/ubuntu/+source/kf5-messagelib/4:16.12.3-0ubuntu3
 libindi 1.2.0-3ubuntu1 https://launchpad.net/ubuntu/+source/libindi/1.2.0-3ubuntu1
+kmail 4:16.12.3-0ubuntu3 https://launchpad.net/ubuntu/+source/kmail/4:16.12.3-0ubuntu3
