@@ -63,3 +63,4 @@ shiki-colors-murrine 4.6-2ubuntu1 https://launchpad.net/ubuntu/+source/shiki-col
 hardinfo 0.5.1+git20170815-1~build1 https://launchpad.net/ubuntu/+source/hardinfo/0.5.1+git20170815-1~build1
 nodejs 6.11.2~dfsg-2ubuntu1 https://launchpad.net/ubuntu/+source/nodejs/6.11.2~dfsg-2ubuntu1
 ovito 2.9.0+dfsg1-2ubuntu1 https://launchpad.net/ubuntu/+source/ovito/2.9.0+dfsg1-2ubuntu1
+kwayland-integration 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kwayland-integration/4:5.10.5-0ubuntu1
