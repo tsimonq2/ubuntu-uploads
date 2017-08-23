@@ -68,3 +68,4 @@ kmenuedit 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kmenuedit/4:5.1
 sddm-kcm 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/sddm-kcm/4:5.10.5-0ubuntu1
 breeze-plymouth 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-plymouth/5.10.5-0ubuntu1
 kde-gtk-config 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-gtk-config/4:5.10.5-0ubuntu1
+kscreenlocker 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kscreenlocker/5.10.5-0ubuntu1
