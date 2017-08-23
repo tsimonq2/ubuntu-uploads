@@ -73,3 +73,4 @@ plasma-desktop 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-des
 kactivitymanagerd 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivitymanagerd/5.10.5-0ubuntu1
 kdecoration 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kdecoration/4:5.10.5-0ubuntu1
 powerdevil 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/powerdevil/4:5.10.5-0ubuntu1
+plasma-sdk 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-sdk/4:5.10.5-0ubuntu1
