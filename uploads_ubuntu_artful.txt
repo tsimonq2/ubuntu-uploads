@@ -74,3 +74,4 @@ kactivitymanagerd 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivity
 kdecoration 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kdecoration/4:5.10.5-0ubuntu1
 powerdevil 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/powerdevil/4:5.10.5-0ubuntu1
 plasma-sdk 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-sdk/4:5.10.5-0ubuntu1
+libksysguard 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/libksysguard/4:5.10.5-0ubuntu1
