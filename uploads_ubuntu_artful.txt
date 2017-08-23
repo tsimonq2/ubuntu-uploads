@@ -82,3 +82,4 @@ plasma-discover 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-disc
 khotkeys 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/khotkeys/4:5.10.5-0ubuntu1
 plasma-workspace 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.10.5-0ubuntu1
 kscreen 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kscreen/4:5.10.5-0ubuntu1
+kgamma5 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kgamma5/4:5.10.5-0ubuntu1
