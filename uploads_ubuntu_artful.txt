@@ -94,3 +94,4 @@ breeze-gtk 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-gtk/5.10.
 kwallet-pam 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kwallet-pam/4:5.10.5-0ubuntu1
 kinfocenter 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kinfocenter/4:5.10.5-0ubuntu1
 oxygen 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/oxygen/4:5.10.5-0ubuntu1
+kwrited 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kwrited/4:5.10.5-0ubuntu1
