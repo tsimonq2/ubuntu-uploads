@@ -70,3 +70,4 @@ breeze-plymouth 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-plym
 kde-gtk-config 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-gtk-config/4:5.10.5-0ubuntu1
 kscreenlocker 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kscreenlocker/5.10.5-0ubuntu1
 plasma-desktop 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-desktop/4:5.10.5-0ubuntu1
+kactivitymanagerd 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivitymanagerd/5.10.5-0ubuntu1
