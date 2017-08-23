@@ -101,3 +101,4 @@ kdeplasma-addons 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeplasm
 ksysguard 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/ksysguard/4:5.10.5-0ubuntu1
 bluedevil 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/bluedevil/4:5.10.5-0ubuntu1
 kwin 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kwin/4:5.10.5-0ubuntu1
+breeze 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze/4:5.10.5-0ubuntu1
