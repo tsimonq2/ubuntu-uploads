@@ -91,3 +91,4 @@ plasma-pa 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-pa/4:5.1
 user-manager 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/user-manager/4:5.10.5-0ubuntu1
 libkscreen 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/libkscreen/4:5.10.5-0ubuntu1
 breeze-gtk 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-gtk/5.10.5-0ubuntu1
+kwallet-pam 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kwallet-pam/4:5.10.5-0ubuntu1
