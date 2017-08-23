@@ -99,3 +99,4 @@ systemsettings 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/systemsett
 polkit-kde-agent-1 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/polkit-kde-agent-1/4:5.10.5-0ubuntu1
 kdeplasma-addons 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeplasma-addons/4:5.10.5-0ubuntu1
 ksysguard 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/ksysguard/4:5.10.5-0ubuntu1
+bluedevil 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/bluedevil/4:5.10.5-0ubuntu1
