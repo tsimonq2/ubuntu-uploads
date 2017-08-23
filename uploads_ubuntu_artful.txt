@@ -80,3 +80,4 @@ plasma-nm 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-nm/4:5.1
 kde-cli-tools 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-cli-tools/4:5.10.5-0ubuntu1
 plasma-discover 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-discover/5.10.5-0ubuntu1
 khotkeys 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/khotkeys/4:5.10.5-0ubuntu1
+plasma-workspace 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.10.5-0ubuntu1
