@@ -88,3 +88,4 @@ ksshaskpass 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/ksshaskpass/4
 milou 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/milou/4:5.10.5-0ubuntu1
 breeze-grub 5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-grub/5.10.5-0ubuntu1
 plasma-pa 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-pa/4:5.10.5-0ubuntu1
+user-manager 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/user-manager/4:5.10.5-0ubuntu1
