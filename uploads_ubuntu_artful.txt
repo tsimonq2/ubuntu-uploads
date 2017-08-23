@@ -65,3 +65,4 @@ nodejs 6.11.2~dfsg-2ubuntu1 https://launchpad.net/ubuntu/+source/nodejs/6.11.2~d
 ovito 2.9.0+dfsg1-2ubuntu1 https://launchpad.net/ubuntu/+source/ovito/2.9.0+dfsg1-2ubuntu1
 kwayland-integration 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kwayland-integration/4:5.10.5-0ubuntu1
 kmenuedit 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kmenuedit/4:5.10.5-0ubuntu1
+sddm-kcm 4:5.10.5-0ubuntu1 https://launchpad.net/ubuntu/+source/sddm-kcm/4:5.10.5-0ubuntu1
