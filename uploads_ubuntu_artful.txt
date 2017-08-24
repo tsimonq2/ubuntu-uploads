@@ -106,3 +106,4 @@ civicrm 4.7.23+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/4.7.23
 libindi 1.2.0-4ubuntu1 https://launchpad.net/ubuntu/+source/libindi/1.2.0-4ubuntu1
 taskcoach 1.4.3-4ubuntu1 https://launchpad.net/ubuntu/+source/taskcoach/1.4.3-4ubuntu1
 gdebi 0.9.5.7+nmu1ubuntu2 https://launchpad.net/ubuntu/+source/gdebi/0.9.5.7+nmu1ubuntu2
+lubuntu-meta 0.81 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.81
