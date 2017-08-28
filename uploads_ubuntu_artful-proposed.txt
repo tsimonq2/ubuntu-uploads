@@ -52,3 +52,4 @@ openbox 3.6.1-4.1 https://launchpad.net/ubuntu/+source/openbox/3.6.1-4.1
 libncursesada 6.0.20170708-2 https://launchpad.net/ubuntu/+source/libncursesada/6.0.20170708-2
 menhir 20170712-1 https://launchpad.net/ubuntu/+source/menhir/20170712-1
 qtwebengine-opensource-src 5.9.1+dfsg-4 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.1+dfsg-4
+qtvirtualkeyboard-opensource-src 5.9.1+dfsg-3 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.1+dfsg-3
