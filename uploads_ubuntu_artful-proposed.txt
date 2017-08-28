@@ -54,3 +54,4 @@ menhir 20170712-1 https://launchpad.net/ubuntu/+source/menhir/20170712-1
 qtwebengine-opensource-src 5.9.1+dfsg-4 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.1+dfsg-4
 qtvirtualkeyboard-opensource-src 5.9.1+dfsg-3 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.1+dfsg-3
 libindi 1.2.0-5 https://launchpad.net/ubuntu/+source/libindi/1.2.0-5
+meta-kde 5:92 https://launchpad.net/ubuntu/+source/meta-kde/5:92
