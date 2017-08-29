@@ -117,3 +117,4 @@ meta-kde 5:92ubuntu1 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu1
 meta-kde 5:92ubuntu2 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu2
 meta-kde 5:92ubuntu3 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu3
 nodejs 6.11.2~dfsg-3ubuntu1 https://launchpad.net/ubuntu/+source/nodejs/6.11.2~dfsg-3ubuntu1
+why3 0.87.3-2ubuntu2 https://launchpad.net/ubuntu/+source/why3/0.87.3-2ubuntu2
