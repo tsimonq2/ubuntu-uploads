@@ -111,3 +111,4 @@ node-tap 8.0.0-4ubuntu3 https://launchpad.net/ubuntu/+source/node-tap/8.0.0-4ubu
 node-evp-bytestokey 1.0.0-3ubuntu1 https://launchpad.net/ubuntu/+source/node-evp-bytestokey/1.0.0-3ubuntu1
 node-evp-bytestokey 1.0.0-3ubuntu2 https://launchpad.net/ubuntu/+source/node-evp-bytestokey/1.0.0-3ubuntu2
 libindi 1.2.0-5ubuntu1 https://launchpad.net/ubuntu/+source/libindi/1.2.0-5ubuntu1
+node-tap 8.0.0-4ubuntu4 https://launchpad.net/ubuntu/+source/node-tap/8.0.0-4ubuntu4
