@@ -115,3 +115,4 @@ node-tap 8.0.0-4ubuntu4 https://launchpad.net/ubuntu/+source/node-tap/8.0.0-4ubu
 node-evp-bytestokey 1.0.0-3ubuntu3 https://launchpad.net/ubuntu/+source/node-evp-bytestokey/1.0.0-3ubuntu3
 meta-kde 5:92ubuntu1 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu1
 meta-kde 5:92ubuntu2 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu2
+meta-kde 5:92ubuntu3 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu3
