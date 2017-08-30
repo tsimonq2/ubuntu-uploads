@@ -4,3 +4,4 @@ gvfs 1.28.2-1ubuntu1~16.04.2 https://launchpad.net/ubuntu/+source/gvfs/1.28.2-1u
 lubuntu-meta 0.65.2 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.65.2
 libqapt 3.0.2-0ubuntu1.2 https://launchpad.net/ubuntu/+source/libqapt/3.0.2-0ubuntu1.2
 libva 1.7.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/libva/1.7.0-1ubuntu0.1
+stunnel4 3:5.30-1ubuntu0.1 https://launchpad.net/ubuntu/+source/stunnel4/3:5.30-1ubuntu0.1
