@@ -121,3 +121,4 @@ why3 0.87.3-2ubuntu2 https://launchpad.net/ubuntu/+source/why3/0.87.3-2ubuntu2
 kscreenlocker 5.10.5.1-0ubuntu1 https://launchpad.net/ubuntu/+source/kscreenlocker/5.10.5.1-0ubuntu1
 pkg-kde-tools 0.15.25ubuntu1 https://launchpad.net/ubuntu/+source/pkg-kde-tools/0.15.25ubuntu1
 qtmultimedia-opensource-src 5.9.1-3ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.1-3ubuntu1
+fuse-umfuse-ext2 0.4-1.1ubuntu0.1 https://launchpad.net/ubuntu/+source/fuse-umfuse-ext2/0.4-1.1ubuntu0.1
