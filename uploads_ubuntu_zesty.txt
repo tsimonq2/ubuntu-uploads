@@ -13,3 +13,4 @@ lxterminal 0.3.0-1ubuntu0.2 https://launchpad.net/ubuntu/+source/lxterminal/0.3.
 gtk+2.0 2.24.31-1ubuntu1.1 https://launchpad.net/ubuntu/+source/gtk+2.0/2.24.31-1ubuntu1.1
 indicator-sound-gtk2 12.10.0.1-0ubuntu5.17.04.1 https://launchpad.net/ubuntu/+source/indicator-sound-gtk2/12.10.0.1-0ubuntu5.17.04.1
 doomsday 1.15.8-3ubuntu0.1 https://launchpad.net/ubuntu/+source/doomsday/1.15.8-3ubuntu0.1
+kdeplasma-addons 4:5.9.5-0ubuntu0.2 https://launchpad.net/ubuntu/+source/kdeplasma-addons/4:5.9.5-0ubuntu0.2
