@@ -127,3 +127,4 @@ lubuntu-meta 0.82 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.82
 ubuntu-mate-guide 17.10.1-0ubuntu1 https://launchpad.net/ubuntu/+source/ubuntu-mate-guide/17.10.1-0ubuntu1
 mbedtls 2.5.1-1ubuntu1 https://launchpad.net/ubuntu/+source/mbedtls/2.5.1-1ubuntu1
 budgie-desktop-environment 0.8.4 https://launchpad.net/ubuntu/+source/budgie-desktop-environment/0.8.4
+budgie-welcome 0.5.3 https://launchpad.net/ubuntu/+source/budgie-welcome/0.5.3
