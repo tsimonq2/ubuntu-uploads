@@ -128,3 +128,4 @@ ubuntu-mate-guide 17.10.1-0ubuntu1 https://launchpad.net/ubuntu/+source/ubuntu-m
 mbedtls 2.5.1-1ubuntu1 https://launchpad.net/ubuntu/+source/mbedtls/2.5.1-1ubuntu1
 budgie-desktop-environment 0.8.4 https://launchpad.net/ubuntu/+source/budgie-desktop-environment/0.8.4
 budgie-welcome 0.5.3 https://launchpad.net/ubuntu/+source/budgie-welcome/0.5.3
+budgie-desktop 10.4-1ubuntu3 https://launchpad.net/ubuntu/+source/budgie-desktop/10.4-1ubuntu3
