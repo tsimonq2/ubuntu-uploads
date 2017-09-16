@@ -58,3 +58,4 @@ meta-kde 5:92 https://launchpad.net/ubuntu/+source/meta-kde/5:92
 pianobar 2017.08.30-1 https://launchpad.net/ubuntu/+source/pianobar/2017.08.30-1
 pupnp-1.8 1:1.8.2-2 https://launchpad.net/ubuntu/+source/pupnp-1.8/1:1.8.2-2
 wordpress-shibboleth 1.4-2+deb9u1 https://launchpad.net/ubuntu/+source/wordpress-shibboleth/1.4-2+deb9u1
+qterminal 0.7.1-3 https://launchpad.net/ubuntu/+source/qterminal/0.7.1-3
