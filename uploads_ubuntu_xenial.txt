@@ -7,3 +7,4 @@ libva 1.7.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/libva/1.7.0-1ubuntu0
 stunnel4 3:5.30-1ubuntu0.1 https://launchpad.net/ubuntu/+source/stunnel4/3:5.30-1ubuntu0.1
 fuse-umfuse-ext2 0.4-1.1ubuntu0.16.04.1 https://launchpad.net/ubuntu/+source/fuse-umfuse-ext2/0.4-1.1ubuntu0.16.04.1
 libc++ 3.7.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/libc++/3.7.0-1ubuntu0.1
+partitionmanager 1.2.1-0ubuntu1.1 https://launchpad.net/ubuntu/+source/partitionmanager/1.2.1-0ubuntu1.1
