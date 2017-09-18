@@ -3,3 +3,4 @@ pcmanfm 1.2.5-2ubuntu0.1 https://launchpad.net/ubuntu/+source/pcmanfm/1.2.5-2ubu
 varnish 5.0.0-7ubuntu0.1 https://launchpad.net/ubuntu/+source/varnish/5.0.0-7ubuntu0.1
 vlc 2.2.4-14ubuntu2.2 https://launchpad.net/ubuntu/+source/vlc/2.2.4-14ubuntu2.2
 menu-cache 1.0.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/menu-cache/1.0.2-1ubuntu0.1
+jython 2.5.3-15ubuntu0.1 https://launchpad.net/ubuntu/+source/jython/2.5.3-15ubuntu0.1
