@@ -132,3 +132,4 @@ budgie-desktop 10.4-1ubuntu3 https://launchpad.net/ubuntu/+source/budgie-desktop
 budgie-desktop 10.4-1ubuntu4 https://launchpad.net/ubuntu/+source/budgie-desktop/10.4-1ubuntu4
 budgie-welcome 0.5.4 https://launchpad.net/ubuntu/+source/budgie-welcome/0.5.4
 budgie-indicator-applet 0.4-0ubuntu2 https://launchpad.net/ubuntu/+source/budgie-indicator-applet/0.4-0ubuntu2
+budgie-desktop-environment 0.8.5 https://launchpad.net/ubuntu/+source/budgie-desktop-environment/0.8.5
