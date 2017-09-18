@@ -7,3 +7,4 @@ vlc 2.2.2-5ubuntu0.16.04.4 https://launchpad.net/ubuntu/+source/vlc/2.2.2-5ubunt
 menu-cache 1.0.1-1ubuntu0.1 https://launchpad.net/ubuntu/+source/menu-cache/1.0.1-1ubuntu0.1
 kcoreaddons 5.18.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/kcoreaddons/5.18.0-0ubuntu1.1
 karchive 5.18.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/karchive/5.18.0-0ubuntu1.1
+jython 2.5.3-9ubuntu0.1 https://launchpad.net/ubuntu/+source/jython/2.5.3-9ubuntu0.1
