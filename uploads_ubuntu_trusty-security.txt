@@ -5,3 +5,4 @@ varnish 3.0.5-2ubuntu0.1 https://launchpad.net/ubuntu/+source/varnish/3.0.5-2ubu
 vlc 2.1.6-0ubuntu14.04.4 https://launchpad.net/ubuntu/+source/vlc/2.1.6-0ubuntu14.04.4
 menu-cache 0.5.1-1ubuntu1.1 https://launchpad.net/ubuntu/+source/menu-cache/0.5.1-1ubuntu1.1
 kdepimlibs 4:4.13.3-0ubuntu0.4 https://launchpad.net/ubuntu/+source/kdepimlibs/4:4.13.3-0ubuntu0.4
+jython 2.5.3-1ubuntu0.1 https://launchpad.net/ubuntu/+source/jython/2.5.3-1ubuntu0.1
