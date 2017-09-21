@@ -135,3 +135,4 @@ budgie-indicator-applet 0.4-0ubuntu2 https://launchpad.net/ubuntu/+source/budgie
 budgie-desktop-environment 0.8.5 https://launchpad.net/ubuntu/+source/budgie-desktop-environment/0.8.5
 gdebi 0.9.5.7+nmu1ubuntu3 https://launchpad.net/ubuntu/+source/gdebi/0.9.5.7+nmu1ubuntu3
 gthumb 3:3.5.2-2ubuntu1 https://launchpad.net/ubuntu/+source/gthumb/3:3.5.2-2ubuntu1
+fontforge 1:20161005~dfsg-4+deb9u1ubuntu1 https://launchpad.net/ubuntu/+source/fontforge/1:20161005~dfsg-4+deb9u1ubuntu1
