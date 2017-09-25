@@ -61,3 +61,4 @@ wordpress-shibboleth 1.4-2+deb9u1 https://launchpad.net/ubuntu/+source/wordpress
 qterminal 0.7.1-3 https://launchpad.net/ubuntu/+source/qterminal/0.7.1-3
 lxqt-panel 0.11.1-4 https://launchpad.net/ubuntu/+source/lxqt-panel/0.11.1-4
 comitup 0.9.1-1 https://launchpad.net/ubuntu/+source/comitup/0.9.1-1
+jdcal 1.0-1.2 https://launchpad.net/ubuntu/+source/jdcal/1.0-1.2
