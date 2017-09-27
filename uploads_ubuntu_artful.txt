@@ -137,3 +137,4 @@ gdebi 0.9.5.7+nmu1ubuntu3 https://launchpad.net/ubuntu/+source/gdebi/0.9.5.7+nmu
 gthumb 3:3.5.2-2ubuntu1 https://launchpad.net/ubuntu/+source/gthumb/3:3.5.2-2ubuntu1
 fontforge 1:20161005~dfsg-4+deb9u1ubuntu1 https://launchpad.net/ubuntu/+source/fontforge/1:20161005~dfsg-4+deb9u1ubuntu1
 abiword 3.0.2-3ubuntu1 https://launchpad.net/ubuntu/+source/abiword/3.0.2-3ubuntu1
+git 1:2.14.1-1ubuntu4 https://launchpad.net/ubuntu/+source/git/1:2.14.1-1ubuntu4
