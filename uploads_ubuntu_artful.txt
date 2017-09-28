@@ -138,3 +138,4 @@ gthumb 3:3.5.2-2ubuntu1 https://launchpad.net/ubuntu/+source/gthumb/3:3.5.2-2ubu
 fontforge 1:20161005~dfsg-4+deb9u1ubuntu1 https://launchpad.net/ubuntu/+source/fontforge/1:20161005~dfsg-4+deb9u1ubuntu1
 abiword 3.0.2-3ubuntu1 https://launchpad.net/ubuntu/+source/abiword/3.0.2-3ubuntu1
 git 1:2.14.1-1ubuntu4 https://launchpad.net/ubuntu/+source/git/1:2.14.1-1ubuntu4
+lxqt-l10n 0.11.2-3ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.11.2-3ubuntu1
