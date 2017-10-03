@@ -6,3 +6,4 @@ vlc 2.1.6-0ubuntu14.04.4 https://launchpad.net/ubuntu/+source/vlc/2.1.6-0ubuntu1
 menu-cache 0.5.1-1ubuntu1.1 https://launchpad.net/ubuntu/+source/menu-cache/0.5.1-1ubuntu1.1
 kdepimlibs 4:4.13.3-0ubuntu0.4 https://launchpad.net/ubuntu/+source/kdepimlibs/4:4.13.3-0ubuntu0.4
 jython 2.5.3-1ubuntu0.1 https://launchpad.net/ubuntu/+source/jython/2.5.3-1ubuntu0.1
+git 1:1.9.1-1ubuntu0.7 https://launchpad.net/ubuntu/+source/git/1:1.9.1-1ubuntu0.7
