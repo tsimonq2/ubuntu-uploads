@@ -142,3 +142,4 @@ lxqt-l10n 0.11.2-3ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.11.2-
 isdnutils 1:3.25+dfsg1-9ubuntu1 https://launchpad.net/ubuntu/+source/isdnutils/1:3.25+dfsg1-9ubuntu1
 pcmanfm 1.2.5-3ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm/1.2.5-3ubuntu1
 budgie-welcome 0.5.5 https://launchpad.net/ubuntu/+source/budgie-welcome/0.5.5
+freeplane 1.6.6-1build1 https://launchpad.net/ubuntu/+source/freeplane/1.6.6-1build1
