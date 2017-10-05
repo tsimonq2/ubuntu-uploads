@@ -66,3 +66,4 @@ qtermwidget 0.7.1-7 https://launchpad.net/ubuntu/+source/qtermwidget/0.7.1-7
 juffed 0.10-85-g5ba17f9-14 https://launchpad.net/ubuntu/+source/juffed/0.10-85-g5ba17f9-14
 abiword 3.0.2-4 https://launchpad.net/ubuntu/+source/abiword/3.0.2-4
 nomacs 3.4.1+dfsg-11 https://launchpad.net/ubuntu/+source/nomacs/3.4.1+dfsg-11
+ffmpeg 7:3.3.4-2 https://launchpad.net/ubuntu/+source/ffmpeg/7:3.3.4-2
