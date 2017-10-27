@@ -1,1 +1,2 @@
 qtdeclarative-opensource-src 5.9.1-6ubuntu1 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.9.1-6ubuntu1
+supermin 5.1.19-1ubuntu1 https://launchpad.net/ubuntu/+source/supermin/5.1.19-1ubuntu1
