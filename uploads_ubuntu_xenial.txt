@@ -9,3 +9,4 @@ fuse-umfuse-ext2 0.4-1.1ubuntu0.16.04.1 https://launchpad.net/ubuntu/+source/fus
 libc++ 3.7.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/libc++/3.7.0-1ubuntu0.1
 partitionmanager 1.2.1-0ubuntu1.1 https://launchpad.net/ubuntu/+source/partitionmanager/1.2.1-0ubuntu1.1
 lubuntu-default-settings 0.46.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.46.1
+mate-session-manager 1.12.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-session-manager/1.12.2-1ubuntu0.1
