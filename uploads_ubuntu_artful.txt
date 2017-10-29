@@ -146,3 +146,4 @@ freeplane 1.6.6-1build1 https://launchpad.net/ubuntu/+source/freeplane/1.6.6-1bu
 nodejs 6.11.4~dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/nodejs/6.11.4~dfsg-1ubuntu1
 menu-cache 1.0.2-3ubuntu0.17.10.1 https://launchpad.net/ubuntu/+source/menu-cache/1.0.2-3ubuntu0.17.10.1
 ktexteditor 5.38.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/ktexteditor/5.38.0-0ubuntu1.1
+mate-applets 1.18.1-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-applets/1.18.1-1ubuntu0.1
