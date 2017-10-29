@@ -2,3 +2,4 @@ qtdeclarative-opensource-src 5.9.1-6ubuntu1 https://launchpad.net/ubuntu/+source
 supermin 5.1.19-1ubuntu1 https://launchpad.net/ubuntu/+source/supermin/5.1.19-1ubuntu1
 civicrm 4.7.24+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/4.7.24+dfsg-1ubuntu1
 mate-applets 1.18.1-3ubuntu1 https://launchpad.net/ubuntu/+source/mate-applets/1.18.1-3ubuntu1
+mate-session-manager 1.18.1-2ubuntu3 https://launchpad.net/ubuntu/+source/mate-session-manager/1.18.1-2ubuntu3
