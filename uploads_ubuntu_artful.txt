@@ -148,3 +148,4 @@ menu-cache 1.0.2-3ubuntu0.17.10.1 https://launchpad.net/ubuntu/+source/menu-cach
 ktexteditor 5.38.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/ktexteditor/5.38.0-0ubuntu1.1
 mate-applets 1.18.1-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-applets/1.18.1-1ubuntu0.1
 mate-utils 1.18.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-utils/1.18.2-1ubuntu0.1
+mate-session-manager 1.18.1-2ubuntu2.1 https://launchpad.net/ubuntu/+source/mate-session-manager/1.18.1-2ubuntu2.1
