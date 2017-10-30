@@ -12,3 +12,4 @@ lubuntu-default-settings 0.46.1 https://launchpad.net/ubuntu/+source/lubuntu-def
 mate-session-manager 1.12.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-session-manager/1.12.2-1ubuntu0.1
 indicator-sound-gtk2 12.10.0.1-0ubuntu5.16.04.1 https://launchpad.net/ubuntu/+source/indicator-sound-gtk2/12.10.0.1-0ubuntu5.16.04.1
 caja 1.12.7-1ubuntu0.1 https://launchpad.net/ubuntu/+source/caja/1.12.7-1ubuntu0.1
+engrampa 1.12.0-2ubuntu0.1 https://launchpad.net/ubuntu/+source/engrampa/1.12.0-2ubuntu0.1
