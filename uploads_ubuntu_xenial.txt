@@ -10,3 +10,4 @@ libc++ 3.7.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/libc++/3.7.0-1ubunt
 partitionmanager 1.2.1-0ubuntu1.1 https://launchpad.net/ubuntu/+source/partitionmanager/1.2.1-0ubuntu1.1
 lubuntu-default-settings 0.46.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.46.1
 mate-session-manager 1.12.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-session-manager/1.12.2-1ubuntu0.1
+indicator-sound-gtk2 12.10.0.1-0ubuntu5.16.04.1 https://launchpad.net/ubuntu/+source/indicator-sound-gtk2/12.10.0.1-0ubuntu5.16.04.1
