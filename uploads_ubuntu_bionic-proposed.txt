@@ -2,3 +2,4 @@ mbedtls 2.6.0-1 https://launchpad.net/ubuntu/+source/mbedtls/2.6.0-1
 fontforge 1:20170731~dfsg-1 https://launchpad.net/ubuntu/+source/fontforge/1:20170731~dfsg-1
 qtsvg-opensource-src 5.9.2-2 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.9.2-2
 qtxmlpatterns-opensource-src 5.9.2-3 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.2-3
+qtscript-opensource-src 5.9.2+dfsg-1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.2+dfsg-1
