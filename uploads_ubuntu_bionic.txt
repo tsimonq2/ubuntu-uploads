@@ -5,3 +5,4 @@ mate-applets 1.18.1-3ubuntu1 https://launchpad.net/ubuntu/+source/mate-applets/1
 mate-session-manager 1.18.1-2ubuntu3 https://launchpad.net/ubuntu/+source/mate-session-manager/1.18.1-2ubuntu3
 mate-panel 1.18.4-2ubuntu1 https://launchpad.net/ubuntu/+source/mate-panel/1.18.4-2ubuntu1
 qtbase-opensource-src 5.9.2+dfsg-4ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.2+dfsg-4ubuntu1
+qtbase-opensource-src 5.9.2+dfsg-4ubuntu2 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.2+dfsg-4ubuntu2
