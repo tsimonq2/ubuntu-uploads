@@ -75,3 +75,4 @@ haskell-random-shuffle 0.0.4-8build5 https://launchpad.net/ubuntu/+source/haskel
 haskell-th-reify-many 0.1.8-1build2 https://launchpad.net/ubuntu/+source/haskell-th-reify-many/0.1.8-1build2
 haskell-vector-space 0.10.4-3build5 https://launchpad.net/ubuntu/+source/haskell-vector-space/0.10.4-3build5
 pxsl-tools 1.0-5.2build2 https://launchpad.net/ubuntu/+source/pxsl-tools/1.0-5.2build2
+kdeclarative 5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdeclarative/5.38.0-0ubuntu2
