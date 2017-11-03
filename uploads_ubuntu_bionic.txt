@@ -24,3 +24,4 @@ lxqt-notificationd 0.11.1-2build1 https://launchpad.net/ubuntu/+source/lxqt-noti
 lxqt-powermanagement 0.11.1-2build1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/0.11.1-2build1
 lxqt-qtplugin 0.11.1-2build2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.11.1-2build2
 lxqt-runner 0.11.1-2build1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.11.1-2build1
+maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu16 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu16
