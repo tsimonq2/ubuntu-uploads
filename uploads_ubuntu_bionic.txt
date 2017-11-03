@@ -16,3 +16,4 @@ hime 0.9.10+git20170427+dfsg1-2build1 https://launchpad.net/ubuntu/+source/hime/
 kf5-messagelib 4:17.04.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kf5-messagelib/4:17.04.3-0ubuntu2
 kguiaddons 5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kguiaddons/5.38.0-0ubuntu2
 kwayland 4:5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kwayland/4:5.38.0-0ubuntu2
+kwin 4:5.10.5-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.10.5-0ubuntu2
