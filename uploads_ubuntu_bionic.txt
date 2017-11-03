@@ -18,3 +18,4 @@ kguiaddons 5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kguiaddons/5.38.
 kwayland 4:5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kwayland/4:5.38.0-0ubuntu2
 kwin 4:5.10.5-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.10.5-0ubuntu2
 libfm-qt 0.11.2-2build2 https://launchpad.net/ubuntu/+source/libfm-qt/0.11.2-2build2
+libqtxdg 2.0.0-8build1 https://launchpad.net/ubuntu/+source/libqtxdg/2.0.0-8build1
