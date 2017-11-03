@@ -13,3 +13,4 @@ frameworkintegration 5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/framew
 gammaray 2.7.0-1ubuntu2 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu2
 gcin 2.8.5+dfsg1-4build1 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-4build1
 hime 0.9.10+git20170427+dfsg1-2build1 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-2build1
+kf5-messagelib 4:17.04.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kf5-messagelib/4:17.04.3-0ubuntu2
