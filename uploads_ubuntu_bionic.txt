@@ -29,3 +29,4 @@ openorienteering-mapper 0.7.0-1build2 https://launchpad.net/ubuntu/+source/openo
 plasma-integration 5.10.5-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-integration/5.10.5-0ubuntu2
 qlipper 1:5.0.0-1build2 https://launchpad.net/ubuntu/+source/qlipper/1:5.0.0-1build2
 qt3d-opensource-src 5.9.2+dfsg-2build1 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.2+dfsg-2build1
+qtconnectivity-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.9.2-2build1
