@@ -22,3 +22,4 @@ libqtxdg 2.0.0-8build1 https://launchpad.net/ubuntu/+source/libqtxdg/2.0.0-8buil
 lxqt-config 0.11.1-4build1 https://launchpad.net/ubuntu/+source/lxqt-config/0.11.1-4build1
 lxqt-notificationd 0.11.1-2build1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/0.11.1-2build1
 lxqt-powermanagement 0.11.1-2build1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/0.11.1-2build1
+lxqt-qtplugin 0.11.1-2build2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.11.1-2build2
