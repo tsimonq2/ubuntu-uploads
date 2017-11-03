@@ -80,3 +80,4 @@ haskell-hookup 0.1.0.0-4build3 https://launchpad.net/ubuntu/+source/haskell-hook
 haskell-lifted-base 0.2.3.11-1build3 https://launchpad.net/ubuntu/+source/haskell-lifted-base/0.2.3.11-1build3
 haskell-opengl 3.0.2.0-1build2 https://launchpad.net/ubuntu/+source/haskell-opengl/3.0.2.0-1build2
 haskell-torrent 10000.1.1-1build1 https://launchpad.net/ubuntu/+source/haskell-torrent/10000.1.1-1build1
+haskell-vector-space-points 0.2.1.2-2build4 https://launchpad.net/ubuntu/+source/haskell-vector-space-points/0.2.1.2-2build4
