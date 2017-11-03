@@ -9,3 +9,4 @@ qtbase-opensource-src 5.9.2+dfsg-4ubuntu2 https://launchpad.net/ubuntu/+source/q
 akonadi 4:17.04.3-0ubuntu2 https://launchpad.net/ubuntu/+source/akonadi/4:17.04.3-0ubuntu2
 calibre 3.10.0+dfsg-1build2 https://launchpad.net/ubuntu/+source/calibre/3.10.0+dfsg-1build2
 fcitx-qt5 1.1.1-1build1 https://launchpad.net/ubuntu/+source/fcitx-qt5/1.1.1-1build1
+frameworkintegration 5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/frameworkintegration/5.38.0-0ubuntu2
