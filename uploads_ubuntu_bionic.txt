@@ -45,3 +45,4 @@ qtscript-opensource-src 5.9.2+dfsg-1build1 https://launchpad.net/ubuntu/+source/
 qtsensors-opensource-src 5.9.2-2build2 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.2-2build2
 qtserialport-opensource-src 5.9.2-1build1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.2-1build1
 qtspeech-opensource-src 5.9.1-1build1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.9.1-1build1
+qtstyleplugins-src 5.0.0+git23.g335dbec-2build2 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2build2
