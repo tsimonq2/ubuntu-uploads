@@ -68,3 +68,4 @@ haskell-flexible-defaults 0.0.1.2-3build3 https://launchpad.net/ubuntu/+source/h
 haskell-gluraw 2.0.0.3-1build3 https://launchpad.net/ubuntu/+source/haskell-gluraw/2.0.0.3-1build3
 haskell-haskell-src 1.0.2.0-6build3 https://launchpad.net/ubuntu/+source/haskell-haskell-src/1.0.2.0-6build3
 haskell-hastache 0.6.1-6build6 https://launchpad.net/ubuntu/+source/haskell-hastache/0.6.1-6build6
+haskell-hsopenssl-x509-system 0.1.0.3-2build6 https://launchpad.net/ubuntu/+source/haskell-hsopenssl-x509-system/0.1.0.3-2build6
