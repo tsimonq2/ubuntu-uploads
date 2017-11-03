@@ -71,3 +71,4 @@ haskell-hastache 0.6.1-6build6 https://launchpad.net/ubuntu/+source/haskell-hast
 haskell-hsopenssl-x509-system 0.1.0.3-2build6 https://launchpad.net/ubuntu/+source/haskell-hsopenssl-x509-system/0.1.0.3-2build6
 haskell-hstringtemplate 0.8.6-1build3 https://launchpad.net/ubuntu/+source/haskell-hstringtemplate/0.8.6-1build3
 haskell-json 0.9.1-5build4 https://launchpad.net/ubuntu/+source/haskell-json/0.9.1-5build4
+haskell-random-shuffle 0.0.4-8build5 https://launchpad.net/ubuntu/+source/haskell-random-shuffle/0.0.4-8build5
