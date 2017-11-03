@@ -40,3 +40,4 @@ qtmultimedia-opensource-src 5.9.2-1ubuntu2 https://launchpad.net/ubuntu/+source/
 qtop 2.3.4-1build1 https://launchpad.net/ubuntu/+source/qtop/2.3.4-1build1
 qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~4 https://launchpad.net/ubuntu/+source/qtpim-opensource-src/5.0~git20140515~29475884-0ubuntu24~4
 qtquickcontrols-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.2-2build1
+qtquickcontrols2-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.2-2build1
