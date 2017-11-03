@@ -26,3 +26,4 @@ lxqt-qtplugin 0.11.1-2build2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/
 lxqt-runner 0.11.1-2build1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.11.1-2build1
 maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu16 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu16
 openorienteering-mapper 0.7.0-1build2 https://launchpad.net/ubuntu/+source/openorienteering-mapper/0.7.0-1build2
+plasma-integration 5.10.5-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-integration/5.10.5-0ubuntu2
