@@ -12,3 +12,4 @@ fcitx-qt5 1.1.1-1build1 https://launchpad.net/ubuntu/+source/fcitx-qt5/1.1.1-1bu
 frameworkintegration 5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/frameworkintegration/5.38.0-0ubuntu2
 gammaray 2.7.0-1ubuntu2 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu2
 gcin 2.8.5+dfsg1-4build1 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-4build1
+hime 0.9.10+git20170427+dfsg1-2build1 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-2build1
