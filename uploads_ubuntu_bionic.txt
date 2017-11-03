@@ -52,3 +52,4 @@ qtwayland-opensource-src 5.9.2-3build1 https://launchpad.net/ubuntu/+source/qtwa
 qtwebchannel-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtwebchannel-opensource-src/5.9.2-2build1
 qttools-opensource-src 5.9.2-3ubuntu2 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.2-3ubuntu2
 qtwebkit-opensource-src 5.212.0~alpha2-5build1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-5build1
+qtwebsockets-opensource-src 5.9.2-3build1 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.2-3build1
