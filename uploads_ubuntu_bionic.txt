@@ -37,3 +37,4 @@ qterminal 0.7.1-3build1 https://launchpad.net/ubuntu/+source/qterminal/0.7.1-3bu
 qtgraphicaleffects-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.9.2-2build1
 qtlocation-opensource-src 5.9.2+dfsg-2build2 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.2+dfsg-2build2
 qtmultimedia-opensource-src 5.9.2-1ubuntu2 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.2-1ubuntu2
+qtop 2.3.4-1build1 https://launchpad.net/ubuntu/+source/qtop/2.3.4-1build1
