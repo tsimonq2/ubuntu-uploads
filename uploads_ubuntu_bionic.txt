@@ -59,3 +59,4 @@ qtxmlpatterns-opensource-src 5.9.2-3build1 https://launchpad.net/ubuntu/+source/
 qupzilla 2.2.0~dfsg1-2build1 https://launchpad.net/ubuntu/+source/qupzilla/2.2.0~dfsg1-2build1
 skrooge 2.9.0-1build1 https://launchpad.net/ubuntu/+source/skrooge/2.9.0-1build1
 smplayer 17.8.0~ds0-1build1 https://launchpad.net/ubuntu/+source/smplayer/17.8.0~ds0-1build1
+telegram-desktop 1.1.23-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.1.23-1build1
