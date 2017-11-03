@@ -66,3 +66,4 @@ zeal 1:0.4.0-2build1 https://launchpad.net/ubuntu/+source/zeal/1:0.4.0-2build1
 haskell-dependent-sum-template 0.0.0.6-1build4 https://launchpad.net/ubuntu/+source/haskell-dependent-sum-template/0.0.0.6-1build4
 haskell-flexible-defaults 0.0.1.2-3build3 https://launchpad.net/ubuntu/+source/haskell-flexible-defaults/0.0.1.2-3build3
 haskell-gluraw 2.0.0.3-1build3 https://launchpad.net/ubuntu/+source/haskell-gluraw/2.0.0.3-1build3
+haskell-haskell-src 1.0.2.0-6build3 https://launchpad.net/ubuntu/+source/haskell-haskell-src/1.0.2.0-6build3
