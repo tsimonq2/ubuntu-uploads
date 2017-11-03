@@ -31,3 +31,4 @@ qlipper 1:5.0.0-1build2 https://launchpad.net/ubuntu/+source/qlipper/1:5.0.0-1bu
 qt3d-opensource-src 5.9.2+dfsg-2build1 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.2+dfsg-2build1
 qtconnectivity-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.9.2-2build1
 qtcreator 4.3.1-1ubuntu3 https://launchpad.net/ubuntu/+source/qtcreator/4.3.1-1ubuntu3
+qtcurve 1.8.18+git20160320-3d8622c-5build2 https://launchpad.net/ubuntu/+source/qtcurve/1.8.18+git20160320-3d8622c-5build2
