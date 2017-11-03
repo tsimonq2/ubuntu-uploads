@@ -43,3 +43,4 @@ qtquickcontrols-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+sourc
 qtquickcontrols2-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.2-2build1
 qtscript-opensource-src 5.9.2+dfsg-1build1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.2+dfsg-1build1
 qtsensors-opensource-src 5.9.2-2build2 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.2-2build2
+qtserialport-opensource-src 5.9.2-1build1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.2-1build1
