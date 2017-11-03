@@ -62,3 +62,4 @@ smplayer 17.8.0~ds0-1build1 https://launchpad.net/ubuntu/+source/smplayer/17.8.0
 telegram-desktop 1.1.23-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.1.23-1build1
 uim 1:1.8.6+gh20161003.0.d63dadd-8build1 https://launchpad.net/ubuntu/+source/uim/1:1.8.6+gh20161003.0.d63dadd-8build1
 xdg-desktop-portal-kde 5.10.4-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-kde/5.10.4-0ubuntu2
+zeal 1:0.4.0-2build1 https://launchpad.net/ubuntu/+source/zeal/1:0.4.0-2build1
