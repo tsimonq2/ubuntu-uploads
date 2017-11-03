@@ -20,3 +20,4 @@ kwin 4:5.10.5-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.10.5-0ubunt
 libfm-qt 0.11.2-2build2 https://launchpad.net/ubuntu/+source/libfm-qt/0.11.2-2build2
 libqtxdg 2.0.0-8build1 https://launchpad.net/ubuntu/+source/libqtxdg/2.0.0-8build1
 lxqt-config 0.11.1-4build1 https://launchpad.net/ubuntu/+source/lxqt-config/0.11.1-4build1
+lxqt-notificationd 0.11.1-2build1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/0.11.1-2build1
