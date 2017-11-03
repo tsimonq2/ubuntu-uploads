@@ -73,3 +73,4 @@ haskell-hstringtemplate 0.8.6-1build3 https://launchpad.net/ubuntu/+source/haske
 haskell-json 0.9.1-5build4 https://launchpad.net/ubuntu/+source/haskell-json/0.9.1-5build4
 haskell-random-shuffle 0.0.4-8build5 https://launchpad.net/ubuntu/+source/haskell-random-shuffle/0.0.4-8build5
 haskell-th-reify-many 0.1.8-1build2 https://launchpad.net/ubuntu/+source/haskell-th-reify-many/0.1.8-1build2
+haskell-vector-space 0.10.4-3build5 https://launchpad.net/ubuntu/+source/haskell-vector-space/0.10.4-3build5
