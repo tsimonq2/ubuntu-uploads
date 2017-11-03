@@ -17,3 +17,4 @@ kf5-messagelib 4:17.04.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kf5-messa
 kguiaddons 5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kguiaddons/5.38.0-0ubuntu2
 kwayland 4:5.38.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kwayland/4:5.38.0-0ubuntu2
 kwin 4:5.10.5-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.10.5-0ubuntu2
+libfm-qt 0.11.2-2build2 https://launchpad.net/ubuntu/+source/libfm-qt/0.11.2-2build2
