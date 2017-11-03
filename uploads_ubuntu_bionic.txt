@@ -34,3 +34,4 @@ qtcreator 4.3.1-1ubuntu3 https://launchpad.net/ubuntu/+source/qtcreator/4.3.1-1u
 qtcurve 1.8.18+git20160320-3d8622c-5build2 https://launchpad.net/ubuntu/+source/qtcurve/1.8.18+git20160320-3d8622c-5build2
 qtdeclarative-opensource-src 5.9.2-3ubuntu2 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.9.2-3ubuntu2
 qterminal 0.7.1-3build1 https://launchpad.net/ubuntu/+source/qterminal/0.7.1-3build1
+qtgraphicaleffects-opensource-src 5.9.2-2build1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.9.2-2build1
