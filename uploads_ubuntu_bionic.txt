@@ -64,3 +64,4 @@ uim 1:1.8.6+gh20161003.0.d63dadd-8build1 https://launchpad.net/ubuntu/+source/ui
 xdg-desktop-portal-kde 5.10.4-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-kde/5.10.4-0ubuntu2
 zeal 1:0.4.0-2build1 https://launchpad.net/ubuntu/+source/zeal/1:0.4.0-2build1
 haskell-dependent-sum-template 0.0.0.6-1build4 https://launchpad.net/ubuntu/+source/haskell-dependent-sum-template/0.0.0.6-1build4
+haskell-flexible-defaults 0.0.1.2-3build3 https://launchpad.net/ubuntu/+source/haskell-flexible-defaults/0.0.1.2-3build3
