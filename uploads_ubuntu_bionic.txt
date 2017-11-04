@@ -82,3 +82,4 @@ haskell-opengl 3.0.2.0-1build2 https://launchpad.net/ubuntu/+source/haskell-open
 haskell-torrent 10000.1.1-1build1 https://launchpad.net/ubuntu/+source/haskell-torrent/10000.1.1-1build1
 haskell-vector-space-points 0.2.1.2-2build4 https://launchpad.net/ubuntu/+source/haskell-vector-space-points/0.2.1.2-2build4
 lubuntu-meta 0.84 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.84
+lubuntu-meta 0.84.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.84.1
