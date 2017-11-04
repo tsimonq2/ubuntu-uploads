@@ -150,3 +150,4 @@ mate-applets 1.18.1-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-applets
 mate-utils 1.18.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-utils/1.18.2-1ubuntu0.1
 mate-session-manager 1.18.1-2ubuntu2.1 https://launchpad.net/ubuntu/+source/mate-session-manager/1.18.1-2ubuntu2.1
 mate-panel 1.18.4-2ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-panel/1.18.4-2ubuntu0.1
+dolphin-emu 5.0+dfsg-1ubuntu0.17.10.1 https://launchpad.net/ubuntu/+source/dolphin-emu/5.0+dfsg-1ubuntu0.17.10.1
