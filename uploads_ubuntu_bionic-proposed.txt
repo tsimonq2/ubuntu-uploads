@@ -4,3 +4,4 @@ qtsvg-opensource-src 5.9.2-2 https://launchpad.net/ubuntu/+source/qtsvg-opensour
 qtxmlpatterns-opensource-src 5.9.2-3 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.2-3
 qtscript-opensource-src 5.9.2+dfsg-1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.2+dfsg-1
 qttools-opensource-src 5.9.2-3 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.2-3
+node-tap 10.7.2+ds1-4 https://launchpad.net/ubuntu/+source/node-tap/10.7.2+ds1-4
