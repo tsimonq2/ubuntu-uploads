@@ -83,3 +83,4 @@ haskell-torrent 10000.1.1-1build1 https://launchpad.net/ubuntu/+source/haskell-t
 haskell-vector-space-points 0.2.1.2-2build4 https://launchpad.net/ubuntu/+source/haskell-vector-space-points/0.2.1.2-2build4
 lubuntu-meta 0.84 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.84
 lubuntu-meta 0.84.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.84.1
+discover 2.1.2-7.1ubuntu1 https://launchpad.net/ubuntu/+source/discover/2.1.2-7.1ubuntu1
