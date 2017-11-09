@@ -19,3 +19,4 @@ partitionmanager 3.0.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/partition
 kdeplasma-addons 4:5.9.5-0ubuntu0.3 https://launchpad.net/ubuntu/+source/kdeplasma-addons/4:5.9.5-0ubuntu0.3
 mate-session-manager 1.18.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/mate-session-manager/1.18.0-0ubuntu1.1
 caja 1.18.1-0ubuntu2.1 https://launchpad.net/ubuntu/+source/caja/1.18.1-0ubuntu2.1
+engrampa 1.18.1-0ubuntu1.1 https://launchpad.net/ubuntu/+source/engrampa/1.18.1-0ubuntu1.1
