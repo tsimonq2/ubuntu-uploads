@@ -91,3 +91,4 @@ assimp 3.3.1~dfsg-5ubuntu1 https://launchpad.net/ubuntu/+source/assimp/3.3.1~dfs
 boolstuff 0.1.15-1ubuntu2 https://launchpad.net/ubuntu/+source/boolstuff/0.1.15-1ubuntu2
 bulletml 0.0.6-6.1ubuntu1 https://launchpad.net/ubuntu/+source/bulletml/0.0.6-6.1ubuntu1
 lubuntu-meta 0.85 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.85
+cairomm 1.12.2-1ubuntu1 https://launchpad.net/ubuntu/+source/cairomm/1.12.2-1ubuntu1
