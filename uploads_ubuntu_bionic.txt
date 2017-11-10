@@ -89,3 +89,4 @@ adplug 2.2.1+dfsg3-0.4ubuntu1 https://launchpad.net/ubuntu/+source/adplug/2.2.1+
 afflib 3.7.16-2ubuntu1 https://launchpad.net/ubuntu/+source/afflib/3.7.16-2ubuntu1
 assimp 3.3.1~dfsg-5ubuntu1 https://launchpad.net/ubuntu/+source/assimp/3.3.1~dfsg-5ubuntu1
 boolstuff 0.1.15-1ubuntu2 https://launchpad.net/ubuntu/+source/boolstuff/0.1.15-1ubuntu2
+bulletml 0.0.6-6.1ubuntu1 https://launchpad.net/ubuntu/+source/bulletml/0.0.6-6.1ubuntu1
