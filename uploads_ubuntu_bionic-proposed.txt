@@ -7,3 +7,4 @@ qttools-opensource-src 5.9.2-3 https://launchpad.net/ubuntu/+source/qttools-open
 node-tap 10.7.2+ds1-4 https://launchpad.net/ubuntu/+source/node-tap/10.7.2+ds1-4
 menu-cache 1.1.0-1 https://launchpad.net/ubuntu/+source/menu-cache/1.1.0-1
 mate-panel 1.18.5-1 https://launchpad.net/ubuntu/+source/mate-panel/1.18.5-1
+mate-applets 1.18.2-1 https://launchpad.net/ubuntu/+source/mate-applets/1.18.2-1
