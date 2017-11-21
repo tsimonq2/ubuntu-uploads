@@ -1,0 +1,1 @@
+konversation 1.7.2-1ubuntu1.1 https://launchpad.net/ubuntu/+source/konversation/1.7.2-1ubuntu1.1
