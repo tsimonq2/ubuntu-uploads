@@ -11,3 +11,4 @@ mate-applets 1.18.2-1 https://launchpad.net/ubuntu/+source/mate-applets/1.18.2-1
 vlc 2.2.7-1 https://launchpad.net/ubuntu/+source/vlc/2.2.7-1
 compton-conf 0.3.0-2 https://launchpad.net/ubuntu/+source/compton-conf/0.3.0-2
 libfm-qt 0.12.0-11 https://launchpad.net/ubuntu/+source/libfm-qt/0.12.0-11
+liblxqt 0.12.0-3 https://launchpad.net/ubuntu/+source/liblxqt/0.12.0-3
