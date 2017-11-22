@@ -20,3 +20,4 @@ lxqt-admin 0.12.0-2 https://launchpad.net/ubuntu/+source/lxqt-admin/0.12.0-2
 lxqt-build-tools 0.4.0-3 https://launchpad.net/ubuntu/+source/lxqt-build-tools/0.4.0-3
 lxqt-config 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-config/0.12.0-1
 lxqt-globalkeys 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.12.0-1
+lxqt-metapackages 20 https://launchpad.net/ubuntu/+source/lxqt-metapackages/20
