@@ -34,3 +34,4 @@ obconf-qt 0.12.0-1 https://launchpad.net/ubuntu/+source/obconf-qt/0.12.0-1
 pavucontrol-qt 0.3.0-1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/0.3.0-1
 pcmanfm-qt 0.12.0-1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.12.0-1
 qterminal 0.8.0-2 https://launchpad.net/ubuntu/+source/qterminal/0.8.0-2
+qtermwidget 0.8.0-3 https://launchpad.net/ubuntu/+source/qtermwidget/0.8.0-3
