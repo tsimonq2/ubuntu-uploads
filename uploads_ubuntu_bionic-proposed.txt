@@ -16,3 +16,4 @@ libqtxdg 3.1.0-2 https://launchpad.net/ubuntu/+source/libqtxdg/3.1.0-2
 libsysstat 0.4.0-1 https://launchpad.net/ubuntu/+source/libsysstat/0.4.0-1
 lximage-qt 0.6.0-1 https://launchpad.net/ubuntu/+source/lximage-qt/0.6.0-1
 lxqt-about 0.12.0-2 https://launchpad.net/ubuntu/+source/lxqt-about/0.12.0-2
+lxqt-admin 0.12.0-2 https://launchpad.net/ubuntu/+source/lxqt-admin/0.12.0-2
