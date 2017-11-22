@@ -21,3 +21,4 @@ lxqt-build-tools 0.4.0-3 https://launchpad.net/ubuntu/+source/lxqt-build-tools/0
 lxqt-config 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-config/0.12.0-1
 lxqt-globalkeys 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.12.0-1
 lxqt-metapackages 20 https://launchpad.net/ubuntu/+source/lxqt-metapackages/20
+lxqt-notificationd 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/0.12.0-1
