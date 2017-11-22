@@ -26,3 +26,4 @@ lxqt-openssh-askpass 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-openssh-
 lxqt-panel 0.12.0-4 https://launchpad.net/ubuntu/+source/lxqt-panel/0.12.0-4
 lxqt-policykit 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-policykit/0.12.0-1
 lxqt-powermanagement 0.12.0-2 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/0.12.0-2
+lxqt-qtplugin 0.12.0-2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.12.0-2
