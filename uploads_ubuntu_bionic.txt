@@ -100,3 +100,4 @@ calamares 3.1.8-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.1.8-0u
 gnome-mpv 0.13-1ubuntu1 https://launchpad.net/ubuntu/+source/gnome-mpv/0.13-1ubuntu1
 nodejs 6.12.0~dfsg-2ubuntu1 https://launchpad.net/ubuntu/+source/nodejs/6.12.0~dfsg-2ubuntu1
 bpfcc 0.4.0-1ubuntu1 https://launchpad.net/ubuntu/+source/bpfcc/0.4.0-1ubuntu1
+bpfcc 0.4.0-1ubuntu2 https://launchpad.net/ubuntu/+source/bpfcc/0.4.0-1ubuntu2
