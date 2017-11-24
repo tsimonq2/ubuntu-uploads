@@ -147,3 +147,4 @@ kitemviews 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kitemviews/5.40.
 kjobwidgets 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kjobwidgets/5.40.0-0ubuntu1
 kjs 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kjs/5.40.0-0ubuntu1
 kjsembed 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kjsembed/5.40.0-0ubuntu1
+kmediaplayer 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kmediaplayer/5.40.0-0ubuntu1
