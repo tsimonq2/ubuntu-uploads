@@ -149,3 +149,4 @@ kjs 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kjs/5.40.0-0ubuntu1
 kjsembed 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kjsembed/5.40.0-0ubuntu1
 kmediaplayer 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kmediaplayer/5.40.0-0ubuntu1
 knewstuff 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/knewstuff/5.40.0-0ubuntu1
+knotifications 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/knotifications/5.40.0-0ubuntu1
