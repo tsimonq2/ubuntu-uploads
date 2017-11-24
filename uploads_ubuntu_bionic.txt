@@ -158,3 +158,4 @@ kplotting 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kplotting/5.40.0-
 kpty 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpty/5.40.0-0ubuntu1
 kross 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kross/5.40.0-0ubuntu1
 krunner 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/krunner/5.40.0-0ubuntu1
+kservice 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kservice/5.40.0-0ubuntu1
