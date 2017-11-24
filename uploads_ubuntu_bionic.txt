@@ -128,3 +128,4 @@ kdelibs4support 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdelibs4sup
 kdesignerplugin 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesignerplugin/5.40.0-0ubuntu1
 kdesu 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesu/5.40.0-0ubuntu1
 kdewebkit 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdewebkit/5.40.0-0ubuntu1
+kdnssd-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdnssd-kf5/5.40.0-0ubuntu1
