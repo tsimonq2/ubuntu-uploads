@@ -174,3 +174,4 @@ oxygen-icons5 5:5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/oxygen-icon
 plasma-framework 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-framework/5.40.0-0ubuntu1
 prison-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/prison-kf5/5.40.0-0ubuntu1
 qqc2-desktop-style 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qqc2-desktop-style/5.40.0-0ubuntu1
+solid 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/solid/5.40.0-0ubuntu1
