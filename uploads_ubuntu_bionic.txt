@@ -156,3 +156,4 @@ kparts 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kparts/5.40.0-0ubunt
 kpeople 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpeople/5.40.0-0ubuntu1
 kplotting 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kplotting/5.40.0-0ubuntu1
 kpty 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpty/5.40.0-0ubuntu1
+kross 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kross/5.40.0-0ubuntu1
