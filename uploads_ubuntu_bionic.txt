@@ -121,3 +121,4 @@ kconfig 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kconfig/5.40.0-0ubu
 kconfigwidgets 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kconfigwidgets/5.40.0-0ubuntu1
 kcoreaddons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcoreaddons/5.40.0-0ubuntu1
 kcrash 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcrash/5.40.0-0ubuntu1
+kdbusaddons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdbusaddons/5.40.0-0ubuntu1
