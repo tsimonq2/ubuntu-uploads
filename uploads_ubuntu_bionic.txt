@@ -136,3 +136,4 @@ kglobalaccel 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kglobalaccel/5
 kguiaddons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kguiaddons/5.40.0-0ubuntu1
 khtml 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/khtml/5.40.0-0ubuntu1
 ki18n 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ki18n/5.40.0-0ubuntu1
+kiconthemes 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kiconthemes/5.40.0-0ubuntu1
