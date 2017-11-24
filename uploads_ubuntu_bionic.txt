@@ -164,3 +164,4 @@ ktextwidgets 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ktextwidgets/5
 kunitconversion 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kunitconversion/5.40.0-0ubuntu1
 kwallet-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwallet-kf5/5.40.0-0ubuntu1
 kwayland 4:5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwayland/4:5.40.0-0ubuntu1
+kwidgetsaddons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwidgetsaddons/5.40.0-0ubuntu1
