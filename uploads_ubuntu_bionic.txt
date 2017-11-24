@@ -116,3 +116,4 @@ kauth 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kauth/5.40.0-0ubuntu1
 kbookmarks 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kbookmarks/5.40.0-0ubuntu1
 kcmutils 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcmutils/5.40.0-0ubuntu1
 kcodecs 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcodecs/5.40.0-0ubuntu1
+kcompletion 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcompletion/5.40.0-0ubuntu1
