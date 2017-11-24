@@ -118,3 +118,4 @@ kcmutils 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcmutils/5.40.0-0u
 kcodecs 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcodecs/5.40.0-0ubuntu1
 kcompletion 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcompletion/5.40.0-0ubuntu1
 kconfig 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kconfig/5.40.0-0ubuntu1
+kconfigwidgets 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kconfigwidgets/5.40.0-0ubuntu1
