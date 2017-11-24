@@ -111,3 +111,4 @@ frameworkintegration 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/framew
 kactivities-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivities-kf5/5.40.0-0ubuntu1
 kactivities-stats 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivities-stats/5.40.0-0ubuntu1
 kapidox 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kapidox/5.40.0-0ubuntu1
+karchive 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/karchive/5.40.0-0ubuntu1
