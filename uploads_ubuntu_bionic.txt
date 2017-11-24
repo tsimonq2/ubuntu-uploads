@@ -141,3 +141,4 @@ kidletime 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kidletime/5.40.0-
 kimageformats 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kimageformats/5.40.0-0ubuntu1
 kinit 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kinit/5.40.0-0ubuntu1
 kio 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kio/5.40.0-0ubuntu1
+kirigami2 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kirigami2/5.40.0-0ubuntu1
