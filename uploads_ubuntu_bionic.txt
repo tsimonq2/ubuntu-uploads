@@ -122,3 +122,4 @@ kconfigwidgets 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kconfigwidge
 kcoreaddons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcoreaddons/5.40.0-0ubuntu1
 kcrash 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcrash/5.40.0-0ubuntu1
 kdbusaddons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdbusaddons/5.40.0-0ubuntu1
+kdeclarative 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeclarative/5.40.0-0ubuntu1
