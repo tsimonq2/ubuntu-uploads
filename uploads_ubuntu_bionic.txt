@@ -103,3 +103,4 @@ bpfcc 0.4.0-1ubuntu1 https://launchpad.net/ubuntu/+source/bpfcc/0.4.0-1ubuntu1
 bpfcc 0.4.0-1ubuntu2 https://launchpad.net/ubuntu/+source/bpfcc/0.4.0-1ubuntu2
 lxqt-l10n 0.12.0-1ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.12.0-1ubuntu1
 attica-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/attica-kf5/5.40.0-0ubuntu1
+baloo-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/baloo-kf5/5.40.0-0ubuntu1
