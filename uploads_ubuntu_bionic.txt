@@ -134,3 +134,4 @@ kemoticons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kemoticons/5.40.
 kfilemetadata-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kfilemetadata-kf5/5.40.0-0ubuntu1
 kglobalaccel 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kglobalaccel/5.40.0-0ubuntu1
 kguiaddons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kguiaddons/5.40.0-0ubuntu1
+khtml 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/khtml/5.40.0-0ubuntu1
