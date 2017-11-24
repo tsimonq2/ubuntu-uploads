@@ -130,3 +130,4 @@ kdesu 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesu/5.40.0-0ubuntu1
 kdewebkit 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdewebkit/5.40.0-0ubuntu1
 kdnssd-kf5 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdnssd-kf5/5.40.0-0ubuntu1
 kdoctools 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdoctools/5.40.0-0ubuntu1
+kemoticons 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kemoticons/5.40.0-0ubuntu1
