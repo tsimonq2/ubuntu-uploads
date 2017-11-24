@@ -169,3 +169,4 @@ kwindowsystem 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwindowsystem
 kxmlgui 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kxmlgui/5.40.0-0ubuntu1
 kxmlrpcclient 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kxmlrpcclient/5.40.0-0ubuntu1
 modemmanager-qt 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/modemmanager-qt/5.40.0-0ubuntu1
+networkmanager-qt 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/networkmanager-qt/5.40.0-0ubuntu1
