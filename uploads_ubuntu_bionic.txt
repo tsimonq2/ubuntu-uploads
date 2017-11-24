@@ -144,3 +144,4 @@ kio 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kio/5.40.0-0ubuntu1
 kirigami2 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kirigami2/5.40.0-0ubuntu1
 kitemmodels 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kitemmodels/5.40.0-0ubuntu1
 kitemviews 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kitemviews/5.40.0-0ubuntu1
+kjobwidgets 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kjobwidgets/5.40.0-0ubuntu1
