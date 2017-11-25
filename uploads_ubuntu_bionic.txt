@@ -178,3 +178,4 @@ solid 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/solid/5.40.0-0ubuntu1
 sonnet 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/sonnet/5.40.0-0ubuntu1
 ksyntax-highlighting 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ksyntax-highlighting/5.40.0-0ubuntu1
 threadweaver 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/threadweaver/5.40.0-0ubuntu1
+pythonqt 3.2-5ubuntu1 https://launchpad.net/ubuntu/+source/pythonqt/3.2-5ubuntu1
