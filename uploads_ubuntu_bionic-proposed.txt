@@ -38,3 +38,4 @@ qtermwidget 0.8.0-3 https://launchpad.net/ubuntu/+source/qtermwidget/0.8.0-3
 calamares 3.1.8-1 https://launchpad.net/ubuntu/+source/calamares/3.1.8-1
 bpfcc 0.4.0-1 https://launchpad.net/ubuntu/+source/bpfcc/0.4.0-1
 lxqt-themes 0.12.0-1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.12.0-1
+libindi 1.2.0-6 https://launchpad.net/ubuntu/+source/libindi/1.2.0-6
