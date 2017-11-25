@@ -180,3 +180,4 @@ ksyntax-highlighting 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ksynta
 threadweaver 5.40.0-0ubuntu1 https://launchpad.net/ubuntu/+source/threadweaver/5.40.0-0ubuntu1
 pythonqt 3.2-5ubuntu1 https://launchpad.net/ubuntu/+source/pythonqt/3.2-5ubuntu1
 libindi 1.2.0-6ubuntu1 https://launchpad.net/ubuntu/+source/libindi/1.2.0-6ubuntu1
+lubuntu-meta 0.86 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.86
