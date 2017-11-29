@@ -200,3 +200,4 @@ kgamma5 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kgamma5/4:5.11.4-
 khotkeys 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/khotkeys/4:5.11.4-0ubuntu1
 kinfocenter 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kinfocenter/4:5.11.4-0ubuntu1
 kmenuedit 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kmenuedit/4:5.11.4-0ubuntu1
+kscreen 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kscreen/4:5.11.4-0ubuntu1
