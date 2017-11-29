@@ -220,3 +220,4 @@ plasma-sdk 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-sdk/4:5
 plasma-vault 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-vault/5.11.4-0ubuntu1
 plasma-workspace 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.11.4-0ubuntu1
 plasma-workspace-wallpapers 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-workspace-wallpapers/4:5.11.4-0ubuntu1
+plymouth-kcm 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plymouth-kcm/5.11.4-0ubuntu1
