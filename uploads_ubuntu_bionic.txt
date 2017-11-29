@@ -227,3 +227,4 @@ sddm-kcm 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/sddm-kcm/4:5.11.
 systemsettings 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/systemsettings/4:5.11.4-0ubuntu1
 user-manager 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/user-manager/4:5.11.4-0ubuntu1
 xdg-desktop-portal-kde 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-kde/5.11.4-0ubuntu1
+opencsg 1.4.2-1ubuntu1 https://launchpad.net/ubuntu/+source/opencsg/1.4.2-1ubuntu1
