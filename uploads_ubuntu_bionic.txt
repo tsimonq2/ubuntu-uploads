@@ -212,3 +212,4 @@ libkscreen 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/libkscreen/4:5
 libksysguard 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/libksysguard/4:5.11.4-0ubuntu1
 milou 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/milou/4:5.11.4-0ubuntu1
 oxygen 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/oxygen/4:5.11.4-0ubuntu1
+plasma-desktop 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-desktop/4:5.11.4-0ubuntu1
