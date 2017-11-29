@@ -222,3 +222,4 @@ plasma-workspace 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-w
 plasma-workspace-wallpapers 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-workspace-wallpapers/4:5.11.4-0ubuntu1
 plymouth-kcm 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plymouth-kcm/5.11.4-0ubuntu1
 polkit-kde-agent-1 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/polkit-kde-agent-1/4:5.11.4-0ubuntu1
+powerdevil 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/powerdevil/4:5.11.4-0ubuntu1
