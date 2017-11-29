@@ -187,3 +187,4 @@ qtcreator 4.3.1-2ubuntu1 https://launchpad.net/ubuntu/+source/qtcreator/4.3.1-2u
 bpfcc 0.4.0-1ubuntu3 https://launchpad.net/ubuntu/+source/bpfcc/0.4.0-1ubuntu3
 breeze 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze/4:5.11.4-0ubuntu1
 breeze-grub 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-grub/5.11.4-0ubuntu1
+breeze-gtk 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-gtk/5.11.4-0ubuntu1
