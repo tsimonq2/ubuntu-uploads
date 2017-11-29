@@ -210,3 +210,4 @@ kwin 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kwin/4:5.11.4-0ubunt
 kwrited 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kwrited/4:5.11.4-0ubuntu1
 libkscreen 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/libkscreen/4:5.11.4-0ubuntu1
 libksysguard 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/libksysguard/4:5.11.4-0ubuntu1
+milou 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/milou/4:5.11.4-0ubuntu1
