@@ -193,3 +193,4 @@ plasma-discover 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-disc
 drkonqi 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/drkonqi/5.11.4-0ubuntu1
 kactivitymanagerd 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivitymanagerd/5.11.4-0ubuntu1
 kde-cli-tools 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-cli-tools/4:5.11.4-0ubuntu1
+kde-gtk-config 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-gtk-config/4:5.11.4-0ubuntu1
