@@ -196,3 +196,4 @@ kde-cli-tools 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-cli-too
 kde-gtk-config 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-gtk-config/4:5.11.4-0ubuntu1
 kdecoration 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kdecoration/4:5.11.4-0ubuntu1
 kdeplasma-addons 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeplasma-addons/4:5.11.4-0ubuntu1
+kgamma5 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kgamma5/4:5.11.4-0ubuntu1
