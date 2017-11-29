@@ -219,3 +219,4 @@ plasma-pa 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-pa/4:5.1
 plasma-sdk 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-sdk/4:5.11.4-0ubuntu1
 plasma-vault 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-vault/5.11.4-0ubuntu1
 plasma-workspace 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.11.4-0ubuntu1
+plasma-workspace-wallpapers 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-workspace-wallpapers/4:5.11.4-0ubuntu1
