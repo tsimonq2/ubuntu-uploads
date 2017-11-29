@@ -184,3 +184,4 @@ lubuntu-meta 0.86 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.86
 lxqt-session 0.12.0-1ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/0.12.0-1ubuntu1
 bluedevil 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/bluedevil/4:5.11.4-0ubuntu1
 qtcreator 4.3.1-2ubuntu1 https://launchpad.net/ubuntu/+source/qtcreator/4.3.1-2ubuntu1
+bpfcc 0.4.0-1ubuntu3 https://launchpad.net/ubuntu/+source/bpfcc/0.4.0-1ubuntu3
