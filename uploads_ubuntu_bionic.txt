@@ -204,3 +204,4 @@ kscreen 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kscreen/4:5.11.4-
 kscreenlocker 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kscreenlocker/5.11.4-0ubuntu1
 ksshaskpass 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/ksshaskpass/4:5.11.4-0ubuntu1
 ksysguard 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/ksysguard/4:5.11.4-0ubuntu1
+kwallet-pam 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kwallet-pam/4:5.11.4-0ubuntu1
