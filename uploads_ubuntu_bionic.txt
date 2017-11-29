@@ -225,3 +225,4 @@ polkit-kde-agent-1 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/polkit
 powerdevil 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/powerdevil/4:5.11.4-0ubuntu1
 sddm-kcm 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/sddm-kcm/4:5.11.4-0ubuntu1
 systemsettings 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/systemsettings/4:5.11.4-0ubuntu1
+user-manager 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/user-manager/4:5.11.4-0ubuntu1
