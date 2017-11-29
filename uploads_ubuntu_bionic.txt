@@ -207,3 +207,4 @@ ksysguard 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/ksysguard/4:5.1
 kwallet-pam 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kwallet-pam/4:5.11.4-0ubuntu1
 kwayland-integration 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kwayland-integration/4:5.11.4-0ubuntu1
 kwin 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kwin/4:5.11.4-0ubuntu1
+kwrited 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kwrited/4:5.11.4-0ubuntu1
