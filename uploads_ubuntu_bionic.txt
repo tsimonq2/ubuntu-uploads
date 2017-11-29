@@ -190,3 +190,4 @@ breeze-grub 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-grub/5.1
 breeze-gtk 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-gtk/5.11.4-0ubuntu1
 breeze-plymouth 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-plymouth/5.11.4-0ubuntu1
 plasma-discover 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-discover/5.11.4-0ubuntu1
+drkonqi 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/drkonqi/5.11.4-0ubuntu1
