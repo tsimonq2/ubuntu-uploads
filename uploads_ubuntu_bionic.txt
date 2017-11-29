@@ -216,3 +216,4 @@ plasma-desktop 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-des
 plasma-integration 5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-integration/5.11.4-0ubuntu1
 plasma-nm 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-nm/4:5.11.4-0ubuntu1
 plasma-pa 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-pa/4:5.11.4-0ubuntu1
+plasma-sdk 4:5.11.4-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-sdk/4:5.11.4-0ubuntu1
