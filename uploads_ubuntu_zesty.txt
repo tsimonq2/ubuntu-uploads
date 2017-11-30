@@ -23,3 +23,4 @@ engrampa 1.18.1-0ubuntu1.1 https://launchpad.net/ubuntu/+source/engrampa/1.18.1-
 mate-applets 1.18.1-0ubuntu1.1 https://launchpad.net/ubuntu/+source/mate-applets/1.18.1-0ubuntu1.1
 mate-utils 1.18.1-0ubuntu1.1 https://launchpad.net/ubuntu/+source/mate-utils/1.18.1-0ubuntu1.1
 apt-xapian-index 0.47ubuntu13.1 https://launchpad.net/ubuntu/+source/apt-xapian-index/0.47ubuntu13.1
+mate-panel 1.18.1-0ubuntu2.1 https://launchpad.net/ubuntu/+source/mate-panel/1.18.1-0ubuntu2.1
