@@ -43,3 +43,4 @@ ginga 2.6.6-2 https://launchpad.net/ubuntu/+source/ginga/2.6.6-2
 libqtxdg 3.1.0-3 https://launchpad.net/ubuntu/+source/libqtxdg/3.1.0-3
 libfm-qt 0.12.0-12 https://launchpad.net/ubuntu/+source/libfm-qt/0.12.0-12
 lxqt-panel 0.12.0-5 https://launchpad.net/ubuntu/+source/lxqt-panel/0.12.0-5
+lxqt-session 0.12.0-3 https://launchpad.net/ubuntu/+source/lxqt-session/0.12.0-3
