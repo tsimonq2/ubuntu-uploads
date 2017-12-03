@@ -1,3 +1,4 @@
 gthumb 3:3.3.1.is.3.2.7-0ubuntu1.1 https://launchpad.net/ubuntu/+source/gthumb/3:3.3.1.is.3.2.7-0ubuntu1.1
 fuse-umfuse-ext2 0.4-1.1ubuntu0.14.04.1 https://launchpad.net/ubuntu/+source/fuse-umfuse-ext2/0.4-1.1ubuntu0.14.04.1
 cryptkeeper 0.9.5-5.1ubuntu3.1 https://launchpad.net/ubuntu/+source/cryptkeeper/0.9.5-5.1ubuntu3.1
+childsplay 1.6-1ubuntu0.1 https://launchpad.net/ubuntu/+source/childsplay/1.6-1ubuntu0.1
