@@ -231,3 +231,4 @@ opencsg 1.4.2-1ubuntu1 https://launchpad.net/ubuntu/+source/opencsg/1.4.2-1ubunt
 lxqt-qtplugin 0.12.0-2build1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.12.0-2build1
 libfm-qt 0.12.0-11build1 https://launchpad.net/ubuntu/+source/libfm-qt/0.12.0-11build1
 libkf5kface 17.08.3-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5kface/17.08.3-0ubuntu1
+meta-kde 5:92ubuntu4 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu4
