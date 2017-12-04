@@ -235,3 +235,4 @@ meta-kde 5:92ubuntu4 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu4
 meta-kde 5:92ubuntu5 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu5
 meta-kde 5:92ubuntu6 https://launchpad.net/ubuntu/+source/meta-kde/5:92ubuntu6
 qtwebkit-opensource-src 5.212.0~alpha2-5build4 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-5build4
+qtsvg-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.9.3-0ubuntu1
