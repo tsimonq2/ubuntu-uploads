@@ -238,3 +238,4 @@ qtwebkit-opensource-src 5.212.0~alpha2-5build4 https://launchpad.net/ubuntu/+sou
 qtsvg-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.9.3-0ubuntu1
 qtcharts-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtcharts-opensource-src/5.9.3-0ubuntu1
 qtwebchannel-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebchannel-opensource-src/5.9.3-0ubuntu1
+kdepim-addons 17.08.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kdepim-addons/17.08.3-0ubuntu2
