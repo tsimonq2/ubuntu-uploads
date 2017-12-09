@@ -241,3 +241,4 @@ qtwebchannel-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/
 kdepim-addons 17.08.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kdepim-addons/17.08.3-0ubuntu2
 kdepim-runtime 4:17.08.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kdepim-runtime/4:17.08.3-0ubuntu2
 qt3d-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.3+dfsg-0ubuntu1
+qtgraphicaleffects-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.9.3-0ubuntu1
