@@ -251,3 +251,4 @@ qtcreator 4.3.1-2ubuntu2 https://launchpad.net/ubuntu/+source/qtcreator/4.3.1-2u
 qtsystems-opensource-src 5.0~git20141206~44f70d99-0ubuntu15~4 https://launchpad.net/ubuntu/+source/qtsystems-opensource-src/5.0~git20141206~44f70d99-0ubuntu15~4
 qtvirtualkeyboard-opensource-src 5.9.3+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.3+dfsg-0ubuntu2
 qtspeech-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.9.3-0ubuntu1
+qtsensors-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.3-0ubuntu1
