@@ -246,3 +246,4 @@ libindi 1.4.1+dfsg-3ubuntu1 https://launchpad.net/ubuntu/+source/libindi/1.4.1+d
 qtquickcontrols2-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.3-0ubuntu1
 qtlocation-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.3+dfsg-0ubuntu1
 qtwebengine-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.3+dfsg-0ubuntu1
+qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~5 https://launchpad.net/ubuntu/+source/qtpim-opensource-src/5.0~git20140515~29475884-0ubuntu24~5
