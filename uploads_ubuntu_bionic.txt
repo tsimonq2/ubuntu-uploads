@@ -245,3 +245,4 @@ qtgraphicaleffects-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+s
 libindi 1.4.1+dfsg-3ubuntu1 https://launchpad.net/ubuntu/+source/libindi/1.4.1+dfsg-3ubuntu1
 qtquickcontrols2-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.3-0ubuntu1
 qtlocation-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.3+dfsg-0ubuntu1
+qtwebengine-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.3+dfsg-0ubuntu1
