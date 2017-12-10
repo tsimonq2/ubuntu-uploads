@@ -248,3 +248,4 @@ qtlocation-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+sour
 qtwebengine-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.3+dfsg-0ubuntu1
 qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~5 https://launchpad.net/ubuntu/+source/qtpim-opensource-src/5.0~git20140515~29475884-0ubuntu24~5
 qtcreator 4.3.1-2ubuntu2 https://launchpad.net/ubuntu/+source/qtcreator/4.3.1-2ubuntu2
+qtsystems-opensource-src 5.0~git20141206~44f70d99-0ubuntu15~4 https://launchpad.net/ubuntu/+source/qtsystems-opensource-src/5.0~git20141206~44f70d99-0ubuntu15~4
