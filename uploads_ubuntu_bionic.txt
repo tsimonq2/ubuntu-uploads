@@ -311,3 +311,4 @@ krunner 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/krunner/5.41.0-0ubu
 kservice 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kservice/5.41.0-0ubuntu1
 ktexteditor 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ktexteditor/5.41.0-0ubuntu1
 ktextwidgets 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ktextwidgets/5.41.0-0ubuntu1
+kunitconversion 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kunitconversion/5.41.0-0ubuntu1
