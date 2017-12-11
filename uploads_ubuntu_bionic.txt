@@ -260,3 +260,4 @@ extra-cmake-modules 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/extra-c
 frameworkintegration 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/frameworkintegration/5.41.0-0ubuntu1
 kactivities-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivities-kf5/5.41.0-0ubuntu1
 kactivities-stats 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivities-stats/5.41.0-0ubuntu1
+kapidox 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kapidox/5.41.0-0ubuntu1
