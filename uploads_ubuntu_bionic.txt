@@ -277,3 +277,4 @@ kded 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kded/5.41.0-0ubuntu1
 kdelibs4support 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdelibs4support/5.41.0-0ubuntu1
 kdesignerplugin 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesignerplugin/5.41.0-0ubuntu1
 kdesu 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesu/5.41.0-0ubuntu1
+kdewebkit 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdewebkit/5.41.0-0ubuntu1
