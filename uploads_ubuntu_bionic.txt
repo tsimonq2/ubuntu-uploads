@@ -255,3 +255,4 @@ qtsensors-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qts
 attica-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/attica-kf5/5.41.0-0ubuntu1
 baloo-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/baloo-kf5/5.41.0-0ubuntu1
 bluez-qt 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/bluez-qt/5.41.0-0ubuntu1
+breeze-icons 4:5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-icons/4:5.41.0-0ubuntu1
