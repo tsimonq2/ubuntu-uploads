@@ -258,3 +258,4 @@ bluez-qt 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/bluez-qt/5.41.0-0u
 breeze-icons 4:5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-icons/4:5.41.0-0ubuntu1
 extra-cmake-modules 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/extra-cmake-modules/5.41.0-0ubuntu1
 frameworkintegration 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/frameworkintegration/5.41.0-0ubuntu1
+kactivities-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivities-kf5/5.41.0-0ubuntu1
