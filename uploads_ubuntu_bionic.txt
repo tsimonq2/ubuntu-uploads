@@ -307,3 +307,4 @@ kpeople 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpeople/5.41.0-0ubu
 kplotting 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kplotting/5.41.0-0ubuntu1
 kpty 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpty/5.41.0-0ubuntu1
 kross 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kross/5.41.0-0ubuntu1
+krunner 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/krunner/5.41.0-0ubuntu1
