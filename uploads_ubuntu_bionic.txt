@@ -320,3 +320,4 @@ kxmlgui 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kxmlgui/5.41.0-0ubu
 kxmlrpcclient 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kxmlrpcclient/5.41.0-0ubuntu1
 modemmanager-qt 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/modemmanager-qt/5.41.0-0ubuntu1
 networkmanager-qt 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/networkmanager-qt/5.41.0-0ubuntu1
+oxygen-icons5 5:5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/oxygen-icons5/5:5.41.0-0ubuntu1
