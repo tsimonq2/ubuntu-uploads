@@ -301,3 +301,4 @@ kmediaplayer 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kmediaplayer/5
 knewstuff 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/knewstuff/5.41.0-0ubuntu1
 knotifications 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/knotifications/5.41.0-0ubuntu1
 knotifyconfig 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/knotifyconfig/5.41.0-0ubuntu1
+kpackage 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpackage/5.41.0-0ubuntu1
