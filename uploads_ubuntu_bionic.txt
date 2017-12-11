@@ -273,3 +273,4 @@ kcoreaddons 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcoreaddons/5.4
 kcrash 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcrash/5.41.0-0ubuntu1
 kdbusaddons 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdbusaddons/5.41.0-0ubuntu1
 kdeclarative 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeclarative/5.41.0-0ubuntu1
+kded 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kded/5.41.0-0ubuntu1
