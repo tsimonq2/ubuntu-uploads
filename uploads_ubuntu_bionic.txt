@@ -264,3 +264,4 @@ kapidox 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kapidox/5.41.0-0ubu
 karchive 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/karchive/5.41.0-0ubuntu1
 kauth 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kauth/5.41.0-0ubuntu1
 kbookmarks 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kbookmarks/5.41.0-0ubuntu1
+kcmutils 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kcmutils/5.41.0-0ubuntu1
