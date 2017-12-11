@@ -305,3 +305,4 @@ kpackage 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpackage/5.41.0-0u
 kparts 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kparts/5.41.0-0ubuntu1
 kpeople 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpeople/5.41.0-0ubuntu1
 kplotting 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kplotting/5.41.0-0ubuntu1
+kpty 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpty/5.41.0-0ubuntu1
