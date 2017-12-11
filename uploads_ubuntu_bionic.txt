@@ -259,3 +259,4 @@ breeze-icons 4:5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/breeze-icons
 extra-cmake-modules 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/extra-cmake-modules/5.41.0-0ubuntu1
 frameworkintegration 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/frameworkintegration/5.41.0-0ubuntu1
 kactivities-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivities-kf5/5.41.0-0ubuntu1
+kactivities-stats 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactivities-stats/5.41.0-0ubuntu1
