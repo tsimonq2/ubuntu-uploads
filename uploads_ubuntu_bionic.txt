@@ -252,3 +252,4 @@ qtsystems-opensource-src 5.0~git20141206~44f70d99-0ubuntu15~4 https://launchpad.
 qtvirtualkeyboard-opensource-src 5.9.3+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.3+dfsg-0ubuntu2
 qtspeech-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.9.3-0ubuntu1
 qtsensors-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.3-0ubuntu1
+attica-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/attica-kf5/5.41.0-0ubuntu1
