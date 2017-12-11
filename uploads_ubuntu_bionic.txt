@@ -263,3 +263,4 @@ kactivities-stats 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kactiviti
 kapidox 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kapidox/5.41.0-0ubuntu1
 karchive 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/karchive/5.41.0-0ubuntu1
 kauth 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kauth/5.41.0-0ubuntu1
+kbookmarks 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kbookmarks/5.41.0-0ubuntu1
