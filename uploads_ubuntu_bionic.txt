@@ -292,3 +292,4 @@ kimageformats 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kimageformats
 kinit 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kinit/5.41.0-0ubuntu1
 kio 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kio/5.41.0-0ubuntu1
 kirigami2 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kirigami2/5.41.0-0ubuntu1
+kitemmodels 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kitemmodels/5.41.0-0ubuntu1
