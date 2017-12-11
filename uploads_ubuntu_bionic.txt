@@ -290,3 +290,4 @@ kiconthemes 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kiconthemes/5.4
 kidletime 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kidletime/5.41.0-0ubuntu1
 kimageformats 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kimageformats/5.41.0-0ubuntu1
 kinit 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kinit/5.41.0-0ubuntu1
+kio 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kio/5.41.0-0ubuntu1
