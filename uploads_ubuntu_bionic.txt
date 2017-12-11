@@ -281,3 +281,4 @@ kdewebkit 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdewebkit/5.41.0-
 kdnssd-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdnssd-kf5/5.41.0-0ubuntu1
 kdoctools 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kdoctools/5.41.0-0ubuntu1
 kemoticons 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kemoticons/5.41.0-0ubuntu1
+kfilemetadata-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kfilemetadata-kf5/5.41.0-0ubuntu1
