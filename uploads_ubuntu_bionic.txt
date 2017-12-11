@@ -312,3 +312,4 @@ kservice 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kservice/5.41.0-0u
 ktexteditor 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ktexteditor/5.41.0-0ubuntu1
 ktextwidgets 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ktextwidgets/5.41.0-0ubuntu1
 kunitconversion 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kunitconversion/5.41.0-0ubuntu1
+kwallet-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwallet-kf5/5.41.0-0ubuntu1
