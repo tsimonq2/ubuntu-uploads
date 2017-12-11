@@ -325,3 +325,4 @@ plasma-framework 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/plasma-fra
 prison-kf5 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/prison-kf5/5.41.0-0ubuntu1
 qqc2-desktop-style 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qqc2-desktop-style/5.41.0-0ubuntu1
 solid 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/solid/5.41.0-0ubuntu1
+sonnet 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/sonnet/5.41.0-0ubuntu1
