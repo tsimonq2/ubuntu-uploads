@@ -317,3 +317,4 @@ kwayland 4:5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwayland/4:5.41.
 kwidgetsaddons 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwidgetsaddons/5.41.0-0ubuntu1
 kwindowsystem 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kwindowsystem/5.41.0-0ubuntu1
 kxmlgui 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kxmlgui/5.41.0-0ubuntu1
+kxmlrpcclient 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kxmlrpcclient/5.41.0-0ubuntu1
