@@ -303,3 +303,4 @@ knotifications 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/knotificatio
 knotifyconfig 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/knotifyconfig/5.41.0-0ubuntu1
 kpackage 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpackage/5.41.0-0ubuntu1
 kparts 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kparts/5.41.0-0ubuntu1
+kpeople 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/kpeople/5.41.0-0ubuntu1
