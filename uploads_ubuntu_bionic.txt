@@ -335,3 +335,4 @@ qtwebsockets-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/
 qtwayland-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.3-0ubuntu1
 qtx11extras-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.9.3-0ubuntu1
 qtconnectivity-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.9.3-0ubuntu1
+qtquickcontrols-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.3-0ubuntu1
