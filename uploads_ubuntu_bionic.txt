@@ -331,3 +331,4 @@ threadweaver 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/threadweaver/5
 qtmultimedia-opensource-src 5.9.3-0ubuntu3 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.3-0ubuntu3
 qttranslations-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.3-0ubuntu1
 qtserialport-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.3-0ubuntu1
+qtwebsockets-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.3-0ubuntu1
