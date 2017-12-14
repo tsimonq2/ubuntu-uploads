@@ -333,3 +333,4 @@ qttranslations-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+sourc
 qtserialport-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.3-0ubuntu1
 qtwebsockets-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.3-0ubuntu1
 qtwayland-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.3-0ubuntu1
+qtx11extras-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.9.3-0ubuntu1
