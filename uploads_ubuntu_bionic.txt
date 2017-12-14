@@ -329,3 +329,4 @@ sonnet 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/sonnet/5.41.0-0ubunt
 ksyntax-highlighting 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/ksyntax-highlighting/5.41.0-0ubuntu1
 threadweaver 5.41.0-0ubuntu1 https://launchpad.net/ubuntu/+source/threadweaver/5.41.0-0ubuntu1
 qtmultimedia-opensource-src 5.9.3-0ubuntu3 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.3-0ubuntu3
+qttranslations-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.3-0ubuntu1
