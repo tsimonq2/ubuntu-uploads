@@ -338,3 +338,4 @@ qtconnectivity-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+sourc
 qtquickcontrols-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.3-0ubuntu1
 qtdoc-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtdoc-opensource-src/5.9.3-0ubuntu1
 qtwebview-opensource-src 5.9.3-0ubuntu3 https://launchpad.net/ubuntu/+source/qtwebview-opensource-src/5.9.3-0ubuntu3
+vlc 3.0.0~rc1-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc1-1ubuntu1
