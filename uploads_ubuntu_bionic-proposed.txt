@@ -45,3 +45,4 @@ libfm-qt 0.12.0-12 https://launchpad.net/ubuntu/+source/libfm-qt/0.12.0-12
 lxqt-panel 0.12.0-5 https://launchpad.net/ubuntu/+source/lxqt-panel/0.12.0-5
 lxqt-session 0.12.0-3 https://launchpad.net/ubuntu/+source/lxqt-session/0.12.0-3
 libindi 1.4.1+dfsg-3 https://launchpad.net/ubuntu/+source/libindi/1.4.1+dfsg-3
+vlc 3.0.0~rc1-1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc1-1
