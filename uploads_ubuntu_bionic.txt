@@ -339,3 +339,4 @@ qtquickcontrols-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+sour
 qtdoc-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtdoc-opensource-src/5.9.3-0ubuntu1
 qtwebview-opensource-src 5.9.3-0ubuntu3 https://launchpad.net/ubuntu/+source/qtwebview-opensource-src/5.9.3-0ubuntu3
 vlc 3.0.0~rc1-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc1-1ubuntu1
+tea 44.1.1-1build1 https://launchpad.net/ubuntu/+source/tea/44.1.1-1build1
