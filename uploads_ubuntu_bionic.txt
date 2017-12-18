@@ -342,3 +342,4 @@ vlc 3.0.0~rc1-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc1-1ubunt
 tea 44.1.1-1build1 https://launchpad.net/ubuntu/+source/tea/44.1.1-1build1
 analitza 4:17.08.3-0ubuntu2 https://launchpad.net/ubuntu/+source/analitza/4:17.08.3-0ubuntu2
 pyqt5 5.9.2+dfsg-1build1 https://launchpad.net/ubuntu/+source/pyqt5/5.9.2+dfsg-1build1
+openscenegraph-3.4 3.4.1+dfsg1-2build1 https://launchpad.net/ubuntu/+source/openscenegraph-3.4/3.4.1+dfsg1-2build1
