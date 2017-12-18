@@ -347,3 +347,4 @@ pktools 2.6.7.1+ds-1build4 https://launchpad.net/ubuntu/+source/pktools/2.6.7.1+
 opencv 3.2.0+dfsg-4build1 https://launchpad.net/ubuntu/+source/opencv/3.2.0+dfsg-4build1
 meta-kde 5:93ubuntu1 https://launchpad.net/ubuntu/+source/meta-kde/5:93ubuntu1
 indi-apogee 1.0-0ubuntu14 https://launchpad.net/ubuntu/+source/indi-apogee/1.0-0ubuntu14
+lxqt-l10n 0.12.0-3ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.12.0-3ubuntu1
