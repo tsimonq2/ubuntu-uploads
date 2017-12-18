@@ -349,3 +349,4 @@ meta-kde 5:93ubuntu1 https://launchpad.net/ubuntu/+source/meta-kde/5:93ubuntu1
 indi-apogee 1.0-0ubuntu14 https://launchpad.net/ubuntu/+source/indi-apogee/1.0-0ubuntu14
 lxqt-l10n 0.12.0-3ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.12.0-3ubuntu1
 qtbase-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.3+dfsg-0ubuntu1
+qtdeclarative-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.9.3-0ubuntu1
