@@ -344,3 +344,4 @@ analitza 4:17.08.3-0ubuntu2 https://launchpad.net/ubuntu/+source/analitza/4:17.0
 pyqt5 5.9.2+dfsg-1build1 https://launchpad.net/ubuntu/+source/pyqt5/5.9.2+dfsg-1build1
 openscenegraph-3.4 3.4.1+dfsg1-2build1 https://launchpad.net/ubuntu/+source/openscenegraph-3.4/3.4.1+dfsg1-2build1
 pktools 2.6.7.1+ds-1build4 https://launchpad.net/ubuntu/+source/pktools/2.6.7.1+ds-1build4
+opencv 3.2.0+dfsg-4build1 https://launchpad.net/ubuntu/+source/opencv/3.2.0+dfsg-4build1
