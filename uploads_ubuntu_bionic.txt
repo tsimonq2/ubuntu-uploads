@@ -355,3 +355,4 @@ qtscript-opensource-src 5.9.3+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source
 qttools-opensource-src 5.9.3-0ubuntu3 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.3-0ubuntu3
 qtxmlpatterns-opensource-src 5.9.3-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.3-0ubuntu1
 kdelibs4support 5.41.0-0ubuntu4 https://launchpad.net/ubuntu/+source/kdelibs4support/5.41.0-0ubuntu4
+vlc 3.0.0~rc2-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc2-1ubuntu1
