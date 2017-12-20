@@ -10,3 +10,4 @@ note 1.3.22-1 https://launchpad.net/debian/+source/note/1.3.22-1
 audacious-plugins 3.9-1 https://launchpad.net/debian/+source/audacious-plugins/3.9-1
 blackbox 0.70.1-35 https://launchpad.net/debian/+source/blackbox/0.70.1-35
 hardinfo 0.5.1+git20171103-1 https://launchpad.net/debian/+source/hardinfo/0.5.1+git20171103-1
+caja-seahorse 1.18.3-1 https://launchpad.net/debian/+source/caja-seahorse/1.18.3-1
