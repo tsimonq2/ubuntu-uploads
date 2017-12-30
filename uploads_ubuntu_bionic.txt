@@ -359,3 +359,4 @@ vlc 3.0.0~rc2-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc2-1ubunt
 qtstyleplugins-src 5.0.0+git23.g335dbec-2build3 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2build3
 meta-kde 5:93ubuntu2 https://launchpad.net/ubuntu/+source/meta-kde/5:93ubuntu2
 lubuntu-meta 0.87 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.87
+vlc 3.0.0~rc4-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc4-1ubuntu1
