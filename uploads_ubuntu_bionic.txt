@@ -360,3 +360,4 @@ qtstyleplugins-src 5.0.0+git23.g335dbec-2build3 https://launchpad.net/ubuntu/+so
 meta-kde 5:93ubuntu2 https://launchpad.net/ubuntu/+source/meta-kde/5:93ubuntu2
 lubuntu-meta 0.87 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.87
 vlc 3.0.0~rc4-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc4-1ubuntu1
+ubuntu-unity-meta 0.1 https://launchpad.net/ubuntu/+source/ubuntu-unity-meta/0.1
