@@ -48,3 +48,4 @@ libindi 1.4.1+dfsg-3 https://launchpad.net/ubuntu/+source/libindi/1.4.1+dfsg-3
 vlc 3.0.0~rc1-1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc1-1
 gpredict 2.0-3 https://launchpad.net/ubuntu/+source/gpredict/2.0-3
 vlc 3.0.0~rc2-1 https://launchpad.net/ubuntu/+source/vlc/3.0.0~rc2-1
+flask-migrate 2.1.1-2 https://launchpad.net/ubuntu/+source/flask-migrate/2.1.1-2
