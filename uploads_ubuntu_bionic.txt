@@ -364,3 +364,4 @@ ubuntu-unity-meta 0.1 https://launchpad.net/ubuntu/+source/ubuntu-unity-meta/0.1
 kylin-display-switch 1.0.1-0ubuntu1 https://launchpad.net/ubuntu/+source/kylin-display-switch/1.0.1-0ubuntu1
 lubuntu-meta 0.88 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.88
 intltool 0.51.0-5ubuntu1 https://launchpad.net/ubuntu/+source/intltool/0.51.0-5ubuntu1
+lubuntu-meta 0.89 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.89
