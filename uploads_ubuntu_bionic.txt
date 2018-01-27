@@ -366,3 +366,4 @@ lubuntu-meta 0.88 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.88
 intltool 0.51.0-5ubuntu1 https://launchpad.net/ubuntu/+source/intltool/0.51.0-5ubuntu1
 lubuntu-meta 0.89 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.89
 qqc2-desktop-style 5.42.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qqc2-desktop-style/5.42.0-0ubuntu1
+healpix-cxx 3.30.0-7ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.30.0-7ubuntu1
