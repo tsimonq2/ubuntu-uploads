@@ -368,3 +368,4 @@ lubuntu-meta 0.89 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.89
 qqc2-desktop-style 5.42.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qqc2-desktop-style/5.42.0-0ubuntu1
 healpix-cxx 3.30.0-7ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.30.0-7ubuntu1
 supermin 5.1.19-2ubuntu1 https://launchpad.net/ubuntu/+source/supermin/5.1.19-2ubuntu1
+clamsmtp 1.10-14ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-14ubuntu1
