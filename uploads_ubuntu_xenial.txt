@@ -19,3 +19,4 @@ yubioath-desktop 2.3.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/yubioath-
 openbox 3.6.1-1ubuntu2.1 https://launchpad.net/ubuntu/+source/openbox/3.6.1-1ubuntu2.1
 menu-cache 1.0.1-1ubuntu0.2 https://launchpad.net/ubuntu/+source/menu-cache/1.0.1-1ubuntu0.2
 lxpanel 0.8.2-1ubuntu2.1 https://launchpad.net/ubuntu/+source/lxpanel/0.8.2-1ubuntu2.1
+qttools-opensource-src 5.5.1-3ubuntu0.1 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.5.1-3ubuntu0.1
