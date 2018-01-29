@@ -372,3 +372,4 @@ clamsmtp 1.10-14ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-14ubu
 qca2 2.1.3-2ubuntu1 https://launchpad.net/ubuntu/+source/qca2/2.1.3-2ubuntu1
 freefem 3.5.8-6ubuntu1 https://launchpad.net/ubuntu/+source/freefem/3.5.8-6ubuntu1
 mythtv 2:29.0+fixes.20170728.696806310a-0ubuntu7 https://launchpad.net/ubuntu/+source/mythtv/2:29.0+fixes.20170728.696806310a-0ubuntu7
+ukui-menus 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-menus/1.1.2-0ubuntu1
