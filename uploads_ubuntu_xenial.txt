@@ -17,3 +17,4 @@ atril 1.12.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/atril/1.12.2-1ubunt
 lubuntu-meta 0.65.3 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.65.3
 yubioath-desktop 2.3.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/yubioath-desktop/2.3.0-1ubuntu0.1
 openbox 3.6.1-1ubuntu2.1 https://launchpad.net/ubuntu/+source/openbox/3.6.1-1ubuntu2.1
+menu-cache 1.0.1-1ubuntu0.2 https://launchpad.net/ubuntu/+source/menu-cache/1.0.1-1ubuntu0.2
