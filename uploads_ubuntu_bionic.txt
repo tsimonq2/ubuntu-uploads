@@ -374,3 +374,4 @@ freefem 3.5.8-6ubuntu1 https://launchpad.net/ubuntu/+source/freefem/3.5.8-6ubunt
 mythtv 2:29.0+fixes.20170728.696806310a-0ubuntu7 https://launchpad.net/ubuntu/+source/mythtv/2:29.0+fixes.20170728.696806310a-0ubuntu7
 ukui-menus 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-menus/1.1.2-0ubuntu1
 ukui-panel 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-panel/1.1.2-0ubuntu1
+lubuntu-artwork 0.71 https://launchpad.net/ubuntu/+source/lubuntu-artwork/0.71
