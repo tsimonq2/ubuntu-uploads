@@ -377,3 +377,4 @@ ukui-panel 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-panel/1.1.2-
 lubuntu-artwork 0.71 https://launchpad.net/ubuntu/+source/lubuntu-artwork/0.71
 calamares 3.1.12-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.1.12-0ubuntu1
 partitionmanager 3.2.1-3build1 https://launchpad.net/ubuntu/+source/partitionmanager/3.2.1-3build1
+partitionmanager 3.3.1-0ubuntu1 https://launchpad.net/ubuntu/+source/partitionmanager/3.3.1-0ubuntu1
