@@ -379,3 +379,4 @@ calamares 3.1.12-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.1.12-
 partitionmanager 3.2.1-3build1 https://launchpad.net/ubuntu/+source/partitionmanager/3.2.1-3build1
 partitionmanager 3.3.1-0ubuntu1 https://launchpad.net/ubuntu/+source/partitionmanager/3.3.1-0ubuntu1
 lubuntu-meta 0.90 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.90
+lxqt-panel 0.12.0-8ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.12.0-8ubuntu1
