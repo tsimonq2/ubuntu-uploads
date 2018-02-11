@@ -389,3 +389,4 @@ sddm 0.14.0-4ubuntu2 https://launchpad.net/ubuntu/+source/sddm/0.14.0-4ubuntu2
 lubuntu-default-settings 0.52 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.52
 nm-tray 0.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.3.0-0ubuntu1
 lubuntu-default-settings 0.53 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.53
+featherpad 0.7+git20180210-0ubuntu1 https://launchpad.net/ubuntu/+source/featherpad/0.7+git20180210-0ubuntu1
