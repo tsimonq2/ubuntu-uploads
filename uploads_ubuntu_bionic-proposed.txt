@@ -52,3 +52,4 @@ flask-migrate 2.1.1-2 https://launchpad.net/ubuntu/+source/flask-migrate/2.1.1-2
 libdbusmenu-qt 0.9.3+16.04.20160218-1 https://launchpad.net/ubuntu/+source/libdbusmenu-qt/0.9.3+16.04.20160218-1
 kde-baseapps 4:16.08.3-3 https://launchpad.net/ubuntu/+source/kde-baseapps/4:16.08.3-3
 meta-kde 5:99 https://launchpad.net/ubuntu/+source/meta-kde/5:99
+alkimia 7.0-1 https://launchpad.net/ubuntu/+source/alkimia/7.0-1
