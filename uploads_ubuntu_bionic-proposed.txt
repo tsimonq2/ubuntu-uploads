@@ -53,3 +53,4 @@ libdbusmenu-qt 0.9.3+16.04.20160218-1 https://launchpad.net/ubuntu/+source/libdb
 kde-baseapps 4:16.08.3-3 https://launchpad.net/ubuntu/+source/kde-baseapps/4:16.08.3-3
 meta-kde 5:99 https://launchpad.net/ubuntu/+source/meta-kde/5:99
 alkimia 7.0-1 https://launchpad.net/ubuntu/+source/alkimia/7.0-1
+calamares 3.1.12-1 https://launchpad.net/ubuntu/+source/calamares/3.1.12-1
