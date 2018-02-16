@@ -393,3 +393,4 @@ featherpad 0.7+git20180210-0ubuntu1 https://launchpad.net/ubuntu/+source/feather
 nodejs 8.9.3~dfsg-11ubuntu1 https://launchpad.net/ubuntu/+source/nodejs/8.9.3~dfsg-11ubuntu1
 lxqt-l10n 0.12.0-4ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.12.0-4ubuntu1
 healpix-cxx 3.30.0-8ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.30.0-8ubuntu1
+lubuntu-meta 0.91 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.91
