@@ -395,3 +395,4 @@ lxqt-l10n 0.12.0-4ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.12.0-
 healpix-cxx 3.30.0-8ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.30.0-8ubuntu1
 lubuntu-meta 0.91 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.91
 calamares-settings-ubuntu 1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1
+node-zipfile 0.5.11+ds-2build2 https://launchpad.net/ubuntu/+source/node-zipfile/0.5.11+ds-2build2
