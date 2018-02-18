@@ -401,3 +401,4 @@ node-websocket 1.0.23-3build2 https://launchpad.net/ubuntu/+source/node-websocke
 node-mapnik 3.6.2+dfsg-3build1 https://launchpad.net/ubuntu/+source/node-mapnik/3.6.2+dfsg-3build1
 node-leveldown 1.5.0+dfsg-1build2 https://launchpad.net/ubuntu/+source/node-leveldown/1.5.0+dfsg-1build2
 node-iconv 2.3.0-3build1 https://launchpad.net/ubuntu/+source/node-iconv/2.3.0-3build1
+node-groove 2.5.0-2build2 https://launchpad.net/ubuntu/+source/node-groove/2.5.0-2build2
