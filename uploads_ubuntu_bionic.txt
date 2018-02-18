@@ -396,3 +396,4 @@ healpix-cxx 3.30.0-8ubuntu1 https://launchpad.net/ubuntu/+source/healpix-cxx/3.3
 lubuntu-meta 0.91 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.91
 calamares-settings-ubuntu 1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1
 node-zipfile 0.5.11+ds-2build2 https://launchpad.net/ubuntu/+source/node-zipfile/0.5.11+ds-2build2
+node-ws 1.1.0+ds1.e6ddaae4-3build2 https://launchpad.net/ubuntu/+source/node-ws/1.1.0+ds1.e6ddaae4-3build2
