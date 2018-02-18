@@ -398,3 +398,4 @@ calamares-settings-ubuntu 1 https://launchpad.net/ubuntu/+source/calamares-setti
 node-zipfile 0.5.11+ds-2build2 https://launchpad.net/ubuntu/+source/node-zipfile/0.5.11+ds-2build2
 node-ws 1.1.0+ds1.e6ddaae4-3build2 https://launchpad.net/ubuntu/+source/node-ws/1.1.0+ds1.e6ddaae4-3build2
 node-websocket 1.0.23-3build2 https://launchpad.net/ubuntu/+source/node-websocket/1.0.23-3build2
+node-mapnik 3.6.2+dfsg-3build1 https://launchpad.net/ubuntu/+source/node-mapnik/3.6.2+dfsg-3build1
