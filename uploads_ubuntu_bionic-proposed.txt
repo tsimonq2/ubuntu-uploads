@@ -57,3 +57,4 @@ calamares 3.1.12-1 https://launchpad.net/ubuntu/+source/calamares/3.1.12-1
 partitionmanager 3.3.1-2 https://launchpad.net/ubuntu/+source/partitionmanager/3.3.1-2
 stardict 3.0.1-9.4 https://launchpad.net/ubuntu/+source/stardict/3.0.1-9.4
 man2html 1.6g-11 https://launchpad.net/ubuntu/+source/man2html/1.6g-11
+uget 2.2.0-1 https://launchpad.net/ubuntu/+source/uget/2.2.0-1
