@@ -407,3 +407,4 @@ node-sqlite3 3.1.8+ds1-2build2 https://launchpad.net/ubuntu/+source/node-sqlite3
 zsync 0.6.2-3ubuntu1 https://launchpad.net/ubuntu/+source/zsync/0.6.2-3ubuntu1
 lxqt-qtplugin 0.12.0-6ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.12.0-6ubuntu1
 scsitools 0.12-3ubuntu1 https://launchpad.net/ubuntu/+source/scsitools/0.12-3ubuntu1
+quassel 1:0.12.4-3ubuntu1 https://launchpad.net/ubuntu/+source/quassel/1:0.12.4-3ubuntu1
