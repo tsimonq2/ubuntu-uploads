@@ -409,3 +409,4 @@ lxqt-qtplugin 0.12.0-6ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin
 scsitools 0.12-3ubuntu1 https://launchpad.net/ubuntu/+source/scsitools/0.12-3ubuntu1
 quassel 1:0.12.4-3ubuntu1 https://launchpad.net/ubuntu/+source/quassel/1:0.12.4-3ubuntu1
 artha 1.0.3-2ubuntu1 https://launchpad.net/ubuntu/+source/artha/1.0.3-2ubuntu1
+clamsmtp 1.10-15ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-15ubuntu1
