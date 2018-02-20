@@ -59,3 +59,4 @@ stardict 3.0.1-9.4 https://launchpad.net/ubuntu/+source/stardict/3.0.1-9.4
 man2html 1.6g-11 https://launchpad.net/ubuntu/+source/man2html/1.6g-11
 uget 2.2.0-1 https://launchpad.net/ubuntu/+source/uget/2.2.0-1
 casync 2+61.20180112-1 https://launchpad.net/ubuntu/+source/casync/2+61.20180112-1
+dssp 3.0.0-2 https://launchpad.net/ubuntu/+source/dssp/3.0.0-2
