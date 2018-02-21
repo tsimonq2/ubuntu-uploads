@@ -61,3 +61,4 @@ uget 2.2.0-1 https://launchpad.net/ubuntu/+source/uget/2.2.0-1
 casync 2+61.20180112-1 https://launchpad.net/ubuntu/+source/casync/2+61.20180112-1
 dssp 3.0.0-2 https://launchpad.net/ubuntu/+source/dssp/3.0.0-2
 libinput 1.10.0-1 https://launchpad.net/ubuntu/+source/libinput/1.10.0-1
+dbus-cpp 5.0.0+18.04.20171031-1 https://launchpad.net/ubuntu/+source/dbus-cpp/5.0.0+18.04.20171031-1
