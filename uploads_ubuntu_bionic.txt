@@ -412,3 +412,4 @@ artha 1.0.3-2ubuntu1 https://launchpad.net/ubuntu/+source/artha/1.0.3-2ubuntu1
 clamsmtp 1.10-15ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-15ubuntu1
 lubuntu-meta 0.92 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.92
 popularity-contest 1.66ubuntu1 https://launchpad.net/ubuntu/+source/popularity-contest/1.66ubuntu1
+indi-sbig 1.0-0ubuntu12 https://launchpad.net/ubuntu/+source/indi-sbig/1.0-0ubuntu12
