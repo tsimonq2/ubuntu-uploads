@@ -420,3 +420,4 @@ slang2 2.3.1a-3ubuntu1 https://launchpad.net/ubuntu/+source/slang2/2.3.1a-3ubunt
 qtmultimedia-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.4-0ubuntu1
 qtlocation-opensource-src 5.9.4+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.4+dfsg-0ubuntu1
 qtsensors-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.4-0ubuntu1
+kio-gdrive 1.2.1-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-gdrive/1.2.1-0ubuntu1
