@@ -414,3 +414,4 @@ lubuntu-meta 0.92 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.92
 popularity-contest 1.66ubuntu1 https://launchpad.net/ubuntu/+source/popularity-contest/1.66ubuntu1
 indi-sbig 1.0-0ubuntu12 https://launchpad.net/ubuntu/+source/indi-sbig/1.0-0ubuntu12
 qtxmlpatterns-opensource-src 5.9.4-0ubuntu2+2 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.4-0ubuntu2+2
+qtwebsockets-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.4-0ubuntu1
