@@ -417,3 +417,4 @@ qtxmlpatterns-opensource-src 5.9.4-0ubuntu2+2 https://launchpad.net/ubuntu/+sour
 qtwebsockets-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.4-0ubuntu1
 qtwebchannel-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebchannel-opensource-src/5.9.4-0ubuntu1
 slang2 2.3.1a-3ubuntu1 https://launchpad.net/ubuntu/+source/slang2/2.3.1a-3ubuntu1
+qtmultimedia-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.4-0ubuntu1
