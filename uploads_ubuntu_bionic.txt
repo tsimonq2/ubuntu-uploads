@@ -423,3 +423,4 @@ qtsensors-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qts
 kio-gdrive 1.2.1-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-gdrive/1.2.1-0ubuntu1
 qtbase-opensource-src 5.9.4+dfsg-0ubuntu3 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.4+dfsg-0ubuntu3
 qtdeclarative-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.9.4-0ubuntu1
+qtscript-opensource-src 5.9.4+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.4+dfsg-0ubuntu1
