@@ -421,3 +421,4 @@ qtmultimedia-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/
 qtlocation-opensource-src 5.9.4+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.4+dfsg-0ubuntu1
 qtsensors-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.4-0ubuntu1
 kio-gdrive 1.2.1-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-gdrive/1.2.1-0ubuntu1
+qtbase-opensource-src 5.9.4+dfsg-0ubuntu3 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.4+dfsg-0ubuntu3
