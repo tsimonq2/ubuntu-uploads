@@ -427,3 +427,4 @@ qtscript-opensource-src 5.9.4+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source
 qttools-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.4-0ubuntu1
 qtwebkit-opensource-src 5.212.0~alpha2-7build2 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-7build2
 qtimageformats-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtimageformats-opensource-src/5.9.4-0ubuntu1
+qt3d-opensource-src 5.9.4+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.4+dfsg-0ubuntu2
