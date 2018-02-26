@@ -440,3 +440,4 @@ qtsvg-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsvg-o
 qtvirtualkeyboard-opensource-src 5.9.4+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.4+dfsg-0ubuntu1
 qttranslations-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.4-0ubuntu1
 qtwayland-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.4-0ubuntu1
+analitza 4:17.12.2-0ubuntu2 https://launchpad.net/ubuntu/+source/analitza/4:17.12.2-0ubuntu2
