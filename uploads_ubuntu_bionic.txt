@@ -434,3 +434,4 @@ qtconnectivity-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+sourc
 qtgraphicaleffects-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.9.4-0ubuntu1
 qtquickcontrols-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.4-0ubuntu1
 qtquickcontrols2-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.4-0ubuntu1
+qtserialport-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.4-0ubuntu1
