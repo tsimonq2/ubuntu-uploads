@@ -443,3 +443,4 @@ qtwayland-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtw
 analitza 4:17.12.2-0ubuntu2 https://launchpad.net/ubuntu/+source/analitza/4:17.12.2-0ubuntu2
 pyqt5 5.9.2+dfsg-1build2 https://launchpad.net/ubuntu/+source/pyqt5/5.9.2+dfsg-1build2
 pythonqt 3.2-7build1 https://launchpad.net/ubuntu/+source/pythonqt/3.2-7build1
+qtav 1.12.0+ds-4build2 https://launchpad.net/ubuntu/+source/qtav/1.12.0+ds-4build2
