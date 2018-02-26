@@ -431,3 +431,4 @@ qt3d-opensource-src 5.9.4+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qt3
 qtcharts-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtcharts-opensource-src/5.9.4-0ubuntu1
 qtx11extras-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.9.4-0ubuntu1
 qtconnectivity-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.9.4-0ubuntu1
+qtgraphicaleffects-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.9.4-0ubuntu1
