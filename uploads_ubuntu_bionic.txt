@@ -475,3 +475,4 @@ qt5ct 0.34-1build1 https://launchpad.net/ubuntu/+source/qt5ct/0.34-1build1
 openorienteering-mapper 0.7.0-1build3 https://launchpad.net/ubuntu/+source/openorienteering-mapper/0.7.0-1build3
 musescore 2.1.0+dfsg2-1build1 https://launchpad.net/ubuntu/+source/musescore/2.1.0+dfsg2-1build1
 libqtxdg 3.1.0-5build1 https://launchpad.net/ubuntu/+source/libqtxdg/3.1.0-5build1
+dtkwidget 2.0.6.1-1build1 https://launchpad.net/ubuntu/+source/dtkwidget/2.0.6.1-1build1
