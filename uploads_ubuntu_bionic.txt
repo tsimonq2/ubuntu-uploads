@@ -451,3 +451,4 @@ ubuntu-restricted-addons 26 https://launchpad.net/ubuntu/+source/ubuntu-restrict
 qtwebengine-opensource-src 5.9.4+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.4+dfsg-0ubuntu1
 qtwebview-opensource-src 5.9.4-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebview-opensource-src/5.9.4-0ubuntu1
 ukui-power-manager 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-power-manager/1.1.1-0ubuntu1
+gammaray 2.7.0-1ubuntu7 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu7
