@@ -466,3 +466,4 @@ qtstyleplugins-src 5.0.0+git23.g335dbec-2build4 https://launchpad.net/ubuntu/+so
 skrooge 2.11.0-1build1 https://launchpad.net/ubuntu/+source/skrooge/2.11.0-1build1
 telegram-desktop 1.2.6-2build2 https://launchpad.net/ubuntu/+source/telegram-desktop/1.2.6-2build2
 texmaker 5.0.2-1build1 https://launchpad.net/ubuntu/+source/texmaker/5.0.2-1build1
+uim 1:1.8.6+gh20180114.64e3173-2build1 https://launchpad.net/ubuntu/+source/uim/1:1.8.6+gh20180114.64e3173-2build1
