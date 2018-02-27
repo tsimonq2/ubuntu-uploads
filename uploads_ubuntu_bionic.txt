@@ -454,3 +454,4 @@ ukui-power-manager 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-powe
 gammaray 2.7.0-1ubuntu7 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu7
 fcitx-qt5 1.1.1-1build2 https://launchpad.net/ubuntu/+source/fcitx-qt5/1.1.1-1build2
 gcin 2.8.5+dfsg1-4build3 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-4build3
+hime 0.9.10+git20170427+dfsg1-2build3 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-2build3
