@@ -469,3 +469,4 @@ texmaker 5.0.2-1build1 https://launchpad.net/ubuntu/+source/texmaker/5.0.2-1buil
 uim 1:1.8.6+gh20180114.64e3173-2build1 https://launchpad.net/ubuntu/+source/uim/1:1.8.6+gh20180114.64e3173-2build1
 xdg-desktop-portal-kde 5.12.2-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-kde/5.12.2-0ubuntu2
 gsettings-qt 0.1+17.10.20170824-2fakesync1build1 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-2fakesync1build1
+qtsystems-opensource-src 5.0~git20141206~44f70d99-0ubuntu15~5 https://launchpad.net/ubuntu/+source/qtsystems-opensource-src/5.0~git20141206~44f70d99-0ubuntu15~5
