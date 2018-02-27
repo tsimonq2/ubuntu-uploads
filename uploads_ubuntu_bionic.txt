@@ -464,3 +464,4 @@ plasma-integration 5.12.2-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-i
 qtcurve 1.8.18+git20160320-3d8622c-5build3 https://launchpad.net/ubuntu/+source/qtcurve/1.8.18+git20160320-3d8622c-5build3
 qtstyleplugins-src 5.0.0+git23.g335dbec-2build4 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2build4
 skrooge 2.11.0-1build1 https://launchpad.net/ubuntu/+source/skrooge/2.11.0-1build1
+telegram-desktop 1.2.6-2build2 https://launchpad.net/ubuntu/+source/telegram-desktop/1.2.6-2build2
