@@ -470,3 +470,4 @@ uim 1:1.8.6+gh20180114.64e3173-2build1 https://launchpad.net/ubuntu/+source/uim/
 xdg-desktop-portal-kde 5.12.2-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-kde/5.12.2-0ubuntu2
 gsettings-qt 0.1+17.10.20170824-2fakesync1build1 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-2fakesync1build1
 qtsystems-opensource-src 5.0~git20141206~44f70d99-0ubuntu15~5 https://launchpad.net/ubuntu/+source/qtsystems-opensource-src/5.0~git20141206~44f70d99-0ubuntu15~5
+qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~6 https://launchpad.net/ubuntu/+source/qtpim-opensource-src/5.0~git20140515~29475884-0ubuntu24~6
