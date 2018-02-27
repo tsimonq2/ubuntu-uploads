@@ -457,3 +457,4 @@ gcin 2.8.5+dfsg1-4build3 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-4
 hime 0.9.10+git20170427+dfsg1-2build3 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-2build3
 kdeclarative 5.43.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdeclarative/5.43.0-0ubuntu2
 kwin 4:5.12.2-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.2-0ubuntu2
+libfm-qt 0.12.0-14build1 https://launchpad.net/ubuntu/+source/libfm-qt/0.12.0-14build1
