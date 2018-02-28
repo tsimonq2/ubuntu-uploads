@@ -481,3 +481,4 @@ akonadi 4:17.08.3-0ubuntu3 https://launchpad.net/ubuntu/+source/akonadi/4:17.08.
 kdelibs4support 5.43.0-0ubuntu4 https://launchpad.net/ubuntu/+source/kdelibs4support/5.43.0-0ubuntu4
 steam 1:1.0.0.54+repack-5ubuntu1 https://launchpad.net/ubuntu/+source/steam/1:1.0.0.54+repack-5ubuntu1
 falkon 3.0.0-0ubuntu1 https://launchpad.net/ubuntu/+source/falkon/3.0.0-0ubuntu1
+falkon 3.0.0-0ubuntu2 https://launchpad.net/ubuntu/+source/falkon/3.0.0-0ubuntu2
