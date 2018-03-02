@@ -62,3 +62,4 @@ casync 2+61.20180112-1 https://launchpad.net/ubuntu/+source/casync/2+61.20180112
 dssp 3.0.0-2 https://launchpad.net/ubuntu/+source/dssp/3.0.0-2
 libinput 1.10.0-1 https://launchpad.net/ubuntu/+source/libinput/1.10.0-1
 dbus-cpp 5.0.0+18.04.20171031-1 https://launchpad.net/ubuntu/+source/dbus-cpp/5.0.0+18.04.20171031-1
+nx-libs 2:3.5.99.14-3 https://launchpad.net/ubuntu/+source/nx-libs/2:3.5.99.14-3
