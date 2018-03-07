@@ -486,3 +486,4 @@ gtk3-nocsd 3-1ubuntu1 https://launchpad.net/ubuntu/+source/gtk3-nocsd/3-1ubuntu1
 ukui-settings-daemon 1.1.5-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-settings-daemon/1.1.5-0ubuntu1
 ukui-media 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-media/1.1.1-0ubuntu1
 gnome-screensaver 3.6.1-8ubuntu3 https://launchpad.net/ubuntu/+source/gnome-screensaver/3.6.1-8ubuntu3
+xca 1.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/xca/1.4.1-0ubuntu1
