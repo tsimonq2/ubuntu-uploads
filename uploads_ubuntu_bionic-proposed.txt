@@ -66,3 +66,4 @@ nx-libs 2:3.5.99.14-3 https://launchpad.net/ubuntu/+source/nx-libs/2:3.5.99.14-3
 intel-ipsec-mb 0.48-2 https://launchpad.net/ubuntu/+source/intel-ipsec-mb/0.48-2
 prometheus-mailexporter 1.0-2 https://launchpad.net/ubuntu/+source/prometheus-mailexporter/1.0-2
 golang-github-chaseadamsio-goorgeous 2.0.0+git20171126.dcf1ef8-2 https://launchpad.net/ubuntu/+source/golang-github-chaseadamsio-goorgeous/2.0.0+git20171126.dcf1ef8-2
+hugo 0.37-2 https://launchpad.net/ubuntu/+source/hugo/0.37-2
