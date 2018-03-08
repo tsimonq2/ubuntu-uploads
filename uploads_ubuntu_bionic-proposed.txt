@@ -68,3 +68,4 @@ prometheus-mailexporter 1.0-2 https://launchpad.net/ubuntu/+source/prometheus-ma
 golang-github-chaseadamsio-goorgeous 2.0.0+git20171126.dcf1ef8-2 https://launchpad.net/ubuntu/+source/golang-github-chaseadamsio-goorgeous/2.0.0+git20171126.dcf1ef8-2
 hugo 0.37-2 https://launchpad.net/ubuntu/+source/hugo/0.37-2
 nodejs 8.9.3~dfsg-12 https://launchpad.net/ubuntu/+source/nodejs/8.9.3~dfsg-12
+nx-libs 2:3.5.99.15-1 https://launchpad.net/ubuntu/+source/nx-libs/2:3.5.99.15-1
