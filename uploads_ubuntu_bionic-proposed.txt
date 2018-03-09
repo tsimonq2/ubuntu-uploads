@@ -74,3 +74,4 @@ golang-github-spf13-pflag 1.0.0-1 https://launchpad.net/ubuntu/+source/golang-gi
 golang-github-jdkato-prose 1.1.0+git20171031.e27abfd-2 https://launchpad.net/ubuntu/+source/golang-github-jdkato-prose/1.1.0+git20171031.e27abfd-2
 ser-player 1.7.2-3 https://launchpad.net/ubuntu/+source/ser-player/1.7.2-3
 gcompris-qt 0.81-1 https://launchpad.net/ubuntu/+source/gcompris-qt/0.81-1
+hugo 0.37.1-1 https://launchpad.net/ubuntu/+source/hugo/0.37.1-1
