@@ -72,3 +72,4 @@ nx-libs 2:3.5.99.15-1 https://launchpad.net/ubuntu/+source/nx-libs/2:3.5.99.15-1
 golang-golang-x-sys 0.0~git20180308.349b81f-1 https://launchpad.net/ubuntu/+source/golang-golang-x-sys/0.0~git20180308.349b81f-1
 golang-github-spf13-pflag 1.0.0-1 https://launchpad.net/ubuntu/+source/golang-github-spf13-pflag/1.0.0-1
 golang-github-jdkato-prose 1.1.0+git20171031.e27abfd-2 https://launchpad.net/ubuntu/+source/golang-github-jdkato-prose/1.1.0+git20171031.e27abfd-2
+ser-player 1.7.2-3 https://launchpad.net/ubuntu/+source/ser-player/1.7.2-3
