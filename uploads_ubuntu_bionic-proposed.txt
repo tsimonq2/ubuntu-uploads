@@ -70,3 +70,4 @@ hugo 0.37-2 https://launchpad.net/ubuntu/+source/hugo/0.37-2
 nodejs 8.9.3~dfsg-12 https://launchpad.net/ubuntu/+source/nodejs/8.9.3~dfsg-12
 nx-libs 2:3.5.99.15-1 https://launchpad.net/ubuntu/+source/nx-libs/2:3.5.99.15-1
 golang-golang-x-sys 0.0~git20180308.349b81f-1 https://launchpad.net/ubuntu/+source/golang-golang-x-sys/0.0~git20180308.349b81f-1
+golang-github-spf13-pflag 1.0.0-1 https://launchpad.net/ubuntu/+source/golang-github-spf13-pflag/1.0.0-1
