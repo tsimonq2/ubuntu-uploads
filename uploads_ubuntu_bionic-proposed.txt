@@ -76,3 +76,4 @@ ser-player 1.7.2-3 https://launchpad.net/ubuntu/+source/ser-player/1.7.2-3
 gcompris-qt 0.81-1 https://launchpad.net/ubuntu/+source/gcompris-qt/0.81-1
 hugo 0.37.1-1 https://launchpad.net/ubuntu/+source/hugo/0.37.1-1
 note 1.3.22-2 https://launchpad.net/ubuntu/+source/note/1.3.22-2
+gcompris-qt 0.81-2 https://launchpad.net/ubuntu/+source/gcompris-qt/0.81-2
