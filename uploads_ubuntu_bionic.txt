@@ -495,3 +495,4 @@ update-manager 1:18.04.7 https://launchpad.net/ubuntu/+source/update-manager/1:1
 sbuild 0.74.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.74.0-1ubuntu1
 ubuntukylin-wallpapers 18.04.0 https://launchpad.net/ubuntu/+source/ubuntukylin-wallpapers/18.04.0
 latte-dock 0.7.3-0ubuntu1 https://launchpad.net/ubuntu/+source/latte-dock/0.7.3-0ubuntu1
+qtcreator 4.5.2-1ubuntu1 https://launchpad.net/ubuntu/+source/qtcreator/4.5.2-1ubuntu1
