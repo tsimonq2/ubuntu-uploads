@@ -10,3 +10,4 @@ karchive 5.18.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/karchive/5.18.0-
 jython 2.5.3-9ubuntu0.1 https://launchpad.net/ubuntu/+source/jython/2.5.3-9ubuntu0.1
 git 1:2.7.4-0ubuntu1.3 https://launchpad.net/ubuntu/+source/git/1:2.7.4-0ubuntu1.3
 konversation 1.6-0ubuntu1.1 https://launchpad.net/ubuntu/+source/konversation/1.6-0ubuntu1.1
+plasma-workspace 4:5.5.5.2-0ubuntu1.1 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.5.5.2-0ubuntu1.1
