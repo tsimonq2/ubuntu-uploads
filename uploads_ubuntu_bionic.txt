@@ -492,3 +492,4 @@ qtbase-opensource-src 5.9.4+dfsg-0ubuntu4 https://launchpad.net/ubuntu/+source/q
 falkon 3.0.0-0ubuntu3 https://launchpad.net/ubuntu/+source/falkon/3.0.0-0ubuntu3
 apturl 0.5.2ubuntu14 https://launchpad.net/ubuntu/+source/apturl/0.5.2ubuntu14
 update-manager 1:18.04.7 https://launchpad.net/ubuntu/+source/update-manager/1:18.04.7
+sbuild 0.74.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.74.0-1ubuntu1
