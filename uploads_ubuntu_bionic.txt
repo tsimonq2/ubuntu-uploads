@@ -491,3 +491,4 @@ clamsmtp 1.10-16ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-16ubu
 qtbase-opensource-src 5.9.4+dfsg-0ubuntu4 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.4+dfsg-0ubuntu4
 falkon 3.0.0-0ubuntu3 https://launchpad.net/ubuntu/+source/falkon/3.0.0-0ubuntu3
 apturl 0.5.2ubuntu14 https://launchpad.net/ubuntu/+source/apturl/0.5.2ubuntu14
+update-manager 1:18.04.7 https://launchpad.net/ubuntu/+source/update-manager/1:18.04.7
