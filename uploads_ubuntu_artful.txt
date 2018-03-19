@@ -152,3 +152,4 @@ mate-session-manager 1.18.1-2ubuntu2.1 https://launchpad.net/ubuntu/+source/mate
 mate-panel 1.18.4-2ubuntu0.1 https://launchpad.net/ubuntu/+source/mate-panel/1.18.4-2ubuntu0.1
 dolphin-emu 5.0+dfsg-1ubuntu0.17.10.1 https://launchpad.net/ubuntu/+source/dolphin-emu/5.0+dfsg-1ubuntu0.17.10.1
 corebird 1.6-1ubuntu0.1 https://launchpad.net/ubuntu/+source/corebird/1.6-1ubuntu0.1
+akregator 4:17.04.3-0ubuntu1.1 https://launchpad.net/ubuntu/+source/akregator/4:17.04.3-0ubuntu1.1
