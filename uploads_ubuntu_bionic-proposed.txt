@@ -87,3 +87,4 @@ znc 1.6.6-1 https://launchpad.net/ubuntu/+source/znc/1.6.6-1
 pikopixel.app 1.0-b9a-1 https://launchpad.net/ubuntu/+source/pikopixel.app/1.0-b9a-1
 botan 2.4.0-3 https://launchpad.net/ubuntu/+source/botan/2.4.0-3
 qbs 1.10.1+dfsg-1 https://launchpad.net/ubuntu/+source/qbs/1.10.1+dfsg-1
+nodejs 8.10.0~dfsg-1 https://launchpad.net/ubuntu/+source/nodejs/8.10.0~dfsg-1
