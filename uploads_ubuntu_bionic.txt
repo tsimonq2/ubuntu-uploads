@@ -498,3 +498,4 @@ latte-dock 0.7.3-0ubuntu1 https://launchpad.net/ubuntu/+source/latte-dock/0.7.3-
 qtcreator 4.5.2-1ubuntu1 https://launchpad.net/ubuntu/+source/qtcreator/4.5.2-1ubuntu1
 qtcreator 4.5.2-3ubuntu1 https://launchpad.net/ubuntu/+source/qtcreator/4.5.2-3ubuntu1
 lubuntu-meta 0.93 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.93
+lxterminal 0.3.1-2ubuntu1 https://launchpad.net/ubuntu/+source/lxterminal/0.3.1-2ubuntu1
