@@ -90,3 +90,4 @@ qbs 1.10.1+dfsg-1 https://launchpad.net/ubuntu/+source/qbs/1.10.1+dfsg-1
 nodejs 8.10.0~dfsg-1 https://launchpad.net/ubuntu/+source/nodejs/8.10.0~dfsg-1
 tuxpaint 1:0.9.22-12 https://launchpad.net/ubuntu/+source/tuxpaint/1:0.9.22-12
 ntpsec 1.1.0+dfsg1-1 https://launchpad.net/ubuntu/+source/ntpsec/1.1.0+dfsg1-1
+ultracopier 1.4.0.5-1 https://launchpad.net/ubuntu/+source/ultracopier/1.4.0.5-1
