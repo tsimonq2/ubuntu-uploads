@@ -94,3 +94,4 @@ ultracopier 1.4.0.5-1 https://launchpad.net/ubuntu/+source/ultracopier/1.4.0.5-1
 libinput 1.10.3-2 https://launchpad.net/ubuntu/+source/libinput/1.10.3-2
 apper 1.0.0-1 https://launchpad.net/ubuntu/+source/apper/1.0.0-1
 arctica-greeter 0.99.0.4-1 https://launchpad.net/ubuntu/+source/arctica-greeter/0.99.0.4-1
+golang-github-coreos-bbolt 1.3.1-coreos.5-1 https://launchpad.net/ubuntu/+source/golang-github-coreos-bbolt/1.3.1-coreos.5-1
