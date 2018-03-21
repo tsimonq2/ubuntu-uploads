@@ -506,3 +506,4 @@ akonadi-import-wizard 17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/akon
 civicrm 4.7.30+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/4.7.30+dfsg-1ubuntu1
 peruse 1.2+dfsg-1 https://launchpad.net/ubuntu/+source/peruse/1.2+dfsg-1
 korganizer 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/korganizer/4:17.12.3-0ubuntu2
+ktexteditor 5.44.0-0ubuntu2 https://launchpad.net/ubuntu/+source/ktexteditor/5.44.0-0ubuntu2
