@@ -98,3 +98,4 @@ golang-github-coreos-bbolt 1.3.1-coreos.5-1 https://launchpad.net/ubuntu/+source
 colord-kde 0.5.0-2 https://launchpad.net/ubuntu/+source/colord-kde/0.5.0-2
 golang-github-ugorji-go-codec 1.1+git20180221.0076dd9-3 https://launchpad.net/ubuntu/+source/golang-github-ugorji-go-codec/1.1+git20180221.0076dd9-3
 xca 1.4.1-1fakesync1 https://launchpad.net/ubuntu/+source/xca/1.4.1-1fakesync1
+etcd 3.2.17+dfsg-1 https://launchpad.net/ubuntu/+source/etcd/3.2.17+dfsg-1
