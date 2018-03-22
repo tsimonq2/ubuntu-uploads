@@ -100,3 +100,4 @@ golang-github-ugorji-go-codec 1.1+git20180221.0076dd9-3 https://launchpad.net/ub
 xca 1.4.1-1fakesync1 https://launchpad.net/ubuntu/+source/xca/1.4.1-1fakesync1
 etcd 3.2.17+dfsg-1 https://launchpad.net/ubuntu/+source/etcd/3.2.17+dfsg-1
 libayatana-appindicator 0.5.3-3 https://launchpad.net/ubuntu/+source/libayatana-appindicator/0.5.3-3
+libayatana-indicator 0.6.2-1 https://launchpad.net/ubuntu/+source/libayatana-indicator/0.6.2-1
