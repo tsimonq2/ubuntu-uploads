@@ -509,3 +509,4 @@ korganizer 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/korganizer/4:
 ktexteditor 5.44.0-0ubuntu2 https://launchpad.net/ubuntu/+source/ktexteditor/5.44.0-0ubuntu2
 kwin 4:5.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.3-0ubuntu2
 qtvirtualkeyboard-opensource-src 5.9.4+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.4+dfsg-0ubuntu2
+sbuild 0.75.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.75.0-1ubuntu1
