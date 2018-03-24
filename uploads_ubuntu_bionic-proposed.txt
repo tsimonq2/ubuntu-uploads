@@ -103,3 +103,4 @@ libayatana-appindicator 0.5.3-3 https://launchpad.net/ubuntu/+source/libayatana-
 libayatana-indicator 0.6.2-1 https://launchpad.net/ubuntu/+source/libayatana-indicator/0.6.2-1
 telepathy-qt 0.9.7-3fakesync1 https://launchpad.net/ubuntu/+source/telepathy-qt/0.9.7-3fakesync1
 adwaita-qt 1.0-2 https://launchpad.net/ubuntu/+source/adwaita-qt/1.0-2
+bc 1.07.1-2 https://launchpad.net/ubuntu/+source/bc/1.07.1-2
