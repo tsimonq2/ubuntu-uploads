@@ -511,3 +511,4 @@ kwin 4:5.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.3-0ubunt
 qtvirtualkeyboard-opensource-src 5.9.4+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.4+dfsg-0ubuntu2
 sbuild 0.75.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.75.0-1ubuntu1
 node-block-stream 0.0.9-1ubuntu1 https://launchpad.net/ubuntu/+source/node-block-stream/0.0.9-1ubuntu1
+gtk+2.0 2.24.32-1ubuntu1 https://launchpad.net/ubuntu/+source/gtk+2.0/2.24.32-1ubuntu1
