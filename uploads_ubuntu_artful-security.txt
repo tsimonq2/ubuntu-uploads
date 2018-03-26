@@ -1,2 +1,3 @@
 konversation 1.7.2-1ubuntu1.1 https://launchpad.net/ubuntu/+source/konversation/1.7.2-1ubuntu1.1
 plasma-workspace 4:5.10.5-0ubuntu1.1 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.10.5-0ubuntu1.1
+atril 1.18.1-1ubuntu0.1 https://launchpad.net/ubuntu/+source/atril/1.18.1-1ubuntu0.1
