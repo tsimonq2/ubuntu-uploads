@@ -514,3 +514,4 @@ node-block-stream 0.0.9-1ubuntu1 https://launchpad.net/ubuntu/+source/node-block
 gtk+2.0 2.24.32-1ubuntu1 https://launchpad.net/ubuntu/+source/gtk+2.0/2.24.32-1ubuntu1
 node-cross-spawn 5.1.0-1ubuntu1 https://launchpad.net/ubuntu/+source/node-cross-spawn/5.1.0-1ubuntu1
 tlp 1.1-1ubuntu1 https://launchpad.net/ubuntu/+source/tlp/1.1-1ubuntu1
+kubuntu-wallpapers 18.04.0 https://launchpad.net/ubuntu/+source/kubuntu-wallpapers/18.04.0
