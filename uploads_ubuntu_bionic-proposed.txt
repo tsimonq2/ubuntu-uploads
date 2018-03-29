@@ -108,3 +108,4 @@ nodejs 8.10.0~dfsg-2 https://launchpad.net/ubuntu/+source/nodejs/8.10.0~dfsg-2
 beep 1.3-4+deb9u1 https://launchpad.net/ubuntu/+source/beep/1.3-4+deb9u1
 dub 1.8.0-1 https://launchpad.net/ubuntu/+source/dub/1.8.0-1
 mercurial 4.5.2-1 https://launchpad.net/ubuntu/+source/mercurial/4.5.2-1
+arch-install-scripts 18-1 https://launchpad.net/ubuntu/+source/arch-install-scripts/18-1
