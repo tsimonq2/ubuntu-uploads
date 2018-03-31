@@ -112,3 +112,4 @@ arch-install-scripts 18-1 https://launchpad.net/ubuntu/+source/arch-install-scri
 tellico 3.1.2-0.1 https://launchpad.net/ubuntu/+source/tellico/3.1.2-0.1
 featherpad 0.8-1 https://launchpad.net/ubuntu/+source/featherpad/0.8-1
 botan 2.4.0-4 https://launchpad.net/ubuntu/+source/botan/2.4.0-4
+pikopixel.app 1.0-b9a-2 https://launchpad.net/ubuntu/+source/pikopixel.app/1.0-b9a-2
