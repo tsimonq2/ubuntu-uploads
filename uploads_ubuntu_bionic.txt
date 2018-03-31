@@ -515,3 +515,4 @@ gtk+2.0 2.24.32-1ubuntu1 https://launchpad.net/ubuntu/+source/gtk+2.0/2.24.32-1u
 node-cross-spawn 5.1.0-1ubuntu1 https://launchpad.net/ubuntu/+source/node-cross-spawn/5.1.0-1ubuntu1
 tlp 1.1-1ubuntu1 https://launchpad.net/ubuntu/+source/tlp/1.1-1ubuntu1
 kubuntu-wallpapers 18.04.0 https://launchpad.net/ubuntu/+source/kubuntu-wallpapers/18.04.0
+qtwayland-opensource-src 5.9.4-0ubuntu2 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.4-0ubuntu2
