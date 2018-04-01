@@ -517,3 +517,4 @@ tlp 1.1-1ubuntu1 https://launchpad.net/ubuntu/+source/tlp/1.1-1ubuntu1
 kubuntu-wallpapers 18.04.0 https://launchpad.net/ubuntu/+source/kubuntu-wallpapers/18.04.0
 qtwayland-opensource-src 5.9.4-0ubuntu2 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.4-0ubuntu2
 sddm 0.17.0-1ubuntu2 https://launchpad.net/ubuntu/+source/sddm/0.17.0-1ubuntu2
+ukwm 1.1.8-0ubuntu1 https://launchpad.net/ubuntu/+source/ukwm/1.1.8-0ubuntu1
