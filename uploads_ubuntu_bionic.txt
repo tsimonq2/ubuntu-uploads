@@ -524,3 +524,4 @@ ukui-settings-daemon 1.1.6-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-se
 ubuntukylin-theme 1.7.6 https://launchpad.net/ubuntu/+source/ubuntukylin-theme/1.7.6
 peony-extensions 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/peony-extensions/1.1.1-0ubuntu1
 kylin-burner 3.0.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kylin-burner/3.0.4-0ubuntu1
+ukui-window-switch 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-window-switch/1.1.1-0ubuntu1
