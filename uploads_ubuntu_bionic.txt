@@ -523,3 +523,4 @@ indicator-datetime 15.10+17.10.20170829.2-0ubuntu4 https://launchpad.net/ubuntu/
 ukui-settings-daemon 1.1.6-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-settings-daemon/1.1.6-0ubuntu1
 ubuntukylin-theme 1.7.6 https://launchpad.net/ubuntu/+source/ubuntukylin-theme/1.7.6
 peony-extensions 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/peony-extensions/1.1.1-0ubuntu1
+kylin-burner 3.0.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kylin-burner/3.0.4-0ubuntu1
