@@ -115,3 +115,4 @@ botan 2.4.0-4 https://launchpad.net/ubuntu/+source/botan/2.4.0-4
 pikopixel.app 1.0-b9a-2 https://launchpad.net/ubuntu/+source/pikopixel.app/1.0-b9a-2
 remctl 3.13-1+deb9u1 https://launchpad.net/ubuntu/+source/remctl/3.13-1+deb9u1
 pcp 4.0.1-1 https://launchpad.net/ubuntu/+source/pcp/4.0.1-1
+flent 1.2.1-1 https://launchpad.net/ubuntu/+source/flent/1.2.1-1
