@@ -527,3 +527,4 @@ kylin-burner 3.0.4-0ubuntu1 https://launchpad.net/ubuntu/+source/kylin-burner/3.
 ukui-window-switch 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-window-switch/1.1.1-0ubuntu1
 unity-greeter 18.04.0+18.04.20180314.1-0ubuntu2 https://launchpad.net/ubuntu/+source/unity-greeter/18.04.0+18.04.20180314.1-0ubuntu2
 unity-lens-applications 7.1.0+16.10.20160927-0ubuntu3 https://launchpad.net/ubuntu/+source/unity-lens-applications/7.1.0+16.10.20160927-0ubuntu3
+unity-lens-files 7.1.0+17.10.20170605-0ubuntu2 https://launchpad.net/ubuntu/+source/unity-lens-files/7.1.0+17.10.20170605-0ubuntu2
