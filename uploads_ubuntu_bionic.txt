@@ -531,3 +531,4 @@ unity-lens-files 7.1.0+17.10.20170605-0ubuntu2 https://launchpad.net/ubuntu/+sou
 unity-lens-music 6.9.1+16.04-0ubuntu3 https://launchpad.net/ubuntu/+source/unity-lens-music/6.9.1+16.04-0ubuntu3
 unity-lens-video 0.3.15+16.04.20160212.1-0ubuntu3 https://launchpad.net/ubuntu/+source/unity-lens-video/0.3.15+16.04.20160212.1-0ubuntu3
 unity-scope-home 6.8.2+16.04.20160212.1-0ubuntu3 https://launchpad.net/ubuntu/+source/unity-scope-home/6.8.2+16.04.20160212.1-0ubuntu3
+unity 7.5.0+18.04.20180404-0ubuntu2 https://launchpad.net/ubuntu/+source/unity/7.5.0+18.04.20180404-0ubuntu2
