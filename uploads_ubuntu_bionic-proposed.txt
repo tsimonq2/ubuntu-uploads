@@ -117,3 +117,4 @@ remctl 3.13-1+deb9u1 https://launchpad.net/ubuntu/+source/remctl/3.13-1+deb9u1
 pcp 4.0.1-1 https://launchpad.net/ubuntu/+source/pcp/4.0.1-1
 flent 1.2.1-1 https://launchpad.net/ubuntu/+source/flent/1.2.1-1
 x2goclient 4.1.1.1-2 https://launchpad.net/ubuntu/+source/x2goclient/4.1.1.1-2
+botan 2.4.0-5 https://launchpad.net/ubuntu/+source/botan/2.4.0-5
