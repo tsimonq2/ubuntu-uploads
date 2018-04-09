@@ -536,3 +536,4 @@ unity-lens-photos 1.0+17.10.20170605-0ubuntu3 https://launchpad.net/ubuntu/+sour
 unity-scope-calculator 0.1+14.04.20140328-0ubuntu3 https://launchpad.net/ubuntu/+source/unity-scope-calculator/0.1+14.04.20140328-0ubuntu3
 unity-scope-devhelp 0.1+14.04.20140328-0ubuntu3 https://launchpad.net/ubuntu/+source/unity-scope-devhelp/0.1+14.04.20140328-0ubuntu3
 unity-scope-manpages 3.0+14.04.20140324-0ubuntu3 https://launchpad.net/ubuntu/+source/unity-scope-manpages/3.0+14.04.20140324-0ubuntu3
+ukui-media 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-media/1.1.2-0ubuntu1
