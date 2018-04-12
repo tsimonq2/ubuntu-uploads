@@ -14,3 +14,4 @@ plasma-workspace 4:5.5.5.2-0ubuntu1.1 https://launchpad.net/ubuntu/+source/plasm
 atril 1.12.2-1ubuntu0.2 https://launchpad.net/ubuntu/+source/atril/1.12.2-1ubuntu0.2
 kdepim 4:15.12.3-0ubuntu1.1 https://launchpad.net/ubuntu/+source/kdepim/4:15.12.3-0ubuntu1.1
 atril 1.12.2-1ubuntu0.3 https://launchpad.net/ubuntu/+source/atril/1.12.2-1ubuntu0.3
+calibre 2.55.0+dfsg-1ubuntu0.2 https://launchpad.net/ubuntu/+source/calibre/2.55.0+dfsg-1ubuntu0.2
