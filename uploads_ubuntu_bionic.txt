@@ -541,3 +541,4 @@ mpv 0.27.2-1ubuntu1 https://launchpad.net/ubuntu/+source/mpv/0.27.2-1ubuntu1
 clamsmtp 1.10-17ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-17ubuntu1
 kylin-video 1.1.6-0ubuntu1 https://launchpad.net/ubuntu/+source/kylin-video/1.1.6-0ubuntu1
 qtbase-opensource-src 5.9.5+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.9.5+dfsg-0ubuntu1
+lubuntu-meta 0.94 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.94
