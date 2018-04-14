@@ -547,3 +547,4 @@ gsequencer 1.4.24-1ubuntu2 https://launchpad.net/ubuntu/+source/gsequencer/1.4.2
 qtsensors-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.5-0ubuntu1
 qtlocation-opensource-src 5.9.5+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.5+dfsg-0ubuntu2
 qtwebsockets-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.9.5-0ubuntu1
+qtwebchannel-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebchannel-opensource-src/5.9.5-0ubuntu1
