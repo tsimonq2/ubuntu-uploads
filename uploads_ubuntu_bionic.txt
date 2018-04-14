@@ -545,3 +545,4 @@ lubuntu-meta 0.94 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.94
 qttools-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.9.5-0ubuntu1
 gsequencer 1.4.24-1ubuntu2 https://launchpad.net/ubuntu/+source/gsequencer/1.4.24-1ubuntu2
 qtsensors-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.9.5-0ubuntu1
+qtlocation-opensource-src 5.9.5+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.9.5+dfsg-0ubuntu2
