@@ -561,3 +561,4 @@ qtx11extras-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/q
 qtmultimedia-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.5-0ubuntu1
 qtquickcontrols2-opensource-src 5.9.5-0ubuntu2 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.5-0ubuntu2
 qtvirtualkeyboard-opensource-src 5.9.5+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.5+dfsg-0ubuntu1
+qttranslations-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.5-0ubuntu1
