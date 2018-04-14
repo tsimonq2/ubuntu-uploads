@@ -559,3 +559,4 @@ qtsvg-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsvg-o
 qtwayland-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.5-0ubuntu1
 qtx11extras-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.9.5-0ubuntu1
 qtmultimedia-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.9.5-0ubuntu1
+qtquickcontrols2-opensource-src 5.9.5-0ubuntu2 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.5-0ubuntu2
