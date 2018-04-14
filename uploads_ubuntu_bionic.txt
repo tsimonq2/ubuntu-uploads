@@ -554,3 +554,4 @@ qtquickcontrols-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+sour
 qt3d-opensource-src 5.9.5+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.5+dfsg-0ubuntu2
 qtscript-opensource-src 5.9.5+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.5+dfsg-0ubuntu1
 qtserialport-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.5-0ubuntu1
+qtspeech-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.9.5-0ubuntu1
