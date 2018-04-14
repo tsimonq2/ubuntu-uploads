@@ -556,3 +556,4 @@ qtscript-opensource-src 5.9.5+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source
 qtserialport-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.9.5-0ubuntu1
 qtspeech-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.9.5-0ubuntu1
 qtsvg-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.9.5-0ubuntu1
+qtwayland-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.9.5-0ubuntu1
