@@ -552,3 +552,4 @@ qtcharts-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtch
 qtgraphicaleffects-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.9.5-0ubuntu1
 qtquickcontrols-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.9.5-0ubuntu1
 qt3d-opensource-src 5.9.5+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.9.5+dfsg-0ubuntu2
+qtscript-opensource-src 5.9.5+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.9.5+dfsg-0ubuntu1
