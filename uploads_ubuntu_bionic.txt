@@ -564,3 +564,4 @@ qtvirtualkeyboard-opensource-src 5.9.5+dfsg-0ubuntu1 https://launchpad.net/ubunt
 qttranslations-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.5-0ubuntu1
 kodi 2:17.6+dfsg1-1ubuntu1 https://launchpad.net/ubuntu/+source/kodi/2:17.6+dfsg1-1ubuntu1
 qtav 1.12.0+ds-4build3 https://launchpad.net/ubuntu/+source/qtav/1.12.0+ds-4build3
+pythonqt 3.2-7build2 https://launchpad.net/ubuntu/+source/pythonqt/3.2-7build2
