@@ -121,3 +121,4 @@ botan 2.4.0-5 https://launchpad.net/ubuntu/+source/botan/2.4.0-5
 i2p 0.9.33-2 https://launchpad.net/ubuntu/+source/i2p/0.9.33-2
 thunderbolt-tools 0.9.3-3 https://launchpad.net/ubuntu/+source/thunderbolt-tools/0.9.3-3
 ffmpeg 7:3.4.2-2 https://launchpad.net/ubuntu/+source/ffmpeg/7:3.4.2-2
+libtools-macro-clojure 0.1.5-2 https://launchpad.net/ubuntu/+source/libtools-macro-clojure/0.1.5-2
