@@ -562,3 +562,4 @@ qtmultimedia-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/
 qtquickcontrols2-opensource-src 5.9.5-0ubuntu2 https://launchpad.net/ubuntu/+source/qtquickcontrols2-opensource-src/5.9.5-0ubuntu2
 qtvirtualkeyboard-opensource-src 5.9.5+dfsg-0ubuntu1 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.9.5+dfsg-0ubuntu1
 qttranslations-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.9.5-0ubuntu1
+kodi 2:17.6+dfsg1-1ubuntu1 https://launchpad.net/ubuntu/+source/kodi/2:17.6+dfsg1-1ubuntu1
