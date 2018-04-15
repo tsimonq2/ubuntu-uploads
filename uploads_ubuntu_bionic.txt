@@ -574,3 +574,4 @@ hime 0.9.10+git20170427+dfsg1-2build4 https://launchpad.net/ubuntu/+source/hime/
 kdeclarative 5.44.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdeclarative/5.44.0-0ubuntu2
 kwin 4:5.12.4-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.4-0ubuntu2
 libfm-qt 0.12.0-14build2 https://launchpad.net/ubuntu/+source/libfm-qt/0.12.0-14build2
+lxqt-qtplugin 0.12.0-6ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.12.0-6ubuntu3
