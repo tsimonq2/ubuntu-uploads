@@ -594,3 +594,4 @@ qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~7 https://launchpad.net/
 gsettings-qt 0.1+17.10.20170824-2fakesync1build2 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-2fakesync1build2
 kxmlgui 5.44.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kxmlgui/5.44.0-0ubuntu2
 qtwebengine-opensource-src 5.9.5+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.5+dfsg-0ubuntu2
+sddm 0.17.0-1ubuntu4 https://launchpad.net/ubuntu/+source/sddm/0.17.0-1ubuntu4
