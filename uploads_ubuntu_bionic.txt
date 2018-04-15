@@ -569,3 +569,4 @@ analitza 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/analitza/4:17.1
 gammaray 2.7.0-1ubuntu8 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu8
 kdelibs4support 5.44.0-0ubuntu3 https://launchpad.net/ubuntu/+source/kdelibs4support/5.44.0-0ubuntu3
 fcitx-qt5 1.1.1-1build3 https://launchpad.net/ubuntu/+source/fcitx-qt5/1.1.1-1build3
+gcin 2.8.5+dfsg1-4build4 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-4build4
