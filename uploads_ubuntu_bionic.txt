@@ -572,3 +572,4 @@ fcitx-qt5 1.1.1-1build3 https://launchpad.net/ubuntu/+source/fcitx-qt5/1.1.1-1bu
 gcin 2.8.5+dfsg1-4build4 https://launchpad.net/ubuntu/+source/gcin/2.8.5+dfsg1-4build4
 hime 0.9.10+git20170427+dfsg1-2build4 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-2build4
 kdeclarative 5.44.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdeclarative/5.44.0-0ubuntu2
+kwin 4:5.12.4-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.4-0ubuntu2
