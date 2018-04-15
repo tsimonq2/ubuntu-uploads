@@ -123,3 +123,4 @@ thunderbolt-tools 0.9.3-3 https://launchpad.net/ubuntu/+source/thunderbolt-tools
 ffmpeg 7:3.4.2-2 https://launchpad.net/ubuntu/+source/ffmpeg/7:3.4.2-2
 libtools-macro-clojure 0.1.5-2 https://launchpad.net/ubuntu/+source/libtools-macro-clojure/0.1.5-2
 data-xml-clojure 0.0.8-4 https://launchpad.net/ubuntu/+source/data-xml-clojure/0.0.8-4
+complete-clojure 0.2.4-3 https://launchpad.net/ubuntu/+source/complete-clojure/0.2.4-3
