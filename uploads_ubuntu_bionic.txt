@@ -581,3 +581,4 @@ qtcurve 1.8.18+git20160320-3d8622c-5build4 https://launchpad.net/ubuntu/+source/
 qtstyleplugins-src 5.0.0+git23.g335dbec-2build5 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2build5
 skrooge 2.11.0-1build2 https://launchpad.net/ubuntu/+source/skrooge/2.11.0-1build2
 telegram-desktop 1.2.15-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.2.15-1build1
+texmaker 5.0.2-1build2 https://launchpad.net/ubuntu/+source/texmaker/5.0.2-1build2
