@@ -583,3 +583,4 @@ skrooge 2.11.0-1build2 https://launchpad.net/ubuntu/+source/skrooge/2.11.0-1buil
 telegram-desktop 1.2.15-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.2.15-1build1
 texmaker 5.0.2-1build2 https://launchpad.net/ubuntu/+source/texmaker/5.0.2-1build2
 xdg-desktop-portal-kde 5.12.4-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-kde/5.12.4-0ubuntu2
+akonadi 4:17.12.3-0ubuntu3 https://launchpad.net/ubuntu/+source/akonadi/4:17.12.3-0ubuntu3
