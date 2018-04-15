@@ -126,3 +126,4 @@ data-xml-clojure 0.0.8-4 https://launchpad.net/ubuntu/+source/data-xml-clojure/0
 complete-clojure 0.2.4-3 https://launchpad.net/ubuntu/+source/complete-clojure/0.2.4-3
 sjacket-clojure 0.1.1-2 https://launchpad.net/ubuntu/+source/sjacket-clojure/0.1.1-2
 pomegranate-clojure 1.0.0-2 https://launchpad.net/ubuntu/+source/pomegranate-clojure/1.0.0-2
+parsley-clojure 0.9.3-2 https://launchpad.net/ubuntu/+source/parsley-clojure/0.9.3-2
