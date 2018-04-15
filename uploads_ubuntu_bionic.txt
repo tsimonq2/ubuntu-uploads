@@ -568,3 +568,4 @@ pythonqt 3.2-7build2 https://launchpad.net/ubuntu/+source/pythonqt/3.2-7build2
 analitza 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/analitza/4:17.12.3-0ubuntu2
 gammaray 2.7.0-1ubuntu8 https://launchpad.net/ubuntu/+source/gammaray/2.7.0-1ubuntu8
 kdelibs4support 5.44.0-0ubuntu3 https://launchpad.net/ubuntu/+source/kdelibs4support/5.44.0-0ubuntu3
+fcitx-qt5 1.1.1-1build3 https://launchpad.net/ubuntu/+source/fcitx-qt5/1.1.1-1build3
