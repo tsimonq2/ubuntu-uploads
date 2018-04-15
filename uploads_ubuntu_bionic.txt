@@ -591,3 +591,4 @@ musescore 2.1.0+dfsg3-3build1 https://launchpad.net/ubuntu/+source/musescore/2.1
 openorienteering-mapper 0.8.1.1-1build1 https://launchpad.net/ubuntu/+source/openorienteering-mapper/0.8.1.1-1build1
 qt5ct 0.34-1build2 https://launchpad.net/ubuntu/+source/qt5ct/0.34-1build2
 qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~7 https://launchpad.net/ubuntu/+source/qtpim-opensource-src/5.0~git20140515~29475884-0ubuntu24~7
+gsettings-qt 0.1+17.10.20170824-2fakesync1build2 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-2fakesync1build2
