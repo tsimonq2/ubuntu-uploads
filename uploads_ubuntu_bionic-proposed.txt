@@ -128,3 +128,4 @@ sjacket-clojure 0.1.1-2 https://launchpad.net/ubuntu/+source/sjacket-clojure/0.1
 pomegranate-clojure 1.0.0-2 https://launchpad.net/ubuntu/+source/pomegranate-clojure/1.0.0-2
 parsley-clojure 0.9.3-2 https://launchpad.net/ubuntu/+source/parsley-clojure/0.9.3-2
 libbultitude-clojure 0.2.8-4 https://launchpad.net/ubuntu/+source/libbultitude-clojure/0.2.8-4
+tools-nrepl-clojure 0.2.12-2 https://launchpad.net/ubuntu/+source/tools-nrepl-clojure/0.2.12-2
