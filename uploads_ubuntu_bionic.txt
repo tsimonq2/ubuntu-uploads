@@ -575,3 +575,4 @@ kdeclarative 5.44.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdeclarative/5
 kwin 4:5.12.4-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.4-0ubuntu2
 libfm-qt 0.12.0-14build2 https://launchpad.net/ubuntu/+source/libfm-qt/0.12.0-14build2
 lxqt-qtplugin 0.12.0-6ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.12.0-6ubuntu3
+maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu18 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu18
