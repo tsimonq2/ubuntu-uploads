@@ -600,3 +600,4 @@ qtxmlpatterns-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source
 qtcreator 4.5.2-3ubuntu2 https://launchpad.net/ubuntu/+source/qtcreator/4.5.2-3ubuntu2
 uim 1:1.8.6+gh20180114.64e3173-2build2 https://launchpad.net/ubuntu/+source/uim/1:1.8.6+gh20180114.64e3173-2build2
 deepin-qt5dxcb-plugin 1.1.8.4+ds-1build1 https://launchpad.net/ubuntu/+source/deepin-qt5dxcb-plugin/1.1.8.4+ds-1build1
+dde-qt5integration 0.2.8.3+git20180208-1build1 https://launchpad.net/ubuntu/+source/dde-qt5integration/0.2.8.3+git20180208-1build1
