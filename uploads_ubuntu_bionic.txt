@@ -596,3 +596,4 @@ kxmlgui 5.44.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kxmlgui/5.44.0-0ubu
 qtwebengine-opensource-src 5.9.5+dfsg-0ubuntu2 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.9.5+dfsg-0ubuntu2
 sddm 0.17.0-1ubuntu4 https://launchpad.net/ubuntu/+source/sddm/0.17.0-1ubuntu4
 qtwebview-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtwebview-opensource-src/5.9.5-0ubuntu1
+qtxmlpatterns-opensource-src 5.9.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.9.5-0ubuntu1
