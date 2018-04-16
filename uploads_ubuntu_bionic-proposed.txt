@@ -134,3 +134,4 @@ stencil-clojure 0.5.0-2 https://launchpad.net/ubuntu/+source/stencil-clojure/0.5
 leiningen-clojure 2.8.1-5 https://launchpad.net/ubuntu/+source/leiningen-clojure/2.8.1-5
 smb4k 2.1.0-1 https://launchpad.net/ubuntu/+source/smb4k/2.1.0-1
 pikopixel.app 1.0-b9b-1 https://launchpad.net/ubuntu/+source/pikopixel.app/1.0-b9b-1
+qpdf 8.0.2-3 https://launchpad.net/ubuntu/+source/qpdf/8.0.2-3
