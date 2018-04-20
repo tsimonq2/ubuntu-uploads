@@ -605,3 +605,4 @@ lightdm-settings 1.1.4-0ubuntu1 https://launchpad.net/ubuntu/+source/lightdm-set
 bombono-dvd 1.2.2-0ubuntu16 https://launchpad.net/ubuntu/+source/bombono-dvd/1.2.2-0ubuntu16
 mythexport 2.2.4-0ubuntu6 https://launchpad.net/ubuntu/+source/mythexport/2.2.4-0ubuntu6
 ubiquity 18.04.9 https://launchpad.net/ubuntu/+source/ubiquity/18.04.9
+dvdrip 1:0.98.11-0ubuntu7 https://launchpad.net/ubuntu/+source/dvdrip/1:0.98.11-0ubuntu7
