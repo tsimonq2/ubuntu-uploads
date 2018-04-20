@@ -603,3 +603,4 @@ deepin-qt5dxcb-plugin 1.1.8.4+ds-1build1 https://launchpad.net/ubuntu/+source/de
 dde-qt5integration 0.2.8.3+git20180208-1build1 https://launchpad.net/ubuntu/+source/dde-qt5integration/0.2.8.3+git20180208-1build1
 lightdm-settings 1.1.4-0ubuntu1 https://launchpad.net/ubuntu/+source/lightdm-settings/1.1.4-0ubuntu1
 bombono-dvd 1.2.2-0ubuntu16 https://launchpad.net/ubuntu/+source/bombono-dvd/1.2.2-0ubuntu16
+mythexport 2.2.4-0ubuntu6 https://launchpad.net/ubuntu/+source/mythexport/2.2.4-0ubuntu6
