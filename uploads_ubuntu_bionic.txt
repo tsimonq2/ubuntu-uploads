@@ -607,3 +607,4 @@ mythexport 2.2.4-0ubuntu6 https://launchpad.net/ubuntu/+source/mythexport/2.2.4-
 ubiquity 18.04.9 https://launchpad.net/ubuntu/+source/ubiquity/18.04.9
 dvdrip 1:0.98.11-0ubuntu7 https://launchpad.net/ubuntu/+source/dvdrip/1:0.98.11-0ubuntu7
 pictor 2.38-0ubuntu2 https://launchpad.net/ubuntu/+source/pictor/2.38-0ubuntu2
+videoporama 0.8.1-0ubuntu7 https://launchpad.net/ubuntu/+source/videoporama/0.8.1-0ubuntu7
