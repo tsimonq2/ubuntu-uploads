@@ -140,3 +140,4 @@ peruse 1.2+dfsg-2 https://launchpad.net/ubuntu/+source/peruse/1.2+dfsg-2
 deepin-image-viewer 1.2.19-2 https://launchpad.net/ubuntu/+source/deepin-image-viewer/1.2.19-2
 node-ultron 1.1.1-2 https://launchpad.net/ubuntu/+source/node-ultron/1.1.1-2
 taffybar 0.4.6-6 https://launchpad.net/ubuntu/+source/taffybar/0.4.6-6
+case 1.5.3+dfsg-2 https://launchpad.net/ubuntu/+source/case/1.5.3+dfsg-2
