@@ -137,3 +137,4 @@ pikopixel.app 1.0-b9b-1 https://launchpad.net/ubuntu/+source/pikopixel.app/1.0-b
 qpdf 8.0.2-3 https://launchpad.net/ubuntu/+source/qpdf/8.0.2-3
 gnustep-gui 0.26.2-3 https://launchpad.net/ubuntu/+source/gnustep-gui/0.26.2-3
 peruse 1.2+dfsg-2 https://launchpad.net/ubuntu/+source/peruse/1.2+dfsg-2
+deepin-image-viewer 1.2.19-2 https://launchpad.net/ubuntu/+source/deepin-image-viewer/1.2.19-2
