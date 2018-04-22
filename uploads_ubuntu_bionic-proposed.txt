@@ -141,3 +141,4 @@ deepin-image-viewer 1.2.19-2 https://launchpad.net/ubuntu/+source/deepin-image-v
 node-ultron 1.1.1-2 https://launchpad.net/ubuntu/+source/node-ultron/1.1.1-2
 taffybar 0.4.6-6 https://launchpad.net/ubuntu/+source/taffybar/0.4.6-6
 case 1.5.3+dfsg-2 https://launchpad.net/ubuntu/+source/case/1.5.3+dfsg-2
+libheif 1.1.0-2 https://launchpad.net/ubuntu/+source/libheif/1.1.0-2
