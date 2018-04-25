@@ -144,3 +144,4 @@ case 1.5.3+dfsg-2 https://launchpad.net/ubuntu/+source/case/1.5.3+dfsg-2
 libheif 1.1.0-2 https://launchpad.net/ubuntu/+source/libheif/1.1.0-2
 felix-latin 2.0-10 https://launchpad.net/ubuntu/+source/felix-latin/2.0-10
 rkward 0.7.0-1 https://launchpad.net/ubuntu/+source/rkward/0.7.0-1
+gr-fosphor 3.7.0.2.7b6b996-3 https://launchpad.net/ubuntu/+source/gr-fosphor/3.7.0.2.7b6b996-3
