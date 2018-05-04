@@ -2,3 +2,4 @@ gammaray 2.9.0-2 https://launchpad.net/ubuntu/+source/gammaray/2.9.0-2
 lxqt-l10n 0.12.0-5 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.12.0-5
 pcmanfm 1.3.0-1 https://launchpad.net/ubuntu/+source/pcmanfm/1.3.0-1
 qtcreator 4.6.0-3 https://launchpad.net/ubuntu/+source/qtcreator/4.6.0-3
+compiz 1:0.9.13.1+18.04.20180302-1 https://launchpad.net/ubuntu/+source/compiz/1:0.9.13.1+18.04.20180302-1
