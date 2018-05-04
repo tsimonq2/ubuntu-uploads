@@ -5,3 +5,4 @@ qtcreator 4.6.0-3 https://launchpad.net/ubuntu/+source/qtcreator/4.6.0-3
 compiz 1:0.9.13.1+18.04.20180302-1 https://launchpad.net/ubuntu/+source/compiz/1:0.9.13.1+18.04.20180302-1
 botan 2.6.0-2 https://launchpad.net/ubuntu/+source/botan/2.6.0-2
 booth 1.0-7 https://launchpad.net/ubuntu/+source/booth/1.0-7
+libre 0.5.7-1 https://launchpad.net/ubuntu/+source/libre/0.5.7-1
