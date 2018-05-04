@@ -1,1 +1,2 @@
 gammaray 2.9.0-2 https://launchpad.net/ubuntu/+source/gammaray/2.9.0-2
+lxqt-l10n 0.12.0-5 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.12.0-5
