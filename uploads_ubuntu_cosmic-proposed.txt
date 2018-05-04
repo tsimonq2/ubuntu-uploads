@@ -7,3 +7,4 @@ botan 2.6.0-2 https://launchpad.net/ubuntu/+source/botan/2.6.0-2
 booth 1.0-7 https://launchpad.net/ubuntu/+source/booth/1.0-7
 libre 0.5.7-1 https://launchpad.net/ubuntu/+source/libre/0.5.7-1
 patroni 1.4.3-1 https://launchpad.net/ubuntu/+source/patroni/1.4.3-1
+collatinus 11-1 https://launchpad.net/ubuntu/+source/collatinus/11-1
