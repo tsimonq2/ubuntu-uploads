@@ -9,3 +9,4 @@ libre 0.5.7-1 https://launchpad.net/ubuntu/+source/libre/0.5.7-1
 patroni 1.4.3-1 https://launchpad.net/ubuntu/+source/patroni/1.4.3-1
 collatinus 11-1 https://launchpad.net/ubuntu/+source/collatinus/11-1
 linkchecker 9.4.0-1 https://launchpad.net/ubuntu/+source/linkchecker/9.4.0-1
+transmission 2.94-1 https://launchpad.net/ubuntu/+source/transmission/2.94-1
