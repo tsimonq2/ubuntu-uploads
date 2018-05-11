@@ -3,3 +3,4 @@ kylin-burner 3.0.6-0ubuntu1 https://launchpad.net/ubuntu/+source/kylin-burner/3.
 brltty 5.6-3ubuntu1 https://launchpad.net/ubuntu/+source/brltty/5.6-3ubuntu1
 slang2 2.3.2-1ubuntu1 https://launchpad.net/ubuntu/+source/slang2/2.3.2-1ubuntu1
 sbuild 0.76.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.76.0-1ubuntu1
+calamares-settings-ubuntu 2 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/2
