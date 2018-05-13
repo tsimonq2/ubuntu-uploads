@@ -24,3 +24,4 @@ gammaray 2.9.0-1 https://launchpad.net/debian/+source/gammaray/2.9.0-1
 gammaray 2.9.0-2 https://launchpad.net/debian/+source/gammaray/2.9.0-2
 qtdeclarative-opensource-src 5.10.1-4 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.10.1-4
 peruse 1.2+dfsg-1 https://launchpad.net/debian/+source/peruse/1.2+dfsg-1
+qbs 1.11.1+dfsg-1 https://launchpad.net/debian/+source/qbs/1.11.1+dfsg-1
