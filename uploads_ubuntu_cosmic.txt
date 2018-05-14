@@ -6,3 +6,4 @@ sbuild 0.76.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.76.0-1ubunt
 calamares-settings-ubuntu 2 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/2
 lubuntu-meta 1.0 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.0
 ubuntu-gnome-default-settings 18.10.0 https://launchpad.net/ubuntu/+source/ubuntu-gnome-default-settings/18.10.0
+quassel 1:0.12.5-2ubuntu1 https://launchpad.net/ubuntu/+source/quassel/1:0.12.5-2ubuntu1
