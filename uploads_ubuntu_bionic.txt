@@ -610,3 +610,4 @@ pictor 2.38-0ubuntu2 https://launchpad.net/ubuntu/+source/pictor/2.38-0ubuntu2
 videoporama 0.8.1-0ubuntu7 https://launchpad.net/ubuntu/+source/videoporama/0.8.1-0ubuntu7
 kdepim-addons 17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kdepim-addons/17.12.3-0ubuntu2
 ubiquity-slideshow-ubuntu 137 https://launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/137
+vlc 3.0.2-0ubuntu0.1 https://launchpad.net/ubuntu/+source/vlc/3.0.2-0ubuntu0.1
