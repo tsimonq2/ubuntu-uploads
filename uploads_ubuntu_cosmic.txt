@@ -7,3 +7,4 @@ calamares-settings-ubuntu 2 https://launchpad.net/ubuntu/+source/calamares-setti
 lubuntu-meta 1.0 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.0
 ubuntu-gnome-default-settings 18.10.0 https://launchpad.net/ubuntu/+source/ubuntu-gnome-default-settings/18.10.0
 quassel 1:0.12.5-2ubuntu1 https://launchpad.net/ubuntu/+source/quassel/1:0.12.5-2ubuntu1
+lubuntu-default-settings 1.0 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.0
