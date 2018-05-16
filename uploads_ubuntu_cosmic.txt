@@ -9,3 +9,4 @@ ubuntu-gnome-default-settings 18.10.0 https://launchpad.net/ubuntu/+source/ubunt
 quassel 1:0.12.5-2ubuntu1 https://launchpad.net/ubuntu/+source/quassel/1:0.12.5-2ubuntu1
 lubuntu-default-settings 1.0 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.0
 falkon 3.0.1-0ubuntu1 https://launchpad.net/ubuntu/+source/falkon/3.0.1-0ubuntu1
+lubuntu-artwork 1.0 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.0
