@@ -13,3 +13,4 @@ lubuntu-artwork 1.0 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.0
 lubuntu-meta 1.3 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.3
 lubuntu-default-settings 1.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.1
 lubuntu-artwork 1.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.1
+gnome-split 1.2-2build1 https://launchpad.net/ubuntu/+source/gnome-split/1.2-2build1
