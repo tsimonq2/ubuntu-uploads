@@ -26,3 +26,4 @@ qtdeclarative-opensource-src 5.9.1-4 https://launchpad.net/debian/+source/qtdecl
 qtgraphicaleffects-opensource-src 5.10.1-1 https://launchpad.net/debian/+source/qtgraphicaleffects-opensource-src/5.10.1-1
 qtsvg-opensource-src 5.10.1-1 https://launchpad.net/debian/+source/qtsvg-opensource-src/5.10.1-1
 qtdoc-opensource-src 5.10.1-1 https://launchpad.net/debian/+source/qtdoc-opensource-src/5.10.1-1
+qtbase-opensource-src 5.11.0~rc1+dfsg-1 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.0~rc1+dfsg-1
