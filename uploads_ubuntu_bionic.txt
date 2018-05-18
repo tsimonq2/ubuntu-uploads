@@ -613,3 +613,4 @@ ubiquity-slideshow-ubuntu 137 https://launchpad.net/ubuntu/+source/ubiquity-slid
 vlc 3.0.2-0ubuntu0.1 https://launchpad.net/ubuntu/+source/vlc/3.0.2-0ubuntu0.1
 lubuntu-meta 0.94.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/0.94.1
 gnome-split 1.2-2build0.1 https://launchpad.net/ubuntu/+source/gnome-split/1.2-2build0.1
+openbox 3.6.1-7ubuntu0.1 https://launchpad.net/ubuntu/+source/openbox/3.6.1-7ubuntu0.1
