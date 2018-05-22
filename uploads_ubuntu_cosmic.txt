@@ -24,3 +24,4 @@ lxqt-panel 0.12.0-9ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.12.
 lubuntu-default-settings 1.3 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.3
 libqtxdg 3.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-0ubuntu1
 lxqt-build-tools 0.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-build-tools/0.5.0-0ubuntu1
+libsysstat 0.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/libsysstat/0.4.1-0ubuntu1
