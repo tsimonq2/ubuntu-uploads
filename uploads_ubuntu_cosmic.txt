@@ -37,3 +37,4 @@ lxqt-policykit 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-policyk
 lxqt-powermanagement 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/0.13.0-0ubuntu1
 lxqt-session 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/0.13.0-0ubuntu1
 lxqt-sudo 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.13.0-0ubuntu1
+lxqt-themes 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.13.0-0ubuntu1
