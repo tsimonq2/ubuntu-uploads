@@ -29,3 +29,4 @@ liblxqt 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/0.13.0-0ubu
 lxqt-about 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/0.13.0-0ubuntu1
 lxqt-admin 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/0.13.0-0ubuntu1
 lxqt-config 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0-0ubuntu1
+lxqt-globalkeys 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.13.0-0ubuntu1
