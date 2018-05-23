@@ -27,3 +27,4 @@ lxqt-build-tools 0.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-build-
 libsysstat 0.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/libsysstat/0.4.1-0ubuntu1
 liblxqt 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/0.13.0-0ubuntu1
 lxqt-about 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/0.13.0-0ubuntu1
+lxqt-admin 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/0.13.0-0ubuntu1
