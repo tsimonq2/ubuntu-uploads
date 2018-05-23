@@ -31,3 +31,4 @@ lxqt-admin 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/0.13.
 lxqt-config 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0-0ubuntu1
 lxqt-globalkeys 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.13.0-0ubuntu1
 lxqt-l10n 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-l10n/0.13.0-0ubuntu1
+lxqt-notificationd 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/0.13.0-0ubuntu1
