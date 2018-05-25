@@ -41,3 +41,4 @@ lxqt-themes 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.1
 lxqt-panel 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.13.0-0ubuntu1
 lxqt-qtplugin 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.13.0-0ubuntu1
 lxqt-runner 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.13.0-0ubuntu1
+lxqt-panel 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-panel/0.13.0-0ubuntu2
