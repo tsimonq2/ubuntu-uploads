@@ -13,3 +13,4 @@ transmission 2.94-1 https://launchpad.net/ubuntu/+source/transmission/2.94-1
 healpix-cxx 3.30.0-9 https://launchpad.net/ubuntu/+source/healpix-cxx/3.30.0-9
 otb 6.6.0~rc1+dfsg-1~exp1 https://launchpad.net/ubuntu/+source/otb/6.6.0~rc1+dfsg-1~exp1
 libfm-qt 0.13.0-2 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.0-2
+pcmanfm-qt 0.13.0-1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.13.0-1
