@@ -48,3 +48,4 @@ lxqt-session 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-session/0
 plasma-mediacenter 4:5.7.5-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-mediacenter/4:5.7.5-0ubuntu2
 kbibtex 0.8~20170819git31a77b27e8e83836e-3ubuntu1 https://launchpad.net/ubuntu/+source/kbibtex/0.8~20170819git31a77b27e8e83836e-3ubuntu1
 kubuntu-docs 15.04ubuntu3 https://launchpad.net/ubuntu/+source/kubuntu-docs/15.04ubuntu3
+rkward 0.7.0b-1build1 https://launchpad.net/ubuntu/+source/rkward/0.7.0b-1build1
