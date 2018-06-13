@@ -29,3 +29,4 @@ qtdoc-opensource-src 5.10.1-1 https://launchpad.net/debian/+source/qtdoc-opensou
 qtbase-opensource-src 5.11.0~rc1+dfsg-1 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.0~rc1+dfsg-1
 qtbase-opensource-src 5.11.0+dfsg-1 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.0+dfsg-1
 qtxmlpatterns-opensource-src 5.11.0-1 https://launchpad.net/debian/+source/qtxmlpatterns-opensource-src/5.11.0-1
+qtdeclarative-opensource-src 5.11.0-1 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.11.0-1
