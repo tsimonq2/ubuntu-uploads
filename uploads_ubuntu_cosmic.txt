@@ -54,3 +54,4 @@ indicator-sound 12.10.2+18.10.20180612-0ubuntu1 https://launchpad.net/ubuntu/+so
 ubuntukylin-default-settings 1.4.5 https://launchpad.net/ubuntu/+source/ubuntukylin-default-settings/1.4.5
 gnome-mpv 0.14-1ubuntu1 https://launchpad.net/ubuntu/+source/gnome-mpv/0.14-1ubuntu1
 brltty 5.6-4ubuntu1 https://launchpad.net/ubuntu/+source/brltty/5.6-4ubuntu1
+ubuntustudio-icon-theme 0.18 https://launchpad.net/ubuntu/+source/ubuntustudio-icon-theme/0.18
