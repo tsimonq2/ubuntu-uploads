@@ -16,3 +16,4 @@ libfm-qt 0.13.0-2 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.0-2
 pcmanfm-qt 0.13.0-1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.13.0-1
 peruse 1.2+dfsg+20180219-1 https://launchpad.net/ubuntu/+source/peruse/1.2+dfsg+20180219-1
 boolstuff 0.1.16-1 https://launchpad.net/ubuntu/+source/boolstuff/0.1.16-1
+debian-med 3.1 https://launchpad.net/ubuntu/+source/debian-med/3.1
