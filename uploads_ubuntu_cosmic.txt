@@ -55,3 +55,4 @@ ubuntukylin-default-settings 1.4.5 https://launchpad.net/ubuntu/+source/ubuntuky
 gnome-mpv 0.14-1ubuntu1 https://launchpad.net/ubuntu/+source/gnome-mpv/0.14-1ubuntu1
 brltty 5.6-4ubuntu1 https://launchpad.net/ubuntu/+source/brltty/5.6-4ubuntu1
 ubuntustudio-icon-theme 0.18 https://launchpad.net/ubuntu/+source/ubuntustudio-icon-theme/0.18
+ubuntustudio-menu 0.27 https://launchpad.net/ubuntu/+source/ubuntustudio-menu/0.27
