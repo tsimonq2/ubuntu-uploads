@@ -39,3 +39,4 @@ qtdeclarative-opensource-src 5.11.0-2 https://launchpad.net/debian/+source/qtdec
 qttools-opensource-src 5.11.0-1 https://launchpad.net/debian/+source/qttools-opensource-src/5.11.0-1
 qtbase-opensource-src 5.11.1+dfsg-1 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.1+dfsg-1
 qtxmlpatterns-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtxmlpatterns-opensource-src/5.11.1-1
+qtdeclarative-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.11.1-1
