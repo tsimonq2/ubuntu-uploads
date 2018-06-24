@@ -53,3 +53,4 @@ qtlocation-opensource-src 5.11.1+dfsg-2 https://launchpad.net/debian/+source/qtl
 qtsensors-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtsensors-opensource-src/5.11.1-2
 qtwebsockets-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtwebsockets-opensource-src/5.11.1-2
 qtwebchannel-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtwebchannel-opensource-src/5.11.1-2
+qtwebkit-opensource-src 5.212.0~alpha2-12 https://launchpad.net/debian/+source/qtwebkit-opensource-src/5.212.0~alpha2-12
