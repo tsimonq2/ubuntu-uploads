@@ -54,3 +54,4 @@ qtsensors-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtsensors
 qtwebsockets-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtwebsockets-opensource-src/5.11.1-2
 qtwebchannel-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtwebchannel-opensource-src/5.11.1-2
 qtwebkit-opensource-src 5.212.0~alpha2-12 https://launchpad.net/debian/+source/qtwebkit-opensource-src/5.212.0~alpha2-12
+qttools-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qttools-opensource-src/5.11.1-2
