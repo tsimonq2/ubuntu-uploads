@@ -51,3 +51,4 @@ qtxmlpatterns-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtxml
 qtdeclarative-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.11.1-2
 qtlocation-opensource-src 5.11.1+dfsg-2 https://launchpad.net/debian/+source/qtlocation-opensource-src/5.11.1+dfsg-2
 qtsensors-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtsensors-opensource-src/5.11.1-2
+qtwebsockets-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtwebsockets-opensource-src/5.11.1-2
