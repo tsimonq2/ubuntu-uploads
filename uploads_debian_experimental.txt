@@ -57,3 +57,4 @@ qtwebkit-opensource-src 5.212.0~alpha2-12 https://launchpad.net/debian/+source/q
 qttools-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qttools-opensource-src/5.11.1-2
 qtgraphicaleffects-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtgraphicaleffects-opensource-src/5.11.1-1
 qtmultimedia-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtmultimedia-opensource-src/5.11.1-1
+qtimageformats-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtimageformats-opensource-src/5.11.1-1
