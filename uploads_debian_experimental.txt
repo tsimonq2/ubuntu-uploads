@@ -58,3 +58,4 @@ qttools-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qttools-ope
 qtgraphicaleffects-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtgraphicaleffects-opensource-src/5.11.1-1
 qtmultimedia-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtmultimedia-opensource-src/5.11.1-1
 qtimageformats-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtimageformats-opensource-src/5.11.1-1
+qtsvg-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtsvg-opensource-src/5.11.1-1
