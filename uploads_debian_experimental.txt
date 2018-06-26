@@ -61,3 +61,4 @@ qtimageformats-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtim
 qtsvg-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtsvg-opensource-src/5.11.1-1
 qtcharts-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtcharts-opensource-src/5.11.1-1
 qtquickcontrols-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtquickcontrols-opensource-src/5.11.1-1
+qt3d-opensource-src 5.11.1+dfsg-1 https://launchpad.net/debian/+source/qt3d-opensource-src/5.11.1+dfsg-1
