@@ -65,3 +65,4 @@ qt3d-opensource-src 5.11.1+dfsg-1 https://launchpad.net/debian/+source/qt3d-open
 qtvirtualkeyboard-opensource-src 5.11.1+dfsg-1 https://launchpad.net/debian/+source/qtvirtualkeyboard-opensource-src/5.11.1+dfsg-1
 qtquickcontrols2-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtquickcontrols2-opensource-src/5.11.1-1
 qtconnectivity-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtconnectivity-opensource-src/5.11.1-1
+qtscript-opensource-src 5.11.1+dfsg-1 https://launchpad.net/debian/+source/qtscript-opensource-src/5.11.1+dfsg-1
