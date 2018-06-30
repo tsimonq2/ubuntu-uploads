@@ -69,3 +69,4 @@ qtscript-opensource-src 5.11.1+dfsg-1 https://launchpad.net/debian/+source/qtscr
 qtserialport-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtserialport-opensource-src/5.11.1-1
 qtspeech-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtspeech-opensource-src/5.11.1-1
 qttranslations-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qttranslations-opensource-src/5.11.1-1
+qtx11extras-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtx11extras-opensource-src/5.11.1-1
