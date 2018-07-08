@@ -64,3 +64,4 @@ calamares-settings-ubuntu 3 https://launchpad.net/ubuntu/+source/calamares-setti
 fcitx-qt5 1.2.3-1build1 https://launchpad.net/ubuntu/+source/fcitx-qt5/1.2.3-1build1
 xinit 1.4.0-1ubuntu1 https://launchpad.net/ubuntu/+source/xinit/1.4.0-1ubuntu1
 nm-tray 0.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.4.0-0ubuntu1
+lubuntu-artwork 1.4 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.4
