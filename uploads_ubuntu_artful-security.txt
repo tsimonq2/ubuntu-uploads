@@ -3,3 +3,4 @@ plasma-workspace 4:5.10.5-0ubuntu1.1 https://launchpad.net/ubuntu/+source/plasma
 atril 1.18.1-1ubuntu0.1 https://launchpad.net/ubuntu/+source/atril/1.18.1-1ubuntu0.1
 calibre 3.7.0+dfsg-2ubuntu0.1 https://launchpad.net/ubuntu/+source/calibre/3.7.0+dfsg-2ubuntu0.1
 kwallet-pam 4:5.10.5-0ubuntu1.1 https://launchpad.net/ubuntu/+source/kwallet-pam/4:5.10.5-0ubuntu1.1
+kwallet-pam 4:5.10.5-0ubuntu1.3 https://launchpad.net/ubuntu/+source/kwallet-pam/4:5.10.5-0ubuntu1.3
