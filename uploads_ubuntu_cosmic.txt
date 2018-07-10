@@ -68,3 +68,4 @@ lubuntu-artwork 1.4 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.4
 lxqt-build-tools 0.5.0-1build1 https://launchpad.net/ubuntu/+source/lxqt-build-tools/0.5.0-1build1
 sbuild 0.77.0-2ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.77.0-2ubuntu1
 lubuntu-meta 1.5 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.5
+calamares-settings-ubuntu 4 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/4
