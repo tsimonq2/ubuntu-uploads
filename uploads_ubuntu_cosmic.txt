@@ -73,3 +73,4 @@ calamares-settings-ubuntu 5 https://launchpad.net/ubuntu/+source/calamares-setti
 qtermwidget 0.9.0-1ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/0.9.0-1ubuntu1
 qtermwidget 0.9.0-1ubuntu2 https://launchpad.net/ubuntu/+source/qtermwidget/0.9.0-1ubuntu2
 qterminal 0.9.0-3ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/0.9.0-3ubuntu1
+calamares-settings-ubuntu 6 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/6
