@@ -71,3 +71,4 @@ lubuntu-meta 1.5 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.5
 calamares-settings-ubuntu 4 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/4
 calamares-settings-ubuntu 5 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/5
 qtermwidget 0.9.0-1ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/0.9.0-1ubuntu1
+qtermwidget 0.9.0-1ubuntu2 https://launchpad.net/ubuntu/+source/qtermwidget/0.9.0-1ubuntu2
