@@ -28,3 +28,4 @@ xalan 1.11-8 https://launchpad.net/ubuntu/+source/xalan/1.11-8
 pybigwig 0.3.11-1 https://launchpad.net/ubuntu/+source/pybigwig/0.3.11-1
 doxyqml 0.3.0-1.1 https://launchpad.net/ubuntu/+source/doxyqml/0.3.0-1.1
 etcd-fs 0.0+git20140621.0.395eacb-4 https://launchpad.net/ubuntu/+source/etcd-fs/0.0+git20140621.0.395eacb-4
+golang-github-containerd-btrfs 0.0~git20171005.72c0a35-1.1 https://launchpad.net/ubuntu/+source/golang-github-containerd-btrfs/0.0~git20171005.72c0a35-1.1
