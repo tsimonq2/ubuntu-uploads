@@ -25,3 +25,4 @@ kitty 0.11.2-3 https://launchpad.net/ubuntu/+source/kitty/0.11.2-3
 voxbo 1.8.5~svn1246-3 https://launchpad.net/ubuntu/+source/voxbo/1.8.5~svn1246-3
 libsass-python 0.14.5-1 https://launchpad.net/ubuntu/+source/libsass-python/0.14.5-1
 xalan 1.11-8 https://launchpad.net/ubuntu/+source/xalan/1.11-8
+pybigwig 0.3.11-1 https://launchpad.net/ubuntu/+source/pybigwig/0.3.11-1
