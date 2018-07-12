@@ -22,3 +22,4 @@ oidentd 2.3.1-1 https://launchpad.net/ubuntu/+source/oidentd/2.3.1-1
 desktopnova 0.8.1-1.1 https://launchpad.net/ubuntu/+source/desktopnova/0.8.1-1.1
 lximage-qt 0.7.0-1 https://launchpad.net/ubuntu/+source/lximage-qt/0.7.0-1
 kitty 0.11.2-3 https://launchpad.net/ubuntu/+source/kitty/0.11.2-3
+voxbo 1.8.5~svn1246-3 https://launchpad.net/ubuntu/+source/voxbo/1.8.5~svn1246-3
