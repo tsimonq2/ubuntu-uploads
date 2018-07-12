@@ -77,3 +77,4 @@ calamares-settings-ubuntu 6 https://launchpad.net/ubuntu/+source/calamares-setti
 lubuntu-artwork 1.5 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.5
 openbox 3.6.1-7ubuntu2 https://launchpad.net/ubuntu/+source/openbox/3.6.1-7ubuntu2
 calamares-settings-ubuntu 7 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/7
+lubuntu-meta 1.6 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.6
