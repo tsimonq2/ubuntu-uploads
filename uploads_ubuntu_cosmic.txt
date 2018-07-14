@@ -83,3 +83,4 @@ calamares-settings-ubuntu 8 https://launchpad.net/ubuntu/+source/calamares-setti
 libqtxdg 3.2.0-2ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-2ubuntu1
 libfm-qt 0.13.1-5ubuntu1 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu1
 lximage-qt 0.7.0-2build1 https://launchpad.net/ubuntu/+source/lximage-qt/0.7.0-2build1
+lxqt-qtplugin 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.13.0-0ubuntu2
