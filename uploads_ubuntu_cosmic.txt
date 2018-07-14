@@ -80,3 +80,4 @@ calamares-settings-ubuntu 7 https://launchpad.net/ubuntu/+source/calamares-setti
 lubuntu-meta 1.6 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.6
 sbuild 0.77.0-3ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.77.0-3ubuntu1
 calamares-settings-ubuntu 8 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/8
+libqtxdg 3.2.0-2ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-2ubuntu1
