@@ -88,3 +88,4 @@ pcmanfm-qt 0.13.0-2build1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.13.0
 lxqt-notificationd 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-notificationd/0.13.0-0ubuntu2
 software-properties 0.96.25 https://launchpad.net/ubuntu/+source/software-properties/0.96.25
 pcmanfm-qt 0.13.0-2ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.13.0-2ubuntu1
+calamares-settings-ubuntu 9 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/9
