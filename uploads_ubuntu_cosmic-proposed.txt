@@ -31,3 +31,4 @@ etcd-fs 0.0+git20140621.0.395eacb-4 https://launchpad.net/ubuntu/+source/etcd-fs
 golang-github-containerd-btrfs 0.0~git20171005.72c0a35-1.1 https://launchpad.net/ubuntu/+source/golang-github-containerd-btrfs/0.0~git20171005.72c0a35-1.1
 qt3d-opensource-src 5.11.1+dfsg-2 https://launchpad.net/ubuntu/+source/qt3d-opensource-src/5.11.1+dfsg-2
 qtcharts-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtcharts-opensource-src/5.11.1-1
+qtconnectivity-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.11.1-1
