@@ -110,3 +110,4 @@ qtcurve 1.8.18+git20160320-3d8622c-5ubuntu2 https://launchpad.net/ubuntu/+source
 qtmultimedia-opensource-src 5.11.1-1ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.11.1-1ubuntu1
 qtstyleplugins-src 5.0.0+git23.g335dbec-2build6 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2build6
 qtwebkit-opensource-src 5.212.0~alpha2-12ubuntu1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-12ubuntu1
+skrooge 2.14.0-1build1 https://launchpad.net/ubuntu/+source/skrooge/2.14.0-1build1
