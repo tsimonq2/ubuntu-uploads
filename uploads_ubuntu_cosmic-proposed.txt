@@ -50,3 +50,4 @@ qtwayland-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtwayland
 qtwebchannel-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtwebchannel-opensource-src/5.11.1-2
 qtwebsockets-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.11.1-2
 qtx11extras-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.11.1-1
+qtxmlpatterns-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.11.1-2
