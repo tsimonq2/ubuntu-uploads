@@ -42,3 +42,4 @@ qtscript-opensource-src 5.11.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtscr
 qtsensors-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.11.1-2
 qtserialport-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.11.1-1
 qtspeech-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.11.1-1
+qtsvg-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.11.1-1
