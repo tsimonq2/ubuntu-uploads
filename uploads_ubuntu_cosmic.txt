@@ -100,3 +100,4 @@ kdeclarative 5.47.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdeclarative/5
 kdelibs4support 5.47.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdelibs4support/5.47.0-0ubuntu2
 kwin 4:5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.6-0ubuntu2
 kxmlgui 5.47.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kxmlgui/5.47.0-0ubuntu2
+maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu19 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu19
