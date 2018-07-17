@@ -95,3 +95,4 @@ lxqt-panel 0.13.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-panel/0.13.
 libqtxdg 3.2.0-2ubuntu2 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-2ubuntu2
 analitza 4:17.12.3-0ubuntu3 https://launchpad.net/ubuntu/+source/analitza/4:17.12.3-0ubuntu3
 gcin 2.8.6+dfsg2-1build1 https://launchpad.net/ubuntu/+source/gcin/2.8.6+dfsg2-1build1
+hime 0.9.10+git20170427+dfsg1-3build1 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-3build1
