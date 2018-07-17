@@ -44,3 +44,4 @@ qtserialport-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtseri
 qtspeech-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtspeech-opensource-src/5.11.1-1
 qtsvg-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.11.1-1
 qttools-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.11.1-2
+qttranslations-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.11.1-1
