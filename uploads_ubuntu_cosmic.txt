@@ -98,3 +98,4 @@ gcin 2.8.6+dfsg2-1build1 https://launchpad.net/ubuntu/+source/gcin/2.8.6+dfsg2-1
 hime 0.9.10+git20170427+dfsg1-3build1 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-3build1
 kdeclarative 5.47.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdeclarative/5.47.0-0ubuntu2
 kdelibs4support 5.47.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kdelibs4support/5.47.0-0ubuntu2
+kwin 4:5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/kwin/4:5.12.6-0ubuntu2
