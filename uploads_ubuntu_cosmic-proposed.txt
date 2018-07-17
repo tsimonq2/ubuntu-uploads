@@ -49,3 +49,4 @@ qtvirtualkeyboard-opensource-src 5.11.1+dfsg-1 https://launchpad.net/ubuntu/+sou
 qtwayland-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.11.1-1
 qtwebchannel-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtwebchannel-opensource-src/5.11.1-2
 qtwebsockets-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.11.1-2
+qtx11extras-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.11.1-1
