@@ -115,3 +115,4 @@ telegram-desktop 1.3.7-1build1 https://launchpad.net/ubuntu/+source/telegram-des
 texmaker 5.0.2-2build1 https://launchpad.net/ubuntu/+source/texmaker/5.0.2-2build1
 xdg-desktop-portal-kde 5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-kde/5.12.6-0ubuntu2
 openorienteering-mapper 0.8.1.1-1build3 https://launchpad.net/ubuntu/+source/openorienteering-mapper/0.8.1.1-1build3
+pyqt5 5.11.2+dfsg-1ubuntu2 https://launchpad.net/ubuntu/+source/pyqt5/5.11.2+dfsg-1ubuntu2
