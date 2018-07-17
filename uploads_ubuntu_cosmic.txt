@@ -108,3 +108,4 @@ qtbase-opensource-src 5.11.1+dfsg-3ubuntu1 https://launchpad.net/ubuntu/+source/
 qtav 1.12.0+ds-4build4 https://launchpad.net/ubuntu/+source/qtav/1.12.0+ds-4build4
 qtcurve 1.8.18+git20160320-3d8622c-5ubuntu2 https://launchpad.net/ubuntu/+source/qtcurve/1.8.18+git20160320-3d8622c-5ubuntu2
 qtmultimedia-opensource-src 5.11.1-1ubuntu1 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.11.1-1ubuntu1
+qtstyleplugins-src 5.0.0+git23.g335dbec-2build6 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2build6
