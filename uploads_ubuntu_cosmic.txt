@@ -104,3 +104,4 @@ maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu19 https://launchpad.net/ubun
 plasma-integration 5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-integration/5.12.6-0ubuntu2
 pythonqt 3.2-9build1 https://launchpad.net/ubuntu/+source/pythonqt/3.2-9build1
 qqc2-desktop-style 5.47.0-0ubuntu2 https://launchpad.net/ubuntu/+source/qqc2-desktop-style/5.47.0-0ubuntu2
+qtbase-opensource-src 5.11.1+dfsg-3ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.1+dfsg-3ubuntu1
