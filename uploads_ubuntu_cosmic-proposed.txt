@@ -46,3 +46,4 @@ qtsvg-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtsvg-opensou
 qttools-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.11.1-2
 qttranslations-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.11.1-1
 qtvirtualkeyboard-opensource-src 5.11.1+dfsg-1 https://launchpad.net/ubuntu/+source/qtvirtualkeyboard-opensource-src/5.11.1+dfsg-1
+qtwayland-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.11.1-1
