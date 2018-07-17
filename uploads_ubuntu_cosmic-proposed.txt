@@ -34,3 +34,4 @@ qtcharts-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtcharts-o
 qtconnectivity-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.11.1-1
 qtdeclarative-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.11.1-2
 qtimageformats-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtimageformats-opensource-src/5.11.1-1
+qtgraphicaleffects-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.11.1-1
