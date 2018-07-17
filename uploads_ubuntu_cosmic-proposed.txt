@@ -36,3 +36,4 @@ qtdeclarative-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtdec
 qtimageformats-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtimageformats-opensource-src/5.11.1-1
 qtgraphicaleffects-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtgraphicaleffects-opensource-src/5.11.1-1
 qtlocation-opensource-src 5.11.1+dfsg-2 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.11.1+dfsg-2
+qtquickcontrols-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtquickcontrols-opensource-src/5.11.1-1
