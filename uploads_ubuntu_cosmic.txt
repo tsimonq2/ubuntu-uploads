@@ -129,3 +129,4 @@ libqtxdg 3.2.0-2ubuntu3 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-2ubu
 musescore 2.3.1+dfsg1-1build1 https://launchpad.net/ubuntu/+source/musescore/2.3.1+dfsg1-1build1
 qt5ct 0.35-1build1 https://launchpad.net/ubuntu/+source/qt5ct/0.35-1build1
 qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~8 https://launchpad.net/ubuntu/+source/qtpim-opensource-src/5.0~git20140515~29475884-0ubuntu24~8
+gsettings-qt 0.1+17.10.20170824-2fakesync1build3 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-2fakesync1build3
