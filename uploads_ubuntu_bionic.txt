@@ -620,3 +620,4 @@ python-acme 0.22.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/python-acme/0
 libjsyntaxpane-java 0.9.6~r156-6ubuntu0.18.04.1 https://launchpad.net/ubuntu/+source/libjsyntaxpane-java/0.9.6~r156-6ubuntu0.18.04.1
 xfce4-settings 4.12.4-0ubuntu0.18.04.1 https://launchpad.net/ubuntu/+source/xfce4-settings/4.12.4-0ubuntu0.18.04.1
 lubuntu-artwork 0.71.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/0.71.1
+xfce4-terminal 0.8.7.4-0ubuntu0.18.04.1 https://launchpad.net/ubuntu/+source/xfce4-terminal/0.8.7.4-0ubuntu0.18.04.1
