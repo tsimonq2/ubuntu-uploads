@@ -117,3 +117,4 @@ xdg-desktop-portal-kde 5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-
 openorienteering-mapper 0.8.1.1-1build3 https://launchpad.net/ubuntu/+source/openorienteering-mapper/0.8.1.1-1build3
 pyqt5 5.11.2+dfsg-1ubuntu2 https://launchpad.net/ubuntu/+source/pyqt5/5.11.2+dfsg-1ubuntu2
 qtbase-opensource-src 5.11.1+dfsg-4ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.1+dfsg-4ubuntu1
+uim 1:1.8.8-2build1 https://launchpad.net/ubuntu/+source/uim/1:1.8.8-2build1
