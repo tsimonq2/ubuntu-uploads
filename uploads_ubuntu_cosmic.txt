@@ -120,3 +120,4 @@ qtbase-opensource-src 5.11.1+dfsg-4ubuntu1 https://launchpad.net/ubuntu/+source/
 uim 1:1.8.8-2build1 https://launchpad.net/ubuntu/+source/uim/1:1.8.8-2build1
 dde-qt5integration 0.3.0-2build1 https://launchpad.net/ubuntu/+source/dde-qt5integration/0.3.0-2build1
 deepin-qt5dxcb-plugin 1.1.9.1-1build1 https://launchpad.net/ubuntu/+source/deepin-qt5dxcb-plugin/1.1.9.1-1build1
+libfm-qt 0.13.1-5ubuntu2 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu2
