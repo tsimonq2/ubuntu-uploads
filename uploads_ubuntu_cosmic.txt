@@ -132,3 +132,4 @@ qtpim-opensource-src 5.0~git20140515~29475884-0ubuntu24~8 https://launchpad.net/
 gsettings-qt 0.1+17.10.20170824-2fakesync1build3 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-2fakesync1build3
 kxmlgui 5.47.0-0ubuntu3 https://launchpad.net/ubuntu/+source/kxmlgui/5.47.0-0ubuntu3
 deepin-qt5dxcb-plugin 1.1.9.1-1ubuntu1 https://launchpad.net/ubuntu/+source/deepin-qt5dxcb-plugin/1.1.9.1-1ubuntu1
+libfm-qt 0.13.1-5ubuntu3 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu3
