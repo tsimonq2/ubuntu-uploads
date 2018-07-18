@@ -133,3 +133,4 @@ gsettings-qt 0.1+17.10.20170824-2fakesync1build3 https://launchpad.net/ubuntu/+s
 kxmlgui 5.47.0-0ubuntu3 https://launchpad.net/ubuntu/+source/kxmlgui/5.47.0-0ubuntu3
 deepin-qt5dxcb-plugin 1.1.9.1-1ubuntu1 https://launchpad.net/ubuntu/+source/deepin-qt5dxcb-plugin/1.1.9.1-1ubuntu1
 libfm-qt 0.13.1-5ubuntu3 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu3
+flightgear 1:2018.1.1+dfsg-3build1 https://launchpad.net/ubuntu/+source/flightgear/1:2018.1.1+dfsg-3build1
