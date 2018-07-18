@@ -122,3 +122,4 @@ dde-qt5integration 0.3.0-2build1 https://launchpad.net/ubuntu/+source/dde-qt5int
 deepin-qt5dxcb-plugin 1.1.9.1-1build1 https://launchpad.net/ubuntu/+source/deepin-qt5dxcb-plugin/1.1.9.1-1build1
 libfm-qt 0.13.1-5ubuntu2 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu2
 lxqt-qtplugin 0.13.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.13.0-0ubuntu3
+akonadi 4:17.12.3-0ubuntu4 https://launchpad.net/ubuntu/+source/akonadi/4:17.12.3-0ubuntu4
