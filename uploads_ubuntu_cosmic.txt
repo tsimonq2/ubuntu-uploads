@@ -127,3 +127,4 @@ calibre 3.27.1+dfsg-1build1 https://launchpad.net/ubuntu/+source/calibre/3.27.1+
 dtkwidget 2.0.8.1-1build1 https://launchpad.net/ubuntu/+source/dtkwidget/2.0.8.1-1build1
 libqtxdg 3.2.0-2ubuntu3 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-2ubuntu3
 musescore 2.3.1+dfsg1-1build1 https://launchpad.net/ubuntu/+source/musescore/2.3.1+dfsg1-1build1
+qt5ct 0.35-1build1 https://launchpad.net/ubuntu/+source/qt5ct/0.35-1build1
