@@ -52,3 +52,4 @@ qtwebsockets-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtwebs
 qtx11extras-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.11.1-1
 qtxmlpatterns-opensource-src 5.11.1-2 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.11.1-2
 gsettings-qt 0.1+17.10.20170824-4fakesync1 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-4fakesync1
+qtwebview-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtwebview-opensource-src/5.11.1-1
