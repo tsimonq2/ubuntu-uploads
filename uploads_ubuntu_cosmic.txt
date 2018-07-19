@@ -142,3 +142,4 @@ u1db-qt 0.1.5+15.10.20150826.1-0ubuntu3 https://launchpad.net/ubuntu/+source/u1d
 accounts-qml-module 0.6+17.04.20170405-0ubuntu2 https://launchpad.net/ubuntu/+source/accounts-qml-module/0.6+17.04.20170405-0ubuntu2
 calamares-settings-ubuntu 10 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/10
 qtcreator 4.6.2-1build1 https://launchpad.net/ubuntu/+source/qtcreator/4.6.2-1build1
+qtwebengine-opensource-src 5.11.1+dfsg-2ubuntu3 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.11.1+dfsg-2ubuntu3
