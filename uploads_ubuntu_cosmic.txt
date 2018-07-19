@@ -140,3 +140,4 @@ akonadi 4:17.12.3-0ubuntu5 https://launchpad.net/ubuntu/+source/akonadi/4:17.12.
 u1db-qt 0.1.5+15.10.20150826.1-0ubuntu2 https://launchpad.net/ubuntu/+source/u1db-qt/0.1.5+15.10.20150826.1-0ubuntu2
 u1db-qt 0.1.5+15.10.20150826.1-0ubuntu3 https://launchpad.net/ubuntu/+source/u1db-qt/0.1.5+15.10.20150826.1-0ubuntu3
 accounts-qml-module 0.6+17.04.20170405-0ubuntu2 https://launchpad.net/ubuntu/+source/accounts-qml-module/0.6+17.04.20170405-0ubuntu2
+calamares-settings-ubuntu 10 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/10
