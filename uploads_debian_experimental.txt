@@ -72,3 +72,4 @@ qttranslations-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qttr
 qtx11extras-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtx11extras-opensource-src/5.11.1-1
 qtbase-opensource-src 5.11.1+dfsg-3 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.1+dfsg-3
 qtwebview-opensource-src 5.11.1-1 https://launchpad.net/debian/+source/qtwebview-opensource-src/5.11.1-1
+qtbase-opensource-src 5.11.1+dfsg-5 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.1+dfsg-5
