@@ -147,3 +147,4 @@ qtwebengine-opensource-src 5.11.1+dfsg-2ubuntu4 https://launchpad.net/ubuntu/+so
 qtbase-opensource-src 5.11.1+dfsg-5ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.1+dfsg-5ubuntu1
 lubuntu-default-settings 1.4 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.4
 lubuntu-default-settings 1.5 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.5
+qterminal 0.9.0-3ubuntu2 https://launchpad.net/ubuntu/+source/qterminal/0.9.0-3ubuntu2
