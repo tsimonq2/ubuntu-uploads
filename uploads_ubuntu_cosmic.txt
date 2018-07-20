@@ -145,3 +145,4 @@ qtcreator 4.6.2-1build1 https://launchpad.net/ubuntu/+source/qtcreator/4.6.2-1bu
 qtwebengine-opensource-src 5.11.1+dfsg-2ubuntu3 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.11.1+dfsg-2ubuntu3
 qtwebengine-opensource-src 5.11.1+dfsg-2ubuntu4 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.11.1+dfsg-2ubuntu4
 qtbase-opensource-src 5.11.1+dfsg-5ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.1+dfsg-5ubuntu1
+lubuntu-default-settings 1.4 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.4
