@@ -151,3 +151,4 @@ qterminal 0.9.0-3ubuntu2 https://launchpad.net/ubuntu/+source/qterminal/0.9.0-3u
 calamares-settings-ubuntu 11 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/11
 calamares-settings-ubuntu 12 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/12
 kmail 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kmail/4:17.12.3-0ubuntu2
+kxstitch 2.1.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kxstitch/2.1.1-1ubuntu1
