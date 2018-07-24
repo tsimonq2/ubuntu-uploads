@@ -150,3 +150,4 @@ lubuntu-default-settings 1.5 https://launchpad.net/ubuntu/+source/lubuntu-defaul
 qterminal 0.9.0-3ubuntu2 https://launchpad.net/ubuntu/+source/qterminal/0.9.0-3ubuntu2
 calamares-settings-ubuntu 11 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/11
 calamares-settings-ubuntu 12 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/12
+kmail 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kmail/4:17.12.3-0ubuntu2
