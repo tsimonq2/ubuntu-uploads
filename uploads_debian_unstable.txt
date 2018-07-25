@@ -49,3 +49,4 @@ qttranslations-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qttr
 qtvirtualkeyboard-opensource-src 5.11.1+dfsg-2 https://launchpad.net/debian/+source/qtvirtualkeyboard-opensource-src/5.11.1+dfsg-2
 qtwayland-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtwayland-opensource-src/5.11.1-2
 qtwebchannel-opensource-src 5.11.1-3 https://launchpad.net/debian/+source/qtwebchannel-opensource-src/5.11.1-3
+qtwebkit-opensource-src 5.212.0~alpha2-13 https://launchpad.net/debian/+source/qtwebkit-opensource-src/5.212.0~alpha2-13
