@@ -46,3 +46,4 @@ qtspeech-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtspeech-o
 qtsvg-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtsvg-opensource-src/5.11.1-2
 qttools-opensource-src 5.11.1-3 https://launchpad.net/debian/+source/qttools-opensource-src/5.11.1-3
 qttranslations-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qttranslations-opensource-src/5.11.1-2
+qtvirtualkeyboard-opensource-src 5.11.1+dfsg-2 https://launchpad.net/debian/+source/qtvirtualkeyboard-opensource-src/5.11.1+dfsg-2
