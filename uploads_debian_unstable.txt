@@ -35,3 +35,4 @@ qtconnectivity-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtco
 qtdeclarative-opensource-src 5.11.1-3 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.11.1-3
 qtgraphicaleffects-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtgraphicaleffects-opensource-src/5.11.1-2
 qtimageformats-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtimageformats-opensource-src/5.11.1-2
+qtlocation-opensource-src 5.11.1+dfsg-3 https://launchpad.net/debian/+source/qtlocation-opensource-src/5.11.1+dfsg-3
