@@ -153,3 +153,4 @@ calamares-settings-ubuntu 12 https://launchpad.net/ubuntu/+source/calamares-sett
 kmail 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/kmail/4:17.12.3-0ubuntu2
 kxstitch 2.1.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kxstitch/2.1.1-1ubuntu1
 libkf5ksieve 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/libkf5ksieve/4:17.12.3-0ubuntu2
+calamares-settings-ubuntu 13 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/13
