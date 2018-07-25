@@ -41,3 +41,4 @@ qtquickcontrols-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtq
 qtquickcontrols2-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtquickcontrols2-opensource-src/5.11.1-2
 qtscript-opensource-src 5.11.1+dfsg-2 https://launchpad.net/debian/+source/qtscript-opensource-src/5.11.1+dfsg-2
 qtsensors-opensource-src 5.11.1-3 https://launchpad.net/debian/+source/qtsensors-opensource-src/5.11.1-3
+qtserialport-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtserialport-opensource-src/5.11.1-2
