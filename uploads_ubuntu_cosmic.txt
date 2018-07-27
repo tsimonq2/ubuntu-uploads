@@ -156,3 +156,4 @@ libkf5ksieve 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/libkf5ksiev
 calamares-settings-ubuntu 13 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/13
 sddm 0.18.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sddm/0.18.0-1ubuntu1
 plasma-workspace 4:5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.12.6-0ubuntu2
+sddm 0.18.0-1ubuntu2 https://launchpad.net/ubuntu/+source/sddm/0.18.0-1ubuntu2
