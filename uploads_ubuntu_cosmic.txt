@@ -155,3 +155,4 @@ kxstitch 2.1.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kxstitch/2.1.1-1ubu
 libkf5ksieve 4:17.12.3-0ubuntu2 https://launchpad.net/ubuntu/+source/libkf5ksieve/4:17.12.3-0ubuntu2
 calamares-settings-ubuntu 13 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/13
 sddm 0.18.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sddm/0.18.0-1ubuntu1
+plasma-workspace 4:5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.12.6-0ubuntu2
