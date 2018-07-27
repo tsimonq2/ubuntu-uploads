@@ -157,3 +157,4 @@ calamares-settings-ubuntu 13 https://launchpad.net/ubuntu/+source/calamares-sett
 sddm 0.18.0-1ubuntu1 https://launchpad.net/ubuntu/+source/sddm/0.18.0-1ubuntu1
 plasma-workspace 4:5.12.6-0ubuntu2 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.12.6-0ubuntu2
 sddm 0.18.0-1ubuntu2 https://launchpad.net/ubuntu/+source/sddm/0.18.0-1ubuntu2
+lubuntu-artwork 1.6 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.6
