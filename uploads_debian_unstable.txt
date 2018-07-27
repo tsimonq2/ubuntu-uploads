@@ -56,3 +56,4 @@ qtx11extras-opensource-src 5.11.1-2 https://launchpad.net/debian/+source/qtx11ex
 qtxmlpatterns-opensource-src 5.11.1-3 https://launchpad.net/debian/+source/qtxmlpatterns-opensource-src/5.11.1-3
 qt3d-opensource-src 5.11.1+dfsg-3 https://launchpad.net/debian/+source/qt3d-opensource-src/5.11.1+dfsg-3
 qtwebengine-opensource-src 5.11.1+dfsg-3 https://launchpad.net/debian/+source/qtwebengine-opensource-src/5.11.1+dfsg-3
+qtwebkit-opensource-src 5.212.0~alpha2-15 https://launchpad.net/debian/+source/qtwebkit-opensource-src/5.212.0~alpha2-15
