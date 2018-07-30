@@ -161,3 +161,4 @@ lubuntu-artwork 1.6 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.6
 calamares-settings-ubuntu 14 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/14
 qterminal 0.9.0-3ubuntu3 https://launchpad.net/ubuntu/+source/qterminal/0.9.0-3ubuntu3
 lxqt-config 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0-0ubuntu2
+freshplayerplugin 0.3.9-0ubuntu3 https://launchpad.net/ubuntu/+source/freshplayerplugin/0.3.9-0ubuntu3
