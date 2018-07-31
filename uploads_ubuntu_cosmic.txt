@@ -164,3 +164,4 @@ lxqt-config 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-config/0.1
 freshplayerplugin 0.3.9-0ubuntu3 https://launchpad.net/ubuntu/+source/freshplayerplugin/0.3.9-0ubuntu3
 libfm-qt 0.13.1-5ubuntu4 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu4
 lxqt-qtplugin 0.13.0-0ubuntu4 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.13.0-0ubuntu4
+elementary-xfce 0.12-1ubuntu1 https://launchpad.net/ubuntu/+source/elementary-xfce/0.12-1ubuntu1
