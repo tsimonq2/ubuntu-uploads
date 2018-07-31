@@ -166,3 +166,4 @@ libfm-qt 0.13.1-5ubuntu4 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5u
 lxqt-qtplugin 0.13.0-0ubuntu4 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.13.0-0ubuntu4
 elementary-xfce 0.12-1ubuntu1 https://launchpad.net/ubuntu/+source/elementary-xfce/0.12-1ubuntu1
 bind-dyndb-ldap 11.1-3ubuntu2 https://launchpad.net/ubuntu/+source/bind-dyndb-ldap/11.1-3ubuntu2
+lubuntu-default-settings 1.6 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.6
