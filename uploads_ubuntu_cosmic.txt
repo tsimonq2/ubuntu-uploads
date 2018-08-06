@@ -169,3 +169,4 @@ bind-dyndb-ldap 11.1-3ubuntu2 https://launchpad.net/ubuntu/+source/bind-dyndb-ld
 lubuntu-default-settings 1.6 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.6
 xca 2.0.1-1~build1 https://launchpad.net/ubuntu/+source/xca/2.0.1-1~build1
 civicrm 5.3.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/5.3.1+dfsg-1ubuntu1
+apper 1.0.0-1ubuntu1 https://launchpad.net/ubuntu/+source/apper/1.0.0-1ubuntu1
