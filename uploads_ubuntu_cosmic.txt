@@ -171,3 +171,4 @@ xca 2.0.1-1~build1 https://launchpad.net/ubuntu/+source/xca/2.0.1-1~build1
 civicrm 5.3.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/civicrm/5.3.1+dfsg-1ubuntu1
 apper 1.0.0-1ubuntu1 https://launchpad.net/ubuntu/+source/apper/1.0.0-1ubuntu1
 libdlna 0.2.4-0ubuntu7 https://launchpad.net/ubuntu/+source/libdlna/0.2.4-0ubuntu7
+openjfx 8u161-b12-1ubuntu3 https://launchpad.net/ubuntu/+source/openjfx/8u161-b12-1ubuntu3
