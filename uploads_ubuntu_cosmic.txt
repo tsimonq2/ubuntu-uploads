@@ -174,3 +174,4 @@ libdlna 0.2.4-0ubuntu7 https://launchpad.net/ubuntu/+source/libdlna/0.2.4-0ubunt
 openjfx 8u161-b12-1ubuntu3 https://launchpad.net/ubuntu/+source/openjfx/8u161-b12-1ubuntu3
 mpv 0.29.0-1ubuntu1 https://launchpad.net/ubuntu/+source/mpv/0.29.0-1ubuntu1
 lxqt-config 0.13.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0-0ubuntu3
+python-phabricator 0.7.0-1ubuntu1 https://launchpad.net/ubuntu/+source/python-phabricator/0.7.0-1ubuntu1
