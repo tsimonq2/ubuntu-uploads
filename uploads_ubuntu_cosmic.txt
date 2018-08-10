@@ -197,3 +197,4 @@ pstoedit 3.73-1build1 https://launchpad.net/ubuntu/+source/pstoedit/3.73-1build1
 rss-glx 0.9.1-6.1ubuntu2 https://launchpad.net/ubuntu/+source/rss-glx/0.9.1-6.1ubuntu2
 ruby-rmagick 2.16.0-4build1 https://launchpad.net/ubuntu/+source/ruby-rmagick/2.16.0-4build1
 synfig 1.2.1-0.1build2 https://launchpad.net/ubuntu/+source/synfig/1.2.1-0.1build2
+transcode 3:1.1.7-9ubuntu4 https://launchpad.net/ubuntu/+source/transcode/3:1.1.7-9ubuntu4
