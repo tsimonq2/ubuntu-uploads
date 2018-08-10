@@ -187,3 +187,4 @@ gem 1:0.93.3-16build1 https://launchpad.net/ubuntu/+source/gem/1:0.93.3-16build1
 gnustep-gui 0.26.2-3build1 https://launchpad.net/ubuntu/+source/gnustep-gui/0.26.2-3build1
 imageinfo 0.04-0ubuntu12 https://launchpad.net/ubuntu/+source/imageinfo/0.04-0ubuntu12
 inkscape 0.92.3-2build1 https://launchpad.net/ubuntu/+source/inkscape/0.92.3-2build1
+jmagick 6.6.9~20130201-svn99-4build1 https://launchpad.net/ubuntu/+source/jmagick/6.6.9~20130201-svn99-4build1
