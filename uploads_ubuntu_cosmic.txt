@@ -199,3 +199,4 @@ ruby-rmagick 2.16.0-4build1 https://launchpad.net/ubuntu/+source/ruby-rmagick/2.
 synfig 1.2.1-0.1build2 https://launchpad.net/ubuntu/+source/synfig/1.2.1-0.1build2
 transcode 3:1.1.7-9ubuntu4 https://launchpad.net/ubuntu/+source/transcode/3:1.1.7-9ubuntu4
 vdr-plugin-skinenigmang 0.1.2+git20180128-2build1 https://launchpad.net/ubuntu/+source/vdr-plugin-skinenigmang/0.1.2+git20180128-2build1
+zbar 0.10+doc-10.1build3 https://launchpad.net/ubuntu/+source/zbar/0.10+doc-10.1build3
