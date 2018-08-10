@@ -193,3 +193,4 @@ libtuxcap 1.4.0.dfsg2-2.3build3 https://launchpad.net/ubuntu/+source/libtuxcap/1
 obex-data-server 0.4.6-1build1 https://launchpad.net/ubuntu/+source/obex-data-server/0.4.6-1build1
 pfstools 2.1.0-3build3 https://launchpad.net/ubuntu/+source/pfstools/2.1.0-3build3
 php-imagick 3.4.3~rc2-2ubuntu5 https://launchpad.net/ubuntu/+source/php-imagick/3.4.3~rc2-2ubuntu5
+pstoedit 3.73-1build1 https://launchpad.net/ubuntu/+source/pstoedit/3.73-1build1
