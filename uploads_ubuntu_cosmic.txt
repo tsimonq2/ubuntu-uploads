@@ -195,3 +195,4 @@ pfstools 2.1.0-3build3 https://launchpad.net/ubuntu/+source/pfstools/2.1.0-3buil
 php-imagick 3.4.3~rc2-2ubuntu5 https://launchpad.net/ubuntu/+source/php-imagick/3.4.3~rc2-2ubuntu5
 pstoedit 3.73-1build1 https://launchpad.net/ubuntu/+source/pstoedit/3.73-1build1
 rss-glx 0.9.1-6.1ubuntu2 https://launchpad.net/ubuntu/+source/rss-glx/0.9.1-6.1ubuntu2
+ruby-rmagick 2.16.0-4build1 https://launchpad.net/ubuntu/+source/ruby-rmagick/2.16.0-4build1
