@@ -179,3 +179,4 @@ qtstyleplugins-src 5.0.0+git23.g335dbec-2ubuntu1 https://launchpad.net/ubuntu/+s
 qtstyleplugins-src 5.0.0+git23.g335dbec-2ubuntu2 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2ubuntu2
 gsettings-qt 0.1+17.10.20170824-6fakesync1ubuntu1 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-6fakesync1ubuntu1
 lubuntu-meta 1.7 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.7
+calamares-settings-ubuntu 15 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/15
