@@ -185,3 +185,4 @@ converseen 0.9.6.2-2build1 https://launchpad.net/ubuntu/+source/converseen/0.9.6
 dx 1:4.4.4-10build3 https://launchpad.net/ubuntu/+source/dx/1:4.4.4-10build3
 gem 1:0.93.3-16build1 https://launchpad.net/ubuntu/+source/gem/1:0.93.3-16build1
 gnustep-gui 0.26.2-3build1 https://launchpad.net/ubuntu/+source/gnustep-gui/0.26.2-3build1
+imageinfo 0.04-0ubuntu12 https://launchpad.net/ubuntu/+source/imageinfo/0.04-0ubuntu12
