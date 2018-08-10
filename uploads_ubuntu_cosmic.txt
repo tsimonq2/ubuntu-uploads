@@ -181,3 +181,4 @@ gsettings-qt 0.1+17.10.20170824-6fakesync1ubuntu1 https://launchpad.net/ubuntu/+
 lubuntu-meta 1.7 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.7
 calamares-settings-ubuntu 15 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/15
 calamares-settings-ubuntu 16 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/16
+converseen 0.9.6.2-2build1 https://launchpad.net/ubuntu/+source/converseen/0.9.6.2-2build1
