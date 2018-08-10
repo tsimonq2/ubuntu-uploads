@@ -201,3 +201,4 @@ transcode 3:1.1.7-9ubuntu4 https://launchpad.net/ubuntu/+source/transcode/3:1.1.
 vdr-plugin-skinenigmang 0.1.2+git20180128-2build1 https://launchpad.net/ubuntu/+source/vdr-plugin-skinenigmang/0.1.2+git20180128-2build1
 zbar 0.10+doc-10.1build3 https://launchpad.net/ubuntu/+source/zbar/0.10+doc-10.1build3
 hhvm 3.24.7+dfsg-2ubuntu5 https://launchpad.net/ubuntu/+source/hhvm/3.24.7+dfsg-2ubuntu5
+ffmpeg 7:4.0.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ffmpeg/7:4.0.2-1ubuntu1
