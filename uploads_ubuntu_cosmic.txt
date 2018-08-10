@@ -184,3 +184,4 @@ calamares-settings-ubuntu 16 https://launchpad.net/ubuntu/+source/calamares-sett
 converseen 0.9.6.2-2build1 https://launchpad.net/ubuntu/+source/converseen/0.9.6.2-2build1
 dx 1:4.4.4-10build3 https://launchpad.net/ubuntu/+source/dx/1:4.4.4-10build3
 gem 1:0.93.3-16build1 https://launchpad.net/ubuntu/+source/gem/1:0.93.3-16build1
+gnustep-gui 0.26.2-3build1 https://launchpad.net/ubuntu/+source/gnustep-gui/0.26.2-3build1
