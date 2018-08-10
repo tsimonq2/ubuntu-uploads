@@ -182,3 +182,4 @@ lubuntu-meta 1.7 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.7
 calamares-settings-ubuntu 15 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/15
 calamares-settings-ubuntu 16 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/16
 converseen 0.9.6.2-2build1 https://launchpad.net/ubuntu/+source/converseen/0.9.6.2-2build1
+dx 1:4.4.4-10build3 https://launchpad.net/ubuntu/+source/dx/1:4.4.4-10build3
