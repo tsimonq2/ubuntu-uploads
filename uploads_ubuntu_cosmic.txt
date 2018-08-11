@@ -203,3 +203,4 @@ zbar 0.10+doc-10.1build3 https://launchpad.net/ubuntu/+source/zbar/0.10+doc-10.1
 hhvm 3.24.7+dfsg-2ubuntu5 https://launchpad.net/ubuntu/+source/hhvm/3.24.7+dfsg-2ubuntu5
 ffmpeg 7:4.0.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ffmpeg/7:4.0.2-1ubuntu1
 calamares-settings-ubuntu 17 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/17
+lubuntu-default-settings 1.7 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.7
