@@ -624,3 +624,4 @@ xfce4-terminal 0.8.7.4-0ubuntu0.18.04.1 https://launchpad.net/ubuntu/+source/xfc
 vlc 3.0.3-1-1ubuntu1 https://launchpad.net/ubuntu/+source/vlc/3.0.3-1-1ubuntu1
 python-phabricator 0.7.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/python-phabricator/0.7.0-1ubuntu0.1
 lubuntu-default-settings 0.54.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.54.1
+rkhunter 1.4.6-2~ubuntu18.04.1 https://launchpad.net/ubuntu/+source/rkhunter/1.4.6-2~ubuntu18.04.1
