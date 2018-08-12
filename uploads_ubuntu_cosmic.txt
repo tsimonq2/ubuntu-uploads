@@ -205,3 +205,4 @@ ffmpeg 7:4.0.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ffmpeg/7:4.0.2-1ubu
 calamares-settings-ubuntu 17 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/17
 lubuntu-default-settings 1.7 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.7
 lubuntu-default-settings 1.8 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.8
+ubuntustudio-controls 1.5 https://launchpad.net/ubuntu/+source/ubuntustudio-controls/1.5
