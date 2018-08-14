@@ -207,3 +207,4 @@ lubuntu-default-settings 1.7 https://launchpad.net/ubuntu/+source/lubuntu-defaul
 lubuntu-default-settings 1.8 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.8
 ubuntustudio-controls 1.5 https://launchpad.net/ubuntu/+source/ubuntustudio-controls/1.5
 popularity-contest 1.67ubuntu1 https://launchpad.net/ubuntu/+source/popularity-contest/1.67ubuntu1
+calamares-settings-ubuntu 18 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/18
