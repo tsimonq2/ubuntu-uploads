@@ -209,3 +209,4 @@ ubuntustudio-controls 1.5 https://launchpad.net/ubuntu/+source/ubuntustudio-cont
 popularity-contest 1.67ubuntu1 https://launchpad.net/ubuntu/+source/popularity-contest/1.67ubuntu1
 calamares-settings-ubuntu 18 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/18
 calamares-settings-ubuntu 19 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/19
+calamares 3.2.1-1ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.2.1-1ubuntu1
