@@ -211,3 +211,4 @@ calamares-settings-ubuntu 18 https://launchpad.net/ubuntu/+source/calamares-sett
 calamares-settings-ubuntu 19 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/19
 calamares 3.2.1-1ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.2.1-1ubuntu1
 nm-tray 0.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/nm-tray/0.4.0-0ubuntu2
+lubuntu-default-settings 1.9 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.9
