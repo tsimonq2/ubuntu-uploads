@@ -215,3 +215,4 @@ lubuntu-default-settings 1.9 https://launchpad.net/ubuntu/+source/lubuntu-defaul
 lxqt-panel 0.13.0-0ubuntu4 https://launchpad.net/ubuntu/+source/lxqt-panel/0.13.0-0ubuntu4
 apturl 0.5.2ubuntu15 https://launchpad.net/ubuntu/+source/apturl/0.5.2ubuntu15
 ubuntu-system-service 0.4 https://launchpad.net/ubuntu/+source/ubuntu-system-service/0.4
+casper 1.395 https://launchpad.net/ubuntu/+source/casper/1.395
