@@ -4,3 +4,4 @@ cryptkeeper 0.9.5-5.1ubuntu3.1 https://launchpad.net/ubuntu/+source/cryptkeeper/
 childsplay 1.6-1ubuntu0.1 https://launchpad.net/ubuntu/+source/childsplay/1.6-1ubuntu0.1
 openbox 3.5.2-6ubuntu0.1 https://launchpad.net/ubuntu/+source/openbox/3.5.2-6ubuntu0.1
 apturl 0.5.2ubuntu4.1 https://launchpad.net/ubuntu/+source/apturl/0.5.2ubuntu4.1
+gnome-user-docs 3.8.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/gnome-user-docs/3.8.2-1ubuntu0.1
