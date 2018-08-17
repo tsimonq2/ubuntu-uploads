@@ -55,3 +55,4 @@ gsettings-qt 0.1+17.10.20170824-4fakesync1 https://launchpad.net/ubuntu/+source/
 qtwebview-opensource-src 5.11.1-1 https://launchpad.net/ubuntu/+source/qtwebview-opensource-src/5.11.1-1
 gsettings-qt 0.1+17.10.20170824-5fakesync1 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-5fakesync1
 gsettings-qt 0.1+17.10.20170824-6fakesync1 https://launchpad.net/ubuntu/+source/gsettings-qt/0.1+17.10.20170824-6fakesync1
+fraqtive 0.4.8-7 https://launchpad.net/ubuntu/+source/fraqtive/0.4.8-7
