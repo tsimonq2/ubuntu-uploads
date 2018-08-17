@@ -214,3 +214,4 @@ nm-tray 0.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/nm-tray/0.4.0-0ubunt
 lubuntu-default-settings 1.9 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.9
 lxqt-panel 0.13.0-0ubuntu4 https://launchpad.net/ubuntu/+source/lxqt-panel/0.13.0-0ubuntu4
 apturl 0.5.2ubuntu15 https://launchpad.net/ubuntu/+source/apturl/0.5.2ubuntu15
+ubuntu-system-service 0.4 https://launchpad.net/ubuntu/+source/ubuntu-system-service/0.4
