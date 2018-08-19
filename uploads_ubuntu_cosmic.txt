@@ -220,3 +220,4 @@ lubuntu-default-settings 1.10 https://launchpad.net/ubuntu/+source/lubuntu-defau
 lubuntu-default-settings 1.11 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.11
 lubuntu-default-settings 1.12 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.12
 lubuntu-default-settings 1.13 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.13
+calamares 3.2.1-1ubuntu2 https://launchpad.net/ubuntu/+source/calamares/3.2.1-1ubuntu2
