@@ -226,3 +226,4 @@ calamares-settings-ubuntu 20 https://launchpad.net/ubuntu/+source/calamares-sett
 lxqt-sudo 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.13.0-0ubuntu2
 calamares 3.2.1-1ubuntu3 https://launchpad.net/ubuntu/+source/calamares/3.2.1-1ubuntu3
 lubuntu-meta 1.8 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.8
+apport 2.20.10-0ubuntu8 https://launchpad.net/ubuntu/+source/apport/2.20.10-0ubuntu8
