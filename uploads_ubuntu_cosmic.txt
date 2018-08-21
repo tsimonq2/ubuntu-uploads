@@ -225,3 +225,4 @@ yaml-cpp 0.5.2-4ubuntu2 https://launchpad.net/ubuntu/+source/yaml-cpp/0.5.2-4ubu
 calamares-settings-ubuntu 20 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/20
 lxqt-sudo 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.13.0-0ubuntu2
 calamares 3.2.1-1ubuntu3 https://launchpad.net/ubuntu/+source/calamares/3.2.1-1ubuntu3
+lubuntu-meta 1.8 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.8
