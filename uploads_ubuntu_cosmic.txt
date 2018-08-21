@@ -223,3 +223,4 @@ lubuntu-default-settings 1.13 https://launchpad.net/ubuntu/+source/lubuntu-defau
 calamares 3.2.1-1ubuntu2 https://launchpad.net/ubuntu/+source/calamares/3.2.1-1ubuntu2
 yaml-cpp 0.5.2-4ubuntu2 https://launchpad.net/ubuntu/+source/yaml-cpp/0.5.2-4ubuntu2
 calamares-settings-ubuntu 20 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/20
+lxqt-sudo 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.13.0-0ubuntu2
