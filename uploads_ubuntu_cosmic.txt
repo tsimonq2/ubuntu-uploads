@@ -228,3 +228,4 @@ calamares 3.2.1-1ubuntu3 https://launchpad.net/ubuntu/+source/calamares/3.2.1-1u
 lubuntu-meta 1.8 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.8
 apport 2.20.10-0ubuntu8 https://launchpad.net/ubuntu/+source/apport/2.20.10-0ubuntu8
 lxqt-panel 0.13.0-0ubuntu5 https://launchpad.net/ubuntu/+source/lxqt-panel/0.13.0-0ubuntu5
+apport 2.20.10-0ubuntu9 https://launchpad.net/ubuntu/+source/apport/2.20.10-0ubuntu9
