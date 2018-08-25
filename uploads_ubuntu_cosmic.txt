@@ -231,3 +231,4 @@ lxqt-panel 0.13.0-0ubuntu5 https://launchpad.net/ubuntu/+source/lxqt-panel/0.13.
 apport 2.20.10-0ubuntu9 https://launchpad.net/ubuntu/+source/apport/2.20.10-0ubuntu9
 blogilo 4:17.08.3-2build1 https://launchpad.net/ubuntu/+source/blogilo/4:17.08.3-2build1
 kraft 0.81-1build1 https://launchpad.net/ubuntu/+source/kraft/0.81-1build1
+qtbase-opensource-src 5.11.1+dfsg-7ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.1+dfsg-7ubuntu1
