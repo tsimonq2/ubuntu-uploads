@@ -59,3 +59,4 @@ qtwebengine-opensource-src 5.11.1+dfsg-3 https://launchpad.net/debian/+source/qt
 qtwebkit-opensource-src 5.212.0~alpha2-15 https://launchpad.net/debian/+source/qtwebkit-opensource-src/5.212.0~alpha2-15
 qttools-opensource-src 5.11.1-4 https://launchpad.net/debian/+source/qttools-opensource-src/5.11.1-4
 qttools-opensource-src 5.11.1-5 https://launchpad.net/debian/+source/qttools-opensource-src/5.11.1-5
+qtbase-opensource-src 5.11.1+dfsg-7 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.1+dfsg-7
