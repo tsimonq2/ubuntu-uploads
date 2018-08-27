@@ -61,3 +61,4 @@ boost1.67 1.67.0-6 https://launchpad.net/ubuntu/+source/boost1.67/1.67.0-6
 debian-policy 4.2.1.0 https://launchpad.net/ubuntu/+source/debian-policy/4.2.1.0
 cappuccino 0.5.1-9 https://launchpad.net/ubuntu/+source/cappuccino/0.5.1-9
 aspell-ku 0.20-0-7 https://launchpad.net/ubuntu/+source/aspell-ku/0.20-0-7
+gr-radar 0.0.0.20180308-1 https://launchpad.net/ubuntu/+source/gr-radar/0.0.0.20180308-1
