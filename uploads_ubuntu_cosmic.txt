@@ -237,3 +237,4 @@ supermin 5.1.19-3ubuntu1 https://launchpad.net/ubuntu/+source/supermin/5.1.19-3u
 doit 0.31.1-1ubuntu1 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu1
 doit 0.31.1-1ubuntu1~ppa1 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu1~ppa1
 doit 0.31.1-1ubuntu2 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu2
+doit 0.31.1-1ubuntu3 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu3
