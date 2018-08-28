@@ -238,3 +238,4 @@ doit 0.31.1-1ubuntu1 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu1
 doit 0.31.1-1ubuntu1~ppa1 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu1~ppa1
 doit 0.31.1-1ubuntu2 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu2
 doit 0.31.1-1ubuntu3 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu3
+telepathy-logger-qt 17.08.0-2build1 https://launchpad.net/ubuntu/+source/telepathy-logger-qt/17.08.0-2build1
