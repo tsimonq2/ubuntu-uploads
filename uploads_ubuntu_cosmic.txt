@@ -236,3 +236,4 @@ calamares-settings-ubuntu 21 https://launchpad.net/ubuntu/+source/calamares-sett
 supermin 5.1.19-3ubuntu1 https://launchpad.net/ubuntu/+source/supermin/5.1.19-3ubuntu1
 doit 0.31.1-1ubuntu1 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu1
 doit 0.31.1-1ubuntu1~ppa1 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu1~ppa1
+doit 0.31.1-1ubuntu2 https://launchpad.net/ubuntu/+source/doit/0.31.1-1ubuntu2
