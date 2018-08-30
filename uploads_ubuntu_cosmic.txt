@@ -242,3 +242,4 @@ telepathy-logger-qt 17.08.0-2build1 https://launchpad.net/ubuntu/+source/telepat
 msttcorefonts 3.7ubuntu1 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu1
 msttcorefonts 3.7ubuntu2 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu2
 user-mode-linux 4.17-1um-1ubuntu1 https://launchpad.net/ubuntu/+source/user-mode-linux/4.17-1um-1ubuntu1
+msttcorefonts 3.7ubuntu3 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu3
