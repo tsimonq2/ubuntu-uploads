@@ -243,3 +243,4 @@ msttcorefonts 3.7ubuntu1 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7u
 msttcorefonts 3.7ubuntu2 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu2
 user-mode-linux 4.17-1um-1ubuntu1 https://launchpad.net/ubuntu/+source/user-mode-linux/4.17-1um-1ubuntu1
 msttcorefonts 3.7ubuntu3 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu3
+msttcorefonts 3.7ubuntu4~really3.6ubuntu3 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu4~really3.6ubuntu3
