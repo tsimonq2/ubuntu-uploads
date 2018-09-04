@@ -64,3 +64,4 @@ aspell-ku 0.20-0-7 https://launchpad.net/ubuntu/+source/aspell-ku/0.20-0-7
 gr-radar 0.0.0.20180308-1 https://launchpad.net/ubuntu/+source/gr-radar/0.0.0.20180308-1
 r-cran-scales 1.0.0-2 https://launchpad.net/ubuntu/+source/r-cran-scales/1.0.0-2
 dde-qt-dbus-factory 1.0.4-2 https://launchpad.net/ubuntu/+source/dde-qt-dbus-factory/1.0.4-2
+debian-policy 4.2.1.1 https://launchpad.net/ubuntu/+source/debian-policy/4.2.1.1
