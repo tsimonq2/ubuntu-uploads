@@ -245,3 +245,4 @@ user-mode-linux 4.17-1um-1ubuntu1 https://launchpad.net/ubuntu/+source/user-mode
 msttcorefonts 3.7ubuntu3 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu3
 msttcorefonts 3.7ubuntu4~really3.6ubuntu3 https://launchpad.net/ubuntu/+source/msttcorefonts/3.7ubuntu4~really3.6ubuntu3
 ubuntu-restricted-extras 67 https://launchpad.net/ubuntu/+source/ubuntu-restricted-extras/67
+calamares 3.2.2-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.2.2-0ubuntu1
