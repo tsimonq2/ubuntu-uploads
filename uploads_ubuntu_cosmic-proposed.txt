@@ -65,3 +65,4 @@ gr-radar 0.0.0.20180308-1 https://launchpad.net/ubuntu/+source/gr-radar/0.0.0.20
 r-cran-scales 1.0.0-2 https://launchpad.net/ubuntu/+source/r-cran-scales/1.0.0-2
 dde-qt-dbus-factory 1.0.4-2 https://launchpad.net/ubuntu/+source/dde-qt-dbus-factory/1.0.4-2
 debian-policy 4.2.1.1 https://launchpad.net/ubuntu/+source/debian-policy/4.2.1.1
+nanoc 4.8.10-2 https://launchpad.net/ubuntu/+source/nanoc/4.8.10-2
