@@ -247,3 +247,4 @@ msttcorefonts 3.7ubuntu4~really3.6ubuntu3 https://launchpad.net/ubuntu/+source/m
 ubuntu-restricted-extras 67 https://launchpad.net/ubuntu/+source/ubuntu-restricted-extras/67
 calamares 3.2.2-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.2.2-0ubuntu1
 lubuntu-meta 1.9 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.9
+jekyll 3.8.3+dfsg-2ubuntu1 https://launchpad.net/ubuntu/+source/jekyll/3.8.3+dfsg-2ubuntu1
