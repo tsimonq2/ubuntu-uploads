@@ -249,3 +249,4 @@ calamares 3.2.2-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.2.2-0u
 lubuntu-meta 1.9 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.9
 jekyll 3.8.3+dfsg-2ubuntu1 https://launchpad.net/ubuntu/+source/jekyll/3.8.3+dfsg-2ubuntu1
 lubuntu-artwork 1.7 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.7
+casper 1.396 https://launchpad.net/ubuntu/+source/casper/1.396
