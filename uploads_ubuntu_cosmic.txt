@@ -254,3 +254,4 @@ nm-tray 0.4.0-0ubuntu3 https://launchpad.net/ubuntu/+source/nm-tray/0.4.0-0ubunt
 ubuntustudio-look 0.55 https://launchpad.net/ubuntu/+source/ubuntustudio-look/0.55
 lubuntu-artwork 1.8 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.8
 lubuntu-meta 1.11 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.11
+lubuntu-default-settings 1.14 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.14
