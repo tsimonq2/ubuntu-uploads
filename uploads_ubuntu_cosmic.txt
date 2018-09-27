@@ -252,3 +252,4 @@ lubuntu-artwork 1.7 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.7
 casper 1.396 https://launchpad.net/ubuntu/+source/casper/1.396
 nm-tray 0.4.0-0ubuntu3 https://launchpad.net/ubuntu/+source/nm-tray/0.4.0-0ubuntu3
 ubuntustudio-look 0.55 https://launchpad.net/ubuntu/+source/ubuntustudio-look/0.55
+lubuntu-artwork 1.8 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.8
