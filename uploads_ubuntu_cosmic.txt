@@ -257,3 +257,4 @@ lubuntu-meta 1.11 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.11
 lubuntu-default-settings 1.14 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.14
 ubuntukylin-wallpapers 18.10.1 https://launchpad.net/ubuntu/+source/ubuntukylin-wallpapers/18.10.1
 ukui-greeter 1.1.6-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-greeter/1.1.6-0ubuntu1
+ubuntukylin-theme 1.7.9.2 https://launchpad.net/ubuntu/+source/ubuntukylin-theme/1.7.9.2
