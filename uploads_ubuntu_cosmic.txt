@@ -262,3 +262,4 @@ lubuntu-meta 1.12 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.12
 lubuntu-default-settings 1.15 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.15
 trojita 0.7-0ubuntu1 https://launchpad.net/ubuntu/+source/trojita/0.7-0ubuntu1
 lxqt-config 0.13.0-0ubuntu5 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0-0ubuntu5
+libfm-qt 0.13.1-5ubuntu5 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu5
