@@ -269,3 +269,4 @@ nm-tray 0.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.4.1-0ubunt
 lubuntu-meta 1.13 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.13
 calamares-settings-ubuntu 23 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/23
 lxqt-globalkeys 0.13.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.13.0-0ubuntu2
+lubuntu-default-settings 1.17 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.17
