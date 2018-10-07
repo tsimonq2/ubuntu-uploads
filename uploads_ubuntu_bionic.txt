@@ -627,3 +627,4 @@ lubuntu-default-settings 0.54.1 https://launchpad.net/ubuntu/+source/lubuntu-def
 rkhunter 1.4.6-2~ubuntu18.04.1 https://launchpad.net/ubuntu/+source/rkhunter/1.4.6-2~ubuntu18.04.1
 apturl 0.5.2ubuntu14.1 https://launchpad.net/ubuntu/+source/apturl/0.5.2ubuntu14.1
 vlc 3.0.4-1ubuntu0.1 https://launchpad.net/ubuntu/+source/vlc/3.0.4-1ubuntu0.1
+vlc 3.0.4-1ubuntu0.2 https://launchpad.net/ubuntu/+source/vlc/3.0.4-1ubuntu0.2
