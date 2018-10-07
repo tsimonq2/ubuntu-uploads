@@ -267,3 +267,4 @@ ubuntustudio-controls 1.6 https://launchpad.net/ubuntu/+source/ubuntustudio-cont
 lubuntu-default-settings 1.16 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.16
 nm-tray 0.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.4.1-0ubuntu1
 lubuntu-meta 1.13 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.13
+calamares-settings-ubuntu 23 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/23
