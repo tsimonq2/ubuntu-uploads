@@ -78,3 +78,4 @@ qt3d-opensource-src 5.11.2+dfsg-1 https://launchpad.net/debian/+source/qt3d-open
 qtcharts-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtcharts-opensource-src/5.11.2-1
 qtquickcontrols-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtquickcontrols-opensource-src/5.11.2-1
 qtwebview-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtwebview-opensource-src/5.11.2-1
+qtscript-opensource-src 5.11.2+dfsg-1 https://launchpad.net/debian/+source/qtscript-opensource-src/5.11.2+dfsg-1
