@@ -275,3 +275,4 @@ ubiquity-slideshow-ubuntu 142 https://launchpad.net/ubuntu/+source/ubiquity-slid
 libfm-qt 0.13.1-5ubuntu6 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu6
 lubuntu-meta 1.15 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.15
 trojita 0.7-0ubuntu2 https://launchpad.net/ubuntu/+source/trojita/0.7-0ubuntu2
+calamares-settings-ubuntu 24 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/24
