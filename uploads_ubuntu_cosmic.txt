@@ -277,3 +277,4 @@ lubuntu-meta 1.15 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.15
 trojita 0.7-0ubuntu2 https://launchpad.net/ubuntu/+source/trojita/0.7-0ubuntu2
 calamares-settings-ubuntu 24 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/24
 pcmanfm-qt 0.13.0-2ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.13.0-2ubuntu2
+fuse-umfuse-ext2 0.4-1.1ubuntu1 https://launchpad.net/ubuntu/+source/fuse-umfuse-ext2/0.4-1.1ubuntu1
