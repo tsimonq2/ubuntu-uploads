@@ -280,3 +280,4 @@ pcmanfm-qt 0.13.0-2ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.13.
 fuse-umfuse-ext2 0.4-1.1ubuntu1 https://launchpad.net/ubuntu/+source/fuse-umfuse-ext2/0.4-1.1ubuntu1
 casper 1.398 https://launchpad.net/ubuntu/+source/casper/1.398
 calamares-settings-ubuntu 26 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/26
+libfm-qt 0.13.1-5ubuntu7 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu7
