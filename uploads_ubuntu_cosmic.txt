@@ -282,3 +282,4 @@ casper 1.398 https://launchpad.net/ubuntu/+source/casper/1.398
 calamares-settings-ubuntu 26 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/26
 libfm-qt 0.13.1-5ubuntu7 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu7
 calamares-settings-ubuntu 27 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/27
+qtwebkit-opensource-src 5.212.0~alpha2-12ubuntu1.1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-12ubuntu1.1
