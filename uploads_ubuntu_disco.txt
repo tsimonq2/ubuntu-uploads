@@ -1,1 +1,2 @@
 lubuntu-meta 1.16 https://launchpad.net/ubuntu/+source/lubuntu-meta/1.16
+calamares-settings-ubuntu 28 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/28
