@@ -5,3 +5,4 @@ ubuntu-release-upgrader 1:19.04.3 https://launchpad.net/ubuntu/+source/ubuntu-re
 qtwebkit-opensource-src 5.212.0~alpha2-17ubuntu1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-17ubuntu1
 devscripts 2.18.4ubuntu2 https://launchpad.net/ubuntu/+source/devscripts/2.18.4ubuntu2
 lintian 2.5.111ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.5.111ubuntu1
+libreoffice 1:6.1.2-0ubuntu4 https://launchpad.net/ubuntu/+source/libreoffice/1:6.1.2-0ubuntu4
