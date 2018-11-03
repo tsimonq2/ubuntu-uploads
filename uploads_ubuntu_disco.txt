@@ -7,3 +7,4 @@ devscripts 2.18.4ubuntu2 https://launchpad.net/ubuntu/+source/devscripts/2.18.4u
 lintian 2.5.111ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.5.111ubuntu1
 libreoffice 1:6.1.2-0ubuntu4 https://launchpad.net/ubuntu/+source/libreoffice/1:6.1.2-0ubuntu4
 calamares-settings-ubuntu 30 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/30
+qtxmlpatterns-opensource-src 5.11.2-2~1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.11.2-2~1
