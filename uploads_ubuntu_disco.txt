@@ -3,3 +3,4 @@ calamares-settings-ubuntu 28 https://launchpad.net/ubuntu/+source/calamares-sett
 calamares-settings-ubuntu 29 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/29
 ubuntu-release-upgrader 1:19.04.3 https://launchpad.net/ubuntu/+source/ubuntu-release-upgrader/1:19.04.3
 qtwebkit-opensource-src 5.212.0~alpha2-17ubuntu1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-17ubuntu1
+devscripts 2.18.4ubuntu2 https://launchpad.net/ubuntu/+source/devscripts/2.18.4ubuntu2
