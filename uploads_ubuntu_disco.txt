@@ -10,3 +10,4 @@ calamares-settings-ubuntu 30 https://launchpad.net/ubuntu/+source/calamares-sett
 qtxmlpatterns-opensource-src 5.11.2-2~1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.11.2-2~1
 qtdeclarative-opensource-src 5.11.2-2~1 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.11.2-2~1
 qtlocation-opensource-src 5.11.2+dfsg-2~1 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.11.2+dfsg-2~1
+qtsensors-opensource-src 5.11.2-2~2 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.11.2-2~2
