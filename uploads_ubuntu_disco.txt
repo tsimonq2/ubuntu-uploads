@@ -13,3 +13,4 @@ qtlocation-opensource-src 5.11.2+dfsg-2~1 https://launchpad.net/ubuntu/+source/q
 qtsensors-opensource-src 5.11.2-2~2 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.11.2-2~2
 qtwebsockets-opensource-src 5.11.2-2~1 https://launchpad.net/ubuntu/+source/qtwebsockets-opensource-src/5.11.2-2~1
 qtwebchannel-opensource-src 5.11.2-2~1 https://launchpad.net/ubuntu/+source/qtwebchannel-opensource-src/5.11.2-2~1
+qtwebkit-opensource-src 5.212.0~alpha2-17ubuntu2~1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-17ubuntu2~1
