@@ -8,3 +8,4 @@ lintian 2.5.111ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.5.111ubunt
 libreoffice 1:6.1.2-0ubuntu4 https://launchpad.net/ubuntu/+source/libreoffice/1:6.1.2-0ubuntu4
 calamares-settings-ubuntu 30 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/30
 qtxmlpatterns-opensource-src 5.11.2-2~1 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.11.2-2~1
+qtdeclarative-opensource-src 5.11.2-2~1 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.11.2-2~1
