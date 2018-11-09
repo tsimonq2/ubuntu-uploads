@@ -16,3 +16,4 @@ qtsvg-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtsvg-opensou
 qtwayland-opensource-src 5.11.2-3 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.11.2-3
 qtx11extras-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.11.2-2
 qttranslations-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.11.2-2
+qtmultimedia-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.11.2-2
