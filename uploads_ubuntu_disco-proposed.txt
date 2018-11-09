@@ -12,3 +12,4 @@ qtcharts-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtcharts-o
 qtconnectivity-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.11.2-2
 qtscript-opensource-src 5.11.2+dfsg-2 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.11.2+dfsg-2
 qtserialport-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.11.2-2
+qtsvg-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.11.2-2
