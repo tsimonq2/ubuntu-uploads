@@ -11,3 +11,4 @@ qtimageformats-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtim
 qtcharts-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtcharts-opensource-src/5.11.2-2
 qtconnectivity-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.11.2-2
 qtscript-opensource-src 5.11.2+dfsg-2 https://launchpad.net/ubuntu/+source/qtscript-opensource-src/5.11.2+dfsg-2
+qtserialport-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.11.2-2
