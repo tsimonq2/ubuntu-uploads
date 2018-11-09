@@ -17,3 +17,4 @@ qtwayland-opensource-src 5.11.2-3 https://launchpad.net/ubuntu/+source/qtwayland
 qtx11extras-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.11.2-2
 qttranslations-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.11.2-2
 qtmultimedia-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.11.2-2
+gmic 2.4.1-1 https://launchpad.net/ubuntu/+source/gmic/2.4.1-1
