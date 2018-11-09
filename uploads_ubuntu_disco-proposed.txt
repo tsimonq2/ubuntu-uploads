@@ -18,3 +18,4 @@ qtx11extras-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtx11ex
 qttranslations-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qttranslations-opensource-src/5.11.2-2
 qtmultimedia-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtmultimedia-opensource-src/5.11.2-2
 gmic 2.4.1-1 https://launchpad.net/ubuntu/+source/gmic/2.4.1-1
+qtserialbus-everywhere-src 5.10.1-1 https://launchpad.net/ubuntu/+source/qtserialbus-everywhere-src/5.10.1-1
