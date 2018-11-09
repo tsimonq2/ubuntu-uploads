@@ -3,3 +3,4 @@ leiningen-clojure 2.8.1-9 https://launchpad.net/ubuntu/+source/leiningen-clojure
 qtxmlpatterns-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtxmlpatterns-opensource-src/5.11.2-2
 qtdeclarative-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtdeclarative-opensource-src/5.11.2-2
 qtlocation-opensource-src 5.11.2+dfsg-2 https://launchpad.net/ubuntu/+source/qtlocation-opensource-src/5.11.2+dfsg-2
+qtsensors-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtsensors-opensource-src/5.11.2-2
