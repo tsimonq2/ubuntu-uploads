@@ -14,3 +14,4 @@ qtscript-opensource-src 5.11.2+dfsg-2 https://launchpad.net/ubuntu/+source/qtscr
 qtserialport-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtserialport-opensource-src/5.11.2-2
 qtsvg-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtsvg-opensource-src/5.11.2-2
 qtwayland-opensource-src 5.11.2-3 https://launchpad.net/ubuntu/+source/qtwayland-opensource-src/5.11.2-3
+qtx11extras-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtx11extras-opensource-src/5.11.2-2
