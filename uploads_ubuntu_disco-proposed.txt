@@ -9,3 +9,4 @@ qtwebchannel-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtwebc
 qttools-opensource-src 5.11.2-4 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.11.2-4
 qtimageformats-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtimageformats-opensource-src/5.11.2-2
 qtcharts-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtcharts-opensource-src/5.11.2-2
+qtconnectivity-opensource-src 5.11.2-2 https://launchpad.net/ubuntu/+source/qtconnectivity-opensource-src/5.11.2-2
