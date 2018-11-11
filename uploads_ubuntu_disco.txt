@@ -18,3 +18,4 @@ qttools-opensource-src 5.11.2-4~1 https://launchpad.net/ubuntu/+source/qttools-o
 qtbase-opensource-src 5.11.2+dfsg-4ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.2+dfsg-4ubuntu1
 qtwebkit-opensource-src 5.212.0~alpha2-17ubuntu2 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-17ubuntu2
 kbibtex 0.8.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kbibtex/0.8.1-1ubuntu1
+libgit2 0.27.4+dfsg.1-0.1build1 https://launchpad.net/ubuntu/+source/libgit2/0.27.4+dfsg.1-0.1build1
