@@ -29,3 +29,4 @@ qtstyleplugins-src 5.0.0+git23.g335dbec-2ubuntu3 https://launchpad.net/ubuntu/+s
 telegram-desktop 1.4.0-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.4.0-1build1
 texmaker 5.0.2-2build2 https://launchpad.net/ubuntu/+source/texmaker/5.0.2-2build2
 uim 1:1.8.8-3build1 https://launchpad.net/ubuntu/+source/uim/1:1.8.8-3build1
+libqtxdg 3.2.0-2ubuntu4 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-2ubuntu4
