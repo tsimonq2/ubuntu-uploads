@@ -26,3 +26,4 @@ lxqt-qtplugin 0.13.0-0ubuntu6 https://launchpad.net/ubuntu/+source/lxqt-qtplugin
 maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu20 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu20
 pythonqt 3.2-10build2 https://launchpad.net/ubuntu/+source/pythonqt/3.2-10build2
 qtstyleplugins-src 5.0.0+git23.g335dbec-2ubuntu3 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2ubuntu3
+telegram-desktop 1.4.0-1build1 https://launchpad.net/ubuntu/+source/telegram-desktop/1.4.0-1build1
