@@ -23,3 +23,4 @@ gcin 2.8.6+dfsg2-1build2 https://launchpad.net/ubuntu/+source/gcin/2.8.6+dfsg2-1
 hime 0.9.10+git20170427+dfsg1-3build2 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-3build2
 libfm-qt 0.13.1-5ubuntu8 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu8
 lxqt-qtplugin 0.13.0-0ubuntu6 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.13.0-0ubuntu6
+maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu20 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu20
