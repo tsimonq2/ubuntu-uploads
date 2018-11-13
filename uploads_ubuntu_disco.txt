@@ -25,3 +25,4 @@ libfm-qt 0.13.1-5ubuntu8 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5u
 lxqt-qtplugin 0.13.0-0ubuntu6 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.13.0-0ubuntu6
 maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu20 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu20
 pythonqt 3.2-10build2 https://launchpad.net/ubuntu/+source/pythonqt/3.2-10build2
+qtstyleplugins-src 5.0.0+git23.g335dbec-2ubuntu3 https://launchpad.net/ubuntu/+source/qtstyleplugins-src/5.0.0+git23.g335dbec-2ubuntu3
