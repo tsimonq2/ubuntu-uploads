@@ -21,3 +21,4 @@ kbibtex 0.8.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kbibtex/0.8.1-1ubunt
 libgit2 0.27.4+dfsg.1-0.1build1 https://launchpad.net/ubuntu/+source/libgit2/0.27.4+dfsg.1-0.1build1
 gcin 2.8.6+dfsg2-1build2 https://launchpad.net/ubuntu/+source/gcin/2.8.6+dfsg2-1build2
 hime 0.9.10+git20170427+dfsg1-3build2 https://launchpad.net/ubuntu/+source/hime/0.9.10+git20170427+dfsg1-3build2
+libfm-qt 0.13.1-5ubuntu8 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu8
