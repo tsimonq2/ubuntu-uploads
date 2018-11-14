@@ -31,3 +31,4 @@ texmaker 5.0.2-2build2 https://launchpad.net/ubuntu/+source/texmaker/5.0.2-2buil
 uim 1:1.8.8-3build1 https://launchpad.net/ubuntu/+source/uim/1:1.8.8-3build1
 libqtxdg 3.2.0-2ubuntu4 https://launchpad.net/ubuntu/+source/libqtxdg/3.2.0-2ubuntu4
 calamares 3.2.2-0ubuntu3 https://launchpad.net/ubuntu/+source/calamares/3.2.2-0ubuntu3
+lxqt-sudo 0.13.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.13.0-0ubuntu3
