@@ -34,3 +34,4 @@ calamares 3.2.2-0ubuntu3 https://launchpad.net/ubuntu/+source/calamares/3.2.2-0u
 lxqt-sudo 0.13.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.13.0-0ubuntu3
 apper 1.0.0-1.1ubuntu1 https://launchpad.net/ubuntu/+source/apper/1.0.0-1.1ubuntu1
 calamares 3.2.2-0ubuntu4 https://launchpad.net/ubuntu/+source/calamares/3.2.2-0ubuntu4
+qtbase-opensource-src 5.11.2+dfsg-6ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.2+dfsg-6ubuntu1
