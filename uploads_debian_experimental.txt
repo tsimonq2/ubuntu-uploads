@@ -80,3 +80,4 @@ qtquickcontrols-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtq
 qtwebview-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtwebview-opensource-src/5.11.2-1
 qtscript-opensource-src 5.11.2+dfsg-1 https://launchpad.net/debian/+source/qtscript-opensource-src/5.11.2+dfsg-1
 qtserialport-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtserialport-opensource-src/5.11.2-1
+yaml-cpp 0.6.2-1 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-1
