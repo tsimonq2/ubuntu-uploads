@@ -22,3 +22,4 @@ qtserialbus-everywhere-src 5.10.1-1 https://launchpad.net/ubuntu/+source/qtseria
 qtwebengine-opensource-src 5.11.2+dfsg-2 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.11.2+dfsg-2
 qttools-opensource-src 5.11.2-5 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.11.2-5
 yaml-cpp 0.6.2-2fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-2fakesync1
+dash 0.5.10.2-4 https://launchpad.net/ubuntu/+source/dash/0.5.10.2-4
