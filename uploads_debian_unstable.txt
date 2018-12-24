@@ -61,3 +61,4 @@ qttools-opensource-src 5.11.1-4 https://launchpad.net/debian/+source/qttools-ope
 qttools-opensource-src 5.11.1-5 https://launchpad.net/debian/+source/qttools-opensource-src/5.11.1-5
 qtbase-opensource-src 5.11.1+dfsg-7 https://launchpad.net/debian/+source/qtbase-opensource-src/5.11.1+dfsg-7
 jekyll 3.8.3+dfsg-3 https://launchpad.net/debian/+source/jekyll/3.8.3+dfsg-3
+hardinfo 0.5.1+git20180227-2 https://launchpad.net/debian/+source/hardinfo/0.5.1+git20180227-2
