@@ -21,3 +21,4 @@ gmic 2.4.1-1 https://launchpad.net/ubuntu/+source/gmic/2.4.1-1
 qtserialbus-everywhere-src 5.10.1-1 https://launchpad.net/ubuntu/+source/qtserialbus-everywhere-src/5.10.1-1
 qtwebengine-opensource-src 5.11.2+dfsg-2 https://launchpad.net/ubuntu/+source/qtwebengine-opensource-src/5.11.2+dfsg-2
 qttools-opensource-src 5.11.2-5 https://launchpad.net/ubuntu/+source/qttools-opensource-src/5.11.2-5
+yaml-cpp 0.6.2-2fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-2fakesync1
