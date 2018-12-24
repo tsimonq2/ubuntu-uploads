@@ -37,3 +37,4 @@ calamares 3.2.2-0ubuntu4 https://launchpad.net/ubuntu/+source/calamares/3.2.2-0u
 qtbase-opensource-src 5.11.2+dfsg-6ubuntu1 https://launchpad.net/ubuntu/+source/qtbase-opensource-src/5.11.2+dfsg-6ubuntu1
 calamares-settings-ubuntu 31 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/31
 libfm-qt 0.13.1-5ubuntu9 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5ubuntu9
+ukui-power-manager 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-power-manager/1.1.2-0ubuntu1
