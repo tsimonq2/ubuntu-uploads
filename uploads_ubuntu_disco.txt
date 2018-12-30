@@ -40,3 +40,4 @@ libfm-qt 0.13.1-5ubuntu9 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5u
 ukui-power-manager 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ukui-power-manager/1.1.2-0ubuntu1
 debhelper 12ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/12ubuntu1
 supermin 5.1.19-4ubuntu1 https://launchpad.net/ubuntu/+source/supermin/5.1.19-4ubuntu1
+debootstrap 1.0.112ubuntu1 https://launchpad.net/ubuntu/+source/debootstrap/1.0.112ubuntu1
