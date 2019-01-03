@@ -43,3 +43,4 @@ supermin 5.1.19-4ubuntu1 https://launchpad.net/ubuntu/+source/supermin/5.1.19-4u
 debootstrap 1.0.112ubuntu1 https://launchpad.net/ubuntu/+source/debootstrap/1.0.112ubuntu1
 lxqt-config 0.13.0+git20181226-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0+git20181226-0ubuntu1
 lxqt-config 0.13.0+git20181226-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0+git20181226-0ubuntu2
+maliit-framework 0.99.1+git20151118+62bd54b-0ubuntu21 https://launchpad.net/ubuntu/+source/maliit-framework/0.99.1+git20151118+62bd54b-0ubuntu21
