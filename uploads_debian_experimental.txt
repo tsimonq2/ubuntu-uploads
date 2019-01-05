@@ -82,3 +82,4 @@ qtscript-opensource-src 5.11.2+dfsg-1 https://launchpad.net/debian/+source/qtscr
 qtserialport-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtserialport-opensource-src/5.11.2-1
 yaml-cpp 0.6.2-1 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-1
 yaml-cpp 0.6.2-2 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-2
+yaml-cpp 0.6.2-3 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-3
