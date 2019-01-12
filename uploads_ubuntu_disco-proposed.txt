@@ -24,3 +24,4 @@ qttools-opensource-src 5.11.2-5 https://launchpad.net/ubuntu/+source/qttools-ope
 yaml-cpp 0.6.2-2fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-2fakesync1
 dash 0.5.10.2-4 https://launchpad.net/ubuntu/+source/dash/0.5.10.2-4
 ukui-greeter 1.1.6.1-1 https://launchpad.net/ubuntu/+source/ukui-greeter/1.1.6.1-1
+yaml-cpp 0.6.2-4fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-4fakesync1
