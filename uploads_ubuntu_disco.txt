@@ -48,3 +48,4 @@ qtstyleplugins-src 5.0.0+git23.g335dbec-2ubuntu4 https://launchpad.net/ubuntu/+s
 lxqt-config 0.13.0+git20181226-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-config/0.13.0+git20181226-0ubuntu3
 calamares 3.2.3-1ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.2.3-1ubuntu1
 calamares-settings-ubuntu 1:19.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:19.04.1
+calamares-settings-ubuntu 1:19.04.2 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:19.04.2
