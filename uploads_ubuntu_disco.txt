@@ -79,3 +79,4 @@ lxqt-panel 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.14.
 lxqt-runner 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.14.0-0ubuntu1
 liblxqt 0.14.0-0ubuntu3 https://launchpad.net/ubuntu/+source/liblxqt/0.14.0-0ubuntu3
 compton-conf 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/compton-conf/0.14.0-0ubuntu2
+libfm-qt 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/libfm-qt/0.14.0-0ubuntu2
