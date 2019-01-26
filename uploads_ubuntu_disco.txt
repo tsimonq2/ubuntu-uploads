@@ -77,3 +77,4 @@ pcmanfm-qt 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.14.
 qterminal 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/0.14.0-0ubuntu1
 lxqt-panel 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.14.0-0ubuntu1
 lxqt-runner 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.14.0-0ubuntu1
+liblxqt 0.14.0-0ubuntu3 https://launchpad.net/ubuntu/+source/liblxqt/0.14.0-0ubuntu3
