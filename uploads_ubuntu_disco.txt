@@ -81,3 +81,4 @@ liblxqt 0.14.0-0ubuntu3 https://launchpad.net/ubuntu/+source/liblxqt/0.14.0-0ubu
 compton-conf 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/compton-conf/0.14.0-0ubuntu2
 libfm-qt 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/libfm-qt/0.14.0-0ubuntu2
 qtermwidget 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/qtermwidget/0.14.0-0ubuntu2
+lxqt-about 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-about/0.14.0-0ubuntu2
