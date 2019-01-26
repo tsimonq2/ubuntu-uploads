@@ -56,3 +56,4 @@ lxqt-build-tools 0.6.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-build-
 libsysstat 0.4.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libsysstat/0.4.2-0ubuntu1
 liblxqt 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/liblxqt/0.14.0-0ubuntu2
 compton-conf 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/compton-conf/0.14.0-0ubuntu1
+libfm-qt 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libfm-qt/0.14.0-0ubuntu1
