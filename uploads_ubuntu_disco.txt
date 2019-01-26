@@ -59,3 +59,4 @@ compton-conf 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/compton-conf/0
 libfm-qt 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libfm-qt/0.14.0-0ubuntu1
 lxqt-themes 0.14.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.14.0-0ubuntu1
 obconf-qt 0.13.0-1build1 https://launchpad.net/ubuntu/+source/obconf-qt/0.13.0-1build1
+pavucontrol-qt 0.4.0-1build1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/0.4.0-1build1
