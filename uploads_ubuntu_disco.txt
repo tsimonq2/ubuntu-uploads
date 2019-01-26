@@ -52,3 +52,4 @@ calamares-settings-ubuntu 1:19.04.2 https://launchpad.net/ubuntu/+source/calamar
 calamares-settings-ubuntu 1:19.04.3 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:19.04.3
 libqtxdg 3.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.3.0-0ubuntu1
 qps 1.10.18-1build1 https://launchpad.net/ubuntu/+source/qps/1.10.18-1build1
+lxqt-build-tools 0.6.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-build-tools/0.6.0-0ubuntu1
