@@ -284,3 +284,4 @@ libfm-qt 0.13.1-5ubuntu7 https://launchpad.net/ubuntu/+source/libfm-qt/0.13.1-5u
 calamares-settings-ubuntu 27 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/27
 qtwebkit-opensource-src 5.212.0~alpha2-12ubuntu1.1 https://launchpad.net/ubuntu/+source/qtwebkit-opensource-src/5.212.0~alpha2-12ubuntu1.1
 libreoffice 1:6.1.2-0ubuntu1.1 https://launchpad.net/ubuntu/+source/libreoffice/1:6.1.2-0ubuntu1.1
+ubuntu-release-upgrader 1:18.10.11.5 https://launchpad.net/ubuntu/+source/ubuntu-release-upgrader/1:18.10.11.5
