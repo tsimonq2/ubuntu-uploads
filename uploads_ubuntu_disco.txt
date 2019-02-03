@@ -86,3 +86,4 @@ pcmanfm-qt 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.14.
 lxqt-qtplugin 0.14.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.14.0-0ubuntu2
 compton-conf 0.14.0-0ubuntu3 https://launchpad.net/ubuntu/+source/compton-conf/0.14.0-0ubuntu3
 libfm-qt 0.14.0-0ubuntu3 https://launchpad.net/ubuntu/+source/libfm-qt/0.14.0-0ubuntu3
+lubuntu-default-settings 1.18 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.18
