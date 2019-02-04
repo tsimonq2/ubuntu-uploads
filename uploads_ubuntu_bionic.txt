@@ -632,3 +632,4 @@ fuse-umfuse-ext2 0.4-1.1ubuntu0.18.04.1 https://launchpad.net/ubuntu/+source/fus
 ntpsec 1.1.0+dfsg1-1ubuntu0.1 https://launchpad.net/ubuntu/+source/ntpsec/1.1.0+dfsg1-1ubuntu0.1
 node-tap 11.0.0+ds1-2ubuntu0.1 https://launchpad.net/ubuntu/+source/node-tap/11.0.0+ds1-2ubuntu0.1
 knopflerfish-osgi 6.1.1-2ubuntu0.1 https://launchpad.net/ubuntu/+source/knopflerfish-osgi/6.1.1-2ubuntu0.1
+lubuntu-default-settings 0.54.2 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.54.2
