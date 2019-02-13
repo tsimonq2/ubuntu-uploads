@@ -89,3 +89,4 @@ libfm-qt 0.14.0-0ubuntu3 https://launchpad.net/ubuntu/+source/libfm-qt/0.14.0-0u
 lubuntu-default-settings 1.18 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/1.18
 lubuntu-artwork 1.9 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.9
 software-properties 0.97.1 https://launchpad.net/ubuntu/+source/software-properties/0.97.1
+software-properties 0.97.2 https://launchpad.net/ubuntu/+source/software-properties/0.97.2
