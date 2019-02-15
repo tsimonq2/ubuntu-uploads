@@ -90,3 +90,4 @@ lubuntu-default-settings 1.18 https://launchpad.net/ubuntu/+source/lubuntu-defau
 lubuntu-artwork 1.9 https://launchpad.net/ubuntu/+source/lubuntu-artwork/1.9
 software-properties 0.97.1 https://launchpad.net/ubuntu/+source/software-properties/0.97.1
 software-properties 0.97.2 https://launchpad.net/ubuntu/+source/software-properties/0.97.2
+calamares 3.2.4-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.2.4-0ubuntu1
