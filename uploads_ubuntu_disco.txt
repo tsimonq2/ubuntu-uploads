@@ -95,3 +95,4 @@ software-properties 0.97.8 https://launchpad.net/ubuntu/+source/software-propert
 lubuntu-default-settings 19.04.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/19.04.1
 lubuntu-artwork 19.04.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/19.04.1
 gdal 2.4.0+dfsg-1build3 https://launchpad.net/ubuntu/+source/gdal/2.4.0+dfsg-1build3
+lximage-qt 0.14.1-1ubuntu1 https://launchpad.net/ubuntu/+source/lximage-qt/0.14.1-1ubuntu1
