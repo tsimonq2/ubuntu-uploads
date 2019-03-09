@@ -117,3 +117,4 @@ lxqt-powermanagement 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-p
 lxqt-session 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/0.14.1-0ubuntu1
 lxqt-sudo 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.14.1-0ubuntu1
 pcmanfm-qt 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.14.1-0ubuntu1
+lxqt-panel 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.14.1-0ubuntu1
