@@ -103,3 +103,4 @@ obconf-qt 0.14.1-1ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.14.1-
 qps 1.10.20-1ubuntu1 https://launchpad.net/ubuntu/+source/qps/1.10.20-1ubuntu1
 screengrab 1.101-1ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/1.101-1ubuntu1
 pavucontrol-qt 0.14.1-1ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/0.14.1-1ubuntu1
+compton-conf 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/compton-conf/0.14.1-0ubuntu1
