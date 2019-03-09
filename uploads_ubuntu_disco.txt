@@ -119,3 +119,4 @@ lxqt-sudo 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.14.1-
 pcmanfm-qt 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.14.1-0ubuntu1
 lxqt-panel 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.14.1-0ubuntu1
 lxqt-runner 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.14.1-0ubuntu1
+qterminal 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/0.14.1-0ubuntu1
