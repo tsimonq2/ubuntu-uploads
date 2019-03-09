@@ -105,3 +105,4 @@ screengrab 1.101-1ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/1.101-
 pavucontrol-qt 0.14.1-1ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/0.14.1-1ubuntu1
 compton-conf 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/compton-conf/0.14.1-0ubuntu1
 qtermwidget 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/0.14.1-0ubuntu1
+lxqt-about 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/0.14.1-0ubuntu1
