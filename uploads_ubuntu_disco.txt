@@ -101,3 +101,4 @@ liblxqt 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/0.14.1-0ubu
 libqtxdg 3.3.1-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.3.1-0ubuntu1
 obconf-qt 0.14.1-1ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.14.1-1ubuntu1
 qps 1.10.20-1ubuntu1 https://launchpad.net/ubuntu/+source/qps/1.10.20-1ubuntu1
+screengrab 1.101-1ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/1.101-1ubuntu1
