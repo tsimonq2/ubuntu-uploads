@@ -108,3 +108,4 @@ qtermwidget 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/0.1
 lxqt-about 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/0.14.1-0ubuntu1
 lxqt-admin 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/0.14.1-0ubuntu1
 lxqt-config 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/0.14.1-0ubuntu1
+qtermwidget 0.14.1-0ubuntu2 https://launchpad.net/ubuntu/+source/qtermwidget/0.14.1-0ubuntu2
