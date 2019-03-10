@@ -25,3 +25,4 @@ yaml-cpp 0.6.2-2fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-2f
 dash 0.5.10.2-4 https://launchpad.net/ubuntu/+source/dash/0.5.10.2-4
 ukui-greeter 1.1.6.1-1 https://launchpad.net/ubuntu/+source/ukui-greeter/1.1.6.1-1
 yaml-cpp 0.6.2-4fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-4fakesync1
+geeqie 1:1.4+git20190121-2 https://launchpad.net/ubuntu/+source/geeqie/1:1.4+git20190121-2
