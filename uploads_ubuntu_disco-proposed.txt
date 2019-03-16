@@ -26,3 +26,4 @@ dash 0.5.10.2-4 https://launchpad.net/ubuntu/+source/dash/0.5.10.2-4
 ukui-greeter 1.1.6.1-1 https://launchpad.net/ubuntu/+source/ukui-greeter/1.1.6.1-1
 yaml-cpp 0.6.2-4fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-4fakesync1
 geeqie 1:1.4+git20190121-2 https://launchpad.net/ubuntu/+source/geeqie/1:1.4+git20190121-2
+pax 1:20190224-1 https://launchpad.net/ubuntu/+source/pax/1:20190224-1
