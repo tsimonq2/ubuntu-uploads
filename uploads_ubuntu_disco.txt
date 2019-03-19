@@ -121,3 +121,4 @@ lxqt-panel 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.14.
 lxqt-runner 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.14.1-0ubuntu1
 qterminal 0.14.1-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/0.14.1-0ubuntu1
 lubuntu-artwork 19.04.2 https://launchpad.net/ubuntu/+source/lubuntu-artwork/19.04.2
+kylin-greeter 19.04.1 https://launchpad.net/ubuntu/+source/kylin-greeter/19.04.1
