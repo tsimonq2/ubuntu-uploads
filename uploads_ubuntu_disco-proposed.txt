@@ -28,3 +28,4 @@ yaml-cpp 0.6.2-4fakesync1 https://launchpad.net/ubuntu/+source/yaml-cpp/0.6.2-4f
 geeqie 1:1.4+git20190121-2 https://launchpad.net/ubuntu/+source/geeqie/1:1.4+git20190121-2
 pax 1:20190224-1 https://launchpad.net/ubuntu/+source/pax/1:20190224-1
 mksh 57-1 https://launchpad.net/ubuntu/+source/mksh/57-1
+flatpak 1.2.4-1 https://launchpad.net/ubuntu/+source/flatpak/1.2.4-1
