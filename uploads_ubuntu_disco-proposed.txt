@@ -29,3 +29,4 @@ geeqie 1:1.4+git20190121-2 https://launchpad.net/ubuntu/+source/geeqie/1:1.4+git
 pax 1:20190224-1 https://launchpad.net/ubuntu/+source/pax/1:20190224-1
 mksh 57-1 https://launchpad.net/ubuntu/+source/mksh/57-1
 flatpak 1.2.4-1 https://launchpad.net/ubuntu/+source/flatpak/1.2.4-1
+shibboleth-sp 3.0.4+dfsg1-1 https://launchpad.net/ubuntu/+source/shibboleth-sp/3.0.4+dfsg1-1
