@@ -125,3 +125,4 @@ kylin-greeter 19.04.1 https://launchpad.net/ubuntu/+source/kylin-greeter/19.04.1
 ubuntukylin-wallpapers 19.04.0 https://launchpad.net/ubuntu/+source/ubuntukylin-wallpapers/19.04.0
 lubuntu-default-settings 19.04.2 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/19.04.2
 calamares 3.2.4-0ubuntu2 https://launchpad.net/ubuntu/+source/calamares/3.2.4-0ubuntu2
+calamares-settings-ubuntu 1:19.04.4 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:19.04.4
