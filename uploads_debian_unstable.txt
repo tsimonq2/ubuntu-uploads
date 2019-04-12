@@ -66,3 +66,4 @@ note 1.3.26-1 https://launchpad.net/debian/+source/note/1.3.26-1
 ros-image-common 1.11.13-3 https://launchpad.net/debian/+source/ros-image-common/1.11.13-3
 yaml-cpp 0.6.2-4 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-4
 rivet 1.8.3-3 https://launchpad.net/debian/+source/rivet/1.8.3-3
+mokutil 0.3.0+1538710437.fb6250f-1 https://launchpad.net/debian/+source/mokutil/0.3.0+1538710437.fb6250f-1
