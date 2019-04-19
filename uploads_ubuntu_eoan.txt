@@ -1,1 +1,2 @@
 kylin-nm 1.0.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kylin-nm/1.0.2-0ubuntu1
+devscripts 2.19.4build1 https://launchpad.net/ubuntu/+source/devscripts/2.19.4build1
