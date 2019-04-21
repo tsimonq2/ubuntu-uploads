@@ -5,3 +5,4 @@ lubuntu-meta 19.10.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/19.10.1
 calamares-settings-ubuntu 1:19.10.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:19.10.1
 pastebinit 1.5-2.2 https://launchpad.net/ubuntu/+source/pastebinit/1.5-2.2
 debootstrap 1.0.114ubuntu1 https://launchpad.net/ubuntu/+source/debootstrap/1.0.114ubuntu1
+mozc 2.23.2815.102+dfsg-4ubuntu1 https://launchpad.net/ubuntu/+source/mozc/2.23.2815.102+dfsg-4ubuntu1
