@@ -635,3 +635,4 @@ knopflerfish-osgi 6.1.1-2ubuntu0.1 https://launchpad.net/ubuntu/+source/knopfler
 lubuntu-default-settings 0.54.2 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.54.2
 parted 3.2-20ubuntu0.2 https://launchpad.net/ubuntu/+source/parted/3.2-20ubuntu0.2
 mozc 2.20.2673.102+dfsg-2ubuntu0.18.04.1 https://launchpad.net/ubuntu/+source/mozc/2.20.2673.102+dfsg-2ubuntu0.18.04.1
+newlib 2.4.0.20160527-3build1 https://launchpad.net/ubuntu/+source/newlib/2.4.0.20160527-3build1
