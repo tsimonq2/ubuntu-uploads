@@ -8,3 +8,4 @@ debootstrap 1.0.114ubuntu1 https://launchpad.net/ubuntu/+source/debootstrap/1.0.
 mozc 2.23.2815.102+dfsg-4ubuntu1 https://launchpad.net/ubuntu/+source/mozc/2.23.2815.102+dfsg-4ubuntu1
 landscape-client 18.01-0ubuntu8 https://launchpad.net/ubuntu/+source/landscape-client/18.01-0ubuntu8
 ppp 2.4.7-2+4.1ubuntu2 https://launchpad.net/ubuntu/+source/ppp/2.4.7-2+4.1ubuntu2
+xkeyboard-config 2.26-2ubuntu1 https://launchpad.net/ubuntu/+source/xkeyboard-config/2.26-2ubuntu1
