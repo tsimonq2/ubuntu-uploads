@@ -131,3 +131,4 @@ software-properties 0.97.11 https://launchpad.net/ubuntu/+source/software-proper
 calamares 3.2.4-0ubuntu3 https://launchpad.net/ubuntu/+source/calamares/3.2.4-0ubuntu3
 lubuntu-meta 19.04.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/19.04.1
 mozc 2.23.2815.102+dfsg-2ubuntu1.0.19.04.1 https://launchpad.net/ubuntu/+source/mozc/2.23.2815.102+dfsg-2ubuntu1.0.19.04.1
+pastebinit 1.5-2.2~ubuntu0.19.04.1 https://launchpad.net/ubuntu/+source/pastebinit/1.5-2.2~ubuntu0.19.04.1
