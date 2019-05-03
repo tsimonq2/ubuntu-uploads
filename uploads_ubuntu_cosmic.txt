@@ -286,3 +286,4 @@ qtwebkit-opensource-src 5.212.0~alpha2-12ubuntu1.1 https://launchpad.net/ubuntu/
 libreoffice 1:6.1.2-0ubuntu1.1 https://launchpad.net/ubuntu/+source/libreoffice/1:6.1.2-0ubuntu1.1
 ubuntu-release-upgrader 1:18.10.11.5 https://launchpad.net/ubuntu/+source/ubuntu-release-upgrader/1:18.10.11.5
 mozc 2.23.2815.102+dfsg-2ubuntu0.18.10.1 https://launchpad.net/ubuntu/+source/mozc/2.23.2815.102+dfsg-2ubuntu0.18.10.1
+golang-google-grpc 1.6.0-3ubuntu0.18.10.1 https://launchpad.net/ubuntu/+source/golang-google-grpc/1.6.0-3ubuntu0.18.10.1
