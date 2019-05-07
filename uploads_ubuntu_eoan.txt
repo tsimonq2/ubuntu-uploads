@@ -10,3 +10,4 @@ landscape-client 18.01-0ubuntu8 https://launchpad.net/ubuntu/+source/landscape-c
 ppp 2.4.7-2+4.1ubuntu2 https://launchpad.net/ubuntu/+source/ppp/2.4.7-2+4.1ubuntu2
 xkeyboard-config 2.26-2ubuntu1 https://launchpad.net/ubuntu/+source/xkeyboard-config/2.26-2ubuntu1
 lxqt-qtplugin 0.14.0-3ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.14.0-3ubuntu1
+indicator-datetime 15.10+19.10.20190507-0ubuntu1 https://launchpad.net/ubuntu/+source/indicator-datetime/15.10+19.10.20190507-0ubuntu1
