@@ -13,3 +13,4 @@ lxqt-qtplugin 0.14.0-3ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin
 indicator-datetime 15.10+19.10.20190507-0ubuntu1 https://launchpad.net/ubuntu/+source/indicator-datetime/15.10+19.10.20190507-0ubuntu1
 libxpresent 1.0.0-2build1 https://launchpad.net/ubuntu/+source/libxpresent/1.0.0-2build1
 indicator-multiload 0.4+git20170224-0ubuntu1 https://launchpad.net/ubuntu/+source/indicator-multiload/0.4+git20170224-0ubuntu1
+indicator-notifications 0.3.3-0ubuntu1 https://launchpad.net/ubuntu/+source/indicator-notifications/0.3.3-0ubuntu1
