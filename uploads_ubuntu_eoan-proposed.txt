@@ -5,3 +5,4 @@ mokutil 0.3.0+1538710437.fb6250f-1 https://launchpad.net/ubuntu/+source/mokutil/
 pentobi 16.3-1 https://launchpad.net/ubuntu/+source/pentobi/16.3-1
 openrazer 2.5.0+dfsg-1 https://launchpad.net/ubuntu/+source/openrazer/2.5.0+dfsg-1
 minetest 5.0.1+repack-1 https://launchpad.net/ubuntu/+source/minetest/5.0.1+repack-1
+json-c 0.13.1+dfsg-2 https://launchpad.net/ubuntu/+source/json-c/0.13.1+dfsg-2
