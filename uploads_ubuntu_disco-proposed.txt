@@ -31,3 +31,4 @@ mksh 57-1 https://launchpad.net/ubuntu/+source/mksh/57-1
 flatpak 1.2.4-1 https://launchpad.net/ubuntu/+source/flatpak/1.2.4-1
 shibboleth-sp 3.0.4+dfsg1-1 https://launchpad.net/ubuntu/+source/shibboleth-sp/3.0.4+dfsg1-1
 kpmcore 3.3.0-5 https://launchpad.net/ubuntu/+source/kpmcore/3.3.0-5
+kylin-nm 1.0.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/kylin-nm/1.0.0-1ubuntu0.1
