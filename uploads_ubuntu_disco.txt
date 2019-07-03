@@ -134,3 +134,4 @@ mozc 2.23.2815.102+dfsg-2ubuntu1.0.19.04.1 https://launchpad.net/ubuntu/+source/
 pastebinit 1.5-2.2~ubuntu0.19.04.1 https://launchpad.net/ubuntu/+source/pastebinit/1.5-2.2~ubuntu0.19.04.1
 golang-google-grpc 1.6.0-3ubuntu0.19.04.1 https://launchpad.net/ubuntu/+source/golang-google-grpc/1.6.0-3ubuntu0.19.04.1
 golang-google-grpc 1.6.0-3ubuntu0.19.04.2 https://launchpad.net/ubuntu/+source/golang-google-grpc/1.6.0-3ubuntu0.19.04.2
+libfm-qt 0.14.1-0ubuntu2.1 https://launchpad.net/ubuntu/+source/libfm-qt/0.14.1-0ubuntu2.1
