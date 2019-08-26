@@ -72,3 +72,4 @@ pastebinit 1.5-2.1 https://launchpad.net/debian/+source/pastebinit/1.5-2.1
 pastebinit 1.5-2.2 https://launchpad.net/debian/+source/pastebinit/1.5-2.2
 pastebinit 1.5-3 https://launchpad.net/debian/+source/pastebinit/1.5-3
 pastebinit 1.5.1-1 https://launchpad.net/debian/+source/pastebinit/1.5.1-1
+lightdm-settings 1.2.5-1 https://launchpad.net/debian/+source/lightdm-settings/1.2.5-1
