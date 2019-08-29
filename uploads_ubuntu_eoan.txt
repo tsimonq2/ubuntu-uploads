@@ -15,3 +15,4 @@ libxpresent 1.0.0-2build1 https://launchpad.net/ubuntu/+source/libxpresent/1.0.0
 indicator-multiload 0.4+git20170224-0ubuntu1 https://launchpad.net/ubuntu/+source/indicator-multiload/0.4+git20170224-0ubuntu1
 indicator-notifications 0.3.3-0ubuntu1 https://launchpad.net/ubuntu/+source/indicator-notifications/0.3.3-0ubuntu1
 nm-tray 0.4.3-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.4.3-0ubuntu1
+lubuntu-artwork 19.10.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/19.10.1
