@@ -17,3 +17,4 @@ indicator-notifications 0.3.3-0ubuntu1 https://launchpad.net/ubuntu/+source/indi
 nm-tray 0.4.3-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.4.3-0ubuntu1
 lubuntu-artwork 19.10.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/19.10.1
 lxqt-globalkeys 0.14.1+git20190923-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.14.1+git20190923-0ubuntu1
+lubuntu-artwork 19.10.2 https://launchpad.net/ubuntu/+source/lubuntu-artwork/19.10.2
