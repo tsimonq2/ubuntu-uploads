@@ -1,1 +1,2 @@
 lintian 2.28.0 https://launchpad.net/ubuntu/+source/lintian/2.28.0
+devscripts 2.19.7 https://launchpad.net/ubuntu/+source/devscripts/2.19.7
