@@ -1,2 +1,3 @@
 calamares-settings-ubuntu 1:20.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:20.04.1
 debootstrap 1.0.116ubuntu2 https://launchpad.net/ubuntu/+source/debootstrap/1.0.116ubuntu2
+lubuntu-meta 19.10.7 https://launchpad.net/ubuntu/+source/lubuntu-meta/19.10.7
