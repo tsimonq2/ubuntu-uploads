@@ -1,3 +1,4 @@
 lintian 2.28.0 https://launchpad.net/ubuntu/+source/lintian/2.28.0
 devscripts 2.19.7 https://launchpad.net/ubuntu/+source/devscripts/2.19.7
 fcitx 1:4.2.9.6-6 https://launchpad.net/ubuntu/+source/fcitx/1:4.2.9.6-6
+polkit-qt-1 0.112.0-7.1 https://launchpad.net/ubuntu/+source/polkit-qt-1/0.112.0-7.1
