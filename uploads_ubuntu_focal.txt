@@ -5,3 +5,4 @@ vim 2:8.1.0875-5ubuntu3 https://launchpad.net/ubuntu/+source/vim/2:8.1.0875-5ubu
 lightdm 1.30.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lightdm/1.30.0-0ubuntu2
 lubuntu-update-notifier 0.1 https://launchpad.net/ubuntu/+source/lubuntu-update-notifier/0.1
 lubuntu-meta 20.04.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/20.04.1
+lubuntu-meta 20.04.7 https://launchpad.net/ubuntu/+source/lubuntu-meta/20.04.7
