@@ -83,3 +83,4 @@ qtserialport-opensource-src 5.11.2-1 https://launchpad.net/debian/+source/qtseri
 yaml-cpp 0.6.2-1 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-1
 yaml-cpp 0.6.2-2 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-2
 yaml-cpp 0.6.2-3 https://launchpad.net/debian/+source/yaml-cpp/0.6.2-3
+qtmultimedia-opensource-src 5.14.2-1 https://launchpad.net/debian/+source/qtmultimedia-opensource-src/5.14.2-1
