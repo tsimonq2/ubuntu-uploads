@@ -21,3 +21,4 @@ lxqt-session 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/0
 lxqt-sudo 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.15.0-0ubuntu1
 pcmanfm-qt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/0.15.0-0ubuntu1
 qterminal 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/0.15.0-0ubuntu1
+lxqt-panel 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.15.0-0ubuntu1
