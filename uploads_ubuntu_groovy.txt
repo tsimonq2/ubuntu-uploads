@@ -5,3 +5,4 @@ libqtxdg 3.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.5.0-0ubu
 compton-conf 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/compton-conf/0.15.0-0ubuntu1
 liblxqt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/0.15.0-0ubuntu1
 libsysstat 0.4.3-0ubuntu1 https://launchpad.net/ubuntu/+source/libsysstat/0.4.3-0ubuntu1
+lxqt-themes 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.15.0-0ubuntu1
