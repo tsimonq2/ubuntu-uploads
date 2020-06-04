@@ -1,3 +1,4 @@
 vim 2:8.1.2269-1ubuntu6 https://launchpad.net/ubuntu/+source/vim/2:8.1.2269-1ubuntu6
 yara 3.11.0-2build1 https://launchpad.net/ubuntu/+source/yara/3.11.0-2build1
 lxqt-build-tools 0.7.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-build-tools/0.7.0-0ubuntu1
+libqtxdg 3.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.5.0-0ubuntu1
