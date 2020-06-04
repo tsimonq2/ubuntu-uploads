@@ -15,3 +15,4 @@ lxqt-config 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/0.1
 lximage-qt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lximage-qt/0.15.0-0ubuntu1
 lxqt-globalkeys 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.15.0-0ubuntu1
 lxqt-notificationd 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/0.15.0-0ubuntu1
+lxqt-openssh-askpass 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/0.15.0-0ubuntu1
