@@ -6,3 +6,4 @@ compton-conf 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/compton-conf/0
 liblxqt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/0.15.0-0ubuntu1
 libsysstat 0.4.3-0ubuntu1 https://launchpad.net/ubuntu/+source/libsysstat/0.4.3-0ubuntu1
 lxqt-themes 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.15.0-0ubuntu1
+lxqt-qtplugin 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.15.0-0ubuntu1
