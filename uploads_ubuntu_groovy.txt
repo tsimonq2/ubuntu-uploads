@@ -9,3 +9,4 @@ lxqt-themes 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.1
 lxqt-qtplugin 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.15.0-0ubuntu1
 pavucontrol-qt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/0.15.0-0ubuntu1
 qtermwidget 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/0.15.0-0ubuntu1
+lxqt-about 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/0.15.0-0ubuntu1
