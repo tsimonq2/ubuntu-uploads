@@ -17,3 +17,4 @@ lxqt-globalkeys 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-global
 lxqt-notificationd 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/0.15.0-0ubuntu1
 lxqt-openssh-askpass 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/0.15.0-0ubuntu1
 lxqt-policykit 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-policykit/0.15.0-0ubuntu1
+lxqt-session 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/0.15.0-0ubuntu1
