@@ -13,3 +13,4 @@ lxqt-about 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/0.15.
 lxqt-admin 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/0.15.0-0ubuntu1
 lxqt-config 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/0.15.0-0ubuntu1
 lximage-qt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lximage-qt/0.15.0-0ubuntu1
+lxqt-globalkeys 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/0.15.0-0ubuntu1
