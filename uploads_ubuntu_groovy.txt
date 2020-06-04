@@ -7,3 +7,4 @@ liblxqt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/0.15.0-0ubu
 libsysstat 0.4.3-0ubuntu1 https://launchpad.net/ubuntu/+source/libsysstat/0.4.3-0ubuntu1
 lxqt-themes 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/0.15.0-0ubuntu1
 lxqt-qtplugin 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/0.15.0-0ubuntu1
+pavucontrol-qt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/0.15.0-0ubuntu1
