@@ -25,3 +25,4 @@ lxqt-panel 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/0.15.
 lxqt-powermanagement 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/0.15.0-0ubuntu1
 lxqt-runner 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.15.0-0ubuntu1
 obconf-qt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.15.0-0ubuntu1
+qps 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.1.0-0ubuntu1
