@@ -1,2 +1,3 @@
 suricata 1:5.0.2-3 https://launchpad.net/ubuntu/+source/suricata/1:5.0.2-3
 libqalculate 3.3.0-1 https://launchpad.net/ubuntu/+source/libqalculate/3.3.0-1
+qalculate-gtk 3.3.0-1 https://launchpad.net/ubuntu/+source/qalculate-gtk/3.3.0-1
