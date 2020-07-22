@@ -27,3 +27,4 @@ lxqt-runner 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/0.1
 obconf-qt 0.15.0-0ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.15.0-0ubuntu1
 qps 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.1.0-0ubuntu1
 screengrab 2.0.1-0ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/2.0.1-0ubuntu1
+software-properties 0.99.0 https://launchpad.net/ubuntu/+source/software-properties/0.99.0
