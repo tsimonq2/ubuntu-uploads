@@ -29,3 +29,4 @@ qps 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.1.0-0ubuntu1
 screengrab 2.0.1-0ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/2.0.1-0ubuntu1
 software-properties 0.99.0 https://launchpad.net/ubuntu/+source/software-properties/0.99.0
 software-properties 0.99.1 https://launchpad.net/ubuntu/+source/software-properties/0.99.1
+lubuntu-default-settings 20.10.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/20.10.1
