@@ -30,3 +30,4 @@ screengrab 2.0.1-0ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/2.0.1-
 software-properties 0.99.0 https://launchpad.net/ubuntu/+source/software-properties/0.99.0
 software-properties 0.99.1 https://launchpad.net/ubuntu/+source/software-properties/0.99.1
 lubuntu-default-settings 20.10.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/20.10.1
+calamares-settings-ubuntu 1:20.10.11 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:20.10.11
