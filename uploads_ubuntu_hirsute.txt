@@ -1,0 +1,1 @@
+lintian 2.99.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.99.0ubuntu1
