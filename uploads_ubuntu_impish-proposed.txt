@@ -1,1 +1,2 @@
 python-docker 4.4.4-1 https://launchpad.net/ubuntu/+source/python-docker/4.4.4-1
+docker-compose 1.27.4-1 https://launchpad.net/ubuntu/+source/docker-compose/1.27.4-1
