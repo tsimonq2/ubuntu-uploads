@@ -87,3 +87,4 @@ qtmultimedia-opensource-src 5.14.2-1 https://launchpad.net/debian/+source/qtmult
 dtkcore 5.2.2.5-1~exp1 https://launchpad.net/debian/+source/dtkcore/5.2.2.5-1~exp1
 dtkgui 5.2.2.4-1~exp1 https://launchpad.net/debian/+source/dtkgui/5.2.2.4-1~exp1
 yaml-cpp 0.7.0+dfsg-1 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-1
+yaml-cpp 0.7.0+dfsg-2 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-2
