@@ -88,3 +88,4 @@ dtkcore 5.2.2.5-1~exp1 https://launchpad.net/debian/+source/dtkcore/5.2.2.5-1~ex
 dtkgui 5.2.2.4-1~exp1 https://launchpad.net/debian/+source/dtkgui/5.2.2.4-1~exp1
 yaml-cpp 0.7.0+dfsg-1 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-1
 yaml-cpp 0.7.0+dfsg-2 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-2
+yaml-cpp 0.7.0+dfsg-3 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-3
