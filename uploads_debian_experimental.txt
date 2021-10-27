@@ -90,3 +90,4 @@ yaml-cpp 0.7.0+dfsg-1 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-1
 yaml-cpp 0.7.0+dfsg-2 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-2
 yaml-cpp 0.7.0+dfsg-3 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-3
 yaml-cpp 0.7.0+dfsg-4 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-4
+yaml-cpp 0.7.0+dfsg-5 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-5
