@@ -3,3 +3,4 @@ grep 3.7-1 https://launchpad.net/ubuntu/+source/grep/3.7-1
 apt-clone 0.4.3+nmu1 https://launchpad.net/ubuntu/+source/apt-clone/0.4.3+nmu1
 java-atk-wrapper 0.38.0-5 https://launchpad.net/ubuntu/+source/java-atk-wrapper/0.38.0-5
 autodep8 0.25 https://launchpad.net/ubuntu/+source/autodep8/0.25
+golang-github-jacobsa-crypto 0.0~git20190317.9f44e2d+dfsg1-4 https://launchpad.net/ubuntu/+source/golang-github-jacobsa-crypto/0.0~git20190317.9f44e2d+dfsg1-4
