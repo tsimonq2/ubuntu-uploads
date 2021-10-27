@@ -1,2 +1,3 @@
 cmake 3.21.3-5ubuntu1 https://launchpad.net/ubuntu/+source/cmake/3.21.3-5ubuntu1
 bash-completion 1:2.11-4ubuntu1 https://launchpad.net/ubuntu/+source/bash-completion/1:2.11-4ubuntu1
+vim 2:8.2.2434-3ubuntu4 https://launchpad.net/ubuntu/+source/vim/2:8.2.2434-3ubuntu4
