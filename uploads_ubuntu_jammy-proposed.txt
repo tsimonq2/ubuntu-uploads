@@ -1,2 +1,3 @@
 squashfs-tools 1:4.5-3 https://launchpad.net/ubuntu/+source/squashfs-tools/1:4.5-3
 grep 3.7-1 https://launchpad.net/ubuntu/+source/grep/3.7-1
+apt-clone 0.4.3+nmu1 https://launchpad.net/ubuntu/+source/apt-clone/0.4.3+nmu1
