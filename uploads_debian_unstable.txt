@@ -75,3 +75,4 @@ pastebinit 1.5.1-1 https://launchpad.net/debian/+source/pastebinit/1.5.1-1
 lightdm-settings 1.2.5-1 https://launchpad.net/debian/+source/lightdm-settings/1.2.5-1
 yaml-cpp 0.6.3-1 https://launchpad.net/debian/+source/yaml-cpp/0.6.3-1
 yaml-cpp 0.6.3-6 https://launchpad.net/debian/+source/yaml-cpp/0.6.3-6
+yaml-cpp 0.7.0+dfsg-6 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-6
