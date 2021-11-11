@@ -4,3 +4,4 @@ vim 2:8.2.2434-3ubuntu4 https://launchpad.net/ubuntu/+source/vim/2:8.2.2434-3ubu
 debhelper 13.3.4ubuntu3 https://launchpad.net/ubuntu/+source/debhelper/13.3.4ubuntu3
 lintian 2.110.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.110.0ubuntu1
 vim 2:8.2.3565-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:8.2.3565-1ubuntu1
+lintian 2.111.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.111.0ubuntu1
