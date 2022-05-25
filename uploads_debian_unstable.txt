@@ -79,3 +79,4 @@ yaml-cpp 0.7.0+dfsg-6 https://launchpad.net/debian/+source/yaml-cpp/0.7.0+dfsg-6
 rust-fastrand 1.7.0-1 https://launchpad.net/debian/+source/rust-fastrand/1.7.0-1
 rust-gettext-sys 0.21.3-1 https://launchpad.net/debian/+source/rust-gettext-sys/0.21.3-1
 rust-gettext-sys 0.21.3-2 https://launchpad.net/debian/+source/rust-gettext-sys/0.21.3-2
+rust-gettext-rs 0.7.0-1 https://launchpad.net/debian/+source/rust-gettext-rs/0.7.0-1
