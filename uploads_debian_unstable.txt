@@ -83,3 +83,4 @@ rust-gettext-rs 0.7.0-1 https://launchpad.net/debian/+source/rust-gettext-rs/0.7
 rust-gettext-rs 0.7.0-2 https://launchpad.net/debian/+source/rust-gettext-rs/0.7.0-2
 rust-once-cell 1.12.0-1 https://launchpad.net/debian/+source/rust-once-cell/1.12.0-1
 rust-bare-metal 1.0.0-1 https://launchpad.net/debian/+source/rust-bare-metal/1.0.0-1
+rust-lexopt 0.2.0-1 https://launchpad.net/debian/+source/rust-lexopt/0.2.0-1
