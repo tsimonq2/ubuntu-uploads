@@ -10,3 +10,4 @@ libfm-qt 1.1.0-0ubuntu3 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubu
 lxqt-about 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/1.1.0-0ubuntu1
 lxqt-admin 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/1.1.0-0ubuntu1
 lxqt-archiver 0.6.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-archiver/0.6.0-0ubuntu1
+lxqt-config 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/1.1.0-0ubuntu1
