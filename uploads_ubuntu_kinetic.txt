@@ -8,3 +8,4 @@ liblxqt 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/liblxqt/1.1.0-0ubunt
 qtxdg-tools 3.9.1-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/3.9.1-0ubuntu1
 libfm-qt 1.1.0-0ubuntu3 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubuntu3
 lxqt-about 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/1.1.0-0ubuntu1
+lxqt-admin 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/1.1.0-0ubuntu1
