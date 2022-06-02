@@ -24,3 +24,4 @@ qterminal 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/1.1.0-0u
 pavucontrol-qt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.1.0-0ubuntu1
 xdg-desktop-portal-lxqt 0.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-lxqt/0.2.0-0ubuntu1
 lxqt-qtplugin 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/1.1.0-0ubuntu1
+lxqt-powermanagement 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/1.1.0-0ubuntu1
