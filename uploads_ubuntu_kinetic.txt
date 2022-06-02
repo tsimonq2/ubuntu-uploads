@@ -21,3 +21,4 @@ pcmanfm-qt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.1.0-
 qtermwidget 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/1.1.0-0ubuntu1
 obconf-qt 0.16.2-0ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.16.2-0ubuntu1
 qterminal 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/1.1.0-0ubuntu1
+pavucontrol-qt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.1.0-0ubuntu1
