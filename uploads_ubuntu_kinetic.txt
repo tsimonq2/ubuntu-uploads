@@ -29,3 +29,4 @@ lxqt-runner 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/1.1.
 lxqt-panel 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-panel/1.1.0-0ubuntu2
 lximage-qt 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lximage-qt/1.1.0-0ubuntu2
 lxqt-themes 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-themes/1.1.0-0ubuntu2
+lxqt-metapackages 30ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-metapackages/30ubuntu2
