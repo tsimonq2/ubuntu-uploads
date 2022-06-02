@@ -25,3 +25,4 @@ pavucontrol-qt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-q
 xdg-desktop-portal-lxqt 0.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-lxqt/0.2.0-0ubuntu1
 lxqt-qtplugin 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/1.1.0-0ubuntu1
 lxqt-powermanagement 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/1.1.0-0ubuntu1
+lxqt-runner 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/1.1.0-0ubuntu1
