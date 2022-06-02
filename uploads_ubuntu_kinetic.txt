@@ -27,3 +27,4 @@ lxqt-qtplugin 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/
 lxqt-powermanagement 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/1.1.0-0ubuntu1
 lxqt-runner 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/1.1.0-0ubuntu1
 lxqt-panel 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-panel/1.1.0-0ubuntu2
+lximage-qt 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lximage-qt/1.1.0-0ubuntu2
