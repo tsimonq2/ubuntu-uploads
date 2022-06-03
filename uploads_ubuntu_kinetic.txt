@@ -31,3 +31,4 @@ lximage-qt 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lximage-qt/1.1.0-
 lxqt-themes 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-themes/1.1.0-0ubuntu2
 lxqt-metapackages 30ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-metapackages/30ubuntu2
 qps 2.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.5.0-0ubuntu1
+texstudio 4.2.3+ds-2ubuntu1 https://launchpad.net/ubuntu/+source/texstudio/4.2.3+ds-2ubuntu1
