@@ -1,0 +1,1 @@
+pyqt6 6.3.0-1 https://launchpad.net/ubuntu/+source/pyqt6/6.3.0-1
