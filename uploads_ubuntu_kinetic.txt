@@ -33,3 +33,4 @@ lxqt-metapackages 30ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-metapackag
 qps 2.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.5.0-0ubuntu1
 texstudio 4.2.3+ds-2ubuntu1 https://launchpad.net/ubuntu/+source/texstudio/4.2.3+ds-2ubuntu1
 nm-tray 0.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.5.0-0ubuntu1
+calamares 3.3.0~git20220606-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0~git20220606-0ubuntu1
