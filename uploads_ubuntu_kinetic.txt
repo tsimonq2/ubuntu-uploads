@@ -36,3 +36,4 @@ nm-tray 0.5.0-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.5.0-0ubunt
 calamares 3.3.0~git20220606-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0~git20220606-0ubuntu1
 libfm-qt 1.1.0-0ubuntu4 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubuntu4
 lxqt-session 1.1.1-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-session/1.1.1-0ubuntu2
+calamares 3.3.0~git20220608-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0~git20220608-0ubuntu1
