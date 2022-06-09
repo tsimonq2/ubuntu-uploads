@@ -38,3 +38,4 @@ libfm-qt 1.1.0-0ubuntu4 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubu
 lxqt-session 1.1.1-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-session/1.1.1-0ubuntu2
 calamares 3.3.0~git20220608-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0~git20220608-0ubuntu1
 calamares-settings-ubuntu 1:22.10.2 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.10.2
+pcmanfm-qt 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.1.0-0ubuntu2
