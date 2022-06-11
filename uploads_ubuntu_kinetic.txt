@@ -44,3 +44,4 @@ calamares-settings-ubuntu 1:22.10.3 https://launchpad.net/ubuntu/+source/calamar
 libfm-qt 1.1.0-0ubuntu6 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubuntu6
 qtermwidget 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/qtermwidget/1.1.0-0ubuntu2
 lxqt-config 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-config/1.1.0-0ubuntu2
+lxqt-runner 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-runner/1.1.0-0ubuntu2
