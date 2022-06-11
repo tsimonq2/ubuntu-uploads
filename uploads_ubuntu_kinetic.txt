@@ -41,3 +41,4 @@ calamares-settings-ubuntu 1:22.10.2 https://launchpad.net/ubuntu/+source/calamar
 pcmanfm-qt 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.1.0-0ubuntu2
 libfm-qt 1.1.0-0ubuntu5 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubuntu5
 calamares-settings-ubuntu 1:22.10.3 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.10.3
+libfm-qt 1.1.0-0ubuntu6 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubuntu6
