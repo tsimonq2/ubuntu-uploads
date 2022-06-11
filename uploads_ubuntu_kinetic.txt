@@ -45,3 +45,4 @@ libfm-qt 1.1.0-0ubuntu6 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-0ubu
 qtermwidget 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/qtermwidget/1.1.0-0ubuntu2
 lxqt-config 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-config/1.1.0-0ubuntu2
 lxqt-runner 1.1.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-runner/1.1.0-0ubuntu2
+vim 2:8.2.4793-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:8.2.4793-1ubuntu1
