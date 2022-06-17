@@ -52,3 +52,4 @@ calamares 3.3.0~git20220610-0ubuntu1 https://launchpad.net/ubuntu/+source/calama
 calamares 3.3.0~git20220610-0ubuntu2 https://launchpad.net/ubuntu/+source/calamares/3.3.0~git20220610-0ubuntu2
 pcmanfm-qt 1.1.0-0ubuntu3 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.1.0-0ubuntu3
 lubuntu-default-settings 22.10.3 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/22.10.3
+ubiquity 22.10.3 https://launchpad.net/ubuntu/+source/ubiquity/22.10.3
