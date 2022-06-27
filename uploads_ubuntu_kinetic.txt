@@ -60,3 +60,4 @@ calamares 3.3.0~git20220620-0ubuntu2 https://launchpad.net/ubuntu/+source/calama
 pcmanfm-qt 1.1.0-0ubuntu4 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.1.0-0ubuntu4
 lximage-qt 1.1.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lximage-qt/1.1.0-0ubuntu3
 calamares-settings-ubuntu 1:22.10.6 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.10.6
+calamares-settings-ubuntu 1:22.10.7 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.10.7
