@@ -63,3 +63,4 @@ calamares-settings-ubuntu 1:22.10.6 https://launchpad.net/ubuntu/+source/calamar
 calamares-settings-ubuntu 1:22.10.7 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.10.7
 vim 2:8.2.5166-0ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:8.2.5166-0ubuntu1
 lintian 2.115.1ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.115.1ubuntu1
+calamares 3.3.0-alpha1-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0-alpha1-0ubuntu1
