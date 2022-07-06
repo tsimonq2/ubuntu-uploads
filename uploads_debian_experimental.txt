@@ -96,3 +96,4 @@ qtbase-opensource-src 5.15.5+dfsg-1 https://launchpad.net/debian/+source/qtbase-
 libqtxdg 3.9.1-1 https://launchpad.net/debian/+source/libqtxdg/3.9.1-1
 libqtxdg 3.9.1-2 https://launchpad.net/debian/+source/libqtxdg/3.9.1-2
 liblxqt 1.1.0-1 https://launchpad.net/debian/+source/liblxqt/1.1.0-1
+qtxdg-tools 3.9.1-1 https://launchpad.net/debian/+source/qtxdg-tools/3.9.1-1
