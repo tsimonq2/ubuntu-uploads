@@ -97,3 +97,4 @@ libqtxdg 3.9.1-1 https://launchpad.net/debian/+source/libqtxdg/3.9.1-1
 libqtxdg 3.9.1-2 https://launchpad.net/debian/+source/libqtxdg/3.9.1-2
 liblxqt 1.1.0-1 https://launchpad.net/debian/+source/liblxqt/1.1.0-1
 qtxdg-tools 3.9.1-1 https://launchpad.net/debian/+source/qtxdg-tools/3.9.1-1
+lxqt-themes 1.1.0-1 https://launchpad.net/debian/+source/lxqt-themes/1.1.0-1
