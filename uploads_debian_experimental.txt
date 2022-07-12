@@ -100,3 +100,4 @@ qtxdg-tools 3.9.1-1 https://launchpad.net/debian/+source/qtxdg-tools/3.9.1-1
 lxqt-themes 1.1.0-1 https://launchpad.net/debian/+source/lxqt-themes/1.1.0-1
 lxqt-qtplugin 1.1.0-1 https://launchpad.net/debian/+source/lxqt-qtplugin/1.1.0-1
 obconf-qt 0.16.2-1 https://launchpad.net/debian/+source/obconf-qt/0.16.2-1
+pavucontrol-qt 1.1.0-1 https://launchpad.net/debian/+source/pavucontrol-qt/1.1.0-1
