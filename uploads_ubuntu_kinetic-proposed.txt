@@ -3,3 +3,4 @@ libqtxdg 3.9.1-1 https://launchpad.net/ubuntu/+source/libqtxdg/3.9.1-1
 libqtxdg 3.9.1-2 https://launchpad.net/ubuntu/+source/libqtxdg/3.9.1-2
 lxqt-qtplugin 1.1.0-1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/1.1.0-1
 obconf-qt 0.16.2-1 https://launchpad.net/ubuntu/+source/obconf-qt/0.16.2-1
+pavucontrol-qt 1.1.0-1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.1.0-1
