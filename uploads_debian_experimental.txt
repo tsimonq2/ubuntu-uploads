@@ -103,3 +103,4 @@ obconf-qt 0.16.2-1 https://launchpad.net/debian/+source/obconf-qt/0.16.2-1
 pavucontrol-qt 1.1.0-1 https://launchpad.net/debian/+source/pavucontrol-qt/1.1.0-1
 qtermwidget 1.1.0-1 https://launchpad.net/debian/+source/qtermwidget/1.1.0-1
 lxqt-admin 1.1.0-1 https://launchpad.net/debian/+source/lxqt-admin/1.1.0-1
+lxqt-archiver 0.6.0-1 https://launchpad.net/debian/+source/lxqt-archiver/0.6.0-1
