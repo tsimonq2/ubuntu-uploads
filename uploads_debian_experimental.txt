@@ -106,3 +106,4 @@ lxqt-admin 1.1.0-1 https://launchpad.net/debian/+source/lxqt-admin/1.1.0-1
 lxqt-archiver 0.6.0-1 https://launchpad.net/debian/+source/lxqt-archiver/0.6.0-1
 lxqt-notificationd 1.1.0-1 https://launchpad.net/debian/+source/lxqt-notificationd/1.1.0-1
 lximage-qt 1.1.0-1 https://launchpad.net/debian/+source/lximage-qt/1.1.0-1
+lxqt-openssh-askpass 1.1.0-1 https://launchpad.net/debian/+source/lxqt-openssh-askpass/1.1.0-1
