@@ -109,3 +109,4 @@ lximage-qt 1.1.0-1 https://launchpad.net/debian/+source/lximage-qt/1.1.0-1
 lxqt-openssh-askpass 1.1.0-1 https://launchpad.net/debian/+source/lxqt-openssh-askpass/1.1.0-1
 lxqt-about 1.1.0-2 https://launchpad.net/debian/+source/lxqt-about/1.1.0-2
 lxqt-session 1.1.1-1 https://launchpad.net/debian/+source/lxqt-session/1.1.1-1
+lxqt-sudo 1.1.0-1 https://launchpad.net/debian/+source/lxqt-sudo/1.1.0-1
