@@ -6,3 +6,4 @@ obconf-qt 0.16.2-1 https://launchpad.net/ubuntu/+source/obconf-qt/0.16.2-1
 pavucontrol-qt 1.1.0-1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.1.0-1
 qtermwidget 1.1.0-1 https://launchpad.net/ubuntu/+source/qtermwidget/1.1.0-1
 lximage-qt 1.1.0-1 https://launchpad.net/ubuntu/+source/lximage-qt/1.1.0-1
+lxqt-about 1.1.0-2 https://launchpad.net/ubuntu/+source/lxqt-about/1.1.0-2
