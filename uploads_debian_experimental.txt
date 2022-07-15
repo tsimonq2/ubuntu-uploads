@@ -113,3 +113,4 @@ lxqt-sudo 1.1.0-1 https://launchpad.net/debian/+source/lxqt-sudo/1.1.0-1
 qterminal 1.1.0-1 https://launchpad.net/debian/+source/qterminal/1.1.0-1
 lxqt-config 1.1.0-2 https://launchpad.net/debian/+source/lxqt-config/1.1.0-2
 pcmanfm-qt 1.1.0-2 https://launchpad.net/debian/+source/pcmanfm-qt/1.1.0-2
+lxqt-globalkeys 1.1.0-1 https://launchpad.net/debian/+source/lxqt-globalkeys/1.1.0-1
