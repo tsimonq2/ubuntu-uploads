@@ -13,3 +13,4 @@ lxqt-sudo 1.1.0-1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.1.0-1
 lxqt-themes 1.1.0-1 https://launchpad.net/ubuntu/+source/lxqt-themes/1.1.0-1
 lxqt-config 1.1.0-1 https://launchpad.net/ubuntu/+source/lxqt-config/1.1.0-1
 qterminal 1.1.0-1 https://launchpad.net/ubuntu/+source/qterminal/1.1.0-1
+libfm-qt 1.1.0-1 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-1
