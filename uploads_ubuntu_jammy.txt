@@ -6,3 +6,4 @@ lintian 2.110.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.110.0ubunt
 vim 2:8.2.3565-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:8.2.3565-1ubuntu1
 lintian 2.111.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.111.0ubuntu1
 cmake 3.21.4-1ubuntu1 https://launchpad.net/ubuntu/+source/cmake/3.21.4-1ubuntu1
+calamares 3.2.60-0ubuntu0.1 https://launchpad.net/ubuntu/+source/calamares/3.2.60-0ubuntu0.1
