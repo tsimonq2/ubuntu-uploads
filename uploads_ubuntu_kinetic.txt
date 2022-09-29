@@ -69,3 +69,4 @@ xdg-desktop-portal-lxqt 0.2.0-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-
 calamares-settings-ubuntu 1:22.10.10 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.10.10
 lubuntu-installer-prompt 0.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/0.2.0-0ubuntu1
 calamares 3.3.0-alpha2-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0-alpha2-0ubuntu1
+lubuntu-artwork 22.10.2 https://launchpad.net/ubuntu/+source/lubuntu-artwork/22.10.2
