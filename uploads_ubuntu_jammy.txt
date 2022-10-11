@@ -10,3 +10,4 @@ calamares 3.2.60-0ubuntu0.1 https://launchpad.net/ubuntu/+source/calamares/3.2.6
 calamares-settings-ubuntu 1:22.04.4.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.04.4.1
 livecd-rootfs 2.765.8 https://launchpad.net/ubuntu/+source/livecd-rootfs/2.765.8
 calamares 3.2.61-0ubuntu0.1 https://launchpad.net/ubuntu/+source/calamares/3.2.61-0ubuntu0.1
+ubiquity 22.04.18 https://launchpad.net/ubuntu/+source/ubiquity/22.04.18
