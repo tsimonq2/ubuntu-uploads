@@ -9,3 +9,4 @@ cmake 3.21.4-1ubuntu1 https://launchpad.net/ubuntu/+source/cmake/3.21.4-1ubuntu1
 calamares 3.2.60-0ubuntu0.1 https://launchpad.net/ubuntu/+source/calamares/3.2.60-0ubuntu0.1
 calamares-settings-ubuntu 1:22.04.4.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:22.04.4.1
 livecd-rootfs 2.765.8 https://launchpad.net/ubuntu/+source/livecd-rootfs/2.765.8
+calamares 3.2.61-0ubuntu0.1 https://launchpad.net/ubuntu/+source/calamares/3.2.61-0ubuntu0.1
