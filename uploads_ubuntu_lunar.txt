@@ -1,1 +1,2 @@
 base-files 12.2ubuntu4 https://launchpad.net/ubuntu/+source/base-files/12.2ubuntu4
+debootstrap 1.0.127ubuntu2 https://launchpad.net/ubuntu/+source/debootstrap/1.0.127ubuntu2
