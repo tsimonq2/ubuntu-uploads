@@ -3,3 +3,4 @@ debootstrap 1.0.127ubuntu2 https://launchpad.net/ubuntu/+source/debootstrap/1.0.
 lintian 2.115.3ubuntu3 https://launchpad.net/ubuntu/+source/lintian/2.115.3ubuntu3
 vim 2:9.0.0626-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.0626-1ubuntu1
 calamares-settings-ubuntu 1:23.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:23.04.1
+lubuntu-default-settings 23.04.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/23.04.1
