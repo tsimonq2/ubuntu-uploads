@@ -5,3 +5,4 @@ vim 2:9.0.0626-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.0626-1ubu
 calamares-settings-ubuntu 1:23.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:23.04.1
 lubuntu-default-settings 23.04.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/23.04.1
 lubuntu-artwork 23.04.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/23.04.1
+debhelper 13.10.1ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.10.1ubuntu1
