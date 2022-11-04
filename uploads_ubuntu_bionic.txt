@@ -641,3 +641,4 @@ scite 4.0.0-1ubuntu0.1 https://launchpad.net/ubuntu/+source/scite/4.0.0-1ubuntu0
 lyx 2.2.4-0ubuntu0.18.04.1 https://launchpad.net/ubuntu/+source/lyx/2.2.4-0ubuntu0.18.04.1
 lubuntu-default-settings 0.54.3 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/0.54.3
 openscap 1.2.15-1ubuntu0.2 https://launchpad.net/ubuntu/+source/openscap/1.2.15-1ubuntu0.2
+debootstrap 1.0.95ubuntu0.12 https://launchpad.net/ubuntu/+source/debootstrap/1.0.95ubuntu0.12
