@@ -13,3 +13,4 @@ calamares 3.2.61-0ubuntu0.1 https://launchpad.net/ubuntu/+source/calamares/3.2.6
 ubiquity 22.04.18 https://launchpad.net/ubuntu/+source/ubiquity/22.04.18
 debootstrap 1.0.126+nmu1ubuntu0.2 https://launchpad.net/ubuntu/+source/debootstrap/1.0.126+nmu1ubuntu0.2
 lintian 2.114.0ubuntu1.2 https://launchpad.net/ubuntu/+source/lintian/2.114.0ubuntu1.2
+vim 2:8.2.3995-1ubuntu2.2 https://launchpad.net/ubuntu/+source/vim/2:8.2.3995-1ubuntu2.2
