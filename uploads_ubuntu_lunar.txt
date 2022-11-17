@@ -11,3 +11,4 @@ libqtxdg 3.10.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.10.0-0u
 qtxdg-tools 3.10.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/3.10.0-0ubuntu1
 liblxqt 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/1.2.0-0ubuntu1
 libfm-qt 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libfm-qt/1.2.0-0ubuntu1
+lxqt-themes 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/1.2.0-0ubuntu1
