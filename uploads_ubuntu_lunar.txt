@@ -17,3 +17,4 @@ pavucontrol-qt 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-q
 qtermwidget 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/1.2.0-0ubuntu1
 lxqt-about 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/1.2.0-0ubuntu1
 lximage-qt 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lximage-qt/1.2.0-0ubuntu1
+lxqt-admin 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/1.2.0-0ubuntu1
