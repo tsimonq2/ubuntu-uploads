@@ -24,3 +24,4 @@ lxqt-config 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/1.2.
 lxqt-openssh-askpass 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/1.2.0-0ubuntu1
 lxqt-notificationd 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/1.2.0-0ubuntu1
 lxqt-policykit 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-policykit/1.2.0-0ubuntu1
+lxqt-session 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/1.2.0-0ubuntu1
