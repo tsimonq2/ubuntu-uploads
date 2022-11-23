@@ -32,3 +32,4 @@ xdg-desktop-portal-lxqt 0.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-
 lxqt-powermanagement 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/1.2.0-0ubuntu1
 lxqt-panel 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/1.2.0-0ubuntu1
 lxqt-runner 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/1.2.0-0ubuntu1
+calamares-settings-ubuntu 1:23.04.3 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:23.04.3
