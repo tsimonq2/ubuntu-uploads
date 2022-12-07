@@ -34,3 +34,4 @@ lxqt-panel 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/1.2.0-
 lxqt-runner 1.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/1.2.0-0ubuntu1
 calamares-settings-ubuntu 1:23.04.3 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:23.04.3
 featherpad 1.3.3-0ubuntu1 https://launchpad.net/ubuntu/+source/featherpad/1.3.3-0ubuntu1
+lubuntu-update-notifier 0.5 https://launchpad.net/ubuntu/+source/lubuntu-update-notifier/0.5
