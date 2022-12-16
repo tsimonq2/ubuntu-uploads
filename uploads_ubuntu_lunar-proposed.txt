@@ -2,3 +2,4 @@ lxqt-globalkeys 1.1.0-1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/1.1
 lua-mediator 1.1.2-0-8 https://launchpad.net/ubuntu/+source/lua-mediator/1.1.2-0-8
 awl 0.63-1 https://launchpad.net/ubuntu/+source/awl/0.63-1
 opensbi 1.1-2 https://launchpad.net/ubuntu/+source/opensbi/1.1-2
+python-pbcommand 2.1.1+git20220616.3f2e6c2-2 https://launchpad.net/ubuntu/+source/python-pbcommand/2.1.1+git20220616.3f2e6c2-2
