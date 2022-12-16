@@ -1,1 +1,2 @@
 lxqt-globalkeys 1.1.0-1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/1.1.0-1
+lua-mediator 1.1.2-0-8 https://launchpad.net/ubuntu/+source/lua-mediator/1.1.2-0-8
