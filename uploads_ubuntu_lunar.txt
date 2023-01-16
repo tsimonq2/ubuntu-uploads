@@ -38,3 +38,4 @@ lubuntu-update-notifier 0.5 https://launchpad.net/ubuntu/+source/lubuntu-update-
 vim 2:9.0.0813-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.0813-1ubuntu1
 vim 2:9.0.1000-3ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.1000-3ubuntu1
 vim 2:9.0.1000-3ubuntu2 https://launchpad.net/ubuntu/+source/vim/2:9.0.1000-3ubuntu2
+lxqt-panel 1.2.1-1ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/1.2.1-1ubuntu1
