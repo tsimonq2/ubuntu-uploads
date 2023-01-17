@@ -8,3 +8,4 @@ libflame 5.2.0-4 https://launchpad.net/ubuntu/+source/libflame/5.2.0-4
 rev-plugins 0.8.1-1 https://launchpad.net/ubuntu/+source/rev-plugins/0.8.1-1
 libobject-id-perl 0.1.2-3 https://launchpad.net/ubuntu/+source/libobject-id-perl/0.1.2-3
 libexpect-perl 1.35-2 https://launchpad.net/ubuntu/+source/libexpect-perl/1.35-2
+zsync 0.6.2-5 https://launchpad.net/ubuntu/+source/zsync/0.6.2-5
