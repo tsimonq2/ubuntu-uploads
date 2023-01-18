@@ -85,3 +85,4 @@ rust-once-cell 1.12.0-1 https://launchpad.net/debian/+source/rust-once-cell/1.12
 rust-bare-metal 1.0.0-1 https://launchpad.net/debian/+source/rust-bare-metal/1.0.0-1
 rust-lexopt 0.2.0-1 https://launchpad.net/debian/+source/rust-lexopt/0.2.0-1
 zsync 0.6.2-5 https://launchpad.net/debian/+source/zsync/0.6.2-5
+clazy 1.11-4 https://launchpad.net/debian/+source/clazy/1.11-4
