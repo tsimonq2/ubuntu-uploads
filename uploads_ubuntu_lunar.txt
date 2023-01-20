@@ -44,3 +44,4 @@ vim 2:9.0.1000-4ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.1000-4ubu
 sbuild 0.85.0ubuntu1 https://launchpad.net/ubuntu/+source/sbuild/0.85.0ubuntu1
 flask-dance 6.2.0-2ubuntu1 https://launchpad.net/ubuntu/+source/flask-dance/6.2.0-2ubuntu1
 lintian 2.116.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.116.0ubuntu1
+clamsmtp 1.10-17.1ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-17.1ubuntu1
