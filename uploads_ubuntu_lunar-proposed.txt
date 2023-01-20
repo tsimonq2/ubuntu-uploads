@@ -10,3 +10,4 @@ libobject-id-perl 0.1.2-3 https://launchpad.net/ubuntu/+source/libobject-id-perl
 libexpect-perl 1.35-2 https://launchpad.net/ubuntu/+source/libexpect-perl/1.35-2
 zsync 0.6.2-5 https://launchpad.net/ubuntu/+source/zsync/0.6.2-5
 scsitools 0.12-4 https://launchpad.net/ubuntu/+source/scsitools/0.12-4
+apper 1.0.0-4 https://launchpad.net/ubuntu/+source/apper/1.0.0-4
