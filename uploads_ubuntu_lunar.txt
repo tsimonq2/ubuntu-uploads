@@ -47,3 +47,4 @@ lintian 2.116.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.116.0ubunt
 clamsmtp 1.10-17.1ubuntu1 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-17.1ubuntu1
 python-ulmo 0.8.8+dfsg1-1ubuntu2 https://launchpad.net/ubuntu/+source/python-ulmo/0.8.8+dfsg1-1ubuntu2
 squid-deb-proxy 0.8.15+nmu1ubuntu4 https://launchpad.net/ubuntu/+source/squid-deb-proxy/0.8.15+nmu1ubuntu4
+pymca 5.8.0+dfsg-2~1 https://launchpad.net/ubuntu/+source/pymca/5.8.0+dfsg-2~1
