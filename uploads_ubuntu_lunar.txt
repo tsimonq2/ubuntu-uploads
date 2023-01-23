@@ -52,3 +52,4 @@ lintian 2.116.1ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.116.1ubunt
 lintian 2.116.1ubuntu2 https://launchpad.net/ubuntu/+source/lintian/2.116.1ubuntu2
 binoculars 0.0.12-1.1~build1 https://launchpad.net/ubuntu/+source/binoculars/0.0.12-1.1~build1
 lintian 2.116.1ubuntu3 https://launchpad.net/ubuntu/+source/lintian/2.116.1ubuntu3
+regina-normal 7.2-2.1~build1 https://launchpad.net/ubuntu/+source/regina-normal/7.2-2.1~build1
