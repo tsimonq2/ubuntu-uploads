@@ -62,3 +62,4 @@ chromium-browser 1:85.0.4183.83-0ubuntu3 https://launchpad.net/ubuntu/+source/ch
 silx 1.1.0+dfsg-3ubuntu1 https://launchpad.net/ubuntu/+source/silx/1.1.0+dfsg-3ubuntu1
 anki 2.1.15+dfsg-3ubuntu1 https://launchpad.net/ubuntu/+source/anki/2.1.15+dfsg-3ubuntu1
 casper 1.479 https://launchpad.net/ubuntu/+source/casper/1.479
+casper 1.478 https://launchpad.net/ubuntu/+source/casper/1.478
