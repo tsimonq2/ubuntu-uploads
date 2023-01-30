@@ -65,3 +65,4 @@ casper 1.479 https://launchpad.net/ubuntu/+source/casper/1.479
 casper 1.478 https://launchpad.net/ubuntu/+source/casper/1.478
 lintian 2.116.2ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.116.2ubuntu1
 python-hypothesis 6.64.0-1ubuntu1 https://launchpad.net/ubuntu/+source/python-hypothesis/6.64.0-1ubuntu1
+crudini 0.9.3-6ubuntu1 https://launchpad.net/ubuntu/+source/crudini/0.9.3-6ubuntu1
