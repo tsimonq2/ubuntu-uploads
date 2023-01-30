@@ -76,3 +76,4 @@ libfm-qt 1.1.0-3ubuntu1 https://launchpad.net/ubuntu/+source/libfm-qt/1.1.0-3ubu
 debootstrap 1.0.127ubuntu1.1 https://launchpad.net/ubuntu/+source/debootstrap/1.0.127ubuntu1.1
 lintian 2.115.3ubuntu2.1 https://launchpad.net/ubuntu/+source/lintian/2.115.3ubuntu2.1
 vim 2:9.0.0242-1ubuntu1.1 https://launchpad.net/ubuntu/+source/vim/2:9.0.0242-1ubuntu1.1
+libunwind 1.6.2-0ubuntu1.1 https://launchpad.net/ubuntu/+source/libunwind/1.6.2-0ubuntu1.1
