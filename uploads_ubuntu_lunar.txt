@@ -66,3 +66,4 @@ casper 1.478 https://launchpad.net/ubuntu/+source/casper/1.478
 lintian 2.116.2ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.116.2ubuntu1
 python-hypothesis 6.64.0-1ubuntu1 https://launchpad.net/ubuntu/+source/python-hypothesis/6.64.0-1ubuntu1
 crudini 0.9.3-6ubuntu1 https://launchpad.net/ubuntu/+source/crudini/0.9.3-6ubuntu1
+openstack-trove 2:18.0.0+git2023011209.1d8231d3-0ubuntu2 https://launchpad.net/ubuntu/+source/openstack-trove/2:18.0.0+git2023011209.1d8231d3-0ubuntu2
