@@ -77,3 +77,4 @@ debootstrap 1.0.127ubuntu1.1 https://launchpad.net/ubuntu/+source/debootstrap/1.
 lintian 2.115.3ubuntu2.1 https://launchpad.net/ubuntu/+source/lintian/2.115.3ubuntu2.1
 vim 2:9.0.0242-1ubuntu1.1 https://launchpad.net/ubuntu/+source/vim/2:9.0.0242-1ubuntu1.1
 libunwind 1.6.2-0ubuntu1.1 https://launchpad.net/ubuntu/+source/libunwind/1.6.2-0ubuntu1.1
+chromium-browser 1:85.0.4183.83-0ubuntu2.22.10.1 https://launchpad.net/ubuntu/+source/chromium-browser/1:85.0.4183.83-0ubuntu2.22.10.1
