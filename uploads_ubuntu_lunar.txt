@@ -70,3 +70,4 @@ openstack-trove 2:18.0.0+git2023011209.1d8231d3-0ubuntu2 https://launchpad.net/u
 kitty 0.26.5-3ubuntu2 https://launchpad.net/ubuntu/+source/kitty/0.26.5-3ubuntu2
 python-hypothesis 6.64.0-1ubuntu2 https://launchpad.net/ubuntu/+source/python-hypothesis/6.64.0-1ubuntu2
 django-rich 1.4.0-5ubuntu1 https://launchpad.net/ubuntu/+source/django-rich/1.4.0-5ubuntu1
+mailman3 3.3.8-1ubuntu1 https://launchpad.net/ubuntu/+source/mailman3/3.3.8-1ubuntu1
