@@ -20,3 +20,4 @@ dm-writeboost 2.2.15-1 https://launchpad.net/ubuntu/+source/dm-writeboost/2.2.15
 gvmd 22.4.2-1 https://launchpad.net/ubuntu/+source/gvmd/22.4.2-1
 ring-clojure 1.8.2-1 https://launchpad.net/ubuntu/+source/ring-clojure/1.8.2-1
 acpi 1.7-1.2 https://launchpad.net/ubuntu/+source/acpi/1.7-1.2
+ddcci-driver-linux 0.4.2-4 https://launchpad.net/ubuntu/+source/ddcci-driver-linux/0.4.2-4
