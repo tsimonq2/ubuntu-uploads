@@ -73,3 +73,4 @@ django-rich 1.4.0-5ubuntu1 https://launchpad.net/ubuntu/+source/django-rich/1.4.
 mailman3 3.3.8-1ubuntu1 https://launchpad.net/ubuntu/+source/mailman3/3.3.8-1ubuntu1
 librsvg 2.54.5+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/librsvg/2.54.5+dfsg-1ubuntu1
 python-structlog 20.1.0-3ubuntu1 https://launchpad.net/ubuntu/+source/python-structlog/20.1.0-3ubuntu1
+libisoburn 1:1.5.4-4ubuntu1 https://launchpad.net/ubuntu/+source/libisoburn/1:1.5.4-4ubuntu1
