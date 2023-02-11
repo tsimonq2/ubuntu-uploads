@@ -271,3 +271,4 @@ libkf5libkdepim 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5li
 libkeduvocdocument 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkeduvocdocument/4:22.12.2-0ubuntu1
 libkf5kexiv2 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5kexiv2/22.12.2-0ubuntu1
 libkgapi 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkgapi/22.12.2-0ubuntu1
+libkf5kipi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5kipi/4:22.12.2-0ubuntu1
