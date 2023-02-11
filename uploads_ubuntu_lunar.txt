@@ -244,3 +244,4 @@ ktimer 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktimer/4:22.12.2-
 ktnef 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktnef/4:22.12.2-0ubuntu1
 ktorrent 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktorrent/22.12.2-0ubuntu1
 ktouch 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktouch/4:22.12.2-0ubuntu1
+ktp-accounts-kcm 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-accounts-kcm/4:22.12.2-0ubuntu1
