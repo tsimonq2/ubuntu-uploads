@@ -80,3 +80,4 @@ akonadi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi/4:22.12.
 akonadi-calendar 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-calendar/4:22.12.2-0ubuntu1
 akonadi-calendar-tools 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-calendar-tools/4:22.12.2-0ubuntu1
 akonadi-contacts 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-contacts/4:22.12.2-0ubuntu1
+akonadi-import-wizard 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-import-wizard/4:22.12.2-0ubuntu1
