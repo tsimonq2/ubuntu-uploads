@@ -122,3 +122,4 @@ kalendar 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kalendar/22.12.2-
 kalgebra 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kalgebra/4:22.12.2-0ubuntu1
 kalzium 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kalzium/4:22.12.2-0ubuntu1
 kamera 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kamera/4:22.12.2-0ubuntu1
+kamoso 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kamoso/22.12.2-0ubuntu1
