@@ -196,3 +196,4 @@ kmail-account-wizard 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kma
 kmailtransport 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmailtransport/22.12.2-0ubuntu1
 kmbox 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmbox/22.12.2-0ubuntu1
 kmime 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmime/22.12.2-0ubuntu1
+kmines 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmines/4:22.12.2-0ubuntu1
