@@ -99,3 +99,4 @@ cantor 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/cantor/4:22.12.2-
 cervisia 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/cervisia/4:22.12.2-0ubuntu1
 colord-kde 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/colord-kde/22.12.2-0ubuntu1
 dolphin 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/dolphin/4:22.12.2-0ubuntu1
+dolphin-plugins 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/dolphin-plugins/4:22.12.2-0ubuntu1
