@@ -307,3 +307,4 @@ sweeper 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/sweeper/4:22.12.
 umbrello 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/umbrello/4:22.12.2-0ubuntu1
 yakuake 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/yakuake/22.12.2-0ubuntu1
 zanshin 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/zanshin/22.12.2-0ubuntu1
+dput 1.1.3ubuntu1 https://launchpad.net/ubuntu/+source/dput/1.1.3ubuntu1
