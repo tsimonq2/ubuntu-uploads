@@ -206,3 +206,4 @@ knetwalk 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knetwalk/4:22.1
 knights 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knights/22.12.2-0ubuntu1
 knotes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knotes/4:22.12.2-0ubuntu1
 kolf 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kolf/4:22.12.2-0ubuntu1
+kollision 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kollision/4:22.12.2-0ubuntu1
