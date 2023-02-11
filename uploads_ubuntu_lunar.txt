@@ -165,3 +165,4 @@ kfloppy 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfloppy/4:22.12.
 kfourinline 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfourinline/4:22.12.2-0ubuntu1
 kgeography 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgeography/4:22.12.2-0ubuntu1
 kget 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kget/4:22.12.2-0ubuntu1
+kgoldrunner 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgoldrunner/4:22.12.2-0ubuntu1
