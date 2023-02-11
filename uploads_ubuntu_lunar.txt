@@ -286,3 +286,4 @@ marble 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/marble/4:22.12.2-
 markdownpart 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/markdownpart/22.12.2-0ubuntu1
 mbox-importer 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/mbox-importer/4:22.12.2-0ubuntu1
 kf5-messagelib 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kf5-messagelib/4:22.12.2-0ubuntu1
+minuet 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/minuet/22.12.2-0ubuntu1
