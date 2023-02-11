@@ -149,3 +149,4 @@ kdegraphics-mobipocket 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/k
 kdegraphics-thumbnailers 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdegraphics-thumbnailers/4:22.12.2-0ubuntu1
 kdenetwork-filesharing 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdenetwork-filesharing/4:22.12.2-0ubuntu1
 kdenlive 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdenlive/4:22.12.2-0ubuntu1
+kdepim-addons 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-addons/22.12.2-0ubuntu1
