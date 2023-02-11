@@ -153,3 +153,4 @@ kdepim-addons 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-addon
 kdepim-runtime 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-runtime/4:22.12.2-0ubuntu1
 kdesdk-kioslaves 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesdk-kioslaves/4:22.12.2-0ubuntu1
 kdesdk-thumbnailers 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesdk-thumbnailers/4:22.12.2-0ubuntu1
+kdevelop-php 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdevelop-php/22.12.2-0ubuntu1
