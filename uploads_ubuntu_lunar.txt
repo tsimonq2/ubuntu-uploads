@@ -299,3 +299,4 @@ poxml 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/poxml/4:22.12.2-0u
 print-manager 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/print-manager/4:22.12.2-0ubuntu1
 rocs 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/rocs/4:22.12.2-0ubuntu1
 signon-kwallet-extension 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/signon-kwallet-extension/4:22.12.2-0ubuntu1
+skanlite 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/skanlite/22.12.2-0ubuntu1
