@@ -145,3 +145,4 @@ kde-dev-utils 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-dev-ut
 kdebugsettings 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdebugsettings/22.12.2-0ubuntu1
 kdeconnect 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeconnect/22.12.2-0ubuntu1
 kdeedu-data 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeedu-data/4:22.12.2-0ubuntu1
+kdegraphics-mobipocket 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdegraphics-mobipocket/4:22.12.2-0ubuntu1
