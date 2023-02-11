@@ -213,3 +213,4 @@ konqueror 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konqueror/4:22
 konquest 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konquest/4:22.12.2-0ubuntu1
 konsole 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konsole/4:22.12.2-0ubuntu1
 kontact 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kontact/4:22.12.2-0ubuntu1
+kontactinterface 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kontactinterface/22.12.2-0ubuntu1
