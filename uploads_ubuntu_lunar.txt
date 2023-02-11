@@ -255,3 +255,4 @@ ktp-desktop-applets 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-
 ktp-filetransfer-handler 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-filetransfer-handler/4:22.12.2-0ubuntu1
 ktp-kded-integration-module 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-kded-integration-module/4:22.12.2-0ubuntu1
 ktp-send-file 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-send-file/4:22.12.2-0ubuntu1
+ktp-text-ui 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-text-ui/4:22.12.2-0ubuntu1
