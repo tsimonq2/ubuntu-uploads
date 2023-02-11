@@ -173,3 +173,4 @@ kidentitymanagement 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kident
 kig 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kig/4:22.12.2-0ubuntu1
 kigo 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kigo/4:22.12.2-0ubuntu1
 killbots 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/killbots/4:22.12.2-0ubuntu1
+kimagemapeditor 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kimagemapeditor/4:22.12.2-0ubuntu1
