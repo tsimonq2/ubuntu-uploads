@@ -140,3 +140,4 @@ kcalutils 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcalutils/4:22
 kcharselect 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcharselect/4:22.12.2-0ubuntu1
 kcolorchooser 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcolorchooser/4:22.12.2-0ubuntu1
 kcron 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcron/4:22.12.2-0ubuntu1
+kde-dev-scripts 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-dev-scripts/4:22.12.2-0ubuntu1
