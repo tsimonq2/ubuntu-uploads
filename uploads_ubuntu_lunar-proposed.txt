@@ -32,3 +32,4 @@ clamsmtp 1.10-17.2 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-17.2
 motion 4.5.1-2 https://launchpad.net/ubuntu/+source/motion/4.5.1-2
 sonic-pi 3.2.2~repack-8 https://launchpad.net/ubuntu/+source/sonic-pi/3.2.2~repack-8
 generate-ninja 0.0~git20221212.5e19d2f-1 https://launchpad.net/ubuntu/+source/generate-ninja/0.0~git20221212.5e19d2f-1
+openfst 1.7.9-5 https://launchpad.net/ubuntu/+source/openfst/1.7.9-5
