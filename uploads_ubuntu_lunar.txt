@@ -252,3 +252,4 @@ ktp-common-internals 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp
 ktp-contact-list 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-contact-list/4:22.12.2-0ubuntu1
 ktp-contact-runner 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-contact-runner/4:22.12.2-0ubuntu1
 ktp-desktop-applets 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-desktop-applets/4:22.12.2-0ubuntu1
+ktp-filetransfer-handler 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-filetransfer-handler/4:22.12.2-0ubuntu1
