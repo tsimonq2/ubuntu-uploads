@@ -261,3 +261,4 @@ kturtle 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kturtle/4:22.12.
 kubrick 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kubrick/4:22.12.2-0ubuntu1
 kwalletmanager 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kwalletmanager/4:22.12.2-0ubuntu1
 kwave 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kwave/22.12.2-0ubuntu1
+kwordquiz 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kwordquiz/4:22.12.2-0ubuntu1
