@@ -113,3 +113,4 @@ gwenview 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/gwenview/4:22.1
 libkf5incidenceeditor 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5incidenceeditor/22.12.2-0ubuntu1
 juk 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/juk/4:22.12.2-0ubuntu1
 k3b 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/k3b/22.12.2-0ubuntu1
+kaccounts-integration 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kaccounts-integration/4:22.12.2-0ubuntu1
