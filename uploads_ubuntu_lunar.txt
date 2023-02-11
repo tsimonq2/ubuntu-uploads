@@ -246,3 +246,4 @@ ktorrent 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktorrent/22.12.2-
 ktouch 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktouch/4:22.12.2-0ubuntu1
 ktp-accounts-kcm 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-accounts-kcm/4:22.12.2-0ubuntu1
 ktp-approver 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-approver/4:22.12.2-0ubuntu1
+ktp-auth-handler 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-auth-handler/4:22.12.2-0ubuntu1
