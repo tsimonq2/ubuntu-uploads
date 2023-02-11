@@ -184,3 +184,4 @@ kiriki 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kiriki/4:22.12.2-
 kiten 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kiten/4:22.12.2-0ubuntu1
 kitinerary 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kitinerary/22.12.2-0ubuntu1
 kjumpingcube 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kjumpingcube/4:22.12.2-0ubuntu1
+kldap 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kldap/22.12.2-0ubuntu1
