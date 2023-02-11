@@ -103,3 +103,4 @@ dolphin-plugins 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/dolphin-
 dragon 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/dragon/4:22.12.2-0ubuntu1
 elisa-player 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/elisa-player/22.12.2-0ubuntu1
 libkf5eventviews 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5eventviews/4:22.12.2-0ubuntu1
+falkon 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/falkon/22.12.2-0ubuntu1
