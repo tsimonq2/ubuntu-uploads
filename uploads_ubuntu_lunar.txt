@@ -133,3 +133,4 @@ kblackbox 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kblackbox/4:22
 kblocks 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kblocks/4:22.12.2-0ubuntu1
 kbounce 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kbounce/4:22.12.2-0ubuntu1
 kbreakout 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kbreakout/4:22.12.2-0ubuntu1
+kbruch 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kbruch/4:22.12.2-0ubuntu1
