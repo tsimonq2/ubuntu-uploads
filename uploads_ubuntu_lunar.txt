@@ -161,3 +161,4 @@ kdialog 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdialog/4:22.12.
 kdiamond 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdiamond/4:22.12.2-0ubuntu1
 keditbookmarks 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/keditbookmarks/22.12.2-0ubuntu1
 kfind 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfind/4:22.12.2-0ubuntu1
+kfloppy 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfloppy/4:22.12.2-0ubuntu1
