@@ -308,3 +308,4 @@ umbrello 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/umbrello/4:22.1
 yakuake 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/yakuake/22.12.2-0ubuntu1
 zanshin 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/zanshin/22.12.2-0ubuntu1
 dput 1.1.3ubuntu1 https://launchpad.net/ubuntu/+source/dput/1.1.3ubuntu1
+git 1:2.39.1-0.1ubuntu1 https://launchpad.net/ubuntu/+source/git/1:2.39.1-0.1ubuntu1
