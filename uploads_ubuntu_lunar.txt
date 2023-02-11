@@ -205,3 +205,4 @@ knavalbattle 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knavalbattl
 knetwalk 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knetwalk/4:22.12.2-0ubuntu1
 knights 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knights/22.12.2-0ubuntu1
 knotes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knotes/4:22.12.2-0ubuntu1
+kolf 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kolf/4:22.12.2-0ubuntu1
