@@ -216,3 +216,4 @@ kontact 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kontact/4:22.12.
 kontactinterface 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kontactinterface/22.12.2-0ubuntu1
 kontrast 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kontrast/22.12.2-0ubuntu1
 konversation 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konversation/22.12.2-0ubuntu1
+kopeninghours 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kopeninghours/22.12.2-0ubuntu1
