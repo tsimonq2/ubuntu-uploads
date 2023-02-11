@@ -163,3 +163,4 @@ keditbookmarks 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/keditbookma
 kfind 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfind/4:22.12.2-0ubuntu1
 kfloppy 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfloppy/4:22.12.2-0ubuntu1
 kfourinline 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfourinline/4:22.12.2-0ubuntu1
+kgeography 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgeography/4:22.12.2-0ubuntu1
