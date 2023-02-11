@@ -240,3 +240,4 @@ ksquares 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksquares/4:22.1
 ksudoku 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksudoku/4:22.12.2-0ubuntu1
 ksystemlog 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksystemlog/4:22.12.2-0ubuntu1
 kteatime 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kteatime/4:22.12.2-0ubuntu1
+ktimer 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktimer/4:22.12.2-0ubuntu1
