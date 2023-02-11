@@ -106,3 +106,4 @@ libkf5eventviews 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5e
 falkon 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/falkon/22.12.2-0ubuntu1
 ffmpegthumbs 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ffmpegthumbs/4:22.12.2-0ubuntu1
 filelight 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/filelight/4:22.12.2-0ubuntu1
+granatier 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/granatier/4:22.12.2-0ubuntu1
