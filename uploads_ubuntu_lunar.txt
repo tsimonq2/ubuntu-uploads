@@ -306,3 +306,4 @@ svgpart 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/svgpart/4:22.12.
 sweeper 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/sweeper/4:22.12.2-0ubuntu1
 umbrello 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/umbrello/4:22.12.2-0ubuntu1
 yakuake 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/yakuake/22.12.2-0ubuntu1
+zanshin 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/zanshin/22.12.2-0ubuntu1
