@@ -97,3 +97,4 @@ bovo 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/bovo/4:22.12.2-0ubu
 libkf5calendarsupport 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5calendarsupport/4:22.12.2-0ubuntu1
 cantor 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/cantor/4:22.12.2-0ubuntu1
 cervisia 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/cervisia/4:22.12.2-0ubuntu1
+colord-kde 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/colord-kde/22.12.2-0ubuntu1
