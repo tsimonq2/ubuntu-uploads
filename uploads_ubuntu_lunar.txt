@@ -111,3 +111,4 @@ grantlee-editor 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/grantlee
 libkf5grantleetheme 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5grantleetheme/22.12.2-0ubuntu1
 gwenview 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/gwenview/4:22.12.2-0ubuntu1
 libkf5incidenceeditor 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5incidenceeditor/22.12.2-0ubuntu1
+juk 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/juk/4:22.12.2-0ubuntu1
