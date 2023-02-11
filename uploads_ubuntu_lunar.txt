@@ -280,3 +280,4 @@ libkf5ksieve 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5ksiev
 libktorrent 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libktorrent/22.12.2-0ubuntu1
 lokalize 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/lokalize/4:22.12.2-0ubuntu1
 lskat 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/lskat/4:22.12.2-0ubuntu1
+libkf5mailcommon 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5mailcommon/4:22.12.2-0ubuntu1
