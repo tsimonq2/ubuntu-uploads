@@ -171,3 +171,4 @@ khangman 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/khangman/4:22.1
 khelpcenter 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/khelpcenter/4:22.12.2-0ubuntu1
 kidentitymanagement 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kidentitymanagement/22.12.2-0ubuntu1
 kig 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kig/4:22.12.2-0ubuntu1
+kigo 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kigo/4:22.12.2-0ubuntu1
