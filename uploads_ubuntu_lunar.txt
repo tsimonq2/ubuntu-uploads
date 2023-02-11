@@ -143,3 +143,4 @@ kcron 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcron/4:22.12.2-0u
 kde-dev-scripts 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-dev-scripts/4:22.12.2-0ubuntu1
 kde-dev-utils 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kde-dev-utils/4:22.12.2-0ubuntu1
 kdebugsettings 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdebugsettings/22.12.2-0ubuntu1
+kdeconnect 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeconnect/22.12.2-0ubuntu1
