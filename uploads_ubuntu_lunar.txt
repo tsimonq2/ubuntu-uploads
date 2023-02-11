@@ -218,3 +218,4 @@ kontrast 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kontrast/22.12.2-
 konversation 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konversation/22.12.2-0ubuntu1
 kopeninghours 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kopeninghours/22.12.2-0ubuntu1
 kopete 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kopete/4:22.12.2-0ubuntu1
+korganizer 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/korganizer/4:22.12.2-0ubuntu1
