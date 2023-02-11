@@ -130,3 +130,4 @@ kate 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kate/4:22.12.2-0ubu
 katomic 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/katomic/4:22.12.2-0ubuntu1
 kbackup 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kbackup/22.12.2-0ubuntu1
 kblackbox 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kblackbox/4:22.12.2-0ubuntu1
+kblocks 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kblocks/4:22.12.2-0ubuntu1
