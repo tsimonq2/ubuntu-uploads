@@ -237,3 +237,4 @@ ksmtp 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksmtp/22.12.2-0ubunt
 ksnakeduel 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksnakeduel/4:22.12.2-0ubuntu1
 kspaceduel 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kspaceduel/4:22.12.2-0ubuntu1
 ksquares 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksquares/4:22.12.2-0ubuntu1
+ksudoku 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksudoku/4:22.12.2-0ubuntu1
