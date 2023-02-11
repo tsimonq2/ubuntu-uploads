@@ -283,3 +283,4 @@ lskat 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/lskat/4:22.12.2-0u
 libkf5mailcommon 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5mailcommon/4:22.12.2-0ubuntu1
 libkf5mailimporter 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5mailimporter/4:22.12.2-0ubuntu1
 marble 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/marble/4:22.12.2-0ubuntu1
+markdownpart 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/markdownpart/22.12.2-0ubuntu1
