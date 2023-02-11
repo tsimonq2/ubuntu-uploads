@@ -212,3 +212,4 @@ kompare 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kompare/4:22.12.
 konqueror 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konqueror/4:22.12.2-0ubuntu1
 konquest 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konquest/4:22.12.2-0ubuntu1
 konsole 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/konsole/4:22.12.2-0ubuntu1
+kontact 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kontact/4:22.12.2-0ubuntu1
