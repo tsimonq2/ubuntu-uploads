@@ -248,3 +248,4 @@ ktp-accounts-kcm 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-acc
 ktp-approver 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-approver/4:22.12.2-0ubuntu1
 ktp-auth-handler 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-auth-handler/4:22.12.2-0ubuntu1
 ktp-call-ui 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-call-ui/22.12.2-0ubuntu1
+ktp-common-internals 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ktp-common-internals/4:22.12.2-0ubuntu1
