@@ -77,3 +77,4 @@ libisoburn 1:1.5.4-4ubuntu1 https://launchpad.net/ubuntu/+source/libisoburn/1:1.
 lintian 2.116.3ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubuntu1
 hostname 3.23+nmu1ubuntu1 https://launchpad.net/ubuntu/+source/hostname/3.23+nmu1ubuntu1
 akonadi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi/4:22.12.2-0ubuntu1
+akonadi-calendar 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-calendar/4:22.12.2-0ubuntu1
