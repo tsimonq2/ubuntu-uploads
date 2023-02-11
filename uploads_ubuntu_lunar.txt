@@ -156,3 +156,4 @@ kdesdk-thumbnailers 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdes
 kdevelop-php 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdevelop-php/22.12.2-0ubuntu1
 kdevelop-python 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdevelop-python/22.12.2-0ubuntu1
 kdevelop 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdevelop/4:22.12.2-0ubuntu1
+kdf 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdf/4:22.12.2-0ubuntu1
