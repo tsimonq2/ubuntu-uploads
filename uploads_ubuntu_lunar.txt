@@ -85,3 +85,4 @@ akonadi-mime 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-mim
 akonadi-notes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-notes/4:22.12.2-0ubuntu1
 akonadi-search 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-search/4:22.12.2-0ubuntu1
 akonadiconsole 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadiconsole/4:22.12.2-0ubuntu1
+akregator 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akregator/4:22.12.2-0ubuntu1
