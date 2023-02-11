@@ -293,3 +293,4 @@ parley 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/parley/4:22.12.2-
 partitionmanager 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/partitionmanager/22.12.2-0ubuntu1
 picmi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/picmi/4:22.12.2-0ubuntu1
 pim-data-exporter 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/pim-data-exporter/4:22.12.2-0ubuntu1
+pim-sieve-editor 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/pim-sieve-editor/4:22.12.2-0ubuntu1
