@@ -86,3 +86,4 @@ akonadi-notes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-no
 akonadi-search 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-search/4:22.12.2-0ubuntu1
 akonadiconsole 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadiconsole/4:22.12.2-0ubuntu1
 akregator 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akregator/4:22.12.2-0ubuntu1
+analitza 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/analitza/4:22.12.2-0ubuntu1
