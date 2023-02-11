@@ -118,3 +118,4 @@ kaccounts-providers 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kacc
 kaddressbook 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kaddressbook/4:22.12.2-0ubuntu1
 kajongg 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kajongg/4:22.12.2-0ubuntu1
 kalarm 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kalarm/4:22.12.2-0ubuntu1
+kalendar 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kalendar/22.12.2-0ubuntu1
