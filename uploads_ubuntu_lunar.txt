@@ -82,3 +82,4 @@ akonadi-calendar-tools 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/a
 akonadi-contacts 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-contacts/4:22.12.2-0ubuntu1
 akonadi-import-wizard 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-import-wizard/4:22.12.2-0ubuntu1
 akonadi-mime 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-mime/4:22.12.2-0ubuntu1
+akonadi-notes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-notes/4:22.12.2-0ubuntu1
