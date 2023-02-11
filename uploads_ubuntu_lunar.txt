@@ -92,3 +92,4 @@ artikulate 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/artikulate/4:
 audiocd-kio 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/audiocd-kio/4:22.12.2-0ubuntu1
 baloo-widgets5 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/baloo-widgets5/4:22.12.2-0ubuntu1
 blinken 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/blinken/4:22.12.2-0ubuntu1
+bomber 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/bomber/4:22.12.2-0ubuntu1
