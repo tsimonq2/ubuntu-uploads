@@ -116,3 +116,4 @@ k3b 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/k3b/22.12.2-0ubuntu1
 kaccounts-integration 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kaccounts-integration/4:22.12.2-0ubuntu1
 kaccounts-providers 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kaccounts-providers/4:22.12.2-0ubuntu1
 kaddressbook 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kaddressbook/4:22.12.2-0ubuntu1
+kajongg 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kajongg/4:22.12.2-0ubuntu1
