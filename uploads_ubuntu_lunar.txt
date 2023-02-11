@@ -182,3 +182,4 @@ kipi-plugins 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kipi-plugin
 kirigami-gallery 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kirigami-gallery/22.12.2-0ubuntu1
 kiriki 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kiriki/4:22.12.2-0ubuntu1
 kiten 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kiten/4:22.12.2-0ubuntu1
+kitinerary 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kitinerary/22.12.2-0ubuntu1
