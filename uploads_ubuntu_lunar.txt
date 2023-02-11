@@ -230,3 +230,4 @@ kreversi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kreversi/4:22.1
 krfb 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/krfb/4:22.12.2-0ubuntu1
 kross-interpreters 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kross-interpreters/4:22.12.2-0ubuntu1
 kruler 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kruler/4:22.12.2-0ubuntu1
+ksanecore 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksanecore/22.12.2-0ubuntu1
