@@ -177,3 +177,4 @@ kimagemapeditor 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kimagema
 kimap 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kimap/22.12.2-0ubuntu1
 kio-extras 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-extras/4:22.12.2-0ubuntu1
 kio-gdrive 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-gdrive/22.12.2-0ubuntu1
+zeroconf-ioslave 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/zeroconf-ioslave/4:22.12.2-0ubuntu1
