@@ -224,3 +224,4 @@ kpimtextedit 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpimtextedit/
 kpkpass 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpkpass/22.12.2-0ubuntu1
 kpmcore 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpmcore/22.12.2-0ubuntu1
 kpublictransport 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpublictransport/22.12.2-0ubuntu1
+kqtquickcharts 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kqtquickcharts/4:22.12.2-0ubuntu1
