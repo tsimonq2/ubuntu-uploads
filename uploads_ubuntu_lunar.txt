@@ -185,3 +185,4 @@ kiten 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kiten/4:22.12.2-0u
 kitinerary 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kitinerary/22.12.2-0ubuntu1
 kjumpingcube 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kjumpingcube/4:22.12.2-0ubuntu1
 kldap 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kldap/22.12.2-0ubuntu1
+kleopatra 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kleopatra/4:22.12.2-0ubuntu1
