@@ -227,3 +227,4 @@ kpublictransport 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpublictr
 kqtquickcharts 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kqtquickcharts/4:22.12.2-0ubuntu1
 krdc 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/krdc/4:22.12.2-0ubuntu1
 kreversi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kreversi/4:22.12.2-0ubuntu1
+krfb 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/krfb/4:22.12.2-0ubuntu1
