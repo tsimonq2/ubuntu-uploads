@@ -30,3 +30,4 @@ kworkflow 20191112-1.2 https://launchpad.net/ubuntu/+source/kworkflow/20191112-1
 mplayer 2:1.5+svn38408-1 https://launchpad.net/ubuntu/+source/mplayer/2:1.5+svn38408-1
 clamsmtp 1.10-17.2 https://launchpad.net/ubuntu/+source/clamsmtp/1.10-17.2
 motion 4.5.1-2 https://launchpad.net/ubuntu/+source/motion/4.5.1-2
+sonic-pi 3.2.2~repack-8 https://launchpad.net/ubuntu/+source/sonic-pi/3.2.2~repack-8
