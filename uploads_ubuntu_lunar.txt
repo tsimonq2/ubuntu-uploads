@@ -191,3 +191,4 @@ klickety 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/klickety/4:22.1
 klines 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/klines/4:22.12.2-0ubuntu1
 kmag 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmag/4:22.12.2-0ubuntu1
 kmahjongg 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmahjongg/4:22.12.2-0ubuntu1
+kmail 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmail/4:22.12.2-0ubuntu1
