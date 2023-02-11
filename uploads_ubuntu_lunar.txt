@@ -186,3 +186,4 @@ kitinerary 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kitinerary/22.1
 kjumpingcube 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kjumpingcube/4:22.12.2-0ubuntu1
 kldap 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kldap/22.12.2-0ubuntu1
 kleopatra 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kleopatra/4:22.12.2-0ubuntu1
+klettres 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/klettres/4:22.12.2-0ubuntu1
