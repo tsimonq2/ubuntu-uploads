@@ -202,3 +202,4 @@ kmousetool 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmousetool/4:
 kmouth 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmouth/4:22.12.2-0ubuntu1
 kmplot 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmplot/4:22.12.2-0ubuntu1
 knavalbattle 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knavalbattle/4:22.12.2-0ubuntu1
+knetwalk 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knetwalk/4:22.12.2-0ubuntu1
