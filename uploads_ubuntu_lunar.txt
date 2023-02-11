@@ -168,3 +168,4 @@ kget 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kget/4:22.12.2-0ubu
 kgoldrunner 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgoldrunner/4:22.12.2-0ubuntu1
 kgpg 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgpg/4:22.12.2-0ubuntu1
 khangman 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/khangman/4:22.12.2-0ubuntu1
+khelpcenter 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/khelpcenter/4:22.12.2-0ubuntu1
