@@ -148,3 +148,4 @@ kdeedu-data 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdeedu-data/
 kdegraphics-mobipocket 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdegraphics-mobipocket/4:22.12.2-0ubuntu1
 kdegraphics-thumbnailers 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdegraphics-thumbnailers/4:22.12.2-0ubuntu1
 kdenetwork-filesharing 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdenetwork-filesharing/4:22.12.2-0ubuntu1
+kdenlive 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdenlive/4:22.12.2-0ubuntu1
