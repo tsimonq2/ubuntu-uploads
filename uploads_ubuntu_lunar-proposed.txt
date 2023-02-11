@@ -27,3 +27,4 @@ menu 2.1.49 https://launchpad.net/ubuntu/+source/menu/2.1.49
 node-nouislider 15.7.0+ds-1~exp1 https://launchpad.net/ubuntu/+source/node-nouislider/15.7.0+ds-1~exp1
 sysstat 12.6.1-1 https://launchpad.net/ubuntu/+source/sysstat/12.6.1-1
 kworkflow 20191112-1.2 https://launchpad.net/ubuntu/+source/kworkflow/20191112-1.2
+mplayer 2:1.5+svn38408-1 https://launchpad.net/ubuntu/+source/mplayer/2:1.5+svn38408-1
