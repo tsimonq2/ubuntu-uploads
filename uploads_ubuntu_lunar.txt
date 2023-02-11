@@ -166,3 +166,4 @@ kfourinline 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kfourinline/
 kgeography 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgeography/4:22.12.2-0ubuntu1
 kget 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kget/4:22.12.2-0ubuntu1
 kgoldrunner 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgoldrunner/4:22.12.2-0ubuntu1
+kgpg 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kgpg/4:22.12.2-0ubuntu1
