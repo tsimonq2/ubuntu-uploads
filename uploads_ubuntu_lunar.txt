@@ -225,3 +225,4 @@ kpkpass 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpkpass/22.12.2-0u
 kpmcore 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpmcore/22.12.2-0ubuntu1
 kpublictransport 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kpublictransport/22.12.2-0ubuntu1
 kqtquickcharts 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kqtquickcharts/4:22.12.2-0ubuntu1
+krdc 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/krdc/4:22.12.2-0ubuntu1
