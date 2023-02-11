@@ -178,3 +178,4 @@ kimap 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kimap/22.12.2-0ubunt
 kio-extras 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-extras/4:22.12.2-0ubuntu1
 kio-gdrive 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-gdrive/22.12.2-0ubuntu1
 zeroconf-ioslave 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/zeroconf-ioslave/4:22.12.2-0ubuntu1
+kipi-plugins 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kipi-plugins/4:22.12.2-0ubuntu1
