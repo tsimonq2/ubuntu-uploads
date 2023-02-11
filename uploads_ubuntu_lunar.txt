@@ -233,3 +233,4 @@ kruler 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kruler/4:22.12.2-
 ksanecore 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksanecore/22.12.2-0ubuntu1
 kshisen 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kshisen/4:22.12.2-0ubuntu1
 ksirk 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksirk/4:22.12.2-0ubuntu1
+ksmtp 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ksmtp/22.12.2-0ubuntu1
