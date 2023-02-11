@@ -275,3 +275,4 @@ libkf5kipi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5kipi/4:
 libkf5libkleo 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5libkleo/4:22.12.2-0ubuntu1
 libkf5kmahjongg 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5kmahjongg/4:22.12.2-0ubuntu1
 libkomparediff2 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkomparediff2/4:22.12.2-0ubuntu1
+libkf5sane 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5sane/22.12.2-0ubuntu1
