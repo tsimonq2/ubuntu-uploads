@@ -84,3 +84,4 @@ akonadi-import-wizard 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ak
 akonadi-mime 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-mime/4:22.12.2-0ubuntu1
 akonadi-notes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-notes/4:22.12.2-0ubuntu1
 akonadi-search 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-search/4:22.12.2-0ubuntu1
+akonadiconsole 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/akonadiconsole/4:22.12.2-0ubuntu1
