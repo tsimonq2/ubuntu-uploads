@@ -265,3 +265,4 @@ kwordquiz 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kwordquiz/4:22
 libkf5gravatar 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5gravatar/4:22.12.2-0ubuntu1
 libkcddb 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkcddb/4:22.12.2-0ubuntu1
 libkcompactdisc 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkcompactdisc/4:22.12.2-0ubuntu1
+libkf5kdcraw 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5kdcraw/22.12.2-0ubuntu1
