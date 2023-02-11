@@ -126,3 +126,4 @@ kamoso 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kamoso/22.12.2-0ubu
 kanagram 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kanagram/4:22.12.2-0ubuntu1
 kapman 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kapman/4:22.12.2-0ubuntu1
 kapptemplate 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kapptemplate/4:22.12.2-0ubuntu1
+kate 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kate/4:22.12.2-0ubuntu1
