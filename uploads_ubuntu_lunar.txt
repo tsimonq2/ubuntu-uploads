@@ -189,3 +189,4 @@ kleopatra 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kleopatra/4:22
 klettres 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/klettres/4:22.12.2-0ubuntu1
 klickety 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/klickety/4:22.12.2-0ubuntu1
 klines 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/klines/4:22.12.2-0ubuntu1
+kmag 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmag/4:22.12.2-0ubuntu1
