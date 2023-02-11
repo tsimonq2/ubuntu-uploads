@@ -90,3 +90,4 @@ analitza 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/analitza/4:22.1
 ark 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/ark/4:22.12.2-0ubuntu1
 artikulate 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/artikulate/4:22.12.2-0ubuntu1
 audiocd-kio 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/audiocd-kio/4:22.12.2-0ubuntu1
+baloo-widgets5 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/baloo-widgets5/4:22.12.2-0ubuntu1
