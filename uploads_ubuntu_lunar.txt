@@ -204,3 +204,4 @@ kmplot 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kmplot/4:22.12.2-
 knavalbattle 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knavalbattle/4:22.12.2-0ubuntu1
 knetwalk 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knetwalk/4:22.12.2-0ubuntu1
 knights 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knights/22.12.2-0ubuntu1
+knotes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knotes/4:22.12.2-0ubuntu1
