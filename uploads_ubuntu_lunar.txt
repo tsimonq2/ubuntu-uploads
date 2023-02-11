@@ -94,3 +94,4 @@ baloo-widgets5 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/baloo-wid
 blinken 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/blinken/4:22.12.2-0ubuntu1
 bomber 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/bomber/4:22.12.2-0ubuntu1
 bovo 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/bovo/4:22.12.2-0ubuntu1
+libkf5calendarsupport 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5calendarsupport/4:22.12.2-0ubuntu1
