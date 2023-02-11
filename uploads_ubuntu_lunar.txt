@@ -139,3 +139,4 @@ kcalc 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcalc/4:22.12.2-0u
 kcalutils 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcalutils/4:22.12.2-0ubuntu1
 kcharselect 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcharselect/4:22.12.2-0ubuntu1
 kcolorchooser 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcolorchooser/4:22.12.2-0ubuntu1
+kcron 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kcron/4:22.12.2-0ubuntu1
