@@ -152,3 +152,4 @@ kdenlive 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdenlive/4:22.1
 kdepim-addons 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-addons/22.12.2-0ubuntu1
 kdepim-runtime 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-runtime/4:22.12.2-0ubuntu1
 kdesdk-kioslaves 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesdk-kioslaves/4:22.12.2-0ubuntu1
+kdesdk-thumbnailers 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kdesdk-thumbnailers/4:22.12.2-0ubuntu1
