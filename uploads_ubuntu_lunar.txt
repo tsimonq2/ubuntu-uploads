@@ -294,3 +294,4 @@ partitionmanager 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/partition
 picmi 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/picmi/4:22.12.2-0ubuntu1
 pim-data-exporter 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/pim-data-exporter/4:22.12.2-0ubuntu1
 pim-sieve-editor 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/pim-sieve-editor/4:22.12.2-0ubuntu1
+libkf5pimcommon 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5pimcommon/4:22.12.2-0ubuntu1
