@@ -35,3 +35,4 @@ generate-ninja 0.0~git20221212.5e19d2f-1 https://launchpad.net/ubuntu/+source/ge
 openfst 1.7.9-5 https://launchpad.net/ubuntu/+source/openfst/1.7.9-5
 nss-wrapper 1.1.12-1 https://launchpad.net/ubuntu/+source/nss-wrapper/1.1.12-1
 systemd-bootchart 234-2 https://launchpad.net/ubuntu/+source/systemd-bootchart/234-2
+gsocket 1.4.39-1 https://launchpad.net/ubuntu/+source/gsocket/1.4.39-1
