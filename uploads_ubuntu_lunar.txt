@@ -298,3 +298,4 @@ libkf5pimcommon 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/libkf5pi
 poxml 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/poxml/4:22.12.2-0ubuntu1
 print-manager 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/print-manager/4:22.12.2-0ubuntu1
 rocs 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/rocs/4:22.12.2-0ubuntu1
+signon-kwallet-extension 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/signon-kwallet-extension/4:22.12.2-0ubuntu1
