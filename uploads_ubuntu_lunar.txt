@@ -101,3 +101,4 @@ colord-kde 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/colord-kde/22.1
 dolphin 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/dolphin/4:22.12.2-0ubuntu1
 dolphin-plugins 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/dolphin-plugins/4:22.12.2-0ubuntu1
 dragon 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/dragon/4:22.12.2-0ubuntu1
+elisa-player 22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/elisa-player/22.12.2-0ubuntu1
