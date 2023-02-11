@@ -208,3 +208,4 @@ knotes 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/knotes/4:22.12.2-
 kolf 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kolf/4:22.12.2-0ubuntu1
 kollision 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kollision/4:22.12.2-0ubuntu1
 kolourpaint 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kolourpaint/4:22.12.2-0ubuntu1
+kompare 4:22.12.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kompare/4:22.12.2-0ubuntu1
