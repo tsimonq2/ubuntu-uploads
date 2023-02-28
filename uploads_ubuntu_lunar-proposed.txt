@@ -44,3 +44,4 @@ golang-github-containers-toolbox 0.0.99.3+git20230118+446d7bfdef6a-2 https://lau
 crudini 0.9.4-1 https://launchpad.net/ubuntu/+source/crudini/0.9.4-1
 debsig-verify 0.28 https://launchpad.net/ubuntu/+source/debsig-verify/0.28
 uhub 0.4.1-3.2 https://launchpad.net/ubuntu/+source/uhub/0.4.1-3.2
+golang-github-jhillyerd-enmime 0.9.3-4 https://launchpad.net/ubuntu/+source/golang-github-jhillyerd-enmime/0.9.3-4
