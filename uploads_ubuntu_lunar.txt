@@ -315,3 +315,4 @@ dput 1.1.3ubuntu2 https://launchpad.net/ubuntu/+source/dput/1.1.3ubuntu2
 grilo-plugins 0.3.15-2ubuntu1 https://launchpad.net/ubuntu/+source/grilo-plugins/0.3.15-2ubuntu1
 kubuntu-meta 1.430 https://launchpad.net/ubuntu/+source/kubuntu-meta/1.430
 libqtxdg 3.10.0-0ubuntu7 https://launchpad.net/ubuntu/+source/libqtxdg/3.10.0-0ubuntu7
+libqtxdg 3.10.0-0ubuntu6 https://launchpad.net/ubuntu/+source/libqtxdg/3.10.0-0ubuntu6
