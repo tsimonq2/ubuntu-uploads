@@ -1,2 +1,3 @@
 debootstrap 1.0.128+nmu2ubuntu2 https://launchpad.net/ubuntu/+source/debootstrap/1.0.128+nmu2ubuntu2
 lintian 2.116.3ubuntu2 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubuntu2
+vim 2:9.0.1378-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.1378-1ubuntu1
