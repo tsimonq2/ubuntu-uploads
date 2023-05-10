@@ -3,3 +3,4 @@ lintian 2.116.3ubuntu2 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubunt
 vim 2:9.0.1378-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.1378-1ubuntu1
 vim 2:9.0.1378-2ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.1378-2ubuntu1
 lxqt-build-tools 0.13.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-build-tools/0.13.0-0ubuntu1
+libqtxdg 3.11.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.11.0-0ubuntu1
