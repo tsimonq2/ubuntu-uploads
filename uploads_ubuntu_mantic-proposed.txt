@@ -10,3 +10,4 @@ liquidprompt 2.1.2-1 https://launchpad.net/ubuntu/+source/liquidprompt/2.1.2-1
 supervisor 4.2.5-1 https://launchpad.net/ubuntu/+source/supervisor/4.2.5-1
 cdebootstrap 0.7.8 https://launchpad.net/ubuntu/+source/cdebootstrap/0.7.8
 gatos 0.0.5-19.2 https://launchpad.net/ubuntu/+source/gatos/0.0.5-19.2
+python-qinlingclient 5.1.1-2 https://launchpad.net/ubuntu/+source/python-qinlingclient/5.1.1-2
