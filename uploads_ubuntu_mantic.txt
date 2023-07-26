@@ -7,3 +7,4 @@ libqtxdg 3.11.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.11.0-0u
 liblxqt 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/1.3.0-0ubuntu1
 onednn 2.7.4-1ubuntu1 https://launchpad.net/ubuntu/+source/onednn/2.7.4-1ubuntu1
 qtxdg-tools 3.11.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/3.11.0-0ubuntu1
+libvirt 9.5.0-2ubuntu2 https://launchpad.net/ubuntu/+source/libvirt/9.5.0-2ubuntu2
