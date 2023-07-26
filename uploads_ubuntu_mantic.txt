@@ -13,3 +13,4 @@ xorg-server 2:21.1.7-3ubuntu1 https://launchpad.net/ubuntu/+source/xorg-server/2
 xorg-server 2:21.1.7-3ubuntu2 https://launchpad.net/ubuntu/+source/xorg-server/2:21.1.7-3ubuntu2
 e2fsprogs 1.47.0-2ubuntu1 https://launchpad.net/ubuntu/+source/e2fsprogs/1.47.0-2ubuntu1
 pollinate 4.33-3.1ubuntu1 https://launchpad.net/ubuntu/+source/pollinate/4.33-3.1ubuntu1
+anacron 2.3-38ubuntu1 https://launchpad.net/ubuntu/+source/anacron/2.3-38ubuntu1
