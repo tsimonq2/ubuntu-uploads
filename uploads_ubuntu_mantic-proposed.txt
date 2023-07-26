@@ -1,1 +1,2 @@
 lsb-release-minimal 12.0-2 https://launchpad.net/ubuntu/+source/lsb-release-minimal/12.0-2
+intel-microcode 3.20230512.1 https://launchpad.net/ubuntu/+source/intel-microcode/3.20230512.1
