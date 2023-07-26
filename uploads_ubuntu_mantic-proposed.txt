@@ -4,3 +4,4 @@ python-jsonschema 4.10.3-1 https://launchpad.net/ubuntu/+source/python-jsonschem
 python-osprofiler 3.4.3-2 https://launchpad.net/ubuntu/+source/python-osprofiler/3.4.3-2
 john 1.9.0-2 https://launchpad.net/ubuntu/+source/john/1.9.0-2
 openbox 3.6.1-11 https://launchpad.net/ubuntu/+source/openbox/3.6.1-11
+influxdb 1.6.7~rc0-2 https://launchpad.net/ubuntu/+source/influxdb/1.6.7~rc0-2
