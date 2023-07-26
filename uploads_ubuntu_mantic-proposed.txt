@@ -8,3 +8,4 @@ influxdb 1.6.7~rc0-2 https://launchpad.net/ubuntu/+source/influxdb/1.6.7~rc0-2
 jsmath-fonts 1.3-5 https://launchpad.net/ubuntu/+source/jsmath-fonts/1.3-5
 liquidprompt 2.1.2-1 https://launchpad.net/ubuntu/+source/liquidprompt/2.1.2-1
 supervisor 4.2.5-1 https://launchpad.net/ubuntu/+source/supervisor/4.2.5-1
+cdebootstrap 0.7.8 https://launchpad.net/ubuntu/+source/cdebootstrap/0.7.8
