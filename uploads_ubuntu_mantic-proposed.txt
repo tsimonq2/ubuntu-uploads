@@ -1,3 +1,4 @@
 lsb-release-minimal 12.0-2 https://launchpad.net/ubuntu/+source/lsb-release-minimal/12.0-2
 intel-microcode 3.20230512.1 https://launchpad.net/ubuntu/+source/intel-microcode/3.20230512.1
 python-jsonschema 4.10.3-1 https://launchpad.net/ubuntu/+source/python-jsonschema/4.10.3-1
+python-osprofiler 3.4.3-2 https://launchpad.net/ubuntu/+source/python-osprofiler/3.4.3-2
