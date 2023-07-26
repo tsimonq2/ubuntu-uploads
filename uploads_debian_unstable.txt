@@ -89,3 +89,4 @@ clazy 1.11-4 https://launchpad.net/debian/+source/clazy/1.11-4
 binoculars 0.0.12-1.1 https://launchpad.net/debian/+source/binoculars/0.0.12-1.1
 flask-dance 6.2.0-2.1 https://launchpad.net/debian/+source/flask-dance/6.2.0-2.1
 tk-brief 5.10-2 https://launchpad.net/debian/+source/tk-brief/5.10-2
+ubuntu-dev-tools 0.195 https://launchpad.net/debian/+source/ubuntu-dev-tools/0.195
