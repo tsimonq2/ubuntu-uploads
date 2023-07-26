@@ -11,3 +11,4 @@ libvirt 9.5.0-2ubuntu2 https://launchpad.net/ubuntu/+source/libvirt/9.5.0-2ubunt
 libvirt 9.5.0-2ubuntu1 https://launchpad.net/ubuntu/+source/libvirt/9.5.0-2ubuntu1
 xorg-server 2:21.1.7-3ubuntu1 https://launchpad.net/ubuntu/+source/xorg-server/2:21.1.7-3ubuntu1
 xorg-server 2:21.1.7-3ubuntu2 https://launchpad.net/ubuntu/+source/xorg-server/2:21.1.7-3ubuntu2
+e2fsprogs 1.47.0-2ubuntu1 https://launchpad.net/ubuntu/+source/e2fsprogs/1.47.0-2ubuntu1
