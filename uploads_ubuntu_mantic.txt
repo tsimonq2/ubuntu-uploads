@@ -9,3 +9,4 @@ onednn 2.7.4-1ubuntu1 https://launchpad.net/ubuntu/+source/onednn/2.7.4-1ubuntu1
 qtxdg-tools 3.11.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/3.11.0-0ubuntu1
 libvirt 9.5.0-2ubuntu2 https://launchpad.net/ubuntu/+source/libvirt/9.5.0-2ubuntu2
 libvirt 9.5.0-2ubuntu1 https://launchpad.net/ubuntu/+source/libvirt/9.5.0-2ubuntu1
+xorg-server 2:21.1.7-3ubuntu1 https://launchpad.net/ubuntu/+source/xorg-server/2:21.1.7-3ubuntu1
