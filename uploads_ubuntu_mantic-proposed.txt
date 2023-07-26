@@ -1,0 +1,1 @@
+lsb-release-minimal 12.0-2 https://launchpad.net/ubuntu/+source/lsb-release-minimal/12.0-2
