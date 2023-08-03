@@ -22,3 +22,4 @@ lxqt-themes 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/1.3.
 pavucontrol-qt 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.3.0-0ubuntu1
 qps 2.7.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.7.0-0ubuntu1
 qtermwidget 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/1.3.0-0ubuntu1
+pipewire 0.3.76-1ubuntu1 https://launchpad.net/ubuntu/+source/pipewire/0.3.76-1ubuntu1
