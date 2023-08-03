@@ -20,3 +20,4 @@ libfm-qt 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libfm-qt/1.3.0-0ubu
 lxqt-qtplugin 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/1.3.0-0ubuntu1
 lxqt-themes 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/1.3.0-0ubuntu1
 pavucontrol-qt 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.3.0-0ubuntu1
+qps 2.7.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.7.0-0ubuntu1
