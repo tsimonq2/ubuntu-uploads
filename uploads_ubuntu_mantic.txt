@@ -24,3 +24,4 @@ qps 2.7.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.7.0-0ubuntu1
 qtermwidget 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/1.3.0-0ubuntu1
 pipewire 0.3.76-1ubuntu1 https://launchpad.net/ubuntu/+source/pipewire/0.3.76-1ubuntu1
 rust-pipewire 0.6.0-2build1 https://launchpad.net/ubuntu/+source/rust-pipewire/0.6.0-2build1
+python-ara 1.5.8-1.1ubuntu1 https://launchpad.net/ubuntu/+source/python-ara/1.5.8-1.1ubuntu1
