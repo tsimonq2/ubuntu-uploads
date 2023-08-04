@@ -16,3 +16,4 @@ interimap 0.5.7-2 https://launchpad.net/ubuntu/+source/interimap/0.5.7-2
 lxcfs 5.0.3-1 https://launchpad.net/ubuntu/+source/lxcfs/5.0.3-1
 xmltooling 3.2.4-1 https://launchpad.net/ubuntu/+source/xmltooling/3.2.4-1
 openjfx 11.0.11+1-3.1 https://launchpad.net/ubuntu/+source/openjfx/11.0.11+1-3.1
+python-marshmallow-dataclass 8.5.10-1 https://launchpad.net/ubuntu/+source/python-marshmallow-dataclass/8.5.10-1
