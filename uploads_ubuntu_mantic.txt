@@ -27,3 +27,4 @@ rust-pipewire 0.6.0-2build1 https://launchpad.net/ubuntu/+source/rust-pipewire/0
 python-ara 1.5.8-1.1ubuntu1 https://launchpad.net/ubuntu/+source/python-ara/1.5.8-1.1ubuntu1
 network-manager-strongswan 1.6.0-2ubuntu1 https://launchpad.net/ubuntu/+source/network-manager-strongswan/1.6.0-2ubuntu1
 debmirror 1:2.38ubuntu1 https://launchpad.net/ubuntu/+source/debmirror/1:2.38ubuntu1
+kmerresistance 2.2.0-4ubuntu1 https://launchpad.net/ubuntu/+source/kmerresistance/2.2.0-4ubuntu1
