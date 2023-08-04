@@ -12,3 +12,4 @@ cdebootstrap 0.7.8 https://launchpad.net/ubuntu/+source/cdebootstrap/0.7.8
 gatos 0.0.5-19.2 https://launchpad.net/ubuntu/+source/gatos/0.0.5-19.2
 python-qinlingclient 5.1.1-2 https://launchpad.net/ubuntu/+source/python-qinlingclient/5.1.1-2
 ansible-lint 6.17.2-1 https://launchpad.net/ubuntu/+source/ansible-lint/6.17.2-1
+interimap 0.5.7-2 https://launchpad.net/ubuntu/+source/interimap/0.5.7-2
