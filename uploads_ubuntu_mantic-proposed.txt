@@ -14,3 +14,4 @@ python-qinlingclient 5.1.1-2 https://launchpad.net/ubuntu/+source/python-qinling
 ansible-lint 6.17.2-1 https://launchpad.net/ubuntu/+source/ansible-lint/6.17.2-1
 interimap 0.5.7-2 https://launchpad.net/ubuntu/+source/interimap/0.5.7-2
 lxcfs 5.0.3-1 https://launchpad.net/ubuntu/+source/lxcfs/5.0.3-1
+xmltooling 3.2.4-1 https://launchpad.net/ubuntu/+source/xmltooling/3.2.4-1
