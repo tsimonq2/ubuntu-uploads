@@ -44,3 +44,4 @@ lxqt-sudo 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.3.0-0u
 pcmanfm-qt 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.3.0-0ubuntu1
 qterminal 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/1.3.0-0ubuntu1
 xdg-desktop-portal-lxqt 0.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-lxqt/0.4.0-0ubuntu1
+libfm-qt 1.3.0-0ubuntu2 https://launchpad.net/ubuntu/+source/libfm-qt/1.3.0-0ubuntu2
