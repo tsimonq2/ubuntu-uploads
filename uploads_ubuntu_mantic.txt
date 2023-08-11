@@ -32,3 +32,4 @@ network-manager-applet 1.32.0-3ubuntu1 https://launchpad.net/ubuntu/+source/netw
 swtpm 0.7.3-0ubuntu2 https://launchpad.net/ubuntu/+source/swtpm/0.7.3-0ubuntu2
 lximage-qt 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lximage-qt/1.3.0-0ubuntu1
 lxqt-about 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/1.3.0-0ubuntu1
+lxqt-admin 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/1.3.0-0ubuntu1
