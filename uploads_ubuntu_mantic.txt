@@ -37,3 +37,4 @@ lxqt-archiver 0.8.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-archiver/
 lxqt-config 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/1.3.0-0ubuntu1
 lxqt-globalkeys 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/1.3.0-0ubuntu1
 lxqt-notificationd 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/1.3.0-0ubuntu1
+lxqt-openssh-askpass 1.3.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/1.3.0-0ubuntu1
