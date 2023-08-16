@@ -97,3 +97,4 @@ gnome-pie 0.7.3-2 https://launchpad.net/debian/+source/gnome-pie/0.7.3-2
 libonig 6.9.8-2 https://launchpad.net/debian/+source/libonig/6.9.8-2
 sane-backends 1.2.1-5 https://launchpad.net/debian/+source/sane-backends/1.2.1-5
 dmidecode 3.5-2 https://launchpad.net/debian/+source/dmidecode/3.5-2
+ipmiutil 3.1.9-3 https://launchpad.net/debian/+source/ipmiutil/3.1.9-3
