@@ -117,3 +117,4 @@ lxqt-globalkeys 1.1.0-1 https://launchpad.net/debian/+source/lxqt-globalkeys/1.1
 libfm-qt 1.1.0-2 https://launchpad.net/debian/+source/libfm-qt/1.1.0-2
 qtbase-opensource-src 5.15.7+dfsg-1 https://launchpad.net/debian/+source/qtbase-opensource-src/5.15.7+dfsg-1
 qtdeclarative-opensource-src 5.15.7+dfsg-1 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.15.7+dfsg-1
+runit 2.1.2-56 https://launchpad.net/debian/+source/runit/2.1.2-56
