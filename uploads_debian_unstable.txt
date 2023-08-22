@@ -101,3 +101,4 @@ ipmiutil 3.1.9-3 https://launchpad.net/debian/+source/ipmiutil/3.1.9-3
 wxmaxima 23.08.0-1 https://launchpad.net/debian/+source/wxmaxima/23.08.0-1
 oxygencursors 0.0.2012-06-kde4.8-5 https://launchpad.net/debian/+source/oxygencursors/0.0.2012-06-kde4.8-5
 runit-services 0.5.5 https://launchpad.net/debian/+source/runit-services/0.5.5
+awstats 7.8-4 https://launchpad.net/debian/+source/awstats/7.8-4
