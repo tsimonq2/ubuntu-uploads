@@ -54,3 +54,4 @@ debmirror 1:2.38ubuntu2 https://launchpad.net/ubuntu/+source/debmirror/1:2.38ubu
 rust-test-case 3.1.0-2ubuntu1 https://launchpad.net/ubuntu/+source/rust-test-case/3.1.0-2ubuntu1
 ubuntu-report 1.7.2 https://launchpad.net/ubuntu/+source/ubuntu-report/1.7.2
 software-properties 0.99.38 https://launchpad.net/ubuntu/+source/software-properties/0.99.38
+python-requests-toolbelt 1.0.0-1ubuntu1 https://launchpad.net/ubuntu/+source/python-requests-toolbelt/1.0.0-1ubuntu1
