@@ -65,3 +65,4 @@ lxqt-session 1.3.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-session/1.
 casper 1.483 https://launchpad.net/ubuntu/+source/casper/1.483
 lubuntu-default-settings 23.10.4 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/23.10.4
 calamares 3.3.0-alpha2-0ubuntu6 https://launchpad.net/ubuntu/+source/calamares/3.3.0-alpha2-0ubuntu6
+calamares-settings-ubuntu 1:23.10.4 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:23.10.4
