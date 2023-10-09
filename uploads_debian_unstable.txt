@@ -104,3 +104,4 @@ runit-services 0.5.5 https://launchpad.net/debian/+source/runit-services/0.5.5
 awstats 7.8-4 https://launchpad.net/debian/+source/awstats/7.8-4
 qtcreator 10.0.2-2 https://launchpad.net/debian/+source/qtcreator/10.0.2-2
 ubuntu-dev-tools 0.197 https://launchpad.net/debian/+source/ubuntu-dev-tools/0.197
+yaml-cpp 0.8.0+dfsg-4 https://launchpad.net/debian/+source/yaml-cpp/0.8.0+dfsg-4
