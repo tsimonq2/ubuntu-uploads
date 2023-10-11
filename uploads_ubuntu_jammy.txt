@@ -19,3 +19,4 @@ pivy 0.6.5-1ubuntu0.22.04.1 https://launchpad.net/ubuntu/+source/pivy/0.6.5-1ubu
 hiera-eyaml 3.2.2-2ubuntu0.1 https://launchpad.net/ubuntu/+source/hiera-eyaml/3.2.2-2ubuntu0.1
 ubuntu-meta 1.481.2 https://launchpad.net/ubuntu/+source/ubuntu-meta/1.481.2
 samba 2:4.15.13+dfsg-0ubuntu1.4 https://launchpad.net/ubuntu/+source/samba/2:4.15.13+dfsg-0ubuntu1.4
+lxqt-sudo 0.17.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.17.0-0ubuntu1.1
