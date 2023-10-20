@@ -323,3 +323,4 @@ lubuntu-default-settings 23.04.6 https://launchpad.net/ubuntu/+source/lubuntu-de
 lxqt-session 1.2.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-session/1.2.0-0ubuntu3
 libppd 2:2.0~rc1-0ubuntu1 https://launchpad.net/ubuntu/+source/libppd/2:2.0~rc1-0ubuntu1
 lxqt-sudo 1.2.0-1ubuntu1.1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.2.0-1ubuntu1.1
+lintian 2.116.3ubuntu1.1 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubuntu1.1
