@@ -3,3 +3,4 @@ lintian 2.116.3ubuntu4 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubunt
 devscripts 2.23.6build1 https://launchpad.net/ubuntu/+source/devscripts/2.23.6build1
 debhelper 13.11.7ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.11.7ubuntu1
 calamares 3.3.0-alpha4-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0-alpha4-0ubuntu1
+calamares-settings-ubuntu 1:24.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.1
