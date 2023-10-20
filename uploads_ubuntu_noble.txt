@@ -1,3 +1,4 @@
 vim 2:9.0.2018-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2018-1ubuntu1
 lintian 2.116.3ubuntu4 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubuntu4
 devscripts 2.23.6build1 https://launchpad.net/ubuntu/+source/devscripts/2.23.6build1
+debhelper 13.11.7ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.11.7ubuntu1
