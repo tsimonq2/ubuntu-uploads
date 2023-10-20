@@ -1,1 +1,2 @@
 vim 2:9.0.2018-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2018-1ubuntu1
+lintian 2.116.3ubuntu4 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubuntu4
