@@ -4,3 +4,4 @@ devscripts 2.23.6build1 https://launchpad.net/ubuntu/+source/devscripts/2.23.6bu
 debhelper 13.11.7ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.11.7ubuntu1
 calamares 3.3.0-alpha4-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0-alpha4-0ubuntu1
 calamares-settings-ubuntu 1:24.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.1
+ubuntu-meta 1.525 https://launchpad.net/ubuntu/+source/ubuntu-meta/1.525
