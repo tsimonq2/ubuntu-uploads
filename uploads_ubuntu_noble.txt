@@ -5,3 +5,4 @@ debhelper 13.11.7ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.11.7u
 calamares 3.3.0-alpha4-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0-alpha4-0ubuntu1
 calamares-settings-ubuntu 1:24.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.1
 ubuntu-meta 1.525 https://launchpad.net/ubuntu/+source/ubuntu-meta/1.525
+network-manager-applet 1.34.0-1ubuntu1 https://launchpad.net/ubuntu/+source/network-manager-applet/1.34.0-1ubuntu1
