@@ -6,3 +6,4 @@ calamares 3.3.0-alpha4-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3
 calamares-settings-ubuntu 1:24.04.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.1
 ubuntu-meta 1.525 https://launchpad.net/ubuntu/+source/ubuntu-meta/1.525
 network-manager-applet 1.34.0-1ubuntu1 https://launchpad.net/ubuntu/+source/network-manager-applet/1.34.0-1ubuntu1
+libqtxdg 3.12.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.12.0-0ubuntu1
