@@ -9,3 +9,4 @@ network-manager-applet 1.34.0-1ubuntu1 https://launchpad.net/ubuntu/+source/netw
 libqtxdg 3.12.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/3.12.0-0ubuntu1
 lxqt-menu-data 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.0-0ubuntu1
 liblxqt 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/1.4.0-0ubuntu1
+qtxdg-tools 3.12.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/3.12.0-0ubuntu1
