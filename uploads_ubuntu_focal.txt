@@ -15,3 +15,4 @@ vim 2:8.1.2269-1ubuntu5.10 https://launchpad.net/ubuntu/+source/vim/2:8.1.2269-1
 chromium-browser 1:85.0.4183.83-0ubuntu0.20.04.3 https://launchpad.net/ubuntu/+source/chromium-browser/1:85.0.4183.83-0ubuntu0.20.04.3
 samba 2:4.15.13+dfsg-0ubuntu0.20.04.5 https://launchpad.net/ubuntu/+source/samba/2:4.15.13+dfsg-0ubuntu0.20.04.5
 lintian 2.62.0ubuntu2.3 https://launchpad.net/ubuntu/+source/lintian/2.62.0ubuntu2.3
+openjdk-21 21.0.1+12-2~20.04 https://launchpad.net/ubuntu/+source/openjdk-21/21.0.1+12-2~20.04
