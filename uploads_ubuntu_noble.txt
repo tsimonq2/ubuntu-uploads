@@ -12,3 +12,4 @@ liblxqt 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/1.4.0-0ubunt
 qtxdg-tools 3.12.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/3.12.0-0ubuntu1
 lxqt-qtplugin 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/1.4.0-0ubuntu1
 obconf-qt 0.16.3-0ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.16.3-0ubuntu1
+kitty 0.26.5-5ubuntu1 https://launchpad.net/ubuntu/+source/kitty/0.26.5-5ubuntu1
