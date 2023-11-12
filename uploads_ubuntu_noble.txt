@@ -16,3 +16,4 @@ kitty 0.26.5-5ubuntu1 https://launchpad.net/ubuntu/+source/kitty/0.26.5-5ubuntu1
 checksecurity 2.0.16+nmu4ubuntu1 https://launchpad.net/ubuntu/+source/checksecurity/2.0.16+nmu4ubuntu1
 lxqt-menu-data 1.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu1
 pavucontrol-qt 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.4.0-0ubuntu1
+lubuntu-meta 24.04.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.1
