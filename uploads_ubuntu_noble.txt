@@ -17,3 +17,4 @@ checksecurity 2.0.16+nmu4ubuntu1 https://launchpad.net/ubuntu/+source/checksecur
 lxqt-menu-data 1.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu1
 pavucontrol-qt 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/1.4.0-0ubuntu1
 lubuntu-meta 24.04.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.1
+vim 2:9.0.2087-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2087-1ubuntu1
