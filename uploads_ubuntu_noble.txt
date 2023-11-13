@@ -36,3 +36,4 @@ lxqt-qtplugin 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/
 lxqt-menu-data 1.4.1-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu2
 pcmanfm-qt 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.4.0-0ubuntu2
 lxqt-menu-data 1.4.1-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu3
+xdg-desktop-portal-lxqt 0.5.0-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-lxqt/0.5.0-0ubuntu2
