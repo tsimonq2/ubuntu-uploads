@@ -25,3 +25,4 @@ lxqt-admin 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/1.4.0-
 lxqt-archiver 0.9.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-archiver/0.9.0-0ubuntu1
 lxqt-globalkeys 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/1.4.0-0ubuntu1
 lxqt-notificationd 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/1.4.0-0ubuntu1
+lxqt-openssh-askpass 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/1.4.0-0ubuntu1
