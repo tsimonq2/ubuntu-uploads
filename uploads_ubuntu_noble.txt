@@ -30,3 +30,4 @@ lxqt-policykit 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-policyki
 lxqt-session 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/1.4.0-0ubuntu1
 lxqt-sudo 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.4.0-0ubuntu1
 pcmanfm-qt 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.4.0-0ubuntu1
+qterminal 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/1.4.0-0ubuntu1
