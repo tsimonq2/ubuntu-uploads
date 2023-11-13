@@ -28,3 +28,4 @@ lxqt-notificationd 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-noti
 lxqt-openssh-askpass 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/1.4.0-0ubuntu1
 lxqt-policykit 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-policykit/1.4.0-0ubuntu1
 lxqt-session 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/1.4.0-0ubuntu1
+lxqt-sudo 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.4.0-0ubuntu1
