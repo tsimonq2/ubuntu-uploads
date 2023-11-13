@@ -35,3 +35,4 @@ lxqt-powermanagement 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-po
 lxqt-qtplugin 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/1.4.0-0ubuntu2
 lxqt-menu-data 1.4.1-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu2
 pcmanfm-qt 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.4.0-0ubuntu2
+lxqt-menu-data 1.4.1-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu3
