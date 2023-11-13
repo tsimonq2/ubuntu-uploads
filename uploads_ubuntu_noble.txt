@@ -21,3 +21,4 @@ vim 2:9.0.2087-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2087-1ubu
 qtermwidget 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/1.4.0-0ubuntu1
 screengrab 2.7.0-0ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/2.7.0-0ubuntu1
 lxqt-about 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/1.4.0-0ubuntu1
+lxqt-admin 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/1.4.0-0ubuntu1
