@@ -32,3 +32,4 @@ lxqt-sudo 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.4.0-0u
 pcmanfm-qt 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.4.0-0ubuntu1
 qterminal 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/1.4.0-0ubuntu1
 lxqt-powermanagement 1.4.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/1.4.0-0ubuntu1
+lxqt-qtplugin 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/1.4.0-0ubuntu2
