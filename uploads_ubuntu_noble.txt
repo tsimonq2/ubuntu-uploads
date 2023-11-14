@@ -38,3 +38,4 @@ pcmanfm-qt 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.4.0-
 lxqt-menu-data 1.4.1-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu3
 xdg-desktop-portal-lxqt 0.5.0-0ubuntu2 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-lxqt/0.5.0-0ubuntu2
 calamares-settings-ubuntu 1:24.04.2 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.2
+lxqt-menu-data 1.4.1-0ubuntu4 https://launchpad.net/ubuntu/+source/lxqt-menu-data/1.4.1-0ubuntu4
