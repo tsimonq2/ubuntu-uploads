@@ -324,3 +324,4 @@ lxqt-session 1.2.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-session/1.
 libppd 2:2.0~rc1-0ubuntu1 https://launchpad.net/ubuntu/+source/libppd/2:2.0~rc1-0ubuntu1
 lxqt-sudo 1.2.0-1ubuntu1.1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.2.0-1ubuntu1.1
 lintian 2.116.3ubuntu1.1 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubuntu1.1
+libsolv 0.7.23-1ubuntu0.23.04.1 https://launchpad.net/ubuntu/+source/libsolv/0.7.23-1ubuntu0.23.04.1
