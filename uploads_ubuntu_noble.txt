@@ -46,3 +46,4 @@ gnutls28 3.8.1-4ubuntu4 https://launchpad.net/ubuntu/+source/gnutls28/3.8.1-4ubu
 libarchive 3.7.2-1ubuntu1 https://launchpad.net/ubuntu/+source/libarchive/3.7.2-1ubuntu1
 anacron 2.3-39ubuntu1 https://launchpad.net/ubuntu/+source/anacron/2.3-39ubuntu1
 qtilitools 0.1.1~git20231009-0ubuntu1 https://launchpad.net/ubuntu/+source/qtilitools/0.1.1~git20231009-0ubuntu1
+lubuntu-meta 24.04.3 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.3
