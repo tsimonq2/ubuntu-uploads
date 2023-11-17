@@ -43,3 +43,4 @@ lubuntu-meta 24.04.2 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.2
 lxqt-themes-extra 1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes-extra/1.0-0ubuntu1
 libvpx 1.13.1-2ubuntu1 https://launchpad.net/ubuntu/+source/libvpx/1.13.1-2ubuntu1
 gnutls28 3.8.1-4ubuntu4 https://launchpad.net/ubuntu/+source/gnutls28/3.8.1-4ubuntu4
+libarchive 3.7.2-1ubuntu1 https://launchpad.net/ubuntu/+source/libarchive/3.7.2-1ubuntu1
