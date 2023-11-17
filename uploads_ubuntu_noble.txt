@@ -48,3 +48,4 @@ anacron 2.3-39ubuntu1 https://launchpad.net/ubuntu/+source/anacron/2.3-39ubuntu1
 qtilitools 0.1.1~git20231009-0ubuntu1 https://launchpad.net/ubuntu/+source/qtilitools/0.1.1~git20231009-0ubuntu1
 lubuntu-meta 24.04.3 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.3
 sddm-conf 0.2.0~git20231105-0ubuntu1 https://launchpad.net/ubuntu/+source/sddm-conf/0.2.0~git20231105-0ubuntu1
+lxd-installer 2 https://launchpad.net/ubuntu/+source/lxd-installer/2
