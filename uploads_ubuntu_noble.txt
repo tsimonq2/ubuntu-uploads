@@ -52,3 +52,4 @@ lxd-installer 2 https://launchpad.net/ubuntu/+source/lxd-installer/2
 cryptsetup 2:2.6.1-5ubuntu1 https://launchpad.net/ubuntu/+source/cryptsetup/2:2.6.1-5ubuntu1
 cron 3.0pl1-178ubuntu1 https://launchpad.net/ubuntu/+source/cron/3.0pl1-178ubuntu1
 vim 2:9.0.2116-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2116-1ubuntu1
+sysvinit 3.08-3ubuntu1 https://launchpad.net/ubuntu/+source/sysvinit/3.08-3ubuntu1
