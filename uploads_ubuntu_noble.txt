@@ -53,3 +53,4 @@ cryptsetup 2:2.6.1-5ubuntu1 https://launchpad.net/ubuntu/+source/cryptsetup/2:2.
 cron 3.0pl1-178ubuntu1 https://launchpad.net/ubuntu/+source/cron/3.0pl1-178ubuntu1
 vim 2:9.0.2116-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2116-1ubuntu1
 sysvinit 3.08-3ubuntu1 https://launchpad.net/ubuntu/+source/sysvinit/3.08-3ubuntu1
+efitools 1.9.2-3ubuntu1 https://launchpad.net/ubuntu/+source/efitools/1.9.2-3ubuntu1
