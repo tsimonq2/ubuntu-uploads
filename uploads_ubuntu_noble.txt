@@ -55,3 +55,4 @@ vim 2:9.0.2116-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2116-1ubu
 sysvinit 3.08-3ubuntu1 https://launchpad.net/ubuntu/+source/sysvinit/3.08-3ubuntu1
 efitools 1.9.2-3ubuntu1 https://launchpad.net/ubuntu/+source/efitools/1.9.2-3ubuntu1
 jigit 1.22-4ubuntu1 https://launchpad.net/ubuntu/+source/jigit/1.22-4ubuntu1
+munin 2.0.74-2ubuntu1 https://launchpad.net/ubuntu/+source/munin/2.0.74-2ubuntu1
