@@ -60,3 +60,4 @@ samtools-legacy 0.1.19+dfsg-6ubuntu1 https://launchpad.net/ubuntu/+source/samtoo
 pgpainless 1.3.16-1ubuntu1 https://launchpad.net/ubuntu/+source/pgpainless/1.3.16-1ubuntu1
 satpy 0.44.0-1ubuntu1 https://launchpad.net/ubuntu/+source/satpy/0.44.0-1ubuntu1
 satpy 0.44.0-1ubuntu2 https://launchpad.net/ubuntu/+source/satpy/0.44.0-1ubuntu2
+calamares 3.3.0-alpha6-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0-alpha6-0ubuntu1
