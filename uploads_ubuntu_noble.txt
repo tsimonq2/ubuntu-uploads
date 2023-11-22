@@ -57,3 +57,4 @@ efitools 1.9.2-3ubuntu1 https://launchpad.net/ubuntu/+source/efitools/1.9.2-3ubu
 jigit 1.22-4ubuntu1 https://launchpad.net/ubuntu/+source/jigit/1.22-4ubuntu1
 munin 2.0.74-2ubuntu1 https://launchpad.net/ubuntu/+source/munin/2.0.74-2ubuntu1
 samtools-legacy 0.1.19+dfsg-6ubuntu1 https://launchpad.net/ubuntu/+source/samtools-legacy/0.1.19+dfsg-6ubuntu1
+pgpainless 1.3.16-1ubuntu1 https://launchpad.net/ubuntu/+source/pgpainless/1.3.16-1ubuntu1
