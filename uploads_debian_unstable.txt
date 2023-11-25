@@ -107,3 +107,4 @@ ubuntu-dev-tools 0.197 https://launchpad.net/debian/+source/ubuntu-dev-tools/0.1
 yaml-cpp 0.8.0+dfsg-4 https://launchpad.net/debian/+source/yaml-cpp/0.8.0+dfsg-4
 xca 2.5.0-1 https://launchpad.net/debian/+source/xca/2.5.0-1
 redshift-qt 0.6-1 https://launchpad.net/debian/+source/redshift-qt/0.6-1
+redshift-qt 0.6-2 https://launchpad.net/debian/+source/redshift-qt/0.6-2
