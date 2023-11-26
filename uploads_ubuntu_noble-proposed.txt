@@ -6,3 +6,4 @@ mlpack 4.2.1-1 https://launchpad.net/ubuntu/+source/mlpack/4.2.1-1
 pytables 3.7.0-10 https://launchpad.net/ubuntu/+source/pytables/3.7.0-10
 kitty 0.31.0-3 https://launchpad.net/ubuntu/+source/kitty/0.31.0-3
 show-in-file-manager 1.1.4-2 https://launchpad.net/ubuntu/+source/show-in-file-manager/1.1.4-2
+redshift-qt 0.6-1 https://launchpad.net/ubuntu/+source/redshift-qt/0.6-1
