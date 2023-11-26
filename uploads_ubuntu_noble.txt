@@ -67,3 +67,4 @@ khmer 3.0.0~a3+dfsg-5ubuntu1 https://launchpad.net/ubuntu/+source/khmer/3.0.0~a3
 landscape-client 23.08-0ubuntu2 https://launchpad.net/ubuntu/+source/landscape-client/23.08-0ubuntu2
 python-ldap 3.4.3-2ubuntu1 https://launchpad.net/ubuntu/+source/python-ldap/3.4.3-2ubuntu1
 khmer 3.0.0~a3+dfsg-5ubuntu2 https://launchpad.net/ubuntu/+source/khmer/3.0.0~a3+dfsg-5ubuntu2
+khmer 3.0.0~a3+dfsg-5ubuntu3 https://launchpad.net/ubuntu/+source/khmer/3.0.0~a3+dfsg-5ubuntu3
