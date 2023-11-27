@@ -71,3 +71,4 @@ khmer 3.0.0~a3+dfsg-5ubuntu3 https://launchpad.net/ubuntu/+source/khmer/3.0.0~a3
 python-ulmo 0.8.8+dfsg1-1.1ubuntu1 https://launchpad.net/ubuntu/+source/python-ulmo/0.8.8+dfsg1-1.1ubuntu1
 nix 2.18.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/nix/2.18.1+dfsg-1ubuntu1
 phpmyadmin 4:5.2.1+dfsg-2ubuntu1 https://launchpad.net/ubuntu/+source/phpmyadmin/4:5.2.1+dfsg-2ubuntu1
+xserver-xorg-input-synaptics 1.9.2-1ubuntu1 https://launchpad.net/ubuntu/+source/xserver-xorg-input-synaptics/1.9.2-1ubuntu1
