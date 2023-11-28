@@ -75,3 +75,4 @@ xserver-xorg-input-synaptics 1.9.2-1ubuntu1 https://launchpad.net/ubuntu/+source
 lubuntu-meta 24.04.4 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.4
 imath 3.1.9-3ubuntu1 https://launchpad.net/ubuntu/+source/imath/3.1.9-3ubuntu1
 librelp 1.11.0-1ubuntu1 https://launchpad.net/ubuntu/+source/librelp/1.11.0-1ubuntu1
+thin 1.8.1-2ubuntu1 https://launchpad.net/ubuntu/+source/thin/1.8.1-2ubuntu1
