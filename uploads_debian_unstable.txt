@@ -109,3 +109,4 @@ xca 2.5.0-1 https://launchpad.net/debian/+source/xca/2.5.0-1
 redshift-qt 0.6-1 https://launchpad.net/debian/+source/redshift-qt/0.6-1
 redshift-qt 0.6-2 https://launchpad.net/debian/+source/redshift-qt/0.6-2
 redshift-qt 0.6-3 https://launchpad.net/debian/+source/redshift-qt/0.6-3
+slic3r-prusa 2.6.1+dfsg-4.1 https://launchpad.net/debian/+source/slic3r-prusa/2.6.1+dfsg-4.1
