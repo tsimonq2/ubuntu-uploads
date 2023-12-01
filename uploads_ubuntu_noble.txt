@@ -79,3 +79,4 @@ thin 1.8.1-2ubuntu1 https://launchpad.net/ubuntu/+source/thin/1.8.1-2ubuntu1
 git 1:2.43.0-1ubuntu1 https://launchpad.net/ubuntu/+source/git/1:2.43.0-1ubuntu1
 vim 2:9.0.2116-1ubuntu2 https://launchpad.net/ubuntu/+source/vim/2:9.0.2116-1ubuntu2
 lubuntu-artwork 24.04.3 https://launchpad.net/ubuntu/+source/lubuntu-artwork/24.04.3
+xserver-xorg-input-synaptics 1.9.2-1ubuntu2 https://launchpad.net/ubuntu/+source/xserver-xorg-input-synaptics/1.9.2-1ubuntu2
