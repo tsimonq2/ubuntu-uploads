@@ -81,3 +81,4 @@ vim 2:9.0.2116-1ubuntu2 https://launchpad.net/ubuntu/+source/vim/2:9.0.2116-1ubu
 lubuntu-artwork 24.04.3 https://launchpad.net/ubuntu/+source/lubuntu-artwork/24.04.3
 xserver-xorg-input-synaptics 1.9.2-1ubuntu2 https://launchpad.net/ubuntu/+source/xserver-xorg-input-synaptics/1.9.2-1ubuntu2
 pcmanfm-qt 1.4.0-0ubuntu3 https://launchpad.net/ubuntu/+source/pcmanfm-qt/1.4.0-0ubuntu3
+featherpad 1.4.1-0ubuntu1 https://launchpad.net/ubuntu/+source/featherpad/1.4.1-0ubuntu1
