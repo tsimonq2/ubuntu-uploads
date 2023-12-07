@@ -118,3 +118,4 @@ language-pack-kde-mr 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-nb 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-nb/1:19.10.0ubuntu2
 language-pack-kde-nds 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-nds/1:19.10.0ubuntu2
 language-pack-kde-nl 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-nl/1:19.10.0ubuntu2
+language-pack-kde-nn 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-nn/1:19.10.0ubuntu2
