@@ -97,3 +97,4 @@ language-pack-kde-et 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-eu 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-eu/1:19.10.0ubuntu2
 language-pack-kde-fa 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-fa/1:19.10.0ubuntu2
 language-pack-kde-fi 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-fi/1:19.10.0ubuntu2
+language-pack-kde-fr 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-fr/1:19.10.0ubuntu2
