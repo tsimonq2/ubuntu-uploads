@@ -110,3 +110,4 @@ language-pack-kde-is 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-it 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-it/1:19.10.0ubuntu2
 language-pack-kde-ja 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-ja/1:19.10.0ubuntu2
 language-pack-kde-kk 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-kk/1:19.10.0ubuntu2
+language-pack-kde-km 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-km/1:19.10.0ubuntu2
