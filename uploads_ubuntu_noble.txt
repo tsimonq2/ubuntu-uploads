@@ -124,3 +124,4 @@ language-pack-kde-pl 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-pt 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-pt/1:19.10.0ubuntu2
 language-pack-kde-ro 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-ro/1:19.10.0ubuntu2
 language-pack-kde-ru 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-ru/1:19.10.0ubuntu2
+language-pack-kde-sk 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-sk/1:19.10.0ubuntu2
