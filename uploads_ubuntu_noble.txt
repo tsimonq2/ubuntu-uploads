@@ -130,3 +130,4 @@ language-pack-kde-sr 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-sv 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-sv/1:19.10.0ubuntu2
 language-pack-kde-tr 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-tr/1:19.10.0ubuntu2
 language-pack-kde-ug 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-ug/1:19.10.0ubuntu2
+language-pack-kde-uk 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-uk/1:19.10.0ubuntu2
