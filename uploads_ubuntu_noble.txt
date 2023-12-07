@@ -86,3 +86,4 @@ fontconfig 2.14.2-6ubuntu1 https://launchpad.net/ubuntu/+source/fontconfig/2.14.
 language-pack-kde-ar 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-ar/1:19.10.0ubuntu2
 language-pack-kde-bg 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-bg/1:19.10.0ubuntu2
 language-pack-kde-bs 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-bs/1:19.10.0ubuntu2
+language-pack-kde-ca 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-ca/1:19.10.0ubuntu2
