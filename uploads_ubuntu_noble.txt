@@ -88,3 +88,4 @@ language-pack-kde-bg 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-bs 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-bs/1:19.10.0ubuntu2
 language-pack-kde-ca 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-ca/1:19.10.0ubuntu2
 language-pack-kde-cs 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-cs/1:19.10.0ubuntu2
+language-pack-kde-da 1:19.10.0ubuntu2 https://launchpad.net/ubuntu/+source/language-pack-kde-da/1:19.10.0ubuntu2
