@@ -179,3 +179,4 @@ language-pack-kde-sl 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-sr 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-sr/1:24.04.0ubuntu1
 language-pack-kde-sv 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-sv/1:24.04.0ubuntu1
 language-pack-kde-tg 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-tg/1:24.04.0ubuntu1
+language-pack-kde-th 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-th/1:24.04.0ubuntu1
