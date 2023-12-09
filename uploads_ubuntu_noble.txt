@@ -139,3 +139,4 @@ language-pack-kde-bg 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-bs 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-bs/1:24.04.0ubuntu1
 language-pack-kde-ca 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-ca/1:24.04.0ubuntu1
 language-pack-kde-cs 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-cs/1:24.04.0ubuntu1
+language-pack-kde-da 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-da/1:24.04.0ubuntu1
