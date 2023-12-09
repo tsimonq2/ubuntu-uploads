@@ -172,3 +172,4 @@ language-pack-kde-pa 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-pl 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-pl/1:24.04.0ubuntu1
 language-pack-kde-pt 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-pt/1:24.04.0ubuntu1
 language-pack-kde-ro 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-ro/1:24.04.0ubuntu1
+language-pack-kde-ru 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-ru/1:24.04.0ubuntu1
