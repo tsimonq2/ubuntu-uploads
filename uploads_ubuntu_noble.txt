@@ -167,3 +167,4 @@ language-pack-kde-mr 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-nb 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-nb/1:24.04.0ubuntu1
 language-pack-kde-nds 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-nds/1:24.04.0ubuntu1
 language-pack-kde-nl 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-nl/1:24.04.0ubuntu1
+language-pack-kde-nn 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-nn/1:24.04.0ubuntu1
