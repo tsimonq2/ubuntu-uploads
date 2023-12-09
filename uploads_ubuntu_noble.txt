@@ -187,3 +187,4 @@ language-pack-kde-vi 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-zh-hans 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-zh-hans/1:24.04.0ubuntu1
 language-pack-kde-zh-hant 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-zh-hant/1:24.04.0ubuntu1
 lubuntu-installer-prompt 1.0.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.0.1-0ubuntu1
+casper 1.488 https://launchpad.net/ubuntu/+source/casper/1.488
