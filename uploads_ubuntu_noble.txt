@@ -153,3 +153,4 @@ language-pack-kde-ga 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-gl 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-gl/1:24.04.0ubuntu1
 language-pack-kde-he 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-he/1:24.04.0ubuntu1
 language-pack-kde-hi 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-hi/1:24.04.0ubuntu1
+language-pack-kde-hr 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-hr/1:24.04.0ubuntu1
