@@ -157,3 +157,4 @@ language-pack-kde-hr 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/langu
 language-pack-kde-ia 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-ia/1:24.04.0ubuntu1
 language-pack-kde-id 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-id/1:24.04.0ubuntu1
 language-pack-kde-is 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-is/1:24.04.0ubuntu1
+language-pack-kde-it 1:24.04.0ubuntu1 https://launchpad.net/ubuntu/+source/language-pack-kde-it/1:24.04.0ubuntu1
