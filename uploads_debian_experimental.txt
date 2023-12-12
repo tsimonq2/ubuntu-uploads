@@ -119,3 +119,4 @@ qtbase-opensource-src 5.15.7+dfsg-1 https://launchpad.net/debian/+source/qtbase-
 qtdeclarative-opensource-src 5.15.7+dfsg-1 https://launchpad.net/debian/+source/qtdeclarative-opensource-src/5.15.7+dfsg-1
 runit 2.1.2-56 https://launchpad.net/debian/+source/runit/2.1.2-56
 qt6-sensors 6.6.1-1 https://launchpad.net/debian/+source/qt6-sensors/6.6.1-1
+qt6-sensors 6.6.1-2 https://launchpad.net/debian/+source/qt6-sensors/6.6.1-2
