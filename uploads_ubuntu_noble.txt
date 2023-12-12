@@ -190,3 +190,4 @@ lubuntu-installer-prompt 1.0.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lub
 casper 1.488 https://launchpad.net/ubuntu/+source/casper/1.488
 casper 1.489 https://launchpad.net/ubuntu/+source/casper/1.489
 burp 3.1.4-3ubuntu1 https://launchpad.net/ubuntu/+source/burp/3.1.4-3ubuntu1
+calamares 3.3.0.0-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0.0-0ubuntu1
