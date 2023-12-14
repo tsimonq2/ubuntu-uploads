@@ -193,3 +193,4 @@ burp 3.1.4-3ubuntu1 https://launchpad.net/ubuntu/+source/burp/3.1.4-3ubuntu1
 calamares 3.3.0.0-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.0.0-0ubuntu1
 livecd-rootfs 24.04.12 https://launchpad.net/ubuntu/+source/livecd-rootfs/24.04.12
 gem2deb 2.2ubuntu1 https://launchpad.net/ubuntu/+source/gem2deb/2.2ubuntu1
+pkg-js-tools 0.15.15ubuntu1 https://launchpad.net/ubuntu/+source/pkg-js-tools/0.15.15ubuntu1
