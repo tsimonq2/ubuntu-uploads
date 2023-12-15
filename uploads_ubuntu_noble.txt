@@ -196,3 +196,4 @@ gem2deb 2.2ubuntu1 https://launchpad.net/ubuntu/+source/gem2deb/2.2ubuntu1
 pkg-js-tools 0.15.15ubuntu1 https://launchpad.net/ubuntu/+source/pkg-js-tools/0.15.15ubuntu1
 open-iscsi 2.1.9-3ubuntu1 https://launchpad.net/ubuntu/+source/open-iscsi/2.1.9-3ubuntu1
 alex4 1.1-10ubuntu2 https://launchpad.net/ubuntu/+source/alex4/1.1-10ubuntu2
+openmsx 19.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/openmsx/19.1+dfsg-1ubuntu1
