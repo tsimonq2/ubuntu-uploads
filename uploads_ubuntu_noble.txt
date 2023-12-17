@@ -198,3 +198,4 @@ open-iscsi 2.1.9-3ubuntu1 https://launchpad.net/ubuntu/+source/open-iscsi/2.1.9-
 alex4 1.1-10ubuntu2 https://launchpad.net/ubuntu/+source/alex4/1.1-10ubuntu2
 openmsx 19.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/openmsx/19.1+dfsg-1ubuntu1
 lubuntu-installer-prompt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.0-0ubuntu1
+balloontip 2008.11.14-0ubuntu3 https://launchpad.net/ubuntu/+source/balloontip/2008.11.14-0ubuntu3
