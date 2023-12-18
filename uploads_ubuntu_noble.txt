@@ -200,3 +200,4 @@ openmsx 19.1+dfsg-1ubuntu1 https://launchpad.net/ubuntu/+source/openmsx/19.1+dfs
 lubuntu-installer-prompt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.0-0ubuntu1
 balloontip 2008.11.14-0ubuntu3 https://launchpad.net/ubuntu/+source/balloontip/2008.11.14-0ubuntu3
 casper 1.490 https://launchpad.net/ubuntu/+source/casper/1.490
+ubiquity 24.04.2 https://launchpad.net/ubuntu/+source/ubiquity/24.04.2
