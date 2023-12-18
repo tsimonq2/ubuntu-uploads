@@ -9,3 +9,4 @@ show-in-file-manager 1.1.4-2 https://launchpad.net/ubuntu/+source/show-in-file-m
 redshift-qt 0.6-1 https://launchpad.net/ubuntu/+source/redshift-qt/0.6-1
 ayatana-indicator-power 23.6.1-1 https://launchpad.net/ubuntu/+source/ayatana-indicator-power/23.6.1-1
 ayatana-indicator-datetime 23.6.0-1 https://launchpad.net/ubuntu/+source/ayatana-indicator-datetime/23.6.0-1
+pgpainless 1.6.4-1 https://launchpad.net/ubuntu/+source/pgpainless/1.6.4-1
