@@ -10,3 +10,4 @@ redshift-qt 0.6-1 https://launchpad.net/ubuntu/+source/redshift-qt/0.6-1
 ayatana-indicator-power 23.6.1-1 https://launchpad.net/ubuntu/+source/ayatana-indicator-power/23.6.1-1
 ayatana-indicator-datetime 23.6.0-1 https://launchpad.net/ubuntu/+source/ayatana-indicator-datetime/23.6.0-1
 pgpainless 1.6.4-1 https://launchpad.net/ubuntu/+source/pgpainless/1.6.4-1
+wireplumber 0.4.17-1 https://launchpad.net/ubuntu/+source/wireplumber/0.4.17-1
