@@ -202,3 +202,4 @@ balloontip 2008.11.14-0ubuntu3 https://launchpad.net/ubuntu/+source/balloontip/2
 casper 1.490 https://launchpad.net/ubuntu/+source/casper/1.490
 ubiquity 24.04.2 https://launchpad.net/ubuntu/+source/ubiquity/24.04.2
 lxqt-config 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-config/1.4.0-0ubuntu2
+lxqt-session 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-session/1.4.0-0ubuntu2
