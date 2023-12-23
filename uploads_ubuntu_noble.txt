@@ -204,3 +204,4 @@ ubiquity 24.04.2 https://launchpad.net/ubuntu/+source/ubiquity/24.04.2
 lxqt-config 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-config/1.4.0-0ubuntu2
 lxqt-session 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-session/1.4.0-0ubuntu2
 lxqt-panel 1.4.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-panel/1.4.0-0ubuntu2
+plymouth 22.02.122-4ubuntu1 https://launchpad.net/ubuntu/+source/plymouth/22.02.122-4ubuntu1
