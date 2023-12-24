@@ -208,3 +208,4 @@ plymouth 22.02.122-4ubuntu1 https://launchpad.net/ubuntu/+source/plymouth/22.02.
 vim 2:9.0.2184-0ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2184-0ubuntu1
 plymouth 22.02.122-4ubuntu2 https://launchpad.net/ubuntu/+source/plymouth/22.02.122-4ubuntu2
 lubuntu-installer-prompt 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.1-0ubuntu1
+lubuntu-installer-prompt 1.1.1-0ubuntu2 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.1-0ubuntu2
