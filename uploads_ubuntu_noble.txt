@@ -210,3 +210,4 @@ plymouth 22.02.122-4ubuntu2 https://launchpad.net/ubuntu/+source/plymouth/22.02.
 lubuntu-installer-prompt 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.1-0ubuntu1
 lubuntu-installer-prompt 1.1.1-0ubuntu2 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.1-0ubuntu2
 calamares-settings-ubuntu 1:24.04.10 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.10
+zeitgeist 1.0.4-5ubuntu1 https://launchpad.net/ubuntu/+source/zeitgeist/1.0.4-5ubuntu1
