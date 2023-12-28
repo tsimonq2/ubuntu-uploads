@@ -326,3 +326,4 @@ lxqt-sudo 1.2.0-1ubuntu1.1 https://launchpad.net/ubuntu/+source/lxqt-sudo/1.2.0-
 lintian 2.116.3ubuntu1.1 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubuntu1.1
 libsolv 0.7.23-1ubuntu0.23.04.1 https://launchpad.net/ubuntu/+source/libsolv/0.7.23-1ubuntu0.23.04.1
 kernelshark 2.2.0-1ubuntu0.23.04.1 https://launchpad.net/ubuntu/+source/kernelshark/2.2.0-1ubuntu0.23.04.1
+color-picker 1.0.3-2ubuntu0.23.04.1 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-2ubuntu0.23.04.1
