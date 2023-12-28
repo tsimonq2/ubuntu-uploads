@@ -211,3 +211,4 @@ lubuntu-installer-prompt 1.1.1-0ubuntu1 https://launchpad.net/ubuntu/+source/lub
 lubuntu-installer-prompt 1.1.1-0ubuntu2 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.1-0ubuntu2
 calamares-settings-ubuntu 1:24.04.10 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.10
 zeitgeist 1.0.4-5ubuntu1 https://launchpad.net/ubuntu/+source/zeitgeist/1.0.4-5ubuntu1
+color-picker 1.0.3-2ubuntu1 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-2ubuntu1
