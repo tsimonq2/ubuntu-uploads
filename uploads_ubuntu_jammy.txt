@@ -23,3 +23,4 @@ lxqt-sudo 0.17.0-0ubuntu1.1 https://launchpad.net/ubuntu/+source/lxqt-sudo/0.17.
 lintian 2.114.0ubuntu1.3 https://launchpad.net/ubuntu/+source/lintian/2.114.0ubuntu1.3
 openjdk-21 21.0.1+12-2~22.04 https://launchpad.net/ubuntu/+source/openjdk-21/21.0.1+12-2~22.04
 libsolv 0.7.20-1ubuntu0.22.04.1 https://launchpad.net/ubuntu/+source/libsolv/0.7.20-1ubuntu0.22.04.1
+color-picker 1.0.3-2ubuntu0.22.04.1 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-2ubuntu0.22.04.1
