@@ -214,3 +214,4 @@ zeitgeist 1.0.4-5ubuntu1 https://launchpad.net/ubuntu/+source/zeitgeist/1.0.4-5u
 color-picker 1.0.3-2ubuntu1 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-2ubuntu1
 lxqt-session 1.4.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-session/1.4.0-0ubuntu3
 horst 5.1-3ubuntu1 https://launchpad.net/ubuntu/+source/horst/5.1-3ubuntu1
+calamares 3.3.0.0-0ubuntu5 https://launchpad.net/ubuntu/+source/calamares/3.3.0.0-0ubuntu5
