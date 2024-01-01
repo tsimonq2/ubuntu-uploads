@@ -216,3 +216,4 @@ lxqt-session 1.4.0-0ubuntu3 https://launchpad.net/ubuntu/+source/lxqt-session/1.
 horst 5.1-3ubuntu1 https://launchpad.net/ubuntu/+source/horst/5.1-3ubuntu1
 calamares 3.3.0.0-0ubuntu5 https://launchpad.net/ubuntu/+source/calamares/3.3.0.0-0ubuntu5
 lubuntu-installer-prompt 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.2-0ubuntu1
+vim 2:9.0.2189-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2189-1ubuntu1
