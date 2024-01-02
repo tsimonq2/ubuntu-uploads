@@ -218,3 +218,4 @@ calamares 3.3.0.0-0ubuntu5 https://launchpad.net/ubuntu/+source/calamares/3.3.0.
 lubuntu-installer-prompt 1.1.2-0ubuntu1 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/1.1.2-0ubuntu1
 vim 2:9.0.2189-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2189-1ubuntu1
 curl 8.5.0-2ubuntu1 https://launchpad.net/ubuntu/+source/curl/8.5.0-2ubuntu1
+libtrace3 3.0.22-0.1ubuntu1 https://launchpad.net/ubuntu/+source/libtrace3/3.0.22-0.1ubuntu1
