@@ -220,3 +220,4 @@ vim 2:9.0.2189-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.0.2189-1ubu
 curl 8.5.0-2ubuntu1 https://launchpad.net/ubuntu/+source/curl/8.5.0-2ubuntu1
 libtrace3 3.0.22-0.1ubuntu1 https://launchpad.net/ubuntu/+source/libtrace3/3.0.22-0.1ubuntu1
 vim 2:9.1.0-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0-1ubuntu1
+bluez 5.71-0ubuntu1 https://launchpad.net/ubuntu/+source/bluez/5.71-0ubuntu1
