@@ -111,3 +111,4 @@ redshift-qt 0.6-2 https://launchpad.net/debian/+source/redshift-qt/0.6-2
 redshift-qt 0.6-3 https://launchpad.net/debian/+source/redshift-qt/0.6-3
 slic3r-prusa 2.6.1+dfsg-4.1 https://launchpad.net/debian/+source/slic3r-prusa/2.6.1+dfsg-4.1
 vim 2:9.1.0-1 https://launchpad.net/debian/+source/vim/2:9.1.0-1
+libcgi-application-plugin-authentication-perl 0.23+~cs0.5-2.1 https://launchpad.net/debian/+source/libcgi-application-plugin-authentication-perl/0.23+~cs0.5-2.1
