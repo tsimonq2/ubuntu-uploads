@@ -226,3 +226,4 @@ rustc-1.68 1.68.2+dfsg0ubuntu1-0ubuntu6 https://launchpad.net/ubuntu/+source/rus
 intel-lpmd 0.0.2-0ubuntu1 https://launchpad.net/ubuntu/+source/intel-lpmd/0.0.2-0ubuntu1
 kannel 1.4.5-13ubuntu1 https://launchpad.net/ubuntu/+source/kannel/1.4.5-13ubuntu1
 sidplay 2.0.9-7ubuntu1 https://launchpad.net/ubuntu/+source/sidplay/2.0.9-7ubuntu1
+ncurses-hexedit 0.9.7+orig-7.2ubuntu1 https://launchpad.net/ubuntu/+source/ncurses-hexedit/0.9.7+orig-7.2ubuntu1
