@@ -25,3 +25,4 @@ openjdk-21 21.0.1+12-2~22.04 https://launchpad.net/ubuntu/+source/openjdk-21/21.
 libsolv 0.7.20-1ubuntu0.22.04.1 https://launchpad.net/ubuntu/+source/libsolv/0.7.20-1ubuntu0.22.04.1
 color-picker 1.0.3-2ubuntu0.22.04.1 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-2ubuntu0.22.04.1
 impressive 0.13.0~beta2-2ubuntu0.1 https://launchpad.net/ubuntu/+source/impressive/0.13.0~beta2-2ubuntu0.1
+printrun 2.0.0~rc7-1ubuntu0.1 https://launchpad.net/ubuntu/+source/printrun/2.0.0~rc7-1ubuntu0.1
