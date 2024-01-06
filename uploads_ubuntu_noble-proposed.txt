@@ -13,3 +13,4 @@ pgpainless 1.6.4-1 https://launchpad.net/ubuntu/+source/pgpainless/1.6.4-1
 wireplumber 0.4.17-1 https://launchpad.net/ubuntu/+source/wireplumber/0.4.17-1
 slinkwatch 1.1-6 https://launchpad.net/ubuntu/+source/slinkwatch/1.1-6
 nat 1:1.0-6.1 https://launchpad.net/ubuntu/+source/nat/1:1.0-6.1
+cinnamon-desktop-environment 5.8.0 https://launchpad.net/ubuntu/+source/cinnamon-desktop-environment/5.8.0
