@@ -229,3 +229,4 @@ sidplay 2.0.9-7ubuntu1 https://launchpad.net/ubuntu/+source/sidplay/2.0.9-7ubunt
 ncurses-hexedit 0.9.7+orig-7.2ubuntu1 https://launchpad.net/ubuntu/+source/ncurses-hexedit/0.9.7+orig-7.2ubuntu1
 bluez 5.71-0ubuntu2 https://launchpad.net/ubuntu/+source/bluez/5.71-0ubuntu2
 bluez 5.71-0ubuntu3 https://launchpad.net/ubuntu/+source/bluez/5.71-0ubuntu3
+dbus 1.14.10-3ubuntu1 https://launchpad.net/ubuntu/+source/dbus/1.14.10-3ubuntu1
