@@ -231,3 +231,4 @@ bluez 5.71-0ubuntu2 https://launchpad.net/ubuntu/+source/bluez/5.71-0ubuntu2
 bluez 5.71-0ubuntu3 https://launchpad.net/ubuntu/+source/bluez/5.71-0ubuntu3
 dbus 1.14.10-3ubuntu1 https://launchpad.net/ubuntu/+source/dbus/1.14.10-3ubuntu1
 bluez 5.71-1ubuntu1 https://launchpad.net/ubuntu/+source/bluez/5.71-1ubuntu1
+bluez 5.71-1ubuntu2 https://launchpad.net/ubuntu/+source/bluez/5.71-1ubuntu2
