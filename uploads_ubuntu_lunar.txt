@@ -327,3 +327,4 @@ lintian 2.116.3ubuntu1.1 https://launchpad.net/ubuntu/+source/lintian/2.116.3ubu
 libsolv 0.7.23-1ubuntu0.23.04.1 https://launchpad.net/ubuntu/+source/libsolv/0.7.23-1ubuntu0.23.04.1
 kernelshark 2.2.0-1ubuntu0.23.04.1 https://launchpad.net/ubuntu/+source/kernelshark/2.2.0-1ubuntu0.23.04.1
 color-picker 1.0.3-2ubuntu0.23.04.1 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-2ubuntu0.23.04.1
+lubuntu-update-notifier 0.6.0~23.04.3 https://launchpad.net/ubuntu/+source/lubuntu-update-notifier/0.6.0~23.04.3
