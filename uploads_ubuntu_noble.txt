@@ -236,3 +236,4 @@ vim 2:9.1.0016-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0016-1ubu
 hiredis 1.2.0-6ubuntu1 https://launchpad.net/ubuntu/+source/hiredis/1.2.0-6ubuntu1
 bluez 5.72-0ubuntu1 https://launchpad.net/ubuntu/+source/bluez/5.72-0ubuntu1
 golang-entgo-ent 0.11.3-4ubuntu1 https://launchpad.net/ubuntu/+source/golang-entgo-ent/0.11.3-4ubuntu1
+calamares-settings-ubuntu 1:24.04.12 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.12
