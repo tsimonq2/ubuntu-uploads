@@ -237,3 +237,4 @@ hiredis 1.2.0-6ubuntu1 https://launchpad.net/ubuntu/+source/hiredis/1.2.0-6ubunt
 bluez 5.72-0ubuntu1 https://launchpad.net/ubuntu/+source/bluez/5.72-0ubuntu1
 golang-entgo-ent 0.11.3-4ubuntu1 https://launchpad.net/ubuntu/+source/golang-entgo-ent/0.11.3-4ubuntu1
 calamares-settings-ubuntu 1:24.04.12 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.12
+console-setup 1.223ubuntu1 https://launchpad.net/ubuntu/+source/console-setup/1.223ubuntu1
