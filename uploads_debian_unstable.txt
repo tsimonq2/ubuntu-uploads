@@ -116,3 +116,4 @@ libcgi-application-plugin-authentication-perl 0.23+~cs0.5-3 https://launchpad.ne
 ubuntu-dev-tools 0.198 https://launchpad.net/debian/+source/ubuntu-dev-tools/0.198
 vim 2:9.1.0016-1 https://launchpad.net/debian/+source/vim/2:9.1.0016-1
 wl-mirror 0.15.0-1 https://launchpad.net/debian/+source/wl-mirror/0.15.0-1
+libnss-extrausers 0.6-5 https://launchpad.net/debian/+source/libnss-extrausers/0.6-5
