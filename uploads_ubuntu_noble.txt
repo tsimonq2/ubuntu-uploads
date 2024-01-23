@@ -239,3 +239,4 @@ golang-entgo-ent 0.11.3-4ubuntu1 https://launchpad.net/ubuntu/+source/golang-ent
 calamares-settings-ubuntu 1:24.04.12 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.12
 console-setup 1.223ubuntu1 https://launchpad.net/ubuntu/+source/console-setup/1.223ubuntu1
 openjdk-lts 11.0.22+7-0ubuntu2 https://launchpad.net/ubuntu/+source/openjdk-lts/11.0.22+7-0ubuntu2
+google-guest-agent 20231004.02-0ubuntu2 https://launchpad.net/ubuntu/+source/google-guest-agent/20231004.02-0ubuntu2
