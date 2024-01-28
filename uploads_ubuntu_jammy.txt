@@ -30,3 +30,4 @@ qt-gstreamer 1.2.0-5.1ubuntu0.1 https://launchpad.net/ubuntu/+source/qt-gstreame
 modemmanager 1.20.0-1~ubuntu22.04.3 https://launchpad.net/ubuntu/+source/modemmanager/1.20.0-1~ubuntu22.04.3
 sngrep 1.4.10-1ubuntu0.1 https://launchpad.net/ubuntu/+source/sngrep/1.4.10-1ubuntu0.1
 lubuntu-update-notifier 0.5.1~22.04.6 https://launchpad.net/ubuntu/+source/lubuntu-update-notifier/0.5.1~22.04.6
+linux-show-player 0.5.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/linux-show-player/0.5.2-1ubuntu0.1
