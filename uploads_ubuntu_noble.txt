@@ -243,3 +243,4 @@ google-guest-agent 20231004.02-0ubuntu2 https://launchpad.net/ubuntu/+source/goo
 lubuntu-meta 24.04.6 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.6
 livecd-rootfs 24.04.28 https://launchpad.net/ubuntu/+source/livecd-rootfs/24.04.28
 kgeotag 1.5.0-1ubuntu1 https://launchpad.net/ubuntu/+source/kgeotag/1.5.0-1ubuntu1
+flatpak-kcm 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/flatpak-kcm/5.27.10-1ubuntu1
