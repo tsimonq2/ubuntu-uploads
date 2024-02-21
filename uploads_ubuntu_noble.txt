@@ -247,3 +247,4 @@ flatpak-kcm 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/flatpak-kcm/5.
 kpipewire 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/kpipewire/5.27.10-1ubuntu1
 oxygen-sounds 4:5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/oxygen-sounds/4:5.27.10-1ubuntu1
 plasma-bigscreen 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-bigscreen/5.27.10-1ubuntu1
+plasma-mobile 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-mobile/5.27.10-1ubuntu1
