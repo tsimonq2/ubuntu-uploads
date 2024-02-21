@@ -248,3 +248,4 @@ kpipewire 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/kpipewire/5.27.1
 oxygen-sounds 4:5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/oxygen-sounds/4:5.27.10-1ubuntu1
 plasma-bigscreen 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-bigscreen/5.27.10-1ubuntu1
 plasma-mobile 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-mobile/5.27.10-1ubuntu1
+plasma-remotecontrollers 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-remotecontrollers/5.27.10-1ubuntu1
