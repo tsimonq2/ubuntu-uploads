@@ -251,3 +251,4 @@ plasma-mobile 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-mobil
 plasma-remotecontrollers 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-remotecontrollers/5.27.10-1ubuntu1
 plasma-welcome 5.27.10-1ubuntu1 https://launchpad.net/ubuntu/+source/plasma-welcome/5.27.10-1ubuntu1
 lintian 2.117.0ubuntu1 https://launchpad.net/ubuntu/+source/lintian/2.117.0ubuntu1
+sysvinit 3.08-6ubuntu1 https://launchpad.net/ubuntu/+source/sysvinit/3.08-6ubuntu1
