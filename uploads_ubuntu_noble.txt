@@ -259,3 +259,4 @@ itinerary 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/itinerary/23.08.
 kosmindoormap 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kosmindoormap/23.08.5-0ubuntu1
 kpublictransport 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/kpublictransport/23.08.5-0ubuntu1
 merkuro 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/merkuro/23.08.5-0ubuntu1
+neochat 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/neochat/23.08.5-0ubuntu1
