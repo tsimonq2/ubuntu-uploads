@@ -264,3 +264,4 @@ qmlkonsole 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/qmlkonsole/23.0
 skanpage 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/skanpage/23.08.5-0ubuntu1
 tokodon 23.08.5-0ubuntu1 https://launchpad.net/ubuntu/+source/tokodon/23.08.5-0ubuntu1
 shiki-colors-murrine 4.6-2.1ubuntu1 https://launchpad.net/ubuntu/+source/shiki-colors-murrine/4.6-2.1ubuntu1
+dpkg-dev-el 37.11ubuntu1 https://launchpad.net/ubuntu/+source/dpkg-dev-el/37.11ubuntu1
