@@ -267,3 +267,4 @@ shiki-colors-murrine 4.6-2.1ubuntu1 https://launchpad.net/ubuntu/+source/shiki-c
 dpkg-dev-el 37.11ubuntu1 https://launchpad.net/ubuntu/+source/dpkg-dev-el/37.11ubuntu1
 calamares 3.3.3-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.3-0ubuntu1
 debmirror 1:2.39ubuntu1 https://launchpad.net/ubuntu/+source/debmirror/1:2.39ubuntu1
+debmirror 1:2.39ubuntu2 https://launchpad.net/ubuntu/+source/debmirror/1:2.39ubuntu2
