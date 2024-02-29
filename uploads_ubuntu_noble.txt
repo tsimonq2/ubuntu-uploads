@@ -270,3 +270,4 @@ debmirror 1:2.39ubuntu1 https://launchpad.net/ubuntu/+source/debmirror/1:2.39ubu
 debmirror 1:2.39ubuntu2 https://launchpad.net/ubuntu/+source/debmirror/1:2.39ubuntu2
 calamares 3.3.4-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.4-0ubuntu1
 ssh-import-id 5.11-0ubuntu2 https://launchpad.net/ubuntu/+source/ssh-import-id/5.11-0ubuntu2
+calamares 3.3.4-0ubuntu2~1 https://launchpad.net/ubuntu/+source/calamares/3.3.4-0ubuntu2~1
