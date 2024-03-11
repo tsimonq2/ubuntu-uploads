@@ -273,3 +273,4 @@ ssh-import-id 5.11-0ubuntu2 https://launchpad.net/ubuntu/+source/ssh-import-id/5
 calamares 3.3.4-0ubuntu2~1 https://launchpad.net/ubuntu/+source/calamares/3.3.4-0ubuntu2~1
 calamares 3.3.5-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.5-0ubuntu1
 lubuntu-default-settings 24.04.6 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/24.04.6
+lubuntu-meta 24.04.7 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.7
