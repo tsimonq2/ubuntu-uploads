@@ -119,3 +119,4 @@ wl-mirror 0.15.0-1 https://launchpad.net/debian/+source/wl-mirror/0.15.0-1
 libnss-extrausers 0.6-5 https://launchpad.net/debian/+source/libnss-extrausers/0.6-5
 ubuntu-dev-tools 0.199 https://launchpad.net/debian/+source/ubuntu-dev-tools/0.199
 wl-mirror 0.16.1-1 https://launchpad.net/debian/+source/wl-mirror/0.16.1-1
+wl-mirror 0.16.2-1 https://launchpad.net/debian/+source/wl-mirror/0.16.2-1
