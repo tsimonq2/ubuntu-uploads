@@ -277,3 +277,4 @@ lubuntu-meta 24.04.7 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.7
 casper 1.495 https://launchpad.net/ubuntu/+source/casper/1.495
 calamares-settings-ubuntu 1:24.04.21 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.21
 gnome-online-accounts-gtk 3.50.1-0ubuntu1 https://launchpad.net/ubuntu/+source/gnome-online-accounts-gtk/3.50.1-0ubuntu1
+calamares-settings-ubuntu 1:24.04.22 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.22
