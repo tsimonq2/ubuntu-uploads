@@ -283,3 +283,4 @@ gnome-session 46.0-1ubuntu3 https://launchpad.net/ubuntu/+source/gnome-session/4
 casper 1.496 https://launchpad.net/ubuntu/+source/casper/1.496
 calamares-settings-ubuntu 1:24.04.25 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.25
 casper 1.497 https://launchpad.net/ubuntu/+source/casper/1.497
+ubuntucinnamon-environment 24.04.2 https://launchpad.net/ubuntu/+source/ubuntucinnamon-environment/24.04.2
