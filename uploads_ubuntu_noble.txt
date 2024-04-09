@@ -282,3 +282,4 @@ livecd-rootfs 24.04.57 https://launchpad.net/ubuntu/+source/livecd-rootfs/24.04.
 gnome-session 46.0-1ubuntu3 https://launchpad.net/ubuntu/+source/gnome-session/46.0-1ubuntu3
 casper 1.496 https://launchpad.net/ubuntu/+source/casper/1.496
 calamares-settings-ubuntu 1:24.04.25 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.25
+casper 1.497 https://launchpad.net/ubuntu/+source/casper/1.497
