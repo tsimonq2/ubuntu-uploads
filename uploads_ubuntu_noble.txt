@@ -279,3 +279,4 @@ calamares-settings-ubuntu 1:24.04.21 https://launchpad.net/ubuntu/+source/calama
 gnome-online-accounts-gtk 3.50.1-0ubuntu1 https://launchpad.net/ubuntu/+source/gnome-online-accounts-gtk/3.50.1-0ubuntu1
 calamares-settings-ubuntu 1:24.04.22 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.22
 livecd-rootfs 24.04.57 https://launchpad.net/ubuntu/+source/livecd-rootfs/24.04.57
+gnome-session 46.0-1ubuntu3 https://launchpad.net/ubuntu/+source/gnome-session/46.0-1ubuntu3
