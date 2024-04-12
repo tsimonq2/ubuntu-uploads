@@ -286,3 +286,4 @@ casper 1.497 https://launchpad.net/ubuntu/+source/casper/1.497
 ubuntucinnamon-environment 24.04.2 https://launchpad.net/ubuntu/+source/ubuntucinnamon-environment/24.04.2
 calamares-settings-ubuntu 1:24.04.27 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.27
 ycmd 0+20231230+git9e43034+ds-2build4 https://launchpad.net/ubuntu/+source/ycmd/0+20231230+git9e43034+ds-2build4
+rsync 3.2.7-1ubuntu1 https://launchpad.net/ubuntu/+source/rsync/3.2.7-1ubuntu1
