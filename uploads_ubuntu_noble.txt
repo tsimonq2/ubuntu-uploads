@@ -288,3 +288,4 @@ calamares-settings-ubuntu 1:24.04.27 https://launchpad.net/ubuntu/+source/calama
 ycmd 0+20231230+git9e43034+ds-2build4 https://launchpad.net/ubuntu/+source/ycmd/0+20231230+git9e43034+ds-2build4
 rsync 3.2.7-1ubuntu1 https://launchpad.net/ubuntu/+source/rsync/3.2.7-1ubuntu1
 lubuntu-default-settings 24.04.8 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/24.04.8
+lubuntu-default-settings 24.04.9 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/24.04.9
