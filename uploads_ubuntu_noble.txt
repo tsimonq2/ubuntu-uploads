@@ -291,3 +291,4 @@ lubuntu-default-settings 24.04.8 https://launchpad.net/ubuntu/+source/lubuntu-de
 lubuntu-default-settings 24.04.9 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/24.04.9
 lubuntu-meta 24.04.10 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.04.10
 pep8 1.7.1-11ubuntu1 https://launchpad.net/ubuntu/+source/pep8/1.7.1-11ubuntu1
+lubuntu-default-settings 24.04.11 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/24.04.11
