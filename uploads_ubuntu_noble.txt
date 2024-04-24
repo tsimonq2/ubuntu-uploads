@@ -296,3 +296,4 @@ casper 1.498 https://launchpad.net/ubuntu/+source/casper/1.498
 calamares-settings-ubuntu 1:24.04.38 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.04.38
 software-properties 0.99.49 https://launchpad.net/ubuntu/+source/software-properties/0.99.49
 kubuntu-installer-prompt 24.04.10 https://launchpad.net/ubuntu/+source/kubuntu-installer-prompt/24.04.10
+lubuntu-installer-prompt 24.04.6 https://launchpad.net/ubuntu/+source/lubuntu-installer-prompt/24.04.6
