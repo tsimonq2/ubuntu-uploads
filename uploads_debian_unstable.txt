@@ -123,3 +123,4 @@ wl-mirror 0.16.2-1 https://launchpad.net/debian/+source/wl-mirror/0.16.2-1
 wl-mirror 0.16.2-2 https://launchpad.net/debian/+source/wl-mirror/0.16.2-2
 ubuntu-dev-tools 0.202 https://launchpad.net/debian/+source/ubuntu-dev-tools/0.202
 gnome-online-accounts-gtk 3.50.1-1 https://launchpad.net/debian/+source/gnome-online-accounts-gtk/3.50.1-1
+vim 2:9.1.0374-1 https://launchpad.net/debian/+source/vim/2:9.1.0374-1
