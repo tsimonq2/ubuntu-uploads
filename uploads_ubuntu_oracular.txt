@@ -1,0 +1,1 @@
+lintian 2.117.0ubuntu2 https://launchpad.net/ubuntu/+source/lintian/2.117.0ubuntu2
