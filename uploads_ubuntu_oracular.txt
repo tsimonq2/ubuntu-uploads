@@ -1,2 +1,3 @@
 lintian 2.117.0ubuntu2 https://launchpad.net/ubuntu/+source/lintian/2.117.0ubuntu2
 vim 2:9.1.0377-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0377-1ubuntu1
+devscripts 2.23.7build1 https://launchpad.net/ubuntu/+source/devscripts/2.23.7build1
