@@ -4,3 +4,4 @@ devscripts 2.23.7build1 https://launchpad.net/ubuntu/+source/devscripts/2.23.7bu
 base-files 13ubuntu11 https://launchpad.net/ubuntu/+source/base-files/13ubuntu11
 devscripts 2.23.7ubuntu1 https://launchpad.net/ubuntu/+source/devscripts/2.23.7ubuntu1
 lubuntu-artwork 24.10.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/24.10.1
+calamares-settings-ubuntu 1:24.10.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.10.1
