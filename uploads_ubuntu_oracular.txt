@@ -6,3 +6,4 @@ devscripts 2.23.7ubuntu1 https://launchpad.net/ubuntu/+source/devscripts/2.23.7u
 lubuntu-artwork 24.10.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/24.10.1
 calamares-settings-ubuntu 1:24.10.1 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:24.10.1
 qt6-languageserver 6.6.2-1~1 https://launchpad.net/ubuntu/+source/qt6-languageserver/6.6.2-1~1
+qt6-shadertools 6.6.2-1~1 https://launchpad.net/ubuntu/+source/qt6-shadertools/6.6.2-1~1
