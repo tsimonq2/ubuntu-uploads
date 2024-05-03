@@ -18,3 +18,4 @@ lintian 2.62.0ubuntu2.3 https://launchpad.net/ubuntu/+source/lintian/2.62.0ubunt
 openjdk-21 21.0.1+12-2~20.04 https://launchpad.net/ubuntu/+source/openjdk-21/21.0.1+12-2~20.04
 qt-gstreamer 1.2.0-5ubuntu0.1 https://launchpad.net/ubuntu/+source/qt-gstreamer/1.2.0-5ubuntu0.1
 lintian 2.62.0ubuntu2.4 https://launchpad.net/ubuntu/+source/lintian/2.62.0ubuntu2.4
+vim 2:8.1.2269-1ubuntu5.23 https://launchpad.net/ubuntu/+source/vim/2:8.1.2269-1ubuntu5.23
