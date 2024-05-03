@@ -300,3 +300,4 @@ lubuntu-installer-prompt 24.04.6 https://launchpad.net/ubuntu/+source/lubuntu-in
 calamares 3.3.5-0ubuntu4 https://launchpad.net/ubuntu/+source/calamares/3.3.5-0ubuntu4
 gnome-session 46.0-1ubuntu4.1 https://launchpad.net/ubuntu/+source/gnome-session/46.0-1ubuntu4.1
 lintian 2.117.0ubuntu1.1 https://launchpad.net/ubuntu/+source/lintian/2.117.0ubuntu1.1
+vim 2:9.1.0016-1ubuntu7.1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0016-1ubuntu7.1
