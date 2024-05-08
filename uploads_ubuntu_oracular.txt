@@ -15,3 +15,4 @@ hasciicam 1.1.2-1.1ubuntu1 https://launchpad.net/ubuntu/+source/hasciicam/1.1.2-
 ruby-rails-assets-jquery-textchange 0.2.3-1.1ubuntu1 https://launchpad.net/ubuntu/+source/ruby-rails-assets-jquery-textchange/0.2.3-1.1ubuntu1
 nagios-plugins-rabbitmq 1:1.2.0-2.5ubuntu1 https://launchpad.net/ubuntu/+source/nagios-plugins-rabbitmq/1:1.2.0-2.5ubuntu1
 pppoeconf 1.21+nmu3ubuntu1 https://launchpad.net/ubuntu/+source/pppoeconf/1.21+nmu3ubuntu1
+cachefilesd 0.10.10-0.4ubuntu1 https://launchpad.net/ubuntu/+source/cachefilesd/0.10.10-0.4ubuntu1
