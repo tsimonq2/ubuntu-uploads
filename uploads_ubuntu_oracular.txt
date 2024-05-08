@@ -18,3 +18,4 @@ pppoeconf 1.21+nmu3ubuntu1 https://launchpad.net/ubuntu/+source/pppoeconf/1.21+n
 cachefilesd 0.10.10-0.4ubuntu1 https://launchpad.net/ubuntu/+source/cachefilesd/0.10.10-0.4ubuntu1
 cfingerd 1.4.3-8ubuntu1 https://launchpad.net/ubuntu/+source/cfingerd/1.4.3-8ubuntu1
 vinagre 3.22.0-8.1ubuntu1 https://launchpad.net/ubuntu/+source/vinagre/3.22.0-8.1ubuntu1
+lxqt-metapackages 32ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-metapackages/32ubuntu1
