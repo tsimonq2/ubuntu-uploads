@@ -13,3 +13,4 @@ qt6-sensors 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-sensors/6.6.2-1
 qt6-virtualkeyboard 6.6.2+dfsg-1 https://launchpad.net/ubuntu/+source/qt6-virtualkeyboard/6.6.2+dfsg-1
 qt6-wayland 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-wayland/6.6.2-1
 qt6-websockets 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-websockets/6.6.2-1
+qt6-tools 6.6.2-2 https://launchpad.net/ubuntu/+source/qt6-tools/6.6.2-2
