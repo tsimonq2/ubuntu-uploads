@@ -26,3 +26,4 @@ qt6-3d 6.6.2+dfsg-1 https://launchpad.net/ubuntu/+source/qt6-3d/6.6.2+dfsg-1
 qt6-webengine 6.6.2+dfsg-2 https://launchpad.net/ubuntu/+source/qt6-webengine/6.6.2+dfsg-2
 qt6-charts 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-charts/6.6.2-1
 qt6-grpc 6.6.2-2 https://launchpad.net/ubuntu/+source/qt6-grpc/6.6.2-2
+qt6-location 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-location/6.6.2-1
