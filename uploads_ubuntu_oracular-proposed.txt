@@ -5,3 +5,4 @@ qt6-5compat 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-5compat/6.6.2-1
 qt6-connectivity 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-connectivity/6.6.2-1
 qt6-datavis3d 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-datavis3d/6.6.2-1
 qt6-lottie 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-lottie/6.6.2-1
+qt6-multimedia 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-multimedia/6.6.2-1
