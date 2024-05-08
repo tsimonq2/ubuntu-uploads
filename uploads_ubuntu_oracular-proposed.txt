@@ -18,3 +18,4 @@ qt6-speech 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-speech/6.6.2-1
 qt6-remoteobjects 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-remoteobjects/6.6.2-1
 qt6-quick3d 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-quick3d/6.6.2-1
 qt6-webview 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-webview/6.6.2-1
+qt6-httpserver 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-httpserver/6.6.2-1
