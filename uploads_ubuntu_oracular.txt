@@ -13,3 +13,4 @@ dublin-traceroute 0.4.2-3ubuntu1 https://launchpad.net/ubuntu/+source/dublin-tra
 gammaray 2.11.3-4ubuntu1 https://launchpad.net/ubuntu/+source/gammaray/2.11.3-4ubuntu1
 hasciicam 1.1.2-1.1ubuntu1 https://launchpad.net/ubuntu/+source/hasciicam/1.1.2-1.1ubuntu1
 ruby-rails-assets-jquery-textchange 0.2.3-1.1ubuntu1 https://launchpad.net/ubuntu/+source/ruby-rails-assets-jquery-textchange/0.2.3-1.1ubuntu1
+nagios-plugins-rabbitmq 1:1.2.0-2.5ubuntu1 https://launchpad.net/ubuntu/+source/nagios-plugins-rabbitmq/1:1.2.0-2.5ubuntu1
