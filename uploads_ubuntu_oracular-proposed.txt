@@ -1,3 +1,4 @@
 distro-info-data 0.62 https://launchpad.net/ubuntu/+source/distro-info-data/0.62
 qt6-serialbus 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-serialbus/6.6.2-1
 qt6-declarative 6.6.2+dfsg-2 https://launchpad.net/ubuntu/+source/qt6-declarative/6.6.2+dfsg-2
+qt6-5compat 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-5compat/6.6.2-1
