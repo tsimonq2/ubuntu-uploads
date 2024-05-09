@@ -29,3 +29,4 @@ qt6-grpc 6.6.2-2 https://launchpad.net/ubuntu/+source/qt6-grpc/6.6.2-2
 qt6-location 6.6.2-1 https://launchpad.net/ubuntu/+source/qt6-location/6.6.2-1
 gfal2 2.22.2-2 https://launchpad.net/ubuntu/+source/gfal2/2.22.2-2
 zurl 1.12.0-1.1 https://launchpad.net/ubuntu/+source/zurl/1.12.0-1.1
+gnuradio 3.10.10.0-1 https://launchpad.net/ubuntu/+source/gnuradio/3.10.10.0-1
