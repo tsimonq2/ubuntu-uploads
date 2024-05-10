@@ -31,3 +31,4 @@ gfal2 2.22.2-2 https://launchpad.net/ubuntu/+source/gfal2/2.22.2-2
 zurl 1.12.0-1.1 https://launchpad.net/ubuntu/+source/zurl/1.12.0-1.1
 gnuradio 3.10.10.0-1 https://launchpad.net/ubuntu/+source/gnuradio/3.10.10.0-1
 abi-monitor 1.12-2.1 https://launchpad.net/ubuntu/+source/abi-monitor/1.12-2.1
+emacs-pdf-tools 1.1.0-2 https://launchpad.net/ubuntu/+source/emacs-pdf-tools/1.1.0-2
