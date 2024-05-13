@@ -36,3 +36,4 @@ exaile 4.1.3+dfsg-3 https://launchpad.net/ubuntu/+source/exaile/4.1.3+dfsg-3
 collatinus 12.2-2 https://launchpad.net/ubuntu/+source/collatinus/12.2-2
 gfal2-bindings 1.12.2-2 https://launchpad.net/ubuntu/+source/gfal2-bindings/1.12.2-2
 praelector 0.5-3 https://launchpad.net/ubuntu/+source/praelector/0.5-3
+libcgi-application-plugin-messagestack-perl 0.34-5 https://launchpad.net/ubuntu/+source/libcgi-application-plugin-messagestack-perl/0.34-5
