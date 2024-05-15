@@ -85,3 +85,4 @@ kf6-modemmanager-qt 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-modemmanage
 kf6-networkmanager-qt 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-networkmanager-qt/6.0.0-1
 kf6-kwidgetsaddons 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kwidgetsaddons/6.0.0-2
 kf6-kwindowsystem 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kwindowsystem/6.0.0-2
+kf6-kwallet 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kwallet/6.0.0-1
