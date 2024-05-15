@@ -39,3 +39,4 @@ praelector 0.5-3 https://launchpad.net/ubuntu/+source/praelector/0.5-3
 libcgi-application-plugin-messagestack-perl 0.34-5 https://launchpad.net/ubuntu/+source/libcgi-application-plugin-messagestack-perl/0.34-5
 coin3 4.0.2+ds-2 https://launchpad.net/ubuntu/+source/coin3/4.0.2+ds-2
 color-picker 1.0.3-3 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-3
+qt6-speech 6.6.2-2 https://launchpad.net/ubuntu/+source/qt6-speech/6.6.2-2
