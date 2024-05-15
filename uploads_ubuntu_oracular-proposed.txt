@@ -43,3 +43,4 @@ qt6-speech 6.6.2-2 https://launchpad.net/ubuntu/+source/qt6-speech/6.6.2-2
 adonthell 0.3.8-3 https://launchpad.net/ubuntu/+source/adonthell/0.3.8-3
 aqemu 0.9.2-4 https://launchpad.net/ubuntu/+source/aqemu/0.9.2-4
 smifb2 2.3.0.4.gae69a84-1 https://launchpad.net/ubuntu/+source/smifb2/2.3.0.4.gae69a84-1
+extra-cmake-modules 6.1.0-1 https://launchpad.net/ubuntu/+source/extra-cmake-modules/6.1.0-1
