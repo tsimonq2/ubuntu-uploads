@@ -101,3 +101,4 @@ kf6-kcolorscheme 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kcolorscheme/6
 kf6-bluez-qt 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-bluez-qt/6.0.0-1
 kf6-karchive 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-karchive/6.0.0-1
 kf6-kauth 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kauth/6.0.0-1
+kf6-kbookmarks 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kbookmarks/6.0.0-1
