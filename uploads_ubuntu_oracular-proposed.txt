@@ -94,3 +94,4 @@ kf6-kcrash 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kcrash/6.0.0-1
 kf6-attica 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-attica/6.0.0-2
 kf6-kcompletion 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kcompletion/6.0.0-1
 kf6-kconfig 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kconfig/6.0.0-1
+kf6-kconfigwidgets 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kconfigwidgets/6.0.0-1
