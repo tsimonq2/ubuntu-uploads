@@ -90,3 +90,4 @@ kf6-kdbusaddons 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kdbusaddons/6.0
 kf6-kdeclarative 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kdeclarative/6.0.0-1
 kf6-kcontacts 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kcontacts/6.0.0-1
 kf6-kcoreaddons 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kcoreaddons/6.0.0-1
+kf6-kcrash 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kcrash/6.0.0-1
