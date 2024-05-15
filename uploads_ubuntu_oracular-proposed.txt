@@ -68,3 +68,4 @@ kf6-kiconthemes 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kiconthemes/6.0
 kf6-kidletime 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kidletime/6.0.0-1
 kf6-kglobalaccel 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kglobalaccel/6.0.0-1
 kf6-kguiaddons 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kguiaddons/6.0.0-2
+kf6-kholidays 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kholidays/6.0.0-1
