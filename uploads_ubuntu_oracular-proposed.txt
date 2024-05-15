@@ -102,3 +102,4 @@ kf6-bluez-qt 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-bluez-qt/6.0.0-1
 kf6-karchive 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-karchive/6.0.0-1
 kf6-kauth 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kauth/6.0.0-1
 kf6-kbookmarks 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kbookmarks/6.0.0-1
+kf6-breeze-icons 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-breeze-icons/6.0.0-1
