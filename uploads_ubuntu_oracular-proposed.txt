@@ -40,3 +40,4 @@ libcgi-application-plugin-messagestack-perl 0.34-5 https://launchpad.net/ubuntu/
 coin3 4.0.2+ds-2 https://launchpad.net/ubuntu/+source/coin3/4.0.2+ds-2
 color-picker 1.0.3-3 https://launchpad.net/ubuntu/+source/color-picker/1.0.3-3
 qt6-speech 6.6.2-2 https://launchpad.net/ubuntu/+source/qt6-speech/6.6.2-2
+adonthell 0.3.8-3 https://launchpad.net/ubuntu/+source/adonthell/0.3.8-3
