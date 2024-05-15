@@ -55,3 +55,4 @@ kf6-kstatusnotifieritem 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kstatus
 kf6-kplotting 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kplotting/6.0.0-1
 kf6-kpty 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kpty/6.0.0-1
 kf6-kquickcharts 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kquickcharts/6.0.0-2
+kf6-knewstuff 6.0.0-3 https://launchpad.net/ubuntu/+source/kf6-knewstuff/6.0.0-3
