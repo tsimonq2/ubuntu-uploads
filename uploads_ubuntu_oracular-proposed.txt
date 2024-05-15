@@ -80,3 +80,4 @@ kf6-syntax-highlighting 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-syntax-
 kf6-prison 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-prison/6.0.0-1
 kf6-qqc2-desktop-style 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-qqc2-desktop-style/6.0.0-1
 kf6-solid 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-solid/6.0.0-1
+kf6-kxmlgui 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kxmlgui/6.0.0-1
