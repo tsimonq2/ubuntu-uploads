@@ -82,3 +82,4 @@ kf6-qqc2-desktop-style 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-qqc2-des
 kf6-solid 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-solid/6.0.0-1
 kf6-kxmlgui 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kxmlgui/6.0.0-1
 kf6-modemmanager-qt 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-modemmanager-qt/6.0.0-1
+kf6-networkmanager-qt 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-networkmanager-qt/6.0.0-1
