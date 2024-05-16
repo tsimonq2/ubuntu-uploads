@@ -120,3 +120,4 @@ qtdeclarative-opensource-src 5.15.7+dfsg-1 https://launchpad.net/debian/+source/
 runit 2.1.2-56 https://launchpad.net/debian/+source/runit/2.1.2-56
 qt6-sensors 6.6.1-1 https://launchpad.net/debian/+source/qt6-sensors/6.6.1-1
 qt6-sensors 6.6.1-2 https://launchpad.net/debian/+source/qt6-sensors/6.6.1-2
+kf6-breeze-icons 6.0.0-2 https://launchpad.net/debian/+source/kf6-breeze-icons/6.0.0-2
