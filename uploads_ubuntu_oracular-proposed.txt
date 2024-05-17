@@ -111,3 +111,4 @@ kf6-ktexteditor 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-ktexteditor/6.0
 kf6-kio 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kio/6.0.0-2
 kf6-knotifications 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-knotifications/6.0.0-1
 kf6-kparts 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kparts/6.0.0-1
+kf6-kwallet 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kwallet/6.0.0-2
