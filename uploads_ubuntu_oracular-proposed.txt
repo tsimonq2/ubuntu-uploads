@@ -108,3 +108,4 @@ kf6-breeze-icons 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-breeze-icons/6
 kf6-kdav 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kdav/6.0.0-1
 kf6-knotifyconfig 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-knotifyconfig/6.0.0-1
 kf6-ktexteditor 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-ktexteditor/6.0.0-1
+kf6-kio 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kio/6.0.0-2
