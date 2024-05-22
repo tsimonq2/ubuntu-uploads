@@ -21,3 +21,4 @@ vinagre 3.22.0-8.1ubuntu1 https://launchpad.net/ubuntu/+source/vinagre/3.22.0-8.
 lxqt-metapackages 32ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-metapackages/32ubuntu1
 ben 0.10.3ubuntu5 https://launchpad.net/ubuntu/+source/ben/0.10.3ubuntu5
 kf6-breeze-icons 6.0.0-2~fakesync1 https://launchpad.net/ubuntu/+source/kf6-breeze-icons/6.0.0-2~fakesync1
+matplotlib 3.6.3-2ubuntu1 https://launchpad.net/ubuntu/+source/matplotlib/3.6.3-2ubuntu1
