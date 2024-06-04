@@ -114,3 +114,4 @@ kf6-kparts 6.0.0-1 https://launchpad.net/ubuntu/+source/kf6-kparts/6.0.0-1
 kf6-kwallet 6.0.0-2 https://launchpad.net/ubuntu/+source/kf6-kwallet/6.0.0-2
 python-influxdb-client 1.40.0-3 https://launchpad.net/ubuntu/+source/python-influxdb-client/1.40.0-3
 deepin-movie-reborn 5.10.8-2.1 https://launchpad.net/ubuntu/+source/deepin-movie-reborn/5.10.8-2.1
+tfortune 1.0.2-1 https://launchpad.net/ubuntu/+source/tfortune/1.0.2-1
