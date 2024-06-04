@@ -116,3 +116,4 @@ python-influxdb-client 1.40.0-3 https://launchpad.net/ubuntu/+source/python-infl
 deepin-movie-reborn 5.10.8-2.1 https://launchpad.net/ubuntu/+source/deepin-movie-reborn/5.10.8-2.1
 tfortune 1.0.2-1 https://launchpad.net/ubuntu/+source/tfortune/1.0.2-1
 genometools 1.6.5+ds-2.2 https://launchpad.net/ubuntu/+source/genometools/1.6.5+ds-2.2
+xca 2.6.0-1 https://launchpad.net/ubuntu/+source/xca/2.6.0-1
