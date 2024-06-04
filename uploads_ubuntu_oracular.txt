@@ -24,3 +24,4 @@ kf6-breeze-icons 6.0.0-2~fakesync1 https://launchpad.net/ubuntu/+source/kf6-bree
 matplotlib 3.6.3-2ubuntu1 https://launchpad.net/ubuntu/+source/matplotlib/3.6.3-2ubuntu1
 anki 2.1.15+dfsg-4ubuntu1 https://launchpad.net/ubuntu/+source/anki/2.1.15+dfsg-4ubuntu1
 python-googleapi 2.131.0-0ubuntu1 https://launchpad.net/ubuntu/+source/python-googleapi/2.131.0-0ubuntu1
+landscape-client 24.02-0ubuntu7 https://launchpad.net/ubuntu/+source/landscape-client/24.02-0ubuntu7
