@@ -27,3 +27,4 @@ python-googleapi 2.131.0-0ubuntu1 https://launchpad.net/ubuntu/+source/python-go
 landscape-client 24.02-0ubuntu7 https://launchpad.net/ubuntu/+source/landscape-client/24.02-0ubuntu7
 cinder 2:24.0.0-0ubuntu2 https://launchpad.net/ubuntu/+source/cinder/2:24.0.0-0ubuntu2
 amarok 2:3.0.1-1ubuntu1 https://launchpad.net/ubuntu/+source/amarok/2:3.0.1-1ubuntu1
+python-dtcwt 0.12.0-5ubuntu1 https://launchpad.net/ubuntu/+source/python-dtcwt/0.12.0-5ubuntu1
