@@ -119,3 +119,4 @@ genometools 1.6.5+ds-2.2 https://launchpad.net/ubuntu/+source/genometools/1.6.5+
 xca 2.6.0-1 https://launchpad.net/ubuntu/+source/xca/2.6.0-1
 raku-readline 0.1.6-3.1 https://launchpad.net/ubuntu/+source/raku-readline/0.1.6-3.1
 scsitools 0.12-6 https://launchpad.net/ubuntu/+source/scsitools/0.12-6
+php-doctrine-cache 2.2.0-3 https://launchpad.net/ubuntu/+source/php-doctrine-cache/2.2.0-3
