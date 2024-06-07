@@ -302,3 +302,4 @@ gnome-session 46.0-1ubuntu4.1 https://launchpad.net/ubuntu/+source/gnome-session
 lintian 2.117.0ubuntu1.1 https://launchpad.net/ubuntu/+source/lintian/2.117.0ubuntu1.1
 vim 2:9.1.0016-1ubuntu7.1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0016-1ubuntu7.1
 pipewire 1.0.5-1ubuntu1 https://launchpad.net/ubuntu/+source/pipewire/1.0.5-1ubuntu1
+torbrowser-launcher 0.3.7-1ubuntu1 https://launchpad.net/ubuntu/+source/torbrowser-launcher/0.3.7-1ubuntu1
