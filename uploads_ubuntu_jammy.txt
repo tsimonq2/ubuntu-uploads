@@ -33,3 +33,4 @@ lubuntu-update-notifier 0.5.1~22.04.6 https://launchpad.net/ubuntu/+source/lubun
 linux-show-player 0.5.2-1ubuntu0.1 https://launchpad.net/ubuntu/+source/linux-show-player/0.5.2-1ubuntu0.1
 lintian 2.114.0ubuntu1.4 https://launchpad.net/ubuntu/+source/lintian/2.114.0ubuntu1.4
 vim 2:8.2.3995-1ubuntu2.17 https://launchpad.net/ubuntu/+source/vim/2:8.2.3995-1ubuntu2.17
+involflt 0.1.0-0ubuntu6~22.04.1 https://launchpad.net/ubuntu/+source/involflt/0.1.0-0ubuntu6~22.04.1
