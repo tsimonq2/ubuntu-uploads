@@ -304,3 +304,4 @@ vim 2:9.1.0016-1ubuntu7.1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0016-1u
 pipewire 1.0.5-1ubuntu1 https://launchpad.net/ubuntu/+source/pipewire/1.0.5-1ubuntu1
 torbrowser-launcher 0.3.7-1ubuntu1 https://launchpad.net/ubuntu/+source/torbrowser-launcher/0.3.7-1ubuntu1
 ppa-purge 0.2.8+bzr63-0ubuntu2.1 https://launchpad.net/ubuntu/+source/ppa-purge/0.2.8+bzr63-0ubuntu2.1
+extruct 0.16.0-3ubuntu0.1 https://launchpad.net/ubuntu/+source/extruct/0.16.0-3ubuntu0.1
