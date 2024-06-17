@@ -1,0 +1,1 @@
+plasma-workspace 4:5.27.8-0ubuntu1.1 https://launchpad.net/ubuntu/+source/plasma-workspace/4:5.27.8-0ubuntu1.1
