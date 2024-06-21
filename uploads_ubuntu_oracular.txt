@@ -32,3 +32,4 @@ debhelper 13.15.3ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.15.3u
 debmirror 1:2.40ubuntu1 https://launchpad.net/ubuntu/+source/debmirror/1:2.40ubuntu1
 bash 5.2.21-2.1ubuntu1 https://launchpad.net/ubuntu/+source/bash/5.2.21-2.1ubuntu1
 vim 2:9.1.0496-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0496-1ubuntu1
+pollinate 4.33-4ubuntu1 https://launchpad.net/ubuntu/+source/pollinate/4.33-4ubuntu1
