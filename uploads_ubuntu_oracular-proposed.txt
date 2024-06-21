@@ -129,3 +129,4 @@ less 643-1 https://launchpad.net/ubuntu/+source/less/643-1
 xinit 1.4.2-1 https://launchpad.net/ubuntu/+source/xinit/1.4.2-1
 lgogdownloader 3.14-1 https://launchpad.net/ubuntu/+source/lgogdownloader/3.14-1
 gitsome 0.8.0+ds-9.1 https://launchpad.net/ubuntu/+source/gitsome/0.8.0+ds-9.1
+php-parser 5.0.2-3 https://launchpad.net/ubuntu/+source/php-parser/5.0.2-3
