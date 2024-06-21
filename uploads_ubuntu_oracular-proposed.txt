@@ -124,3 +124,4 @@ kraptor 0.0.20040403+ds-4 https://launchpad.net/ubuntu/+source/kraptor/0.0.20040
 dub 1.36.0-3 https://launchpad.net/ubuntu/+source/dub/1.36.0-3
 topal 84-1 https://launchpad.net/ubuntu/+source/topal/84-1
 translate-toolkit 3.13.0-1 https://launchpad.net/ubuntu/+source/translate-toolkit/3.13.0-1
+ruff 0.0.291+dfsg1-4 https://launchpad.net/ubuntu/+source/ruff/0.0.291+dfsg1-4
