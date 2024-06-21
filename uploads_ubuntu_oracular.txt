@@ -35,3 +35,4 @@ vim 2:9.1.0496-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0496-1ubu
 pollinate 4.33-4ubuntu1 https://launchpad.net/ubuntu/+source/pollinate/4.33-4ubuntu1
 dput 1.2.1ubuntu1 https://launchpad.net/ubuntu/+source/dput/1.2.1ubuntu1
 vim 2:9.1.0496-1ubuntu2 https://launchpad.net/ubuntu/+source/vim/2:9.1.0496-1ubuntu2
+dput 1.2.1ubuntu2 https://launchpad.net/ubuntu/+source/dput/1.2.1ubuntu2
