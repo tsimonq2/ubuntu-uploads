@@ -39,3 +39,4 @@ dput 1.2.1ubuntu2 https://launchpad.net/ubuntu/+source/dput/1.2.1ubuntu2
 lubuntu-meta 24.10.2 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.10.2
 lubuntu-meta 24.10.3 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.10.3
 featherpad 1.5.1-0ubuntu1 https://launchpad.net/ubuntu/+source/featherpad/1.5.1-0ubuntu1
+calamares 3.3.8-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.8-0ubuntu1
