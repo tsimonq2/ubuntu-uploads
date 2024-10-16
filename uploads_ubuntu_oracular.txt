@@ -41,3 +41,4 @@ lubuntu-meta 24.10.3 https://launchpad.net/ubuntu/+source/lubuntu-meta/24.10.3
 featherpad 1.5.1-0ubuntu1 https://launchpad.net/ubuntu/+source/featherpad/1.5.1-0ubuntu1
 calamares 3.3.8-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.8-0ubuntu1
 xdg-utils 1.2.1-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-utils/1.2.1-0ubuntu1
+vim 2:9.1.0496-1ubuntu6.1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0496-1ubuntu6.1
