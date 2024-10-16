@@ -22,3 +22,4 @@ vim 2:8.1.2269-1ubuntu5.23 https://launchpad.net/ubuntu/+source/vim/2:8.1.2269-1
 involflt 0.1.0-0ubuntu6~20.04.1 https://launchpad.net/ubuntu/+source/involflt/0.1.0-0ubuntu6~20.04.1
 fstransform 0.9.4-1ubuntu0.20.04.1 https://launchpad.net/ubuntu/+source/fstransform/0.9.4-1ubuntu0.20.04.1
 lintian 2.62.0ubuntu2.5 https://launchpad.net/ubuntu/+source/lintian/2.62.0ubuntu2.5
+vim 2:8.1.2269-1ubuntu5.26 https://launchpad.net/ubuntu/+source/vim/2:8.1.2269-1ubuntu5.26
