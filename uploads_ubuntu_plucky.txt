@@ -4,3 +4,4 @@ usb-creator 0.4.0 https://launchpad.net/ubuntu/+source/usb-creator/0.4.0
 debhelper 13.20ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.20ubuntu1
 vim 2:9.1.0777-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0777-1ubuntu1
 kpmcore 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpmcore/24.08.2-1ubuntu1
+partitionmanager 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/partitionmanager/24.08.2-1ubuntu1
