@@ -36,3 +36,4 @@ vim 2:8.2.3995-1ubuntu2.17 https://launchpad.net/ubuntu/+source/vim/2:8.2.3995-1
 involflt 0.1.0-0ubuntu6~22.04.1 https://launchpad.net/ubuntu/+source/involflt/0.1.0-0ubuntu6~22.04.1
 fstransform 0.9.4-1ubuntu0.22.04.1 https://launchpad.net/ubuntu/+source/fstransform/0.9.4-1ubuntu0.22.04.1
 lintian 2.114.0ubuntu1.5 https://launchpad.net/ubuntu/+source/lintian/2.114.0ubuntu1.5
+vim 2:8.2.3995-1ubuntu2.20 https://launchpad.net/ubuntu/+source/vim/2:8.2.3995-1ubuntu2.20
