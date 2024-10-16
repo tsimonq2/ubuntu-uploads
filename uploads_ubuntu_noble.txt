@@ -306,3 +306,4 @@ torbrowser-launcher 0.3.7-1ubuntu1 https://launchpad.net/ubuntu/+source/torbrows
 ppa-purge 0.2.8+bzr63-0ubuntu2.1 https://launchpad.net/ubuntu/+source/ppa-purge/0.2.8+bzr63-0ubuntu2.1
 extruct 0.16.0-3ubuntu0.1 https://launchpad.net/ubuntu/+source/extruct/0.16.0-3ubuntu0.1
 fstransform 0.9.4-1ubuntu0.24.04.1 https://launchpad.net/ubuntu/+source/fstransform/0.9.4-1ubuntu0.24.04.1
+lintian 2.117.0ubuntu1.2 https://launchpad.net/ubuntu/+source/lintian/2.117.0ubuntu1.2
