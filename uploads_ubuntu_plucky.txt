@@ -6,3 +6,4 @@ vim 2:9.1.0777-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0777-1ubu
 kpmcore 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpmcore/24.08.2-1ubuntu1
 partitionmanager 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/partitionmanager/24.08.2-1ubuntu1
 software-properties 0.104 https://launchpad.net/ubuntu/+source/software-properties/0.104
+lxqt-sudo 2.0.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-sudo/2.0.0-0ubuntu2
