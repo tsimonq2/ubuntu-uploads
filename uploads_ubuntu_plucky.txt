@@ -2,3 +2,4 @@ lubuntu-artwork 25.04.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/25.
 calamares 3.3.9-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.9-0ubuntu1
 usb-creator 0.4.0 https://launchpad.net/ubuntu/+source/usb-creator/0.4.0
 debhelper 13.20ubuntu1 https://launchpad.net/ubuntu/+source/debhelper/13.20ubuntu1
+vim 2:9.1.0777-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0777-1ubuntu1
