@@ -1,1 +1,2 @@
 lubuntu-artwork 25.04.1 https://launchpad.net/ubuntu/+source/lubuntu-artwork/25.04.1
+calamares 3.3.9-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.9-0ubuntu1
