@@ -12,3 +12,4 @@ ubuntu-release-upgrader 1:25.04.1 https://launchpad.net/ubuntu/+source/ubuntu-re
 nm-tray 0.5.1-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.5.1-0ubuntu1
 ksanecore 24.08.2-2ubuntu1 https://launchpad.net/ubuntu/+source/ksanecore/24.08.2-2ubuntu1
 skanlite 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/skanlite/24.08.2-1ubuntu1
+debconf-kde 1.1.0-1ubuntu3 https://launchpad.net/ubuntu/+source/debconf-kde/1.1.0-1ubuntu3
