@@ -8,3 +8,4 @@ partitionmanager 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/partition
 software-properties 0.104 https://launchpad.net/ubuntu/+source/software-properties/0.104
 lxqt-sudo 2.0.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-sudo/2.0.0-0ubuntu2
 2048-qt 0.1.6-2ubuntu1 https://launchpad.net/ubuntu/+source/2048-qt/0.1.6-2ubuntu1
+ubuntu-release-upgrader 1:25.04.1 https://launchpad.net/ubuntu/+source/ubuntu-release-upgrader/1:25.04.1
