@@ -9,3 +9,4 @@ software-properties 0.104 https://launchpad.net/ubuntu/+source/software-properti
 lxqt-sudo 2.0.0-0ubuntu2 https://launchpad.net/ubuntu/+source/lxqt-sudo/2.0.0-0ubuntu2
 2048-qt 0.1.6-2ubuntu1 https://launchpad.net/ubuntu/+source/2048-qt/0.1.6-2ubuntu1
 ubuntu-release-upgrader 1:25.04.1 https://launchpad.net/ubuntu/+source/ubuntu-release-upgrader/1:25.04.1
+nm-tray 0.5.1-0ubuntu1 https://launchpad.net/ubuntu/+source/nm-tray/0.5.1-0ubuntu1
