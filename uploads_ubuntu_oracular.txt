@@ -43,3 +43,4 @@ calamares 3.3.8-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.8-0u
 xdg-utils 1.2.1-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-utils/1.2.1-0ubuntu1
 vim 2:9.1.0496-1ubuntu6.1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0496-1ubuntu6.1
 lintian 2.118.0ubuntu1.1 https://launchpad.net/ubuntu/+source/lintian/2.118.0ubuntu1.1
+debhelper 13.18ubuntu2.1 https://launchpad.net/ubuntu/+source/debhelper/13.18ubuntu2.1
