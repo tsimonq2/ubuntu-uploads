@@ -130,3 +130,4 @@ wl-mirror 0.16.4-1 https://launchpad.net/debian/+source/wl-mirror/0.16.4-1
 wl-mirror 0.16.5-1 https://launchpad.net/debian/+source/wl-mirror/0.16.5-1
 wl-mirror 0.16.5-2 https://launchpad.net/debian/+source/wl-mirror/0.16.5-2
 wl-mirror 0.17.0-1 https://launchpad.net/debian/+source/wl-mirror/0.17.0-1
+redshift-qt 0.6-4 https://launchpad.net/debian/+source/redshift-qt/0.6-4
