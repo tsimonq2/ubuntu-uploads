@@ -18,3 +18,4 @@ qlipper 1:5.1.2-2ubuntu1 https://launchpad.net/ubuntu/+source/qlipper/1:5.1.2-2u
 qtilitools 0.1.2+git20240107-0ubuntu1 https://launchpad.net/ubuntu/+source/qtilitools/0.1.2+git20240107-0ubuntu1
 picom-conf 0.17.0-1ubuntu2 https://launchpad.net/ubuntu/+source/picom-conf/0.17.0-1ubuntu2
 sddm-conf 0.2.0-0ubuntu8 https://launchpad.net/ubuntu/+source/sddm-conf/0.2.0-0ubuntu8
+qtpass 1.4.0-2ubuntu1 https://launchpad.net/ubuntu/+source/qtpass/1.4.0-2ubuntu1
