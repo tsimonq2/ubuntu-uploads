@@ -14,3 +14,4 @@ ksanecore 24.08.2-2ubuntu1 https://launchpad.net/ubuntu/+source/ksanecore/24.08.
 skanlite 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/skanlite/24.08.2-1ubuntu1
 debconf-kde 1.1.0-1ubuntu3 https://launchpad.net/ubuntu/+source/debconf-kde/1.1.0-1ubuntu3
 noblenote 1.4.0~ubuntu1 https://launchpad.net/ubuntu/+source/noblenote/1.4.0~ubuntu1
+qlipper 1:5.1.2-2ubuntu1 https://launchpad.net/ubuntu/+source/qlipper/1:5.1.2-2ubuntu1
