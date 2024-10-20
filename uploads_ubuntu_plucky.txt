@@ -19,3 +19,4 @@ qtilitools 0.1.2+git20240107-0ubuntu1 https://launchpad.net/ubuntu/+source/qtili
 picom-conf 0.17.0-1ubuntu2 https://launchpad.net/ubuntu/+source/picom-conf/0.17.0-1ubuntu2
 sddm-conf 0.2.0-0ubuntu8 https://launchpad.net/ubuntu/+source/sddm-conf/0.2.0-0ubuntu8
 qtpass 1.4.0-2ubuntu1 https://launchpad.net/ubuntu/+source/qtpass/1.4.0-2ubuntu1
+qtpass 1.4.0-2ubuntu2 https://launchpad.net/ubuntu/+source/qtpass/1.4.0-2ubuntu2
