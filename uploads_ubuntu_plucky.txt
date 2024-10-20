@@ -20,3 +20,4 @@ picom-conf 0.17.0-1ubuntu2 https://launchpad.net/ubuntu/+source/picom-conf/0.17.
 sddm-conf 0.2.0-0ubuntu8 https://launchpad.net/ubuntu/+source/sddm-conf/0.2.0-0ubuntu8
 qtpass 1.4.0-2ubuntu1 https://launchpad.net/ubuntu/+source/qtpass/1.4.0-2ubuntu1
 qtpass 1.4.0-2ubuntu2 https://launchpad.net/ubuntu/+source/qtpass/1.4.0-2ubuntu2
+obconf-qt 0.16.4+git20241012-0ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.16.4+git20241012-0ubuntu1
