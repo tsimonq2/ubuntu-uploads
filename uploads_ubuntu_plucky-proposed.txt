@@ -1,0 +1,1 @@
+libksane 24.08.2-1 https://launchpad.net/ubuntu/+source/libksane/24.08.2-1
