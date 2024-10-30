@@ -33,3 +33,4 @@ ubuntu-budgie-meta 0.133 https://launchpad.net/ubuntu/+source/ubuntu-budgie-meta
 ubuntucinnamon-meta 25.04.1 https://launchpad.net/ubuntu/+source/ubuntucinnamon-meta/25.04.1
 ubuntukylin-meta 0.60 https://launchpad.net/ubuntu/+source/ubuntukylin-meta/0.60
 ubuntu-mate-meta 1.300 https://launchpad.net/ubuntu/+source/ubuntu-mate-meta/1.300
+ubuntustudio-meta 25.04.1 https://launchpad.net/ubuntu/+source/ubuntustudio-meta/25.04.1
