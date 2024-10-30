@@ -37,3 +37,4 @@ ubuntustudio-meta 25.04.1 https://launchpad.net/ubuntu/+source/ubuntustudio-meta
 ubuntu-unity-meta 0.20 https://launchpad.net/ubuntu/+source/ubuntu-unity-meta/0.20
 xubuntu-meta 2.264 https://launchpad.net/ubuntu/+source/xubuntu-meta/2.264
 lubuntu-meta 25.04.1 https://launchpad.net/ubuntu/+source/lubuntu-meta/25.04.1
+kolourpaint 4:24.08.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kolourpaint/4:24.08.2-0ubuntu1
