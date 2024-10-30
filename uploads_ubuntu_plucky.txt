@@ -35,3 +35,4 @@ ubuntukylin-meta 0.60 https://launchpad.net/ubuntu/+source/ubuntukylin-meta/0.60
 ubuntu-mate-meta 1.300 https://launchpad.net/ubuntu/+source/ubuntu-mate-meta/1.300
 ubuntustudio-meta 25.04.1 https://launchpad.net/ubuntu/+source/ubuntustudio-meta/25.04.1
 ubuntu-unity-meta 0.20 https://launchpad.net/ubuntu/+source/ubuntu-unity-meta/0.20
+xubuntu-meta 2.264 https://launchpad.net/ubuntu/+source/xubuntu-meta/2.264
