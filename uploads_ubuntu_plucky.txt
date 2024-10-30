@@ -42,3 +42,4 @@ tellico 4.0.1-1ubuntu1 https://launchpad.net/ubuntu/+source/tellico/4.0.1-1ubunt
 skanpage 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/skanpage/24.08.2-1ubuntu1
 kaccounts-integration 4:24.08.0-1ubuntu1 https://launchpad.net/ubuntu/+source/kaccounts-integration/4:24.08.0-1ubuntu1
 kaccounts-providers 4:24.08.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kaccounts-providers/4:24.08.1-1ubuntu1
+lubuntu-meta 25.04.2 https://launchpad.net/ubuntu/+source/lubuntu-meta/25.04.2
