@@ -30,3 +30,4 @@ calamares 3.3.9-0ubuntu2 https://launchpad.net/ubuntu/+source/calamares/3.3.9-0u
 edubuntu-meta 25.04.1 https://launchpad.net/ubuntu/+source/edubuntu-meta/25.04.1
 kubuntu-meta 1.465 https://launchpad.net/ubuntu/+source/kubuntu-meta/1.465
 ubuntu-budgie-meta 0.133 https://launchpad.net/ubuntu/+source/ubuntu-budgie-meta/0.133
+ubuntucinnamon-meta 25.04.1 https://launchpad.net/ubuntu/+source/ubuntucinnamon-meta/25.04.1
