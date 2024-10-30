@@ -27,3 +27,4 @@ snapd-extra-utils 1.0.0 https://launchpad.net/ubuntu/+source/snapd-extra-utils/1
 lubuntu-default-settings 25.04.1 https://launchpad.net/ubuntu/+source/lubuntu-default-settings/25.04.1
 snapd-extra-utils 1.0.1 https://launchpad.net/ubuntu/+source/snapd-extra-utils/1.0.1
 calamares 3.3.9-0ubuntu2 https://launchpad.net/ubuntu/+source/calamares/3.3.9-0ubuntu2
+edubuntu-meta 25.04.1 https://launchpad.net/ubuntu/+source/edubuntu-meta/25.04.1
