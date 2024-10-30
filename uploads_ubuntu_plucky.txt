@@ -41,3 +41,4 @@ kolourpaint 4:24.08.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kolourpaint/
 tellico 4.0.1-1ubuntu1 https://launchpad.net/ubuntu/+source/tellico/4.0.1-1ubuntu1
 skanpage 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/skanpage/24.08.2-1ubuntu1
 kaccounts-integration 4:24.08.0-1ubuntu1 https://launchpad.net/ubuntu/+source/kaccounts-integration/4:24.08.0-1ubuntu1
+kaccounts-providers 4:24.08.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kaccounts-providers/4:24.08.1-1ubuntu1
