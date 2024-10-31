@@ -54,3 +54,4 @@ kaddressbook 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kaddressboo
 kcalutils 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcalutils/4:24.08.2-1ubuntu1
 kidentitymanagement 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kidentitymanagement/24.08.2-1ubuntu1
 kimap 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kimap/24.08.2-1ubuntu1
+kitinerary 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kitinerary/24.08.2-1ubuntu1
