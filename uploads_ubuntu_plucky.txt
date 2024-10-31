@@ -46,3 +46,4 @@ lubuntu-meta 25.04.2 https://launchpad.net/ubuntu/+source/lubuntu-meta/25.04.2
 lubuntu-meta 25.04.3 https://launchpad.net/ubuntu/+source/lubuntu-meta/25.04.3
 kdepim-addons 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-addons/24.08.2-1ubuntu1
 kmail 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmail/4:24.08.2-1ubuntu1
+kontact 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kontact/4:24.08.2-1ubuntu1
