@@ -59,3 +59,4 @@ kmailtransport 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmailtransp
 kmime 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmime/24.08.2-1ubuntu1
 kpimtextedit 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpimtextedit/24.08.2-1ubuntu1
 kpkpass 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpkpass/24.08.2-1ubuntu1
+ktnef 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ktnef/4:24.08.2-1ubuntu1
