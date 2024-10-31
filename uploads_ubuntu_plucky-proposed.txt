@@ -4,3 +4,4 @@ ktextaddons 1.5.4-4 https://launchpad.net/ubuntu/+source/ktextaddons/1.5.4-4
 akonadi-contacts 4:24.08.2-2 https://launchpad.net/ubuntu/+source/akonadi-contacts/4:24.08.2-2
 calendarsupport 4:24.08.2-1 https://launchpad.net/ubuntu/+source/calendarsupport/4:24.08.2-1
 grantleetheme 24.08.2-1 https://launchpad.net/ubuntu/+source/grantleetheme/24.08.2-1
+rust-adblock 0.8.12-3 https://launchpad.net/ubuntu/+source/rust-adblock/0.8.12-3
