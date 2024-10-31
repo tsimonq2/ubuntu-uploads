@@ -8,3 +8,4 @@ rust-adblock 0.8.12-3 https://launchpad.net/ubuntu/+source/rust-adblock/0.8.12-3
 messagelib 4:24.08.2-2 https://launchpad.net/ubuntu/+source/messagelib/4:24.08.2-2
 libgravatar 4:24.08.2-1 https://launchpad.net/ubuntu/+source/libgravatar/4:24.08.2-1
 incidenceeditor 24.08.2-1 https://launchpad.net/ubuntu/+source/incidenceeditor/24.08.2-1
+libkdepim 4:24.08.2-1 https://launchpad.net/ubuntu/+source/libkdepim/4:24.08.2-1
