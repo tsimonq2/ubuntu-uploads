@@ -1,2 +1,3 @@
 libksane 24.08.2-1 https://launchpad.net/ubuntu/+source/libksane/24.08.2-1
 signond 8.61+git20231015.c8ad982-4 https://launchpad.net/ubuntu/+source/signond/8.61+git20231015.c8ad982-4
+ktextaddons 1.5.4-4 https://launchpad.net/ubuntu/+source/ktextaddons/1.5.4-4
