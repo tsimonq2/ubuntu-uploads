@@ -58,3 +58,4 @@ kitinerary 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kitinerary/24.0
 kmailtransport 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmailtransport/24.08.2-1ubuntu1
 kmime 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmime/24.08.2-1ubuntu1
 kpimtextedit 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpimtextedit/24.08.2-1ubuntu1
+kpkpass 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpkpass/24.08.2-1ubuntu1
