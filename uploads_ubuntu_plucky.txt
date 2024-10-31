@@ -65,3 +65,4 @@ kgpg 4:24.08.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kgpg/4:24.08.1-1ubu
 zanshin 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/zanshin/24.08.2-1ubuntu1
 akonadi-search 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-search/4:24.08.2-1ubuntu1
 akonadi-calendar-tools 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-calendar-tools/4:24.08.2-1ubuntu1
+akonadiconsole 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadiconsole/4:24.08.2-1ubuntu1
