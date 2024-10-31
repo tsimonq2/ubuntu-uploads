@@ -56,3 +56,4 @@ kidentitymanagement 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kident
 kimap 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kimap/24.08.2-1ubuntu1
 kitinerary 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kitinerary/24.08.2-1ubuntu1
 kmailtransport 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmailtransport/24.08.2-1ubuntu1
+kmime 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmime/24.08.2-1ubuntu1
