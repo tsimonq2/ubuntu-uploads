@@ -13,3 +13,4 @@ pimcommon 4:24.08.2-1 https://launchpad.net/ubuntu/+source/pimcommon/4:24.08.2-1
 libkleo 4:24.08.2-1 https://launchpad.net/ubuntu/+source/libkleo/4:24.08.2-1
 libksieve 4:24.08.2-1 https://launchpad.net/ubuntu/+source/libksieve/4:24.08.2-1
 mailcommon 4:24.08.2-1 https://launchpad.net/ubuntu/+source/mailcommon/4:24.08.2-1
+mailimporter 4:24.08.2-1 https://launchpad.net/ubuntu/+source/mailimporter/4:24.08.2-1
