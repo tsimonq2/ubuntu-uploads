@@ -71,3 +71,4 @@ kmail-account-wizard 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kma
 mbox-importer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/mbox-importer/4:24.08.2-1ubuntu1
 merkuro 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/merkuro/24.08.2-1ubuntu1
 pim-data-exporter 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/pim-data-exporter/4:24.08.2-1ubuntu1
+korganizer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/korganizer/4:24.08.2-1ubuntu1
