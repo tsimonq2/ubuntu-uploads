@@ -10,3 +10,4 @@ libgravatar 4:24.08.2-1 https://launchpad.net/ubuntu/+source/libgravatar/4:24.08
 incidenceeditor 24.08.2-1 https://launchpad.net/ubuntu/+source/incidenceeditor/24.08.2-1
 libkdepim 4:24.08.2-1 https://launchpad.net/ubuntu/+source/libkdepim/4:24.08.2-1
 pimcommon 4:24.08.2-1 https://launchpad.net/ubuntu/+source/pimcommon/4:24.08.2-1
+libkleo 4:24.08.2-1 https://launchpad.net/ubuntu/+source/libkleo/4:24.08.2-1
