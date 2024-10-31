@@ -52,3 +52,4 @@ akonadi-calendar 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi
 akonadi-import-wizard 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-import-wizard/4:24.08.2-1ubuntu1
 kaddressbook 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kaddressbook/4:24.08.2-1ubuntu1
 kcalutils 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcalutils/4:24.08.2-1ubuntu1
+kidentitymanagement 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kidentitymanagement/24.08.2-1ubuntu1
