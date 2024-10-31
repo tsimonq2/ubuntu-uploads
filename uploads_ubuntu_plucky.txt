@@ -48,3 +48,4 @@ kdepim-addons 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-addon
 kmail 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmail/4:24.08.2-1ubuntu1
 kontact 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kontact/4:24.08.2-1ubuntu1
 akonadi 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi/4:24.08.2-1ubuntu1
+akonadi-calendar 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-calendar/4:24.08.2-1ubuntu1
