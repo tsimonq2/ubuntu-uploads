@@ -53,3 +53,4 @@ akonadi-import-wizard 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ak
 kaddressbook 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kaddressbook/4:24.08.2-1ubuntu1
 kcalutils 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcalutils/4:24.08.2-1ubuntu1
 kidentitymanagement 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kidentitymanagement/24.08.2-1ubuntu1
+kimap 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kimap/24.08.2-1ubuntu1
