@@ -63,3 +63,4 @@ ktnef 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ktnef/4:24.08.2-1u
 qutebrowser 3.3.1-0ubuntu1 https://launchpad.net/ubuntu/+source/qutebrowser/3.3.1-0ubuntu1
 kgpg 4:24.08.1-1ubuntu1 https://launchpad.net/ubuntu/+source/kgpg/4:24.08.1-1ubuntu1
 zanshin 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/zanshin/24.08.2-1ubuntu1
+akonadi-search 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-search/4:24.08.2-1ubuntu1
