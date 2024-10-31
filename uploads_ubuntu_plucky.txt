@@ -50,3 +50,4 @@ kontact 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kontact/4:24.08.
 akonadi 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi/4:24.08.2-1ubuntu1
 akonadi-calendar 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-calendar/4:24.08.2-1ubuntu1
 akonadi-import-wizard 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akonadi-import-wizard/4:24.08.2-1ubuntu1
+kaddressbook 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kaddressbook/4:24.08.2-1ubuntu1
