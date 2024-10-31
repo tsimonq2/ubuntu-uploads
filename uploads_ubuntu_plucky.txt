@@ -70,3 +70,4 @@ kalarm 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kalarm/4:24.08.2-
 kmail-account-wizard 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmail-account-wizard/4:24.08.2-1ubuntu1
 mbox-importer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/mbox-importer/4:24.08.2-1ubuntu1
 merkuro 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/merkuro/24.08.2-1ubuntu1
+pim-data-exporter 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/pim-data-exporter/4:24.08.2-1ubuntu1
