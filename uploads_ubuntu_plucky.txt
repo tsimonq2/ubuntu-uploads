@@ -73,3 +73,4 @@ merkuro 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/merkuro/24.08.2-1u
 pim-data-exporter 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/pim-data-exporter/4:24.08.2-1ubuntu1
 korganizer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/korganizer/4:24.08.2-1ubuntu1
 kldap 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kldap/24.08.2-1ubuntu1
+kdepim-runtime 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-runtime/4:24.08.2-1ubuntu1
