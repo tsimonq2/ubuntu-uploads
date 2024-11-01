@@ -80,3 +80,4 @@ libkgapi 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/libkgapi/24.08.2-
 kleopatra 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kleopatra/4:24.08.2-1ubuntu1
 grantlee-editor 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/grantlee-editor/4:24.08.2-1ubuntu1
 itinerary 24.08.2-3ubuntu1 https://launchpad.net/ubuntu/+source/itinerary/24.08.2-3ubuntu1
+akregator 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akregator/4:24.08.2-1ubuntu1
