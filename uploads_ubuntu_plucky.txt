@@ -78,3 +78,4 @@ kio-gdrive 24.08.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-gdrive/24.0
 kmbox 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmbox/24.08.2-1ubuntu1
 libkgapi 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/libkgapi/24.08.2-1ubuntu1
 kleopatra 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kleopatra/4:24.08.2-1ubuntu1
+grantlee-editor 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/grantlee-editor/4:24.08.2-1ubuntu1
