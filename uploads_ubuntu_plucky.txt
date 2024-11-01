@@ -83,3 +83,4 @@ itinerary 24.08.2-3ubuntu1 https://launchpad.net/ubuntu/+source/itinerary/24.08.
 akregator 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akregator/4:24.08.2-1ubuntu1
 pim-sieve-editor 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/pim-sieve-editor/4:24.08.2-1ubuntu1
 umbrello 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/umbrello/4:24.08.2-1ubuntu1
+svgpart 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/svgpart/4:24.08.2-1ubuntu1
