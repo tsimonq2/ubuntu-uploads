@@ -72,3 +72,4 @@ mbox-importer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/mbox-impor
 merkuro 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/merkuro/24.08.2-1ubuntu1
 pim-data-exporter 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/pim-data-exporter/4:24.08.2-1ubuntu1
 korganizer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/korganizer/4:24.08.2-1ubuntu1
+kldap 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kldap/24.08.2-1ubuntu1
