@@ -75,3 +75,4 @@ korganizer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/korganizer/4:
 kldap 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kldap/24.08.2-1ubuntu1
 kdepim-runtime 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdepim-runtime/4:24.08.2-1ubuntu1
 kio-gdrive 24.08.2-0ubuntu1 https://launchpad.net/ubuntu/+source/kio-gdrive/24.08.2-0ubuntu1
+kmbox 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmbox/24.08.2-1ubuntu1
