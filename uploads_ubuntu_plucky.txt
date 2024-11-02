@@ -149,3 +149,4 @@ kollision 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kollision/4:24
 konqueror 4:24.08.2-2 https://launchpad.net/ubuntu/+source/konqueror/4:24.08.2-2
 konquest 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/konquest/4:24.08.2-1ubuntu1
 kontactinterface 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kontactinterface/24.08.2-1ubuntu1
+konversation 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/konversation/24.08.2-1ubuntu1
