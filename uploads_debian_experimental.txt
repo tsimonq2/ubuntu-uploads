@@ -184,3 +184,4 @@ kubrick 4:24.08.2-1 https://launchpad.net/debian/+source/kubrick/4:24.08.2-1
 lskat 4:24.08.2-1 https://launchpad.net/debian/+source/lskat/4:24.08.2-1
 palapeli 4:24.08.2-1 https://launchpad.net/debian/+source/palapeli/4:24.08.2-1
 kwordquiz 4:24.08.2-1 https://launchpad.net/debian/+source/kwordquiz/4:24.08.2-1
+sweeper 4:24.08.2-1 https://launchpad.net/debian/+source/sweeper/4:24.08.2-1
