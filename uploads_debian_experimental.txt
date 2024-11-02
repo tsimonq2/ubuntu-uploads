@@ -135,3 +135,4 @@ katomic 4:24.08.2-1 https://launchpad.net/debian/+source/katomic/4:24.08.2-1
 kblackbox 4:24.08.2-1 https://launchpad.net/debian/+source/kblackbox/4:24.08.2-1
 kblocks 4:24.08.2-1 https://launchpad.net/debian/+source/kblocks/4:24.08.2-1
 kbounce 4:24.08.2-1 https://launchpad.net/debian/+source/kbounce/4:24.08.2-1
+kbreakout 4:24.08.2-1 https://launchpad.net/debian/+source/kbreakout/4:24.08.2-1
