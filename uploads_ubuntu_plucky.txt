@@ -103,3 +103,4 @@ kanagram 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kanagram/4:24.0
 kapman 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kapman/4:24.08.2-1ubuntu1
 kapptemplate 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kapptemplate/4:24.08.2-1ubuntu1
 kate 4:24.08.2-2ubuntu1 https://launchpad.net/ubuntu/+source/kate/4:24.08.2-2ubuntu1
+katomic 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/katomic/4:24.08.2-1ubuntu1
