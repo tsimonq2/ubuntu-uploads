@@ -177,3 +177,4 @@ ksystemlog 4:24.08.2-1 https://launchpad.net/debian/+source/ksystemlog/4:24.08.2
 kteatime 4:24.08.2-1 https://launchpad.net/debian/+source/kteatime/4:24.08.2-1
 ktimer 4:24.08.2-1 https://launchpad.net/debian/+source/ktimer/4:24.08.2-1
 markdownpart 24.08.2-1 https://launchpad.net/debian/+source/markdownpart/24.08.2-1
+picmi 4:24.08.2-1 https://launchpad.net/debian/+source/picmi/4:24.08.2-1
