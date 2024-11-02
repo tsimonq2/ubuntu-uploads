@@ -98,3 +98,4 @@ juk 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/juk/4:24.08.2-1ubunt
 kajongg 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kajongg/4:24.08.2-1ubuntu1
 kalgebra 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kalgebra/4:24.08.2-1ubuntu1
 kalzium 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kalzium/4:24.08.2-1ubuntu1
+kamoso 24.08.2-2 https://launchpad.net/ubuntu/+source/kamoso/24.08.2-2
