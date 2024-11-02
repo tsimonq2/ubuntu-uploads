@@ -166,3 +166,4 @@ ksystemlog 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksystemlog/4:
 kteatime 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kteatime/4:24.08.2-1ubuntu1
 ktimer 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ktimer/4:24.08.2-1ubuntu1
 ktrip 24.08.2-3ubuntu1 https://launchpad.net/ubuntu/+source/ktrip/24.08.2-3ubuntu1
+ktuberling 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ktuberling/4:24.08.2-1ubuntu1
