@@ -170,3 +170,4 @@ ktuberling 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ktuberling/4:
 kturtle 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kturtle/4:24.08.2-1ubuntu1
 kubrick 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kubrick/4:24.08.2-1ubuntu1
 kwalletmanager 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kwalletmanager/4:24.08.2-1ubuntu1
+kwordquiz 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kwordquiz/4:24.08.2-1ubuntu1
