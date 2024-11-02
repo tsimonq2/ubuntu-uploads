@@ -122,3 +122,4 @@ kdenetwork-filesharing 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/k
 kdf 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdf/4:24.08.2-1ubuntu1
 kdialog 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdialog/4:24.08.2-1ubuntu1
 kdiamond 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdiamond/4:24.08.2-1ubuntu1
+keditbookmarks 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/keditbookmarks/24.08.2-1ubuntu1
