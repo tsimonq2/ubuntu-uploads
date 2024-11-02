@@ -124,3 +124,4 @@ kf6-breeze-icons 6.0.0-2 https://launchpad.net/debian/+source/kf6-breeze-icons/6
 kdevelop-pg-qt 2.3.0-1 https://launchpad.net/debian/+source/kdevelop-pg-qt/2.3.0-1
 blinken 4:24.08.2-1 https://launchpad.net/debian/+source/blinken/4:24.08.2-1
 bomber 4:24.08.2-1 https://launchpad.net/debian/+source/bomber/4:24.08.2-1
+bovo 4:24.08.2-1 https://launchpad.net/debian/+source/bovo/4:24.08.2-1
