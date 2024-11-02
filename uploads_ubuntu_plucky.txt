@@ -155,3 +155,4 @@ kosmindoormap 24.08.1-2ubuntu1 https://launchpad.net/ubuntu/+source/kosmindoorma
 kpublictransport 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpublictransport/24.08.2-1ubuntu1
 kreversi 4:24.08.2-2ubuntu1 https://launchpad.net/ubuntu/+source/kreversi/4:24.08.2-2ubuntu1
 krfb 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/krfb/4:24.08.2-1ubuntu1
+kruler 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kruler/4:24.08.2-1ubuntu1
