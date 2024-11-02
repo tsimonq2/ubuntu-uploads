@@ -163,3 +163,4 @@ kspaceduel 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kspaceduel/4:
 ksquares 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksquares/4:24.08.2-1ubuntu1
 ksudoku 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksudoku/4:24.08.2-1ubuntu1
 ksystemlog 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksystemlog/4:24.08.2-1ubuntu1
+kteatime 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kteatime/4:24.08.2-1ubuntu1
