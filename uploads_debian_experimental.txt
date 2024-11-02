@@ -127,3 +127,4 @@ bomber 4:24.08.2-1 https://launchpad.net/debian/+source/bomber/4:24.08.2-1
 bovo 4:24.08.2-1 https://launchpad.net/debian/+source/bovo/4:24.08.2-1
 granatier 4:24.08.2-1 https://launchpad.net/debian/+source/granatier/4:24.08.2-1
 kanagram 4:24.08.2-1 https://launchpad.net/debian/+source/kanagram/4:24.08.2-1
+kajongg 4:24.08.2-1 https://launchpad.net/debian/+source/kajongg/4:24.08.2-1
