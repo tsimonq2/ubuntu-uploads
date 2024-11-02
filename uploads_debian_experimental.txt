@@ -175,3 +175,4 @@ konversation 24.08.2-1 https://launchpad.net/debian/+source/konversation/24.08.2
 ksudoku 4:24.08.2-1 https://launchpad.net/debian/+source/ksudoku/4:24.08.2-1
 ksystemlog 4:24.08.2-1 https://launchpad.net/debian/+source/ksystemlog/4:24.08.2-1
 kteatime 4:24.08.2-1 https://launchpad.net/debian/+source/kteatime/4:24.08.2-1
+ktimer 4:24.08.2-1 https://launchpad.net/debian/+source/ktimer/4:24.08.2-1
