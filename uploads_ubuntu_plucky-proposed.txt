@@ -19,3 +19,4 @@ akonadi-notes 4:24.08.2-1 https://launchpad.net/ubuntu/+source/akonadi-notes/4:2
 ksmtp 24.08.2-1 https://launchpad.net/ubuntu/+source/ksmtp/24.08.2-1
 baloo-widgets 4:24.08.0-1 https://launchpad.net/ubuntu/+source/baloo-widgets/4:24.08.0-1
 alligator 24.08.1-1 https://launchpad.net/ubuntu/+source/alligator/24.08.1-1
+qtcreator 15.0.0~beta2-2 https://launchpad.net/ubuntu/+source/qtcreator/15.0.0~beta2-2
