@@ -140,3 +140,4 @@ kbruch 4:24.08.2-1 https://launchpad.net/debian/+source/kbruch/4:24.08.2-1
 kcachegrind 4:24.08.2-1 https://launchpad.net/debian/+source/kcachegrind/4:24.08.2-1
 kcron 4:24.08.2-1 https://launchpad.net/debian/+source/kcron/4:24.08.2-1
 kdiamond 4:24.08.2-1 https://launchpad.net/debian/+source/kdiamond/4:24.08.2-1
+keditbookmarks 24.08.2-1 https://launchpad.net/debian/+source/keditbookmarks/24.08.2-1
