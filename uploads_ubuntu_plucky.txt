@@ -151,3 +151,4 @@ konquest 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/konquest/4:24.0
 kontactinterface 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kontactinterface/24.08.2-1ubuntu1
 konversation 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/konversation/24.08.2-1ubuntu1
 kopeninghours 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kopeninghours/24.08.2-1ubuntu1
+kosmindoormap 24.08.1-2ubuntu1 https://launchpad.net/ubuntu/+source/kosmindoormap/24.08.1-2ubuntu1
