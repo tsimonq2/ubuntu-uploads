@@ -129,3 +129,4 @@ kgoldrunner 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kgoldrunner/
 khangman 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/khangman/4:24.08.2-1ubuntu1
 khelpcenter 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/khelpcenter/4:24.08.2-1ubuntu1
 kigo 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kigo/4:24.08.2-1ubuntu1
+killbots 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/killbots/4:24.08.2-1ubuntu1
