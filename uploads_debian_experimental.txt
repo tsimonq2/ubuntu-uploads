@@ -125,3 +125,4 @@ kdevelop-pg-qt 2.3.0-1 https://launchpad.net/debian/+source/kdevelop-pg-qt/2.3.0
 blinken 4:24.08.2-1 https://launchpad.net/debian/+source/blinken/4:24.08.2-1
 bomber 4:24.08.2-1 https://launchpad.net/debian/+source/bomber/4:24.08.2-1
 bovo 4:24.08.2-1 https://launchpad.net/debian/+source/bovo/4:24.08.2-1
+granatier 4:24.08.2-1 https://launchpad.net/debian/+source/granatier/4:24.08.2-1
