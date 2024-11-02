@@ -88,3 +88,4 @@ analitza 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/analitza/4:24.0
 arianna 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/arianna/24.08.2-1ubuntu1
 blinken 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/blinken/4:24.08.2-1ubuntu1
 bomber 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/bomber/4:24.08.2-1ubuntu1
+bovo 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/bovo/4:24.08.2-1ubuntu1
