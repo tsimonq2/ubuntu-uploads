@@ -140,3 +140,4 @@ klines 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/klines/4:24.08.2-
 kmag 4:24.08.0-1ubuntu1 https://launchpad.net/ubuntu/+source/kmag/4:24.08.0-1ubuntu1
 kmahjongg 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmahjongg/4:24.08.2-1ubuntu1
 kmines 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmines/4:24.08.2-1ubuntu1
+kmousetool 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kmousetool/4:24.08.2-1ubuntu1
