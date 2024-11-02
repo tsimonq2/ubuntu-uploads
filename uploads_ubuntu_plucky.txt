@@ -105,3 +105,4 @@ kapptemplate 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kapptemplat
 kate 4:24.08.2-2ubuntu1 https://launchpad.net/ubuntu/+source/kate/4:24.08.2-2ubuntu1
 katomic 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/katomic/4:24.08.2-1ubuntu1
 kbackup 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kbackup/24.08.2-1ubuntu1
+kblackbox 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kblackbox/4:24.08.2-1ubuntu1
