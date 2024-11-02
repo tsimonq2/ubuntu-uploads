@@ -159,3 +159,4 @@ kruler 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kruler/4:24.08.2-
 kshisen 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kshisen/4:24.08.2-1ubuntu1
 ksirk 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksirk/4:24.08.2-1ubuntu1
 ksnakeduel 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksnakeduel/4:24.08.2-1ubuntu1
+kspaceduel 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kspaceduel/4:24.08.2-1ubuntu1
