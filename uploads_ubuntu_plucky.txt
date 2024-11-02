@@ -126,3 +126,4 @@ keditbookmarks 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/keditbookma
 kfourinline 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kfourinline/4:24.08.2-1ubuntu1
 kgeography 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kgeography/4:24.08.2-1ubuntu1
 kgoldrunner 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kgoldrunner/4:24.08.2-1ubuntu1
+khangman 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/khangman/4:24.08.2-1ubuntu1
