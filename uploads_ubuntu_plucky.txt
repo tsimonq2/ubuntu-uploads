@@ -134,3 +134,4 @@ kirigami-gallery 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kirigami-
 kiriki 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kiriki/4:24.08.2-1ubuntu1
 kiten 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kiten/4:24.08.2-1ubuntu1
 kjumpingcube 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kjumpingcube/4:24.08.2-1ubuntu1
+klettres 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/klettres/4:24.08.2-1ubuntu1
