@@ -131,3 +131,4 @@ khelpcenter 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/khelpcenter/
 kigo 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kigo/4:24.08.2-1ubuntu1
 killbots 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/killbots/4:24.08.2-1ubuntu1
 kirigami-gallery 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kirigami-gallery/24.08.2-1ubuntu1
+kiriki 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kiriki/4:24.08.2-1ubuntu1
