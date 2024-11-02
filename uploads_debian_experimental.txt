@@ -153,3 +153,4 @@ kiten 4:24.08.2-1 https://launchpad.net/debian/+source/kiten/4:24.08.2-1
 kjumpingcube 4:24.08.2-1 https://launchpad.net/debian/+source/kjumpingcube/4:24.08.2-1
 klickety 4:24.08.2-1 https://launchpad.net/debian/+source/klickety/4:24.08.2-1
 klines 4:24.08.2-1 https://launchpad.net/debian/+source/klines/4:24.08.2-1
+kmahjongg 4:24.08.2-1 https://launchpad.net/debian/+source/kmahjongg/4:24.08.2-1
