@@ -118,3 +118,4 @@ kdebugsettings 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdebugsetti
 kde-dev-utils 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kde-dev-utils/4:24.08.2-1ubuntu1
 kdegraphics-mobipocket 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdegraphics-mobipocket/4:24.08.2-1ubuntu1
 kde-inotify-survey 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kde-inotify-survey/24.08.2-1ubuntu1
+kdenetwork-filesharing 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdenetwork-filesharing/4:24.08.2-1ubuntu1
