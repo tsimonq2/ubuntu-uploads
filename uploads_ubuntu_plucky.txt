@@ -100,3 +100,4 @@ kalgebra 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kalgebra/4:24.0
 kalzium 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kalzium/4:24.08.2-1ubuntu1
 kamoso 24.08.2-2 https://launchpad.net/ubuntu/+source/kamoso/24.08.2-2
 kanagram 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kanagram/4:24.08.2-1ubuntu1
+kapman 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kapman/4:24.08.2-1ubuntu1
