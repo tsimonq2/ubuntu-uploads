@@ -132,3 +132,4 @@ kalgebra 4:24.08.2-1 https://launchpad.net/debian/+source/kalgebra/4:24.08.2-1
 kapman 4:24.08.2-1 https://launchpad.net/debian/+source/kapman/4:24.08.2-1
 kapptemplate 4:24.08.2-1 https://launchpad.net/debian/+source/kapptemplate/4:24.08.2-1
 katomic 4:24.08.2-1 https://launchpad.net/debian/+source/katomic/4:24.08.2-1
+kblackbox 4:24.08.2-1 https://launchpad.net/debian/+source/kblackbox/4:24.08.2-1
