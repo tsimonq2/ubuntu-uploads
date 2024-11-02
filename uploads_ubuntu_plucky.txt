@@ -146,3 +146,4 @@ knavalbattle 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/knavalbattl
 knetwalk 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/knetwalk/4:24.08.2-1ubuntu1
 kolf 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kolf/4:24.08.2-1ubuntu1
 kollision 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kollision/4:24.08.2-1ubuntu1
+konqueror 4:24.08.2-2 https://launchpad.net/ubuntu/+source/konqueror/4:24.08.2-2
