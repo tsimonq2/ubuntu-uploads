@@ -177,3 +177,4 @@ libkmahjongg 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/libkmahjong
 lokalize 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/lokalize/4:24.08.2-1ubuntu1
 lskat 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/lskat/4:24.08.2-1ubuntu1
 markdownpart 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/markdownpart/24.08.2-1ubuntu1
+okular 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/okular/4:24.08.2-1ubuntu1
