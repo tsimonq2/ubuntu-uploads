@@ -84,3 +84,4 @@ akregator 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/akregator/4:24
 pim-sieve-editor 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/pim-sieve-editor/4:24.08.2-1ubuntu1
 umbrello 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/umbrello/4:24.08.2-1ubuntu1
 svgpart 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/svgpart/4:24.08.2-1ubuntu1
+analitza 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/analitza/4:24.08.2-1ubuntu1
