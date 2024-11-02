@@ -179,3 +179,4 @@ ktimer 4:24.08.2-1 https://launchpad.net/debian/+source/ktimer/4:24.08.2-1
 markdownpart 24.08.2-1 https://launchpad.net/debian/+source/markdownpart/24.08.2-1
 picmi 4:24.08.2-1 https://launchpad.net/debian/+source/picmi/4:24.08.2-1
 ktuberling 4:24.08.2-1 https://launchpad.net/debian/+source/ktuberling/4:24.08.2-1
+kturtle 4:24.08.2-1 https://launchpad.net/debian/+source/kturtle/4:24.08.2-1
