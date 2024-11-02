@@ -145,3 +145,4 @@ kfourinline 4:24.08.2-1 https://launchpad.net/debian/+source/kfourinline/4:24.08
 kgeography 4:24.08.2-1 https://launchpad.net/debian/+source/kgeography/4:24.08.2-1
 kde-dev-utils 4:24.08.2-1 https://launchpad.net/debian/+source/kde-dev-utils/4:24.08.2-1
 kgoldrunner 4:24.08.2-1 https://launchpad.net/debian/+source/kgoldrunner/4:24.08.2-1
+khangman 4:24.08.2-1 https://launchpad.net/debian/+source/khangman/4:24.08.2-1
