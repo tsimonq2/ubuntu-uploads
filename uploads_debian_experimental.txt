@@ -165,3 +165,4 @@ kollision 4:24.08.2-1 https://launchpad.net/debian/+source/kollision/4:24.08.2-1
 konquest 4:24.08.2-1 https://launchpad.net/debian/+source/konquest/4:24.08.2-1
 knights 24.08.2-1 https://launchpad.net/debian/+source/knights/24.08.2-1
 kruler 4:24.08.2-1 https://launchpad.net/debian/+source/kruler/4:24.08.2-1
+kshisen 4:24.08.2-1 https://launchpad.net/debian/+source/kshisen/4:24.08.2-1
