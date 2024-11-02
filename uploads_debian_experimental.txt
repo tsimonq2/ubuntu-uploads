@@ -149,3 +149,4 @@ khangman 4:24.08.2-1 https://launchpad.net/debian/+source/khangman/4:24.08.2-1
 kigo 4:24.08.2-1 https://launchpad.net/debian/+source/kigo/4:24.08.2-1
 killbots 4:24.08.2-1 https://launchpad.net/debian/+source/killbots/4:24.08.2-1
 kiriki 4:24.08.2-1 https://launchpad.net/debian/+source/kiriki/4:24.08.2-1
+kiten 4:24.08.2-1 https://launchpad.net/debian/+source/kiten/4:24.08.2-1
