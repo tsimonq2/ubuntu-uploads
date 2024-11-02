@@ -107,3 +107,4 @@ katomic 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/katomic/4:24.08.
 kbackup 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kbackup/24.08.2-1ubuntu1
 kblackbox 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kblackbox/4:24.08.2-1ubuntu1
 kblocks 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kblocks/4:24.08.2-1ubuntu1
+kbounce 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kbounce/4:24.08.2-1ubuntu1
