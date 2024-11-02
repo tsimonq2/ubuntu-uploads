@@ -127,3 +127,4 @@ kfourinline 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kfourinline/
 kgeography 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kgeography/4:24.08.2-1ubuntu1
 kgoldrunner 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kgoldrunner/4:24.08.2-1ubuntu1
 khangman 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/khangman/4:24.08.2-1ubuntu1
+khelpcenter 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/khelpcenter/4:24.08.2-1ubuntu1
