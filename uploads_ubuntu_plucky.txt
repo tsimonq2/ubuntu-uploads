@@ -161,3 +161,4 @@ ksirk 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksirk/4:24.08.2-1u
 ksnakeduel 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksnakeduel/4:24.08.2-1ubuntu1
 kspaceduel 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kspaceduel/4:24.08.2-1ubuntu1
 ksquares 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksquares/4:24.08.2-1ubuntu1
+ksudoku 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/ksudoku/4:24.08.2-1ubuntu1
