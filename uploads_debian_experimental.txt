@@ -157,3 +157,4 @@ kmahjongg 4:24.08.2-1 https://launchpad.net/debian/+source/kmahjongg/4:24.08.2-1
 klettres 4:24.08.2-1 https://launchpad.net/debian/+source/klettres/4:24.08.2-1
 kmines 4:24.08.2-1 https://launchpad.net/debian/+source/kmines/4:24.08.2-1
 kmouth 4:24.08.2-1 https://launchpad.net/debian/+source/kmouth/4:24.08.2-1
+knavalbattle 4:24.08.2-1 https://launchpad.net/debian/+source/knavalbattle/4:24.08.2-1
