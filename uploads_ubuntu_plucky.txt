@@ -115,3 +115,4 @@ kcharselect 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcharselect/
 kcolorchooser 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcolorchooser/4:24.08.2-1ubuntu1
 kcron 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcron/4:24.08.2-1ubuntu1
 kdebugsettings 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdebugsettings/24.08.2-1ubuntu1
+kde-dev-utils 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kde-dev-utils/4:24.08.2-1ubuntu1
