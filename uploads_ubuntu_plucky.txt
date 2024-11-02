@@ -96,3 +96,4 @@ ghostwriter 24.08.2+ds-1ubuntu1 https://launchpad.net/ubuntu/+source/ghostwriter
 granatier 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/granatier/4:24.08.2-1ubuntu1
 juk 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/juk/4:24.08.2-1ubuntu1
 kajongg 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kajongg/4:24.08.2-1ubuntu1
+kalgebra 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kalgebra/4:24.08.2-1ubuntu1
