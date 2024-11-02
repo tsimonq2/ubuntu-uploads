@@ -137,3 +137,4 @@ kjumpingcube 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kjumpingcub
 klettres 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/klettres/4:24.08.2-1ubuntu1
 klickety 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/klickety/4:24.08.2-1ubuntu1
 klines 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/klines/4:24.08.2-1ubuntu1
+kmag 4:24.08.0-1ubuntu1 https://launchpad.net/ubuntu/+source/kmag/4:24.08.0-1ubuntu1
