@@ -161,3 +161,4 @@ knavalbattle 4:24.08.2-1 https://launchpad.net/debian/+source/knavalbattle/4:24.
 kmousetool 4:24.08.2-1 https://launchpad.net/debian/+source/kmousetool/4:24.08.2-1
 knetwalk 4:24.08.2-1 https://launchpad.net/debian/+source/knetwalk/4:24.08.2-1
 kolf 4:24.08.2-1 https://launchpad.net/debian/+source/kolf/4:24.08.2-1
+kollision 4:24.08.2-1 https://launchpad.net/debian/+source/kollision/4:24.08.2-1
