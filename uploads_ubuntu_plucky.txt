@@ -174,3 +174,4 @@ kwordquiz 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kwordquiz/4:24
 libkdcraw 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/libkdcraw/24.08.2-1ubuntu1
 libkdegames 4:24.08.2-2ubuntu1 https://launchpad.net/ubuntu/+source/libkdegames/4:24.08.2-2ubuntu1
 libkmahjongg 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/libkmahjongg/4:24.08.2-1ubuntu1
+lokalize 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/lokalize/4:24.08.2-1ubuntu1
