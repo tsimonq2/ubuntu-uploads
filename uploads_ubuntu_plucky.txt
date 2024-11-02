@@ -180,3 +180,4 @@ markdownpart 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/markdownpart/
 okular 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/okular/4:24.08.2-1ubuntu1
 palapeli 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/palapeli/4:24.08.2-1ubuntu1
 parley 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/parley/4:24.08.2-1ubuntu1
+picmi 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/picmi/4:24.08.2-1ubuntu1
