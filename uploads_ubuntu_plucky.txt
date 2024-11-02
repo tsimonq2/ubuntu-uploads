@@ -110,3 +110,4 @@ kblocks 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kblocks/4:24.08.
 kbounce 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kbounce/4:24.08.2-1ubuntu1
 kbreakout 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kbreakout/4:24.08.2-1ubuntu1
 kbruch 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kbruch/4:24.08.2-1ubuntu1
+kcachegrind 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcachegrind/4:24.08.2-1ubuntu1
