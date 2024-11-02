@@ -156,3 +156,4 @@ kpublictransport 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kpublictr
 kreversi 4:24.08.2-2ubuntu1 https://launchpad.net/ubuntu/+source/kreversi/4:24.08.2-2ubuntu1
 krfb 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/krfb/4:24.08.2-1ubuntu1
 kruler 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kruler/4:24.08.2-1ubuntu1
+kshisen 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kshisen/4:24.08.2-1ubuntu1
