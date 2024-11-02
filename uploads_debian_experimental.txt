@@ -170,3 +170,4 @@ ksnakeduel 4:24.08.2-1 https://launchpad.net/debian/+source/ksnakeduel/4:24.08.2
 kspaceduel 4:24.08.2-1 https://launchpad.net/debian/+source/kspaceduel/4:24.08.2-1
 ksquares 4:24.08.2-1 https://launchpad.net/debian/+source/ksquares/4:24.08.2-1
 krfb 4:24.08.2-1 https://launchpad.net/debian/+source/krfb/4:24.08.2-1
+ksirk 4:24.08.2-1 https://launchpad.net/debian/+source/ksirk/4:24.08.2-1
