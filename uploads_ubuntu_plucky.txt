@@ -89,3 +89,4 @@ arianna 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/arianna/24.08.2-1u
 blinken 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/blinken/4:24.08.2-1ubuntu1
 bomber 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/bomber/4:24.08.2-1ubuntu1
 bovo 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/bovo/4:24.08.2-1ubuntu1
+colord-kde 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/colord-kde/24.08.2-1ubuntu1
