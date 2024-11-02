@@ -182,3 +182,4 @@ palapeli 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/palapeli/4:24.0
 parley 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/parley/4:24.08.2-1ubuntu1
 picmi 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/picmi/4:24.08.2-1ubuntu1
 signon-kwallet-extension 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/signon-kwallet-extension/4:24.08.2-1ubuntu1
+sweeper 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/sweeper/4:24.08.2-1ubuntu1
