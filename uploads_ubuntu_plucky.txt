@@ -117,3 +117,4 @@ kcron 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcron/4:24.08.2-1u
 kdebugsettings 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdebugsettings/24.08.2-1ubuntu1
 kde-dev-utils 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kde-dev-utils/4:24.08.2-1ubuntu1
 kdegraphics-mobipocket 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdegraphics-mobipocket/4:24.08.2-1ubuntu1
+kde-inotify-survey 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kde-inotify-survey/24.08.2-1ubuntu1
