@@ -113,3 +113,4 @@ kbruch 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kbruch/4:24.08.2-
 kcachegrind 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcachegrind/4:24.08.2-1ubuntu1
 kcharselect 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcharselect/4:24.08.2-1ubuntu1
 kcolorchooser 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcolorchooser/4:24.08.2-1ubuntu1
+kcron 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kcron/4:24.08.2-1ubuntu1
