@@ -155,3 +155,4 @@ klickety 4:24.08.2-1 https://launchpad.net/debian/+source/klickety/4:24.08.2-1
 klines 4:24.08.2-1 https://launchpad.net/debian/+source/klines/4:24.08.2-1
 kmahjongg 4:24.08.2-1 https://launchpad.net/debian/+source/kmahjongg/4:24.08.2-1
 klettres 4:24.08.2-1 https://launchpad.net/debian/+source/klettres/4:24.08.2-1
+kmines 4:24.08.2-1 https://launchpad.net/debian/+source/kmines/4:24.08.2-1
