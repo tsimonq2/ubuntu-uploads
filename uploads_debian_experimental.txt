@@ -130,3 +130,4 @@ kanagram 4:24.08.2-1 https://launchpad.net/debian/+source/kanagram/4:24.08.2-1
 kajongg 4:24.08.2-1 https://launchpad.net/debian/+source/kajongg/4:24.08.2-1
 kalgebra 4:24.08.2-1 https://launchpad.net/debian/+source/kalgebra/4:24.08.2-1
 kapman 4:24.08.2-1 https://launchpad.net/debian/+source/kapman/4:24.08.2-1
+kapptemplate 4:24.08.2-1 https://launchpad.net/debian/+source/kapptemplate/4:24.08.2-1
