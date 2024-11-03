@@ -186,3 +186,4 @@ sweeper 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/sweeper/4:24.08.
 tokodon 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/tokodon/24.08.2-1ubuntu1
 yakuake 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/yakuake/24.08.2-1ubuntu1
 zeroconf-ioslave 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/zeroconf-ioslave/4:24.08.2-1ubuntu1
+sddm 0.21.0-4ubuntu1 https://launchpad.net/ubuntu/+source/sddm/0.21.0-4ubuntu1
