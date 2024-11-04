@@ -192,3 +192,4 @@ kf6-breeze-icons 6.7.0-1 https://launchpad.net/debian/+source/kf6-breeze-icons/6
 kf6-extra-cmake-modules 6.7.0-1 https://launchpad.net/debian/+source/kf6-extra-cmake-modules/6.7.0-1
 kf6-frameworkintegration 6.7.0-1 https://launchpad.net/debian/+source/kf6-frameworkintegration/6.7.0-1
 kf6-kapidox 6.7.0-1 https://launchpad.net/debian/+source/kf6-kapidox/6.7.0-1
+kf6-karchive 6.7.0-1 https://launchpad.net/debian/+source/kf6-karchive/6.7.0-1
