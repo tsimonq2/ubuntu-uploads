@@ -245,3 +245,4 @@ kf6-kunitconversion 6.7.0-1 https://launchpad.net/debian/+source/kf6-kunitconver
 kf6-kuserfeedback 6.7.0-1 https://launchpad.net/debian/+source/kf6-kuserfeedback/6.7.0-1
 kf6-kwallet 6.7.0-1 https://launchpad.net/debian/+source/kf6-kwallet/6.7.0-1
 kf6-kwidgetsaddons 6.7.0-1 https://launchpad.net/debian/+source/kf6-kwidgetsaddons/6.7.0-1
+kf6-kwindowsystem 6.7.0-1 https://launchpad.net/debian/+source/kf6-kwindowsystem/6.7.0-1
