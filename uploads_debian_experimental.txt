@@ -249,3 +249,4 @@ kf6-kwindowsystem 6.7.0-1 https://launchpad.net/debian/+source/kf6-kwindowsystem
 kf6-kxmlgui 6.7.0-1 https://launchpad.net/debian/+source/kf6-kxmlgui/6.7.0-1
 kf6-modemmanager-qt 6.7.0-1 https://launchpad.net/debian/+source/kf6-modemmanager-qt/6.7.0-1
 kf6-networkmanager-qt 6.7.0-1 https://launchpad.net/debian/+source/kf6-networkmanager-qt/6.7.0-1
+kf6-prison 6.7.0-1 https://launchpad.net/debian/+source/kf6-prison/6.7.0-1
