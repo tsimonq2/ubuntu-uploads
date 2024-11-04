@@ -240,3 +240,4 @@ kf6-kstatusnotifieritem 6.7.0-1 https://launchpad.net/debian/+source/kf6-kstatus
 kf6-ksvg 6.7.0-1 https://launchpad.net/debian/+source/kf6-ksvg/6.7.0-1
 kf6-ktexteditor 6.7.0-1 https://launchpad.net/debian/+source/kf6-ktexteditor/6.7.0-1
 kf6-ktexttemplate 6.7.0-1 https://launchpad.net/debian/+source/kf6-ktexttemplate/6.7.0-1
+kf6-ktextwidgets 6.7.0-1 https://launchpad.net/debian/+source/kf6-ktextwidgets/6.7.0-1
