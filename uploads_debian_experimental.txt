@@ -195,3 +195,4 @@ kf6-kapidox 6.7.0-1 https://launchpad.net/debian/+source/kf6-kapidox/6.7.0-1
 kf6-karchive 6.7.0-1 https://launchpad.net/debian/+source/kf6-karchive/6.7.0-1
 kf6-kauth 6.7.0-1 https://launchpad.net/debian/+source/kf6-kauth/6.7.0-1
 kf6-kbookmarks 6.7.0-1 https://launchpad.net/debian/+source/kf6-kbookmarks/6.7.0-1
+kf6-kcalendarcore 6.7.0-1 https://launchpad.net/debian/+source/kf6-kcalendarcore/6.7.0-1
