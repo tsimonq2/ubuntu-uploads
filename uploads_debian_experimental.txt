@@ -189,3 +189,4 @@ kf6-attica 6.7.0-1 https://launchpad.net/debian/+source/kf6-attica/6.7.0-1
 kf6-baloo 6.7.0-1 https://launchpad.net/debian/+source/kf6-baloo/6.7.0-1
 kf6-bluez-qt 6.7.0-1 https://launchpad.net/debian/+source/kf6-bluez-qt/6.7.0-1
 kf6-breeze-icons 6.7.0-1 https://launchpad.net/debian/+source/kf6-breeze-icons/6.7.0-1
+kf6-extra-cmake-modules 6.7.0-1 https://launchpad.net/debian/+source/kf6-extra-cmake-modules/6.7.0-1
