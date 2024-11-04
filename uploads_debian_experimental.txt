@@ -216,3 +216,4 @@ kf6-kfilemetadata 6.7.0-1 https://launchpad.net/debian/+source/kf6-kfilemetadata
 kf6-kglobalaccel 6.7.0-1 https://launchpad.net/debian/+source/kf6-kglobalaccel/6.7.0-1
 kf6-kguiaddons 6.7.0-1 https://launchpad.net/debian/+source/kf6-kguiaddons/6.7.0-1
 kf6-kholidays 6.7.0-1 https://launchpad.net/debian/+source/kf6-kholidays/6.7.0-1
+kf6-ki18n 6.7.0-1 https://launchpad.net/debian/+source/kf6-ki18n/6.7.0-1
