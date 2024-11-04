@@ -223,3 +223,4 @@ kf6-kimageformats 6.7.0-1 https://launchpad.net/debian/+source/kf6-kimageformats
 kf6-kio 6.7.0-1 https://launchpad.net/debian/+source/kf6-kio/6.7.0-1
 kf6-kirigami 6.7.0-1 https://launchpad.net/debian/+source/kf6-kirigami/6.7.0-1
 kf6-kitemmodels 6.7.0-1 https://launchpad.net/debian/+source/kf6-kitemmodels/6.7.0-1
+kf6-kitemviews 6.7.0-1 https://launchpad.net/debian/+source/kf6-kitemviews/6.7.0-1
