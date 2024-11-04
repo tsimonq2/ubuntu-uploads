@@ -253,3 +253,4 @@ kf6-prison 6.7.0-1 https://launchpad.net/debian/+source/kf6-prison/6.7.0-1
 kf6-purpose 6.7.0-1 https://launchpad.net/debian/+source/kf6-purpose/6.7.0-1
 kf6-qqc2-desktop-style 6.7.0-1 https://launchpad.net/debian/+source/kf6-qqc2-desktop-style/6.7.0-1
 kf6-solid 6.7.0-1 https://launchpad.net/debian/+source/kf6-solid/6.7.0-1
+kf6-sonnet 6.7.0-1 https://launchpad.net/debian/+source/kf6-sonnet/6.7.0-1
