@@ -208,3 +208,4 @@ kf6-kcrash 6.7.0-1 https://launchpad.net/debian/+source/kf6-kcrash/6.7.0-1
 kf6-kdav 6.7.0-1 https://launchpad.net/debian/+source/kf6-kdav/6.7.0-1
 kf6-kdbusaddons 6.7.0-1 https://launchpad.net/debian/+source/kf6-kdbusaddons/6.7.0-1
 kf6-kdeclarative 6.7.0-1 https://launchpad.net/debian/+source/kf6-kdeclarative/6.7.0-1
+kf6-kded 6.7.0-1 https://launchpad.net/debian/+source/kf6-kded/6.7.0-1
