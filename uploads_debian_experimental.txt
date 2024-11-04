@@ -229,3 +229,4 @@ kf6-knewstuff 6.7.0-1 https://launchpad.net/debian/+source/kf6-knewstuff/6.7.0-1
 kf6-knotifications 6.7.0-1 https://launchpad.net/debian/+source/kf6-knotifications/6.7.0-1
 kf6-knotifyconfig 6.7.0-1 https://launchpad.net/debian/+source/kf6-knotifyconfig/6.7.0-1
 kf6-kpackage 6.7.0-1 https://launchpad.net/debian/+source/kf6-kpackage/6.7.0-1
+kf6-kparts 6.7.0-1 https://launchpad.net/debian/+source/kf6-kparts/6.7.0-1
