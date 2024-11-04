@@ -259,3 +259,4 @@ kf6-syntax-highlighting 6.7.0-1 https://launchpad.net/debian/+source/kf6-syntax-
 kf6-threadweaver 6.7.0-1 https://launchpad.net/debian/+source/kf6-threadweaver/6.7.0-1
 kf6-kcolorscheme 6.7.0-2 https://launchpad.net/debian/+source/kf6-kcolorscheme/6.7.0-2
 kf6-ktexteditor 6.7.0-2 https://launchpad.net/debian/+source/kf6-ktexteditor/6.7.0-2
+signond 8.61+git20231015.c8ad982-5 https://launchpad.net/debian/+source/signond/8.61+git20231015.c8ad982-5
