@@ -246,3 +246,4 @@ kf6-kuserfeedback 6.7.0-1 https://launchpad.net/debian/+source/kf6-kuserfeedback
 kf6-kwallet 6.7.0-1 https://launchpad.net/debian/+source/kf6-kwallet/6.7.0-1
 kf6-kwidgetsaddons 6.7.0-1 https://launchpad.net/debian/+source/kf6-kwidgetsaddons/6.7.0-1
 kf6-kwindowsystem 6.7.0-1 https://launchpad.net/debian/+source/kf6-kwindowsystem/6.7.0-1
+kf6-kxmlgui 6.7.0-1 https://launchpad.net/debian/+source/kf6-kxmlgui/6.7.0-1
