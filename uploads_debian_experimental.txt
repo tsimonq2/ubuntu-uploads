@@ -211,3 +211,4 @@ kf6-kdeclarative 6.7.0-1 https://launchpad.net/debian/+source/kf6-kdeclarative/6
 kf6-kded 6.7.0-1 https://launchpad.net/debian/+source/kf6-kded/6.7.0-1
 kf6-kdesu 6.7.0-1 https://launchpad.net/debian/+source/kf6-kdesu/6.7.0-1
 kf6-kdnssd 6.7.0-1 https://launchpad.net/debian/+source/kf6-kdnssd/6.7.0-1
+kf6-kdoctools 6.7.0-1 https://launchpad.net/debian/+source/kf6-kdoctools/6.7.0-1
