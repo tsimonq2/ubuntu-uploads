@@ -189,3 +189,4 @@ zeroconf-ioslave 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/zerocon
 sddm 0.21.0-4ubuntu1 https://launchpad.net/ubuntu/+source/sddm/0.21.0-4ubuntu1
 sddm 0.21.0-4ubuntu2 https://launchpad.net/ubuntu/+source/sddm/0.21.0-4ubuntu2
 signond 8.61+git20231015.c8ad982-4ubuntu1 https://launchpad.net/ubuntu/+source/signond/8.61+git20231015.c8ad982-4ubuntu1
+kaccounts-integration 4:24.08.0-1ubuntu2 https://launchpad.net/ubuntu/+source/kaccounts-integration/4:24.08.0-1ubuntu2
