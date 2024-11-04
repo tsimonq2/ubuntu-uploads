@@ -188,3 +188,4 @@ sweeper 4:24.08.2-1 https://launchpad.net/debian/+source/sweeper/4:24.08.2-1
 kf6-attica 6.7.0-1 https://launchpad.net/debian/+source/kf6-attica/6.7.0-1
 kf6-baloo 6.7.0-1 https://launchpad.net/debian/+source/kf6-baloo/6.7.0-1
 kf6-bluez-qt 6.7.0-1 https://launchpad.net/debian/+source/kf6-bluez-qt/6.7.0-1
+kf6-breeze-icons 6.7.0-1 https://launchpad.net/debian/+source/kf6-breeze-icons/6.7.0-1
