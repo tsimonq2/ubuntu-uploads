@@ -263,3 +263,4 @@ signond 8.61+git20231015.c8ad982-5 https://launchpad.net/debian/+source/signond/
 analitza 4:24.08.2-1 https://launchpad.net/debian/+source/analitza/4:24.08.2-1
 libkmahjongg 4:24.08.2-1 https://launchpad.net/debian/+source/libkmahjongg/4:24.08.2-1
 kaccounts-integration 4:24.08.2-1 https://launchpad.net/debian/+source/kaccounts-integration/4:24.08.2-1
+gwenview 4:24.08.2-1 https://launchpad.net/debian/+source/gwenview/4:24.08.2-1
