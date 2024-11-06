@@ -197,3 +197,4 @@ ksystemlog 4:24.08.2-1ubuntu2 https://launchpad.net/ubuntu/+source/ksystemlog/4:
 kimap 24.08.2-1ubuntu3 https://launchpad.net/ubuntu/+source/kimap/24.08.2-1ubuntu3
 ksystemlog 4:24.08.2-1ubuntu3 https://launchpad.net/ubuntu/+source/ksystemlog/4:24.08.2-1ubuntu3
 akonadi 4:24.08.2-1ubuntu2 https://launchpad.net/ubuntu/+source/akonadi/4:24.08.2-1ubuntu2
+ksystemlog 4:24.08.2-1ubuntu4 https://launchpad.net/ubuntu/+source/ksystemlog/4:24.08.2-1ubuntu4
