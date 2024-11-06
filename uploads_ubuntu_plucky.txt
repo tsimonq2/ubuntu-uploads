@@ -199,3 +199,4 @@ ksystemlog 4:24.08.2-1ubuntu3 https://launchpad.net/ubuntu/+source/ksystemlog/4:
 akonadi 4:24.08.2-1ubuntu2 https://launchpad.net/ubuntu/+source/akonadi/4:24.08.2-1ubuntu2
 ksystemlog 4:24.08.2-1ubuntu4 https://launchpad.net/ubuntu/+source/ksystemlog/4:24.08.2-1ubuntu4
 gwenview 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/gwenview/4:24.08.2-1ubuntu1
+kdeconnect 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdeconnect/24.08.2-1ubuntu1
