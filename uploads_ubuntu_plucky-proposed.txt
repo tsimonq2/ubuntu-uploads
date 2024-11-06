@@ -25,3 +25,4 @@ knights 24.08.2-1 https://launchpad.net/ubuntu/+source/knights/24.08.2-1
 kdevelop-pg-qt 2.3.0-1 https://launchpad.net/ubuntu/+source/kdevelop-pg-qt/2.3.0-1
 indi 2.0.9+dfsg-1 https://launchpad.net/ubuntu/+source/indi/2.0.9+dfsg-1
 kstars 5:3.7.3-1 https://launchpad.net/ubuntu/+source/kstars/5:3.7.3-1
+signond 8.61+git20231015.c8ad982-5 https://launchpad.net/ubuntu/+source/signond/8.61+git20231015.c8ad982-5
