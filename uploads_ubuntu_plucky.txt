@@ -226,3 +226,4 @@ lxqt-themes 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-themes/2.1.
 obconf-qt 0.16.5-0ubuntu1 https://launchpad.net/ubuntu/+source/obconf-qt/0.16.5-0ubuntu1
 pavucontrol-qt 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pavucontrol-qt/2.1.0-0ubuntu1
 pcmanfm-qt 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/pcmanfm-qt/2.1.0-0ubuntu1
+qps 2.10.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.10.0-0ubuntu1
