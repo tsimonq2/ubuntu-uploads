@@ -217,3 +217,4 @@ lxqt-notificationd 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-noti
 lxqt-openssh-askpass 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/2.1.0-0ubuntu1
 lxqt-panel 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-panel/2.1.0-0ubuntu1
 lxqt-policykit 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-policykit/2.1.0-0ubuntu1
+lxqt-powermanagement 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/2.1.0-0ubuntu1
