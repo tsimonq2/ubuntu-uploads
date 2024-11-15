@@ -214,3 +214,4 @@ lxqt-config 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/2.1.
 lxqt-globalkeys 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/2.1.0-0ubuntu1
 lxqt-menu-data 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-menu-data/2.1.0-0ubuntu1
 lxqt-notificationd 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-notificationd/2.1.0-0ubuntu1
+lxqt-openssh-askpass 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-openssh-askpass/2.1.0-0ubuntu1
