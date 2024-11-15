@@ -230,3 +230,4 @@ qps 2.10.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qps/2.10.0-0ubuntu1
 qterminal 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/2.1.0-0ubuntu1
 qtermwidget 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/2.1.0-0ubuntu1
 qtxdg-tools 4.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/4.1.0-0ubuntu1
+screengrab 2.9.0-0ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/2.9.0-0ubuntu1
