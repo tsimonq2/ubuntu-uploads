@@ -206,3 +206,4 @@ liblxqt 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/2.1.0-0ubunt
 libqtxdg 4.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libqtxdg/4.1.0-0ubuntu1
 libsysstat 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libsysstat/1.1.0-0ubuntu1
 lximage-qt 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lximage-qt/2.1.0-0ubuntu1
+lxqt-about 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-about/2.1.0-0ubuntu1
