@@ -202,3 +202,4 @@ gwenview 4:24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/gwenview/4:24.0
 kdeconnect 24.08.2-1ubuntu1 https://launchpad.net/ubuntu/+source/kdeconnect/24.08.2-1ubuntu1
 libdbusmenu-lxqt 0.2.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libdbusmenu-lxqt/0.2.0-0ubuntu1
 libfm-qt 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/libfm-qt/2.1.0-0ubuntu1
+liblxqt 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/liblxqt/2.1.0-0ubuntu1
