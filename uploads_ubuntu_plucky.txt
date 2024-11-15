@@ -220,3 +220,4 @@ lxqt-policykit 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-policyki
 lxqt-powermanagement 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-powermanagement/2.1.0-0ubuntu1
 lxqt-qtplugin 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-qtplugin/2.1.0-0ubuntu1
 lxqt-runner 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-runner/2.1.0-0ubuntu1
+lxqt-session 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-session/2.1.0-0ubuntu1
