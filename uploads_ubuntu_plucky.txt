@@ -231,3 +231,4 @@ qterminal 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qterminal/2.1.0-0u
 qtermwidget 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtermwidget/2.1.0-0ubuntu1
 qtxdg-tools 4.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/qtxdg-tools/4.1.0-0ubuntu1
 screengrab 2.9.0-0ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/2.9.0-0ubuntu1
+xdg-desktop-portal-lxqt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-lxqt/1.1.0-0ubuntu1
