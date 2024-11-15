@@ -211,3 +211,4 @@ lxqt-admin 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-admin/2.1.0-
 lxqt-archiver 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-archiver/1.1.0-0ubuntu1
 lxqt-build-tools 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-build-tools/2.1.0-0ubuntu1
 lxqt-config 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-config/2.1.0-0ubuntu1
+lxqt-globalkeys 2.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/lxqt-globalkeys/2.1.0-0ubuntu1
