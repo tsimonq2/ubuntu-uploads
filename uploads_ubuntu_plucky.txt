@@ -246,3 +246,4 @@ amd64-microcode 3.20240820.1ubuntu1 https://launchpad.net/ubuntu/+source/amd64-m
 paramiko 3.4.1-2ubuntu1 https://launchpad.net/ubuntu/+source/paramiko/3.4.1-2ubuntu1
 wget 1.24.5-2ubuntu1 https://launchpad.net/ubuntu/+source/wget/1.24.5-2ubuntu1
 curl 8.11.0-1ubuntu1 https://launchpad.net/ubuntu/+source/curl/8.11.0-1ubuntu1
+libnet-dns-perl 1.48-1ubuntu1 https://launchpad.net/ubuntu/+source/libnet-dns-perl/1.48-1ubuntu1
