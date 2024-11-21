@@ -234,3 +234,4 @@ screengrab 2.9.0-0ubuntu1 https://launchpad.net/ubuntu/+source/screengrab/2.9.0-
 xdg-desktop-portal-lxqt 1.1.0-0ubuntu1 https://launchpad.net/ubuntu/+source/xdg-desktop-portal-lxqt/1.1.0-0ubuntu1
 signond 8.61+git20231015.c8ad982-5ubuntu1 https://launchpad.net/ubuntu/+source/signond/8.61+git20231015.c8ad982-5ubuntu1
 calamares 3.3.11-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.11-0ubuntu1
+dracut 105-1ubuntu2 https://launchpad.net/ubuntu/+source/dracut/105-1ubuntu2
