@@ -30,3 +30,4 @@ mimetreeparser 24.08.2-1 https://launchpad.net/ubuntu/+source/mimetreeparser/24.
 hostname 3.25 https://launchpad.net/ubuntu/+source/hostname/3.25
 pycurl 7.45.3-2.1 https://launchpad.net/ubuntu/+source/pycurl/7.45.3-2.1
 arpack 3.9.1-1.2 https://launchpad.net/ubuntu/+source/arpack/3.9.1-1.2
+libzip 1.11.2-1 https://launchpad.net/ubuntu/+source/libzip/1.11.2-1
