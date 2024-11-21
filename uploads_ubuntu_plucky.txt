@@ -240,3 +240,4 @@ plymouth 24.004.60-2ubuntu2 https://launchpad.net/ubuntu/+source/plymouth/24.004
 dracut 105-2ubuntu2 https://launchpad.net/ubuntu/+source/dracut/105-2ubuntu2
 vim 2:9.1.0861-1ubuntu1 https://launchpad.net/ubuntu/+source/vim/2:9.1.0861-1ubuntu1
 dput 1.2.4ubuntu1 https://launchpad.net/ubuntu/+source/dput/1.2.4ubuntu1
+tlp 1.7.0-1ubuntu1 https://launchpad.net/ubuntu/+source/tlp/1.7.0-1ubuntu1
