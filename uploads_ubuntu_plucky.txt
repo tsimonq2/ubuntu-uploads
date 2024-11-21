@@ -244,3 +244,4 @@ tlp 1.7.0-1ubuntu1 https://launchpad.net/ubuntu/+source/tlp/1.7.0-1ubuntu1
 init-system-helpers 1.67ubuntu1 https://launchpad.net/ubuntu/+source/init-system-helpers/1.67ubuntu1
 amd64-microcode 3.20240820.1ubuntu1 https://launchpad.net/ubuntu/+source/amd64-microcode/3.20240820.1ubuntu1
 paramiko 3.4.1-2ubuntu1 https://launchpad.net/ubuntu/+source/paramiko/3.4.1-2ubuntu1
+wget 1.24.5-2ubuntu1 https://launchpad.net/ubuntu/+source/wget/1.24.5-2ubuntu1
