@@ -41,3 +41,4 @@ puppet-agent 8.10.0-1 https://launchpad.net/ubuntu/+source/puppet-agent/8.10.0-1
 puppetdb 8.4.1-2 https://launchpad.net/ubuntu/+source/puppetdb/8.4.1-2
 python-phabricator 0.9.1-0.1 https://launchpad.net/ubuntu/+source/python-phabricator/0.9.1-0.1
 python-pip 24.3.1+dfsg-1 https://launchpad.net/ubuntu/+source/python-pip/24.3.1+dfsg-1
+kdrill 6.5deb2-13.1 https://launchpad.net/ubuntu/+source/kdrill/6.5deb2-13.1
