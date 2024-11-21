@@ -32,3 +32,4 @@ pycurl 7.45.3-2.1 https://launchpad.net/ubuntu/+source/pycurl/7.45.3-2.1
 arpack 3.9.1-1.2 https://launchpad.net/ubuntu/+source/arpack/3.9.1-1.2
 libzip 1.11.2-1 https://launchpad.net/ubuntu/+source/libzip/1.11.2-1
 wmctrl 1.07+git20240228.1105759-1 https://launchpad.net/ubuntu/+source/wmctrl/1.07+git20240228.1105759-1
+gammaray 3.1.0+ds-2 https://launchpad.net/ubuntu/+source/gammaray/3.1.0+ds-2
