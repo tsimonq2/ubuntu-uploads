@@ -237,3 +237,4 @@ calamares 3.3.11-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.11-
 dracut 105-1ubuntu2 https://launchpad.net/ubuntu/+source/dracut/105-1ubuntu2
 plymouth 24.004.60-2ubuntu1 https://launchpad.net/ubuntu/+source/plymouth/24.004.60-2ubuntu1
 plymouth 24.004.60-2ubuntu2 https://launchpad.net/ubuntu/+source/plymouth/24.004.60-2ubuntu2
+dracut 105-2ubuntu2 https://launchpad.net/ubuntu/+source/dracut/105-2ubuntu2
