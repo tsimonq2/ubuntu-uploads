@@ -28,3 +28,4 @@ kstars 5:3.7.3-1 https://launchpad.net/ubuntu/+source/kstars/5:3.7.3-1
 signond 8.61+git20231015.c8ad982-5 https://launchpad.net/ubuntu/+source/signond/8.61+git20231015.c8ad982-5
 mimetreeparser 24.08.2-1 https://launchpad.net/ubuntu/+source/mimetreeparser/24.08.2-1
 hostname 3.25 https://launchpad.net/ubuntu/+source/hostname/3.25
+pycurl 7.45.3-2.1 https://launchpad.net/ubuntu/+source/pycurl/7.45.3-2.1
