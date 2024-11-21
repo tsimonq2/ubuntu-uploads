@@ -43,3 +43,4 @@ python-phabricator 0.9.1-0.1 https://launchpad.net/ubuntu/+source/python-phabric
 python-pip 24.3.1+dfsg-1 https://launchpad.net/ubuntu/+source/python-pip/24.3.1+dfsg-1
 kdrill 6.5deb2-13.1 https://launchpad.net/ubuntu/+source/kdrill/6.5deb2-13.1
 ruby-barby 0.6.8+dfsg-5 https://launchpad.net/ubuntu/+source/ruby-barby/0.6.8+dfsg-5
+abyss 2.3.10-1 https://launchpad.net/ubuntu/+source/abyss/2.3.10-1
