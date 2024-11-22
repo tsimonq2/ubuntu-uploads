@@ -249,3 +249,4 @@ curl 8.11.0-1ubuntu1 https://launchpad.net/ubuntu/+source/curl/8.11.0-1ubuntu1
 libnet-dns-perl 1.48-1ubuntu1 https://launchpad.net/ubuntu/+source/libnet-dns-perl/1.48-1ubuntu1
 debmirror 1:2.42ubuntu1 https://launchpad.net/ubuntu/+source/debmirror/1:2.42ubuntu1
 desktop-base 13.0.0~pre1ubuntu1 https://launchpad.net/ubuntu/+source/desktop-base/13.0.0~pre1ubuntu1
+snapd-extra-utils 1.0.2 https://launchpad.net/ubuntu/+source/snapd-extra-utils/1.0.2
