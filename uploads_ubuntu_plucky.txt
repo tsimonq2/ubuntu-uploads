@@ -253,3 +253,4 @@ snapd-extra-utils 1.0.2 https://launchpad.net/ubuntu/+source/snapd-extra-utils/1
 plymouth 24.004.60-2ubuntu3 https://launchpad.net/ubuntu/+source/plymouth/24.004.60-2ubuntu3
 calamares-settings-ubuntu 1:25.04.8 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:25.04.8
 kf6-kio 6.8.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kf6-kio/6.8.0-0ubuntu2
+intel-microcode 3.20241112.1ubuntu2 https://launchpad.net/ubuntu/+source/intel-microcode/3.20241112.1ubuntu2
