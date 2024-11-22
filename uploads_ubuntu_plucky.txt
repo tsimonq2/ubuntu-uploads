@@ -252,3 +252,4 @@ desktop-base 13.0.0~pre1ubuntu1 https://launchpad.net/ubuntu/+source/desktop-bas
 snapd-extra-utils 1.0.2 https://launchpad.net/ubuntu/+source/snapd-extra-utils/1.0.2
 plymouth 24.004.60-2ubuntu3 https://launchpad.net/ubuntu/+source/plymouth/24.004.60-2ubuntu3
 calamares-settings-ubuntu 1:25.04.8 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:25.04.8
+kf6-kio 6.8.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kf6-kio/6.8.0-0ubuntu2
