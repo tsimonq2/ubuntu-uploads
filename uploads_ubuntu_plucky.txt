@@ -255,3 +255,4 @@ calamares-settings-ubuntu 1:25.04.8 https://launchpad.net/ubuntu/+source/calamar
 kf6-kio 6.8.0-0ubuntu2 https://launchpad.net/ubuntu/+source/kf6-kio/6.8.0-0ubuntu2
 intel-microcode 3.20241112.1ubuntu2 https://launchpad.net/ubuntu/+source/intel-microcode/3.20241112.1ubuntu2
 calamares-settings-ubuntu 1:25.04.9 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:25.04.9
+calamares 3.3.12-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.12-0ubuntu1
