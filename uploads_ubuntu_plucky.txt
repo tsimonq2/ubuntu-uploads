@@ -258,3 +258,4 @@ calamares-settings-ubuntu 1:25.04.9 https://launchpad.net/ubuntu/+source/calamar
 calamares 3.3.12-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.12-0ubuntu1
 livecd-rootfs 25.04.3 https://launchpad.net/ubuntu/+source/livecd-rootfs/25.04.3
 snapd-extra-utils 1.0.3 https://launchpad.net/ubuntu/+source/snapd-extra-utils/1.0.3
+plymouth 24.004.60-2ubuntu4 https://launchpad.net/ubuntu/+source/plymouth/24.004.60-2ubuntu4
