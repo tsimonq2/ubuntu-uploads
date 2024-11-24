@@ -257,3 +257,4 @@ intel-microcode 3.20241112.1ubuntu2 https://launchpad.net/ubuntu/+source/intel-m
 calamares-settings-ubuntu 1:25.04.9 https://launchpad.net/ubuntu/+source/calamares-settings-ubuntu/1:25.04.9
 calamares 3.3.12-0ubuntu1 https://launchpad.net/ubuntu/+source/calamares/3.3.12-0ubuntu1
 livecd-rootfs 25.04.3 https://launchpad.net/ubuntu/+source/livecd-rootfs/25.04.3
+snapd-extra-utils 1.0.3 https://launchpad.net/ubuntu/+source/snapd-extra-utils/1.0.3
